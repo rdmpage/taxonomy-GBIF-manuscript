@@ -23,7 +23,7 @@ The three taxonomic names for the white-faced gibbon in GBIF database, together 
 
 A user searching GBIF for, say, the name of the white-faced gibbon used by the IUCN red list (*Hoolock hoolock*) will think GBIF has virtually no relevant data on the distribution of this taxon. They would need to know about the synonymy of this ape in order to locate the additional data in GBIF that is associated with the other names. Note that this issue is not unique to GBIF: the Map of Life project [http://www.mappinglife.org/][Jetz et al. 2011] suffers from the same problem. Searching on the three different taxonomic names for the white-faced gibbon results in three different maps (Fig. 2) with no indication that these are for the same taxon.
 
-[Fig. 2]
+![MOL](https://raw.github.com/rdmpage/taxonomy-GBIF-manuscript/master/figures/mapoflife.png)
 
 Fig 2. Overlay map showing the three different distributions retrieved from the Map of Life for the three different names for the white-faced gibbon. Note that these maps needed three separate searches, one for each name.
 
@@ -36,6 +36,8 @@ The current GBIF backbone classification was downloaded as a Darwin Core Archive
 
 A range of taxa were selected for investigation, based on preliminary browsing of the GBIF classification, and the availability of detailed data on taxonomic names for that taxonomic group. Fig. x indicates the terminology for the parts of taxonomic names adopted here, using the example of *Pithecanthropus erectus* Dubois, 1894 and its synonym *Homo erectus* (Dubois, 1894). Note that if we did not know that these  two names were synonyms we could infer it by noting that the two names share the same specific epithet and authorship, and the genera *Pithecanthropus* and *Homo* are related. This suggests that a quick way of detecting possible synonyms is to find instances of species in different genera within the same family that have the same specific epithet. Given that the specific epithet is often descriptive, or may be named after a person or place, it is not uncommon for two different species in two distinct genera to have the same epithet. We can endeavour to minimise false matches by including (where available) the taxonomic authority. Names will then only be incorrectly flagged if the same taxonomic authority published used the same epithet for more than one species in the same year. Such false positives do, of course, exist (see example in the results), so names meeting this criterion of belonging to the same family and having the same specific epithet will be termed "problematic" rather than "synonyms". In specific cases given adequate access to taxonomic databases or the primary literature we can establish whether such problematic taxa are, indeed, synonyms. Conversely, the approached used here may also underestimate the number of problematic taxa. It does not account for variations in spelling caused by either typographic errors or changes in species names required to agree with the gender of the genus name. 
 
+![CLUSTER](https://raw.github.com/rdmpage/taxonomy-GBIF-manuscript/master/figures/terminology.png)
+
 [Fig. x]
 
 Fig. x Terminology of taxonomic names. A binomial species name comprises a genus part, a specific epithet, and the authorship. The genus a species is first described in is the "original combination". A species may be subsequently moved to a different genus, resulting in a "new combination".
@@ -47,9 +49,10 @@ For each family the accepted species- and subspecies-level in each genus were ex
 
 Potential inconsistencies in nomenclature within a family-level taxon were visualised using "cluster maps" [Fluit et al. 2006]. Cluster maps are graphs comprising two classes of nodes, one representing a category, the other representing clusters of objects that belong to one or of those categories. All objects that belong in the same category are in the same cluster, and each cluster is connected to each category that its members belong too. In this context the categories are generic names, and the objects being clustered are specific epithets (plus authorship where available).
 
-Fig. x shows a cluster map for the three gibbon genera that the white-faced gibbon has been assigned to. The categories are the three generic names (*Bunopithecus*, *Hoolock*, and *Hylobates*), and the clusters contain the species names. The names that occur in combination with only a single genus are in clusters with a single edge linking that cluster to the corresponding genus. For example, there are three names () that are unique to *Bunopithecus*, and z names that only appear in the genus H*ylobates*. The specific epithet "*hoolock* Harlan 1834" occurs in cluster by itself, linked to the three generic names (*Bunopithecus*, *Hoolock*, and *Hylobates*) with which it has been combined in the GBIF database. Note that there is another species name (*leuconedys* Groves 1967) that occurs in GBIF in ore than one genus *Bunopithecus leuconedys* and *Hoolock leuconedys*.
+Fig. x shows a cluster map for the three gibbon genera that the white-faced gibbon has been assigned to. The categories are the three generic names (*Bunopithecus*, *Hoolock*, and *Hylobates*), and the clusters contain the species names. The names that occur in combination with only a single genus are in clusters with a single edge linking that cluster to the corresponding genus. For example, there are three names () that are unique to *Bunopithecus*, and z names that only appear in the genus H*ylobates*. The specific epithet "*hoolock* Harlan 1834" occurs in cluster by itself, linked to the three generic names (*Bunopithecus*, *Hoolock*, and *Hylobates*) with which it has been combined in the GBIF database. Note that there is another species name (*leuconedys* Groves 1967) that occurs in GBIF in more than one genus *Bunopithecus leuconedys* and *Hoolock leuconedys*.
 
-[Fig. x]
+![CLUSTER](https://raw.github.com/rdmpage/taxonomy-GBIF-manuscript/master/figures/gibbon-cluster-map.png)
+
 
 Fig. x. Cluster map of gibbons. Cluster map for the three gibbon genera that the white-faced gibbon has been assigned to.
 
@@ -82,6 +85,9 @@ Examples
 ### Typographic errors
 
 Although the method used here cannot handle changes in the spelling of the specific epithet it can detect some spelling inconsistencies in generic names. For example, in the wasp family Evaniidae GBIF has two generic names, *Szepligetella* sourced from The Catalogue of Life, 3rd January 2011 and *Szepligetiella* (note the extra "i") sourced from the Interim Register of Marine and Nonmarine Genera. The correct spelling is  *Szepligetella* (see Bradley, 1908), so the 14 species belonging to *Szepligetiella* duplicate the 14 from *Szepligetella*. Note that one specific epithet (*similis* Szépligeti 1903) is shared with a third genus *Hyptia*. This is a false positive, in that *Szepligetella similis* was originally described as *Evania similis* and *Hyptia similis* is the original name for a different species (both *Evania similis* and *Hyptia similis* were described in the same publication on pages 385 and 376 respectively; Szépligeti, 1903).
+
+
+![Evaniidae](https://raw.github.com/rdmpage/taxonomy-GBIF-manuscript/master/figures/Evaniidae.png)
 
 Fig. x. Cluster map for three wasp genera in the family Evaniidae. 
 
