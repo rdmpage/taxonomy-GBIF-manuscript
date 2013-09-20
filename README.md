@@ -24,14 +24,14 @@ This multiplicity of names complicates the task of aggregating biodiversity data
 
 Fig. GIBBONS. The three taxonomic names for the white-faced gibbon in GBIF database, together with the source of the name, the number of occurrence records linked to that name, and a map of those occurrences that have been georeferenced (GBIF data accessed 2013-09-17). Note that the data returned for each name is different.
 
-A user searching GBIF for, say, the name of the white-faced gibbon used by the IUCN red list (*Hoolock hoolock*) will think GBIF has virtually no relevant data on the distribution of this taxon. They would need to know about the synonymy of this ape in order to locate the additional data in GBIF that is associated with the other names. Note that this issue is not unique to GBIF: the [Map of Life project](http://www.mappinglife.org/) [Jetz et al. 2011] suffers from the same problem. Searching on the three different taxonomic names for the white-faced gibbon results in three different maps (Fig. MOL) with no indication that these are for the same taxon.
+A user searching GBIF for, say, the name of the white-faced gibbon used by the IUCN red list (*Hoolock hoolock*) will think GBIF has virtually no relevant data on the distribution of this taxon. They would need to know about the synonymy of this ape in order to locate the additional data in GBIF that is associated with the other names. Note that this issue is not unique to GBIF: the [Map of Life project](http://www.mappinglife.org/) [Jetz et al. 2012] suffers from the same problem. Searching on the three different taxonomic names for the white-faced gibbon results in three different maps (Fig. MOL) with no indication that these are for the same taxon.
 
 ![MOL](https://raw.github.com/rdmpage/taxonomy-GBIF-manuscript/master/figures/mapoflife.png)
 
 Fig MOL. Overlay map showing the three different distributions retrieved from the Map of Life for the three different names for the white-faced gibbon. Note that these maps needed three separate searches, one for each name.
 
 
-In addition to reducing the success of users searching for data in GBIF, unrecognised synonyms may potentially impact users' perception of the reliability of GBIF-mobilised data. GBIF users consistently rank taxonomic data (names and checklists) as one of the most important type of data for their needs [Ariño et al. 2013]. It would therefore be desirable if the quality of this data was as high as possible. Based on the white-faced gibbon example (Fig. GIBBONS), and other examples discovered while exploring the GBIF taxonomy [Page, 2013b,c] I decided to explore the extent to which GBIF is affected by unrecognised taxonomic synonyms. I have restricted this investigation to animal names so that I could make use of [BioNames](http://bionames.org) [Page 2013d] to investigate particular names in more detail.
+In addition to reducing the success of users searching for data in GBIF, unrecognised synonyms may potentially impact users' perception of the reliability of GBIF-mobilised data. GBIF users consistently rank taxonomic data (names and checklists) as one of the most important type of data for their needs [Ariño et al. 2013]. It would therefore be desirable if the quality of this data was as high as possible. Based on the white-faced gibbon example (Fig. GIBBONS), and other examples discovered while exploring the GBIF taxonomy [Page 2013b][Page 2013c] I decided to explore the extent to which GBIF is affected by unrecognised taxonomic synonyms. I have restricted this investigation to animal names so that I could make use of [BioNames](http://bionames.org) [Page 2013d] to investigate particular names in more detail.
 
 ## Methods
 
@@ -43,7 +43,7 @@ A range of taxa were selected for investigation, based on preliminary browsing o
 
 Fig. TERMINOLOGY Terminology of taxonomic names. A binomial species name comprises a genus part, a specific epithet, and the authorship. The genus a species is first described in is the "original combination". A species may be subsequently moved to a different genus, resulting in a "new combination".
 
-For each family the accepted species- and subspecies-level in each genus were extracted from the local copy of the GBIF database. Where available, the taxon authorship was appended, after first removing commas and parentheses, the later are used to indicate that the species was not originally described in that genus. For example, given the name *Homo erectus* (Dubois, 1894) we can infer that Dubois did not originally place this species in the genus *Homo* (he described it as *Pithecanthropus erectus* [Dubois, 1894]). The parentheses were removed to simplify matching taxon authorship (their presence is also not always a reliable indicator of whether a genus + specific epithet is the original combination or not). 
+For each family the accepted species- and subspecies-level in each genus were extracted from the local copy of the GBIF database. Where available, the taxon authorship was appended, after first removing commas and parentheses, the later are used to indicate that the species was not originally described in that genus. For example, given the name *Homo erectus* (Dubois, 1894) we can infer that Dubois did not originally place this species in the genus *Homo* (he described it as *Pithecanthropus erectus* [Dubois 1894]). The parentheses were removed to simplify matching taxon authorship (their presence is also not always a reliable indicator of whether a genus + specific epithet is the original combination or not). 
 
 
 ## Visualisation
@@ -133,7 +133,7 @@ But the larger task facing the zoological taxonomy community is the lack of one 
 
 - Harlan R (1834) Description of a Species of Orang, from the north-eastern province of British East India, lately the kingdom of Assam. Transactions of the American Philosophical Society 4: 52–59. http://biostor.org/reference/127799 [Harlan 1834]
 
-- Jetz, W., McPherson, J. M., & Guralnick, R. P. (2012). Integrating biodiversity distribution knowledge: toward a global map of life. Trends in Ecology & Evolution, 27(3), 151–159. [doi:10.1016/j.tree.2011.09.007] [Jetz 2012]
+- Jetz, W., McPherson, J. M., & Guralnick, R. P. (2012). Integrating biodiversity distribution knowledge: toward a global map of life. Trends in Ecology & Evolution, 27(3), 151–159. [doi:10.1016/j.tree.2011.09.007] [Jetz et al. 2012]
 
 - Kennedy, J. B., Kukla, R., & Paterson, T. (2005). Scientific Names Are Ambiguous as Identifiers for Biological Taxa: Their Context and Definition Are Required for Accurate Data Integration (pp. 80–95). Springer-Verlag. [doi:10.1007/11530084_8][Kennedy et al. 2005]
 
@@ -187,7 +187,7 @@ Phillimore, A. B., & Owens, I. P. . (2006). Are subspecies useful in evolutionar
 [Fluit et al. 2006]: http://dx.doi.org/10.1007/1-84628-290-X_3
 [Gaiji et al. 2013]: https://journals.ku.edu/index.php/jbi/article/view/4124 
 [Harlan 1834]: http://biostor.org/reference/127799 
-[Jetz 2012]: http://dx.doi.org/10.1016/j.tree.2011.09.007
+[Jetz et al. 2012]: http://dx.doi.org/10.1016/j.tree.2011.09.007
 [Kennedy et al. 2005]: http://dx.doi.org/10.1007/11530084_8
 [Matthew and Granger 1923]: http://hdl.handle.net/2246/1308
 [Mootnick and Groves 2005]: http://dx.doi.org/10.1007/s10764-005-5332-4
