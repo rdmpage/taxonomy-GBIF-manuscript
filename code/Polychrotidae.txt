@@ -1,0 +1,731 @@
+Norops	adleri Smith 1972
+Norops	ahli Barbour 1925
+Norops	allogus Barbour & Ramsden 1919
+Norops	altae Dunn 1930
+Norops	alvarezdeltoroi Nieto Montes
+Norops	amplisquamosus Mccranie Wilson & Williams 1993
+Norops	anisolepis Smith Burley & Fritts 1968
+Norops	annectens Williams 1974
+Norops	antonii Boulenger 1908
+Norops	aquaticus Taylor 1956
+Norops	auratus Daudin 1802
+Norops	baccatus Bocourt 1873
+Norops	barkeri Schmidt 1939
+Norops	bicaorum Koehler 1996
+Norops	biporcatus parvauritus Williams 1966
+Norops	parvauritus Williams 1966
+Norops	biporcatus biporcatus Wiegmann 1834
+Norops	biporcatus Wiegmann 1834
+Norops	birama Garrido 1990
+Norops	bitectus Cope 1864
+Norops	bocourtii Cope 1876
+Norops	bombiceps Cope 1876
+Norops	bouvierii Bocourt 1873
+Norops	breedlovei Smith & Paulson 1968
+Norops	bremeri Barbour 1914
+Norops	capito Peters 1863
+Norops	carpenteri Echelle Echelle & Fitch 1971
+Norops	chrysolepis Dumeril & Bibron 1837
+Norops	cobanensis Stuart 1942
+Norops	compressicauda Smith & Kerster 1955
+Norops	concolor Cope 1862
+Norops	confusus Estrada & Garrido 1991
+Norops	conspersus Garman 1887
+Norops	crassulus Cope 1864
+Norops	cumingii Peters 1863
+Norops	cupreus Hallowell 1860
+Norops	cuprinus Smith 1964
+Norops	cusuco Mccranie Koehler & Wilson 2000
+Norops	cymbops Cope 1864
+Norops	damulus Cope 1864
+Norops	delafuentei Garrido 1982
+Norops	dollfusianus Bocourt 1873
+Norops	duellmani Fitch & Henderson 1973
+Norops	dunni Smith 1936
+Norops	exsul Arosemena & Ibanez 1994
+Norops	forbesi Smith & Van Gelder 1955
+Norops	fortunensis Arosemena & Ibanez 1993
+Norops	fungosus Myers 1971
+Norops	fuscoauratus D
+Norops	fuscoauratus kugleri Roux 1929
+Norops	kugleri Roux 1929
+Norops	fuscoauratus fuscoauratus
+Norops	fuscoauratus
+Norops	gadovii Boulenger 1905
+Norops	garmani Stejneger 1899
+Norops	gibbiceps Cope 1864
+Norops	gracilipes Boulenger 1898
+Norops	grahami Gray 1845
+Norops	granuliceps Boulenger 1898
+Norops	guafe Estrada & Garrido 1991
+Norops	guazuma Garrido 1984
+Norops	haguei Stuart 1942
+Norops	hobartsmithi Nieto-Montes
+Norops	homolechis Cope 1864
+Norops	humilis Peters 1863
+Norops	ibague Williams 1975
+Norops	imias Ruibal & Williams 1961
+Norops	intermedius Peters 1863
+Norops	isthmicus Fitch 1979
+Norops	johnmeyeri Wilson & Mccranie 1982
+Norops	jubar Schwartz 1968
+Norops	kemptoni Dunn 1940
+Norops	kreutzi Mccranie Koehler & Wilson 2000
+Norops	laeviventris Wiegmann 1834
+Norops	lemniscatus Boulenger 1898
+Norops	lemurinus Cope 1861
+Norops	limifrons Cope 1871
+Norops	lineatopus Gray 1840
+Norops	lineatus Daudin 1802
+Norops	liogaster Boulenger 1905
+Norops	lionotus Cope 1861
+Norops	loveridgei Schmidt 1936
+Norops	lynchi Miyata 1985
+Norops	macrinii Smith 1968
+Norops	macrolepis Boulenger 1911
+Norops	macrophallus Werner 1917
+Norops	maculiventris Boulenger 1898
+Norops	mariarum Barbour 1932
+Norops	matudai Smith 1956
+Norops	medemi Ayala & Williams 1988
+Norops	megapholidotus Smith 1933
+Norops	meridionalis Boettger 1885
+Norops	mestrei Barbour & Ramsden 1916
+Norops	microlepidotus Davis 1954
+Norops	microlepis alvarez Del
+Norops	milleri Smith 1950
+Norops	muralla Koehler Mccranie & Wilson 1999
+Norops	naufragus Campbell Hillis & Lamar 1989
+Norops	nebuloides Bocourt 1873
+Norops	nebulosus Wiegmann 1834
+Norops	nitens Wagler 1830
+Norops	notopholis Boulenger 1896
+Norops	ocelloscapularis Koehler Mccranie & Wilson 2001
+Norops	omiltemanus Davis 1954
+Norops	onca O
+Norops	opalinus Gosse 1850
+Norops	ophiolepis Cope 1861
+Norops	ortonii Cope 1868
+Norops	pachypus Cope 1876
+Norops	parvicirculatus alvarez Del
+Norops	pentaprion Cope 1863
+Norops	pentaprion beckeri Boulenger 1881
+Norops	beckeri Boulenger 1881
+Norops	pentaprion pentaprion
+Norops	pentaprion
+Norops	petersii Bocourt 1873
+Norops	pijolense Mccranie Wilson & Williams 1993
+Norops	pinchoti Cochran 1931
+Norops	poecilopus Cope 1862
+Norops	polylepis Peters 1874
+Norops	polyrhachis Smith 1968
+Norops	purpurgularis Mccranie Cruz & Holm 1993
+Norops	pygmaeus alvarez Del
+Norops	quadriocellifer Barbour & Ramsden 1919
+Norops	quaggulus Cope 1885
+Norops	quercorum Fitch 1979
+Norops	reconditus Underwood & Williams 1959
+Norops	rhombifer Boulenger 1894
+Norops	rivalis Williams 1984
+Norops	roatanensis Koehler & Mccranie 2001
+Norops	rodriguezi Bocourt 1873
+Norops	rubribarbaris Koehler Mccranie & Wilson 1999
+Norops	rubribarbus Barbour & Ramsden 1919
+Norops	sagrei mayensis Smith & Burger 1949
+Norops	mayensis Smith & Burger 1949
+Norops	sagrei Dumeril & Bibron 1837
+Norops	sagrei luteosignifer Garman 1888
+Norops	luteosignifer Garman 1888
+Norops	sagrei greyi Barbour 1914
+Norops	greyi Barbour 1914
+Norops	sagrei nelsoni Barbour 1914
+Norops	nelsoni Barbour 1914
+Norops	sagrei ordinatus Cope 1864
+Norops	ordinatus Cope 1864
+Norops	sagrei sagrei Dumeril & Bibron 1837
+Norops	salvini Boulenger 1885
+Norops	scapularis Boulenger 1908
+Norops	schiedei Wiegmann 1834
+Norops	schmidti Smith 1939
+Norops	sericeus Hallowell 1856
+Norops	serranoi Koehler 1999
+Norops	simmonsi Holman 1964
+Norops	sminthus Dunn & Emlen 1932
+Norops	subocularis Davis 1954
+Norops	sulcifrons Cope 1899
+Norops	taylori Smith & Spieler 1945
+Norops	tolimensis Werner 1916
+Norops	townsendi Stejneger 1900
+Norops	trachyderma Cope 1876
+Norops	tropidogaster Hallowell 1856
+Norops	tropidolepis Boulenger 1885
+Norops	tropidonotus spilorhipis Alvarez Del Toro & Smith 1956
+Norops	spilorhipis Alvarez Del Toro & Smith 1956
+Norops	tropidonotus tropidonotus
+Norops	tropidonotus
+Norops	tropidonotus Peters 1863
+Norops	uniformis Cope 1885
+Norops	utilensis Koehler 1996
+Norops	utowanae Barbour 1932
+Norops	valencienni Dumeril & Bibron 1837
+Norops	vicarius Williams 1986
+Norops	villai Fitch & Henderson 1976
+Norops	vittigerus Cope 1862
+Norops	vociferans Myers 1971
+Norops	wampuensis Mccranie & Koehler 2001
+Norops	wermuthi Koehler
+Norops	woodi Dunn 1940
+Norops	yoroensis Mccranie Nicholson & Koehler 2001
+Norops	zeus Koehler & Mccranie 2001
+Xiphosurus	roosevelti Grant 1931
+Ctenonotus	acutus Hallowell 1857
+Ctenonotus	cooki Grant 1931
+Ctenonotus	cybotes Cope 1862
+Ctenonotus	desechensis Heatwole 1976
+Ctenonotus	distichus Cope 1861
+Ctenonotus	evermanni Stejneger 1904
+Ctenonotus	ferreus Cope 1864
+Ctenonotus	gundlachi Peters 1876
+Ctenonotus	krugi Peters 1876
+Ctenonotus	monensis Stejneger 1904
+Ctenonotus	poncensis Stejneger 1904
+Ctenonotus	stratulus Cope 1861
+Diplolaemus	bibronii Bell 1843
+Diplolaemus	darwinii Bell 1843
+Diplolaemus	leopardinus Werner 1898
+Diplolaemus	sexcinctus Cei Scolaro & Videla 2003
+Polychrus	acutirostris Spix 1825
+Polychrus	charisticus
+Polychrus	femoralis Werner 1910
+Polychrus	gutturosus gutturosus
+Polychrus	gutturosus
+Polychrus	gutturosus Berthold 1845
+Polychrus	gutturosus spurrelli Boulenger 1914
+Polychrus	spurrelli Boulenger 1914
+Polychrus	liogaster Boulenger 1908
+Polychrus	marmoratus Linnaeus 1758
+Polychrus	peruvianus Noble 1924
+Pristidactylus	achalensis Gallardo 1964
+Pristidactylus	alvaroi Donoso-Barros 1975
+Pristidactylus	araucanus Gallardo 1964
+Pristidactylus	casuhatiensis Gallardo 1968
+Pristidactylus	fasciatus D
+Pristidactylus	nigroiugulus Cei Scolaro & Videla 2001
+Pristidactylus	scapulatus Burmeister 1861
+Pristidactylus	torquatus Philippi 1861
+Pristidactylus	valeriae Donoso-Barros 1966
+Pristidactylus	volcanensis Lamborot & Diaz 1987
+Urostrophus	gallardoi Etheridge & Williams 1991
+Urostrophus	vautieri Dumeril & Bibron 1837
+Anisolepis	grilli Boulenger 1891
+Anisolepis	longicauda Boulenger 1891
+Anisolepis	undulatus Wiegmann 1834
+Enyalius	bibronii Boulenger 1885
+Enyalius	bilineatus Dumeril & Bibron 1837
+Enyalius	brasiliensis boulengeri Etheridge 1968
+Enyalius	boulengeri Etheridge 1968
+Enyalius	brasiliensis brasiliensis Lesson 1830
+Enyalius	brasiliensis Lesson 1830
+Enyalius	catenatus Wied 1821
+Enyalius	erythroceneus Rodrigues DE Freitas Santos Silva & Vina Bertolotto 2006
+Enyalius	iheringii Boulenger 1885
+Enyalius	leechii Boulenger 1885
+Enyalius	perditus Jackson 1978
+Enyalius	pictus Wied-Neuwied 1825
+Leiosaurus	bellii Dumeril & Bibron 1837
+Leiosaurus	catamarcensis Koslowsky 1898
+Leiosaurus	juguaris Laspiur Acosta & Abdala 2007
+Leiosaurus	paronae Peracca 1897
+Afairiguana	avius
+Anolis	achilles Taylor 1956
+Anolis	acutus Hallowell 1856
+Anolis	adleri Smith 1972
+Anolis	aeneus Gray 1840
+Anolis	aequatorialis Werner 1894
+Anolis	agassizi Stejneger 1900
+Anolis	agueroi Diaz Navarro & Garrido 1998
+Anolis	alayoni Estrada & Hedges 1995
+Anolis	albimaculatus Henle & Ehrl 1991
+Anolis	alfaroi Garrido & Hedges 1992
+Anolis	aliniger Mertens 1939
+Anolis	allisoni Barbour 1928
+Anolis	altavelensis Noble & Hassler 1933
+Anolis	alumina Hertz 1976
+Anolis	alutaceus Cope 1861
+Anolis	anatoloros Ugueto Rivas Fuenmayor Barros Sanchez-Pacheco & Garcia-Perez 2007
+Anolis	andianus Boulenger 1885
+Anolis	anfiloquioi Garrido 1980
+Anolis	angusticeps chickcharneyi Oliver 1948
+Anolis	chickcharneyi Oliver 1948
+Anolis	angusticeps oligaspis Cope 1894
+Anolis	oligaspis Cope 1894
+Anolis	angusticeps angusticeps
+Anolis	angusticeps
+Anolis	angusticeps Hallowell 1856
+Anolis	antioquiae Williams 1985
+Anolis	apollinaris Boulenger 1919
+Anolis	argenteolus Cope 1861
+Anolis	argillaceus Cope 1862
+Anolis	armouri Cochran 1934
+Anolis	attenuatus Taylor 1956
+Anolis	bahorucoensis bahorucoensis
+Anolis	bahorucoensis
+Anolis	bahorucoensis Noble & Hassler 1933
+Anolis	bahorucoensis southerlandi Schwartz 1978
+Anolis	southerlandi Schwartz 1978
+Anolis	baleatus scelestus Schwartz 1974
+Anolis	scelestus Schwartz 1974
+Anolis	baleatus caeruleolatus Schwartz 1974
+Anolis	caeruleolatus Schwartz 1974
+Anolis	baleatus samanae Schwartz 1974
+Anolis	samanae Schwartz 1974
+Anolis	baleatus litorisilva Schwartz 1974
+Anolis	litorisilva Schwartz 1974
+Anolis	baleatus sublimis Schwartz 1974
+Anolis	sublimis Schwartz 1974
+Anolis	baleatus baleatus
+Anolis	baleatus
+Anolis	baleatus Cope 1864
+Anolis	baleatus altager Schwartz 1975
+Anolis	altager Schwartz 1975
+Anolis	baleatus fraudator Schwartz 1974
+Anolis	fraudator Schwartz 1974
+Anolis	baleatus lineatacervix Schwartz 1978
+Anolis	lineatacervix Schwartz 1978
+Anolis	baleatus multistruppus Schwartz 1974
+Anolis	multistruppus Schwartz 1974
+Anolis	baracoae Schwartz 1964
+Anolis	barahonae ininquinatus Cullom & Schwartz 1980
+Anolis	ininquinatus Cullom & Schwartz 1980
+Anolis	barahonae albocellatus Schwartz 1974
+Anolis	albocellatus Schwartz 1974
+Anolis	barahonae mulitus Cullom & Schwartz 1980
+Anolis	mulitus Cullom & Schwartz 1980
+Anolis	barahonae Williams 1962
+Anolis	barahonae barahonae
+Anolis	barahonae
+Anolis	barbatus Garrido 1982
+Anolis	barbouri Schmidt 1919
+Anolis	bartschi Cochran 1928
+Anolis	bellipeniculus Myers & Donnelly 1996
+Anolis	bimaculatus Sparrman 1784
+Anolis	binotatus Peters 1863
+Anolis	blanquillanus Hummelinck 1940
+Anolis	boettgeri Boulenger 1911
+Anolis	bonairensis blanquillanus Hummelinck 1940
+Anolis	bonairensis Ruthven 1923
+Anolis	bonairensis bonairensis Ruthven 1923
+Anolis	brevirostris brevirostris
+Anolis	brevirostris
+Anolis	brevirostris Bocourt 1870
+Anolis	brevirostris deserticola Arnold 1980
+Anolis	deserticola Arnold 1980
+Anolis	brevirostris wetmorei Cochran 1931
+Anolis	wetmorei Cochran 1931
+Anolis	brunneus Cope 1894
+Anolis	calimae Ayala Harris & Williams 1983
+Anolis	caquetae Williams 1974
+Anolis	carlostoddi Williams Praderio & Gorzula 1996
+Anolis	carolinensis seminolus Vance 1991
+Anolis	seminolus Vance 1991
+Anolis	carolinensis Voigt 1832
+Anolis	carolinensis carolinensis
+Anolis	carolinensis
+Anolis	casildae Arosemena Ibanez & DE-Sousa 1991
+Anolis	caudalis Cochran 1932
+Anolis	centralis centralis
+Anolis	centralis
+Anolis	centralis Peters 1970
+Anolis	centralis litoralis Garrido 1975
+Anolis	litoralis Garrido 1975
+Anolis	chamaeleonides Dumeril & Bibron 1837
+Anolis	chloris Boulenger 1898
+Anolis	chlorocyaneus Dumeril & Bibron 1837
+Anolis	chlorocyanus cyanostictus Mertens 1939
+Anolis	cyanostictus Mertens 1939
+Anolis	chlorocyanus Dumeril & Bibron 1837
+Anolis	chlorocyanus chlorocyanus Dumeril & Bibron 1837
+Anolis	chocorum Williams & Duellman 1967
+Anolis	christophei Williams 1960
+Anolis	clivicola Barbour & Shreve 1935
+Anolis	coelestinus demissus Schwartz 1969
+Anolis	demissus Schwartz 1969
+Anolis	coelestinus Cope 1862
+Anolis	coelestinus coelestinus
+Anolis	coelestinus
+Anolis	coelestinus pecuarius Schwartz 1969
+Anolis	pecuarius Schwartz 1969
+Anolis	cooki Grant 1931
+Anolis	cristatellus Dumeril & Bibron 1837
+Anolis	cristatellus cristatellus Dumeril & Bibron 1837
+Anolis	cristatellus wileyae Grant 1931
+Anolis	wileyae Grant 1931
+Anolis	cristifer Smith 1968
+Anolis	cumingi Peters 1863
+Anolis	cupeyalensis Peters 1970
+Anolis	cuvieri Merrem 1820
+Anolis	cyanopleurus orientalis Garrido 1975
+Anolis	orientalis Garrido 1975
+Anolis	cyanopleurus cyanopleurus
+Anolis	cyanopleurus
+Anolis	cyanopleurus Cope 1861
+Anolis	cybotes Cope 1862
+Anolis	cybotes doris Barbour 1925
+Anolis	doris Barbour 1925
+Anolis	cybotes ravifaux Schwartz & Henderson 1982
+Anolis	ravifaux Schwartz & Henderson 1982
+Anolis	cybotes cybotes
+Anolis	cybotes
+Anolis	danieli Williams 1988
+Anolis	darlingtoni Cochran 1935
+Anolis	deltae Williams 1974
+Anolis	desechensis Heatwole 1976
+Anolis	dissimilis Williams 1965
+Anolis	distichus aurifer Schwartz 1968
+Anolis	aurifer Schwartz 1968
+Anolis	distichus ravitergum Schwartz 1968
+Anolis	ravitergum Schwartz 1968
+Anolis	distichus Cope 1861
+Anolis	distichus dapsilis Schwartz 1968
+Anolis	dapsilis Schwartz 1968
+Anolis	distichus patruelis Schwartz 1968
+Anolis	patruelis Schwartz 1968
+Anolis	distichus suppar Schwartz 1968
+Anolis	suppar Schwartz 1968
+Anolis	distichus tostus Schwartz 1968
+Anolis	tostus Schwartz 1968
+Anolis	distichus biminiensis Oliver 1948
+Anolis	biminiensis Oliver 1948
+Anolis	distichus distichus Cope 1861
+Anolis	distichus floridanus Smith & Mccauley 1948
+Anolis	floridanus Smith & Mccauley 1948
+Anolis	distichus ignigularis Mertens 1939
+Anolis	ignigularis Mertens 1939
+Anolis	distichus juliae Cochran 1934
+Anolis	juliae Cochran 1934
+Anolis	distichus sejunctus Schwartz 1968
+Anolis	sejunctus Schwartz 1968
+Anolis	distichus vinosus Schwartz 1968
+Anolis	vinosus Schwartz 1968
+Anolis	distichus distichoides Rosen 1911
+Anolis	distichoides Rosen 1911
+Anolis	distichus dominicensis Reinhardt & Luetken 1863
+Anolis	dominicensis Reinhardt & Luetken 1863
+Anolis	distichus favillarum Schwartz 1968
+Anolis	favillarum Schwartz 1968
+Anolis	distichus ocior Schwartz 1968
+Anolis	ocior Schwartz 1968
+Anolis	distichus properus Schwartz 1968
+Anolis	properus Schwartz 1968
+Anolis	dolichocephalus dolichocephalus
+Anolis	dolichocephalus
+Anolis	dolichocephalus Williams 1963
+Anolis	dolichocephalus portusalus Schwartz 1978
+Anolis	portusalus Schwartz 1978
+Anolis	dolichocephalus sarmenticola Schwartz 1978
+Anolis	sarmenticola Schwartz 1978
+Anolis	eewi Roze 1958
+Anolis	equestris equestris Merrem 1820
+Anolis	equestris Merrem 1820
+Anolis	equestris juraguensis Schwartz & Garrido 1972
+Anolis	juraguensis Schwartz & Garrido 1972
+Anolis	equestris brujensis Garrido 2001
+Anolis	brujensis Garrido 2001
+Anolis	equestris buidei Schwartz & Garrido 1972
+Anolis	buidei Schwartz & Garrido 1972
+Anolis	equestris cincoleguas Garrido 1981
+Anolis	cincoleguas Garrido 1981
+Anolis	equestris cyaneus Garrido & Estrada 2001
+Anolis	cyaneus Garrido & Estrada 2001
+Anolis	equestris sabinalensis Garrido & Moreno 2001
+Anolis	sabinalensis Garrido & Moreno 2001
+Anolis	equestris persparsus Schwartz & Garrido 1972
+Anolis	persparsus Schwartz & Garrido 1972
+Anolis	equestris potior Schwartz & Thomas 1975
+Anolis	potior Schwartz & Thomas 1975
+Anolis	equestris thomasi Schwartz 1958
+Anolis	thomasi Schwartz 1958
+Anolis	equestris verreonensis Schwartz & Garrido 1972
+Anolis	verreonensis Schwartz & Garrido 1972
+Anolis	ernestwilliamsi Lazell 1983
+Anolis	etheridgei Williams 1962
+Anolis	eugenegrahami Schwartz 1978
+Anolis	eulaemus Boulenger 1908
+Anolis	euskalerriari Barros Williams & Viloria 1996
+Anolis	evermanni Stejneger 1904
+Anolis	extremus Garman 1887
+Anolis	fairchildi Barbour & Shreve 1935
+Anolis	fasciatus Boulenger 1885
+Anolis	ferreus Cope 1864
+Anolis	festae Peracca 1904
+Anolis	fitchi Williams & Duellman 1984
+Anolis	fowleri Schwartz 1973
+Anolis	fraseri Guenther 1859
+Anolis	frenatus Cope 1899
+Anolis	fugitivus Garrido 1975
+Anolis	garridoi Diaz Estrada & Moreno 1996
+Anolis	gemmosus O
+Anolis	gingivinus Cope 1864
+Anolis	gorgonae Barbour 1905
+Anolis	greyi Barbour 1914
+Anolis	griseus Garman 1887
+Anolis	guamuhaya Garrido Perez-Beato & Moreno 1991
+Anolis	gundlachi Peters 1877
+Anolis	haetianus Garman 1887
+Anolis	hendersoni hendersoni Cochran 1923
+Anolis	hendersoni Cochran 1923
+Anolis	hendersoni ravidormitans Schwartz 1978
+Anolis	ravidormitans Schwartz 1978
+Anolis	heterodermus Dumeril 1851
+Anolis	huilae Williams 1982
+Anolis	impetigosus Cope 1864
+Anolis	incredulus Garrido & Moreno 1998
+Anolis	inderenae Rueda & Hernandez-Camacho 1988
+Anolis	inexpectatus Garrido & Estrada 1989
+Anolis	insignis Cope 1871
+Anolis	insolitus Williams & Rand 1969
+Anolis	isolepis altitudinalis Garrido 1985
+Anolis	altitudinalis Garrido 1985
+Anolis	isolepis isolepis Cope 1861
+Anolis	isolepis Cope 1861
+Anolis	jacare Boulenger 1903
+Anolis	juangundlachi Garrido 1975
+Anolis	koopmani Rand 1961
+Anolis	krugi Peters 1877
+Anolis	kunayalae Hulebak Poe Ibanez & Williams 2007
+Anolis	laevis Cope 1876
+Anolis	lamari Williams 1992
+Anolis	latifrons Berthold 1846
+Anolis	leachii Dumeril & Bibron 1837
+Anolis	lividus Garman 1887
+Anolis	longicauda Hallowell 1861
+Anolis	longiceps Schmidt 1919
+Anolis	longitibialis specuum Schwartz 1979
+Anolis	specuum Schwartz 1979
+Anolis	longitibialis longitibialis Noble 1923
+Anolis	longitibialis Noble 1923
+Anolis	loysiana Dumeril & Bibron 1837
+Anolis	luciae Garman 1887
+Anolis	lucius Dumeril & Bibron 1837
+Anolis	luteogularis jaumei Schwartz & Garrido 1972
+Anolis	jaumei Schwartz & Garrido 1972
+Anolis	luteogularis Noble & Hassler 1935
+Anolis	luteogularis hassleri Barbour & Shreve 1935
+Anolis	hassleri Barbour & Shreve 1935
+Anolis	luteogularis luteogularis
+Anolis	luteogularis
+Anolis	luteogularis nivevultus Schwartz & Garrido 1972
+Anolis	nivevultus Schwartz & Garrido 1972
+Anolis	luteogularis sanfelipensis Garrido 1975
+Anolis	sanfelipensis Garrido 1975
+Anolis	luteogularis calceus Schwartz & Garrido 1972
+Anolis	calceus Schwartz & Garrido 1972
+Anolis	luteogularis coctilis Schwartz & Garrido 1972
+Anolis	coctilis Schwartz & Garrido 1972
+Anolis	luteogularis delacruzi Schwartz & Garrido 1972
+Anolis	delacruzi Schwartz & Garrido 1972
+Anolis	luteogularis sectilis Schwartz & Garrido 1972
+Anolis	sectilis Schwartz & Garrido 1972
+Anolis	luteosignifer Garman 1888
+Anolis	macilentus Garrido & Hedges 1992
+Anolis	maculigula Williams 1984
+Anolis	magnaphallus Poe & Ibanez 2007
+Anolis	marcanoi Williams 1975
+Anolis	marmoratus caryae
+Anolis	caryae
+Anolis	marmoratus girafus
+Anolis	girafus
+Anolis	marmoratus kahouannensis
+Anolis	kahouannensis
+Anolis	marmoratus setosus
+Anolis	setosus
+Anolis	marmoratus chrysops
+Anolis	chrysops
+Anolis	marmoratus desiradei
+Anolis	desiradei
+Anolis	marmoratus terraealtae
+Anolis	terraealtae
+Anolis	marmoratus Dumeril & Bibron 1837
+Anolis	marmoratus speciosus Garman 1887
+Anolis	speciosus Garman 1887
+Anolis	marmoratus marmoratus
+Anolis	marmoratus
+Anolis	marmoratus alliaceus
+Anolis	alliaceus
+Anolis	marmoratus inornatus
+Anolis	inornatus
+Anolis	marron Arnold 1980
+Anolis	maynardi Garman 1888
+Anolis	megalopithecus Rueda-Almonacid 1989
+Anolis	menta Ayala Harris & Williams 1984
+Anolis	microlepis Alvarez
+Anolis	microtus Cope 1871
+Anolis	mirus Williams 1963
+Anolis	monensis Stejneger 1904
+Anolis	monticola quadrisartus Thomas & Schwartz 1967
+Anolis	quadrisartus Thomas & Schwartz 1967
+Anolis	monticola monticola
+Anolis	monticola
+Anolis	monticola Shreve 1936
+Anolis	nasofrontalis Amaral 1933
+Anolis	neblininus Myers Williams & Mcdiarmid 1993
+Anolis	nelsoni Barbour 1914
+Anolis	nicefori Dunn 1944
+Anolis	nigrolineatus Williams 1965
+Anolis	noblei galeifer Schwartz 1964
+Anolis	galeifer Schwartz 1964
+Anolis	noblei noblei
+Anolis	noblei
+Anolis	noblei Barbour & Shreve 1935
+Anolis	nubilis Garman 1887
+Anolis	occultus Williams & Rivero 1965
+Anolis	oculatus montanus Lazell 1962
+Anolis	montanus Lazell 1962
+Anolis	oculatus cabritensis
+Anolis	cabritensis
+Anolis	oculatus winstoni
+Anolis	winstoni
+Anolis	oculatus Cope 1879
+Anolis	oculatus oculatus
+Anolis	oculatus
+Anolis	olssoni dominigensis Schwartz 1981
+Anolis	dominigensis Schwartz 1981
+Anolis	olssoni ferrugicauda Schwartz 1981
+Anolis	ferrugicauda Schwartz 1981
+Anolis	olssoni Schmidt 1919
+Anolis	olssoni alienus Schwartz 1981
+Anolis	alienus Schwartz 1981
+Anolis	olssoni extentus Schwartz 1981
+Anolis	extentus Schwartz 1981
+Anolis	olssoni insulanus Schwartz 1981
+Anolis	insulanus Schwartz 1981
+Anolis	olssoni montivagus Schwartz 1981
+Anolis	montivagus Schwartz 1981
+Anolis	olssoni palloris Schwartz 1981
+Anolis	palloris Schwartz 1981
+Anolis	olssoni olssoni
+Anolis	olssoni
+Anolis	oporinus Garrido & Hedges 2001
+Anolis	orcesi Lazell 1969
+Anolis	palmeri Boulenger 1908
+Anolis	parilis Williams 1975
+Anolis	paternus paternus Hardy 1967
+Anolis	paternus Hardy 1967
+Anolis	paternus pinarensis Garrido 1975
+Anolis	pinarensis Garrido 1975
+Anolis	peraccae Boulenger 1898
+Anolis	philopunctatus Rodrigues 1988
+Anolis	phyllorhinus Myers & Carvalho 1945
+Anolis	pigmaequestris Garrido 1975
+Anolis	placidus Hedges & Thomas 1989
+Anolis	pogus Lazell 1972
+Anolis	poncensis Stejneger 1904
+Anolis	porcatus aracelyae Perez-Beato 1996
+Anolis	aracelyae Perez-Beato 1996
+Anolis	porcatus porcatus Gray 1840
+Anolis	porcatus Gray 1840
+Anolis	porcus Cope 1864
+Anolis	princeps Boulenger 1902
+Anolis	proboscis Peters & Orces 1956
+Anolis	propinquus Williams 1984
+Anolis	pseudotigrinus Amaral 1933
+Anolis	pulchellus Dumeril & Bibron 1837
+Anolis	pumilus Garrido 1988
+Anolis	punctatus boulengeri
+Anolis	boulengeri
+Anolis	punctatus punctatus
+Anolis	punctatus
+Anolis	punctatus Daudin 1802
+Anolis	purpurescens Cope 1899
+Anolis	radulinus Cope 1862
+Anolis	rejectus Garrido & Schwartz 1972
+Anolis	richardii Dumeril & Bibron 1837
+Anolis	ricordi leberi Williams 1965
+Anolis	leberi Williams 1965
+Anolis	ricordi Dumeril & Bibron 1837
+Anolis	ricordi viculus Schwartz 1974
+Anolis	viculus Schwartz 1974
+Anolis	ricordi ricordi Dumeril & Bibron 1837
+Anolis	ricordi subsolanus Schwartz 1974
+Anolis	subsolanus Schwartz 1974
+Anolis	rimarum Thomas & Schwartz 1967
+Anolis	roosevelti Grant 1931
+Anolis	roquet summus
+Anolis	summus
+Anolis	roquet majolgris
+Anolis	majolgris
+Anolis	roquet zebrilus
+Anolis	zebrilus
+Anolis	roquet caracoli
+Anolis	caracoli
+Anolis	roquet salinei
+Anolis	salinei
+Anolis	roquet roquet
+Anolis	roquet
+Anolis	roquet Bonnaterre 1789
+Anolis	ruizi Rueda & Williams 1986
+Anolis	rupinae Williams & Webster 1974
+Anolis	sabanus Garman 1887
+Anolis	santamartae Williams 1982
+Anolis	scriptus scriptus
+Anolis	scriptus
+Anolis	scriptus leucophaeus Garman 1888
+Anolis	leucophaeus Garman 1888
+Anolis	scriptus mariguanae Cochran 1931
+Anolis	mariguanae Cochran 1931
+Anolis	scriptus sularum Barbour & Shreve 1935
+Anolis	sularum Barbour & Shreve 1935
+Anolis	scriptus Garman 1887
+Anolis	semilineatus Cope 1864
+Anolis	sheplani Schwartz 1974
+Anolis	shrevei Cochran 1939
+Anolis	singularis Williams 1965
+Anolis	smallwoodi smallwoodi Schwartz 1964
+Anolis	smallwoodi Schwartz 1964
+Anolis	smallwoodi saxuliceps Schwartz 1964
+Anolis	saxuliceps Schwartz 1964
+Anolis	smallwoodi palardis Schwartz 1964
+Anolis	palardis Schwartz 1964
+Anolis	smaragdinus lerneri Oliver 1948
+Anolis	lerneri Oliver 1948
+Anolis	smaragdinus smaragdinus Barbour & Shreve 1935
+Anolis	smaragdinus Barbour & Shreve 1935
+Anolis	solitarius Ruthven 1916
+Anolis	spectrum Peters 1863
+Anolis	squamulatus Peters 1863
+Anolis	strahmi strahmi
+Anolis	strahmi
+Anolis	strahmi abditus Schwartz 1979
+Anolis	abditus Schwartz 1979
+Anolis	strahmi Schwartz 1979
+Anolis	stratulus Cope 1861
+Anolis	terueli Navarro Fernandez & Garrido 2001
+Anolis	tetarii Barros Williams & Viloria 1996
+Anolis	tigrinus Peters 1863
+Anolis	toldo Fong & Garrido 2000
+Anolis	transversalis Dumeril 1851
+Anolis	trinitatis Reinhardt & Luetken 1862
+Anolis	vanidicus Garrido & Schwartz 1972
+Anolis	vanzolinii Williams Orces Matheus Bleiweiss 1996
+Anolis	vaupesianus Williams 1982
+Anolis	ventrimaculatus Boulenger 1911
+Anolis	vermiculatus Cocteau 1837
+Anolis	vescus Garrido & Hedges 1992
+Anolis	wattsi forresti
+Anolis	forresti
+Anolis	wattsi schwartzi Lazell 1972
+Anolis	schwartzi Lazell 1972
+Anolis	wattsi wattsi Boulenger 1894
+Anolis	wattsi Boulenger 1894
+Anolis	websteri Arnold 1980
+Anolis	whitemani Williams 1963
+Anolis	whitemani breslini Schwartz 1980
+Anolis	breslini Schwartz 1980
+Anolis	whitemani lapidosus Schwartz 1980
+Anolis	lapidosus Schwartz 1980
+Anolis	whitemani whitemani
+Anolis	whitemani
+Anolis	williamsii Bocourt 1870
+Anolis	williamsmittermeierorum Poe & Yanez-Miranda 2007
+Dactyloa	extremus Garman 1887
+Dactyloa	richardii Dumeril & Bibron 1837

@@ -1,0 +1,4931 @@
+Trachyleucophenga	flavocostata Hendel 1917
+Allopygaea	bicolor Tsacas 2000
+Allopygaea	inexpectata Tsacas 2000
+Allopygaea	microphalla Tsacas 2000
+Amphononeura	obscura Meijere 1911
+Apsiphortica	holubi Maca 2003
+Apsiphortica	lini Okada 1971
+Chymomyza	albitarsis Hendel 1917
+Chymomyza	aldrichii Sturtevant 1916
+Chymomyza	amoena Loew 1862
+Chymomyza	atrimana Okada 1956
+Chymomyza	avikam Burla 1954
+Chymomyza	bambara Burla 1954
+Chymomyza	bicolor Lamb 1914
+Chymomyza	bicoloripes Malloch 1926
+Chymomyza	brevis Okada 1981
+Chymomyza	caudatula Oldenberg 1914
+Chymomyza	cinctifrons Meijere 1924
+Chymomyza	clavata Okada 1981
+Chymomyza	costata Zetterstedt 1838
+Chymomyza	coxata Wheeler 1952
+Chymomyza	demae Watabe & Liang 1990
+Chymomyza	diatropa Grimaldi 1986
+Chymomyza	distincta Egger 1862
+Chymomyza	eungellae Bock 1982
+Chymomyza	exophthalma Grimaldi 1986
+Chymomyza	femorata Okada 1981
+Chymomyza	fenestrata Okada 1973
+Chymomyza	flabellata Okada 1981
+Chymomyza	flagellata Okada 1981
+Chymomyza	formosana Okada 1976
+Chymomyza	fuscimana Zetterstedt 1838
+Chymomyza	guyanensis Grimaldi 1986
+Chymomyza	jamaicensis Grimaldi 1986
+Chymomyza	japonica Okada 1956
+Chymomyza	laevilimbata Duda 1927
+Chymomyza	lahu Burla 1954
+Chymomyza	leucopoda Wheeler 1949
+Chymomyza	longicauda Okada 1981
+Chymomyza	mafu Burla 1954
+Chymomyza	mesopecta Wheeler 1968
+Chymomyza	mexicana Wheeler 1949
+Chymomyza	microdiopsis Grimaldi 1986
+Chymomyza	mycopelates Grimaldi 1986
+Chymomyza	nigrimana Meigen 1830
+Chymomyza	nigripes Okada 1981
+Chymomyza	novobscura Watabe & Liang 1991
+Chymomyza	obscura Meijere 1911
+Chymomyza	obscuroides Okada 1976
+Chymomyza	olympia Wheeler 1960
+Chymomyza	pararufithorax Vaidya & Godbole 1973
+Chymomyza	pectinifemur Duda 1927
+Chymomyza	poena Bock 1982
+Chymomyza	primaeva Grimaldi 1987
+Chymomyza	procnemis Williston 1896
+Chymomyza	procnemoides Wheeler 1952
+Chymomyza	procnemolita Grimaldi 1986
+Chymomyza	rufa Okada 1981
+Chymomyza	rufithorax Meijere 1911
+Chymomyza	scutellata Okada 1981
+Chymomyza	subobscura Okada 1981
+Chymomyza	tetonensis Wheeler 1949
+Chymomyza	wirthi Wheeler 1954
+Chymomyza	yvettae Tsacas 1990
+Diathoenura	tanyptera Duda 1925
+Drosophila	abbreviata Meijere 1911
+Drosophila	aberrans Lamb 1914
+Drosophila	abjuncta Hardy 1965
+Drosophila	abregolineata Duda 1925
+Drosophila	abron Burla 1954
+Drosophila	abure Burla 1954
+Drosophila	acanthomera Tsacas 2001
+Drosophila	acanthoptera Wheeler 1949
+Drosophila	acanthos Kam & Pereira 2003
+Drosophila	acanthostoma Hardy & Kaneshiro 1968
+Drosophila	acelidota Tsacas 2004
+Drosophila	achlya Hardy 1967
+Drosophila	acongruens Zhang & Liang 1992
+Drosophila	acroria Wheeler & Takada 1962
+Drosophila	acrostichalis Hardy 1965
+Drosophila	acrostigma Tsacas & Chassagnard 1999
+Drosophila	actinia Okada 1991
+Drosophila	acuminanus Hunter 1988
+Drosophila	acuminata Collin 1952
+Drosophila	acuta Sturtevant 1927
+Drosophila	acutilabella Stalker 1953
+Drosophila	acutissima Okada 1956
+Drosophila	adamisa Chassagnard & Tsacas 1997
+Drosophila	adamsi Wheeler 1959
+Drosophila	addisoni Pavan 1950
+Drosophila	adelphe Bock 1976
+Drosophila	adiastola Hardy 1965
+Drosophila	adunca Hardy 1965
+Drosophila	adventitia Hardy 1965
+Drosophila	adyukru Burla 1954
+Drosophila	aenicta Hardy 1967
+Drosophila	aethostoma Hardy & Kaneshiro 1968
+Drosophila	afer Tan Hsu & Sheng 1949
+Drosophila	affinidisjuncta Hardy 1978
+Drosophila	affinis Sturtevant 1916
+Drosophila	affinisaffinis Sturtevant 1916
+Drosophila	afoliolata Zhang & Toda 1995
+Drosophila	agamse Burla 1954
+Drosophila	agbo Burla 1954
+Drosophila	agitona Hardy 1965
+Drosophila	aglaia Hardy 1965
+Drosophila	aguape Val & Marques 1996
+Drosophila	agumbensis Prakash & Reddy 1978
+Drosophila	akabo Burla 1954
+Drosophila	akai Burla 1954
+Drosophila	akaju Burla 1954
+Drosophila	akoko Magnacca & O'Grady 2008
+Drosophila	alabamensis Sturtevant 1918
+Drosophila	alafumosa Patterson & Mainland 1943
+Drosophila	alagitans Patterson & Mainland 1943
+Drosophila	alani Pipkin 1964
+Drosophila	albescens Frota-Pessoa 1954
+Drosophila	albicans Frota-Pessoa 1954
+Drosophila	albiceps Meijere 1914
+Drosophila	albicornis Meijere 1915
+Drosophila	albifacies Hardy 1965
+Drosophila	albifrontata Malloch 1934
+Drosophila	albilabris Roth 1860
+Drosophila	albincisa Meijere 1911
+Drosophila	albipes Walker 1853
+Drosophila	albirostris Sturtevant 1921
+Drosophila	albiventer McEvey & Bock 1982
+Drosophila	albiventris McEvey & Bock 1982
+Drosophila	albofasciata Macquart 1851
+Drosophila	alboguttata Wahlberg 1839
+Drosophila	albomarginata Duda 1927
+Drosophila	albomicans Duda 1924
+Drosophila	albonotata Meijere 1911
+Drosophila	alboralis Momma & Takada 1954
+Drosophila	albostriata Malloch 1924
+Drosophila	albovitata Sheng Tan & Chen 1944
+Drosophila	aldrichi Patterson 1940
+Drosophila	alei Brncic 1962
+Drosophila	alexanderae Pipkin 1964
+Drosophila	alexandrei Cordeiro 1951
+Drosophila	alfari Sturtevant 1921
+Drosophila	algonquin Sturtevant & Dobzhansky 1936
+Drosophila	alladian Burla 1954
+Drosophila	allochroa Tsacas 2002
+Drosophila	allynensis Bock 1976
+Drosophila	aloma Tsacas 1981
+Drosophila	alpina Burla 1948
+Drosophila	alpiniae Okada & Carson 1980
+Drosophila	alsophila Hardy & Kaneshiro 1971
+Drosophila	altera Bock 1976
+Drosophila	alternata Meijere 1911
+Drosophila	alternolineata Duda 1925
+Drosophila	altiplanica Brncic & Santibanez 1957
+Drosophila	altissima Tsacas 1980
+Drosophila	altukhovi Imasheva Lazebny Cariou David & Tsacas 1994
+Drosophila	amabilis Meijere 1911
+Drosophila	amaguana Vela & Rafael 2004
+Drosophila	ambigua Pomini 1940
+Drosophila	ambiguifascia Okada & Carson 1983
+Drosophila	ambochila Hardy & Kaneshiro 1971
+Drosophila	americana Spencer 1938
+Drosophila	americanaamericana Spencer 1938
+Drosophila	amita Hardy 1965
+Drosophila	amphibolos Tsacas & Chassagnard 1990
+Drosophila	amplilobus Hardy 1967
+Drosophila	amplipennis Malloch 1934
+Drosophila	amydriae Okada & Carson 1982
+Drosophila	amydrospilota Hardy 1965
+Drosophila	analis Macquart 1843
+Drosophila	analspina Singh & Negi 1995
+Drosophila	ananassae Doleschall 1858
+Drosophila	anceps Patterson & Mainland 1944
+Drosophila	ancora Okada 1968
+Drosophila	ancyla Hardy 1965
+Drosophila	andalusiaca Strobl 1906
+Drosophila	andamanensis Gupta & Ray-Chaudhuri 1970
+Drosophila	anderssoni Okada 1988
+Drosophila	angelicae Okada & Nishiharu 1981
+Drosophila	angor Lin & Ting 1971
+Drosophila	angularis Okada 1956
+Drosophila	angusta Meijere 1915
+Drosophila	angustibucca Duda 1925
+Drosophila	angustipennis Meijere 1911
+Drosophila	anisoctena Tsacas 1980
+Drosophila	annularis Sturtevant 1916
+Drosophila	annulimana Duda 1927
+Drosophila	annulosa Vilela & Bachli 1990
+Drosophila	anomalipes Grimshaw 1901
+Drosophila	anomelani Reddy & Krishnamurthy 1973
+Drosophila	anoplostoma Hardy & Kaneshiro 1968
+Drosophila	antecedens Kam & Perreira 2003
+Drosophila	anthemon Bock 1976
+Drosophila	anthia Okada & Carson 1982
+Drosophila	anthrax Hardy 1965
+Drosophila	antillaria Okada 1984
+Drosophila	antillea Heed 1962
+Drosophila	antioquia Vilela & Bachli 2000
+Drosophila	antonietae Tidon-Sklorz & Sene 2001
+Drosophila	anuda Curran 1936
+Drosophila	anyi Burla 1954
+Drosophila	apectinata Duda 1931
+Drosophila	apicalis Hardy 1977
+Drosophila	apicespinata Zhang & Gan 1986
+Drosophila	apicifera Adams 1905
+Drosophila	apicipuncta Hardy 1965
+Drosophila	apicisetae Hardy 1965
+Drosophila	apicohispida Okada 1973
+Drosophila	aplophallata Zhang & Toda 1995
+Drosophila	apodasta Hardy 1965
+Drosophila	apodemata Okada & Carson 1983
+Drosophila	apoxyloma Hardy 1965
+Drosophila	appendiculata Malloch 1934
+Drosophila	aproclinata Okada & Carson 1980
+Drosophila	aquila Hardy 1965
+Drosophila	aracataca Vilela & Val 1983
+Drosophila	aracea Heed & Wheeler 1957
+Drosophila	aragua Vilela & Pereira 1982
+Drosophila	araicas Pavan & Nacrur 1950
+Drosophila	araiotrichia Hardy 1965
+Drosophila	arane Hunter 1992
+Drosophila	arapuan Cunha & Pavan 1947
+Drosophila	ararama Pavan & Cunha 1947
+Drosophila	arassari Cunha & Frota-Pessoa 1947
+Drosophila	araucana Brncic 1957
+Drosophila	arauna Pavan & Nacrur 1950
+Drosophila	arawakana Heed 1962
+Drosophila	arboloco Hunter 1979
+Drosophila	archoroides Zhang 1993
+Drosophila	arcosae Vela & Rafael 2001
+Drosophila	arcuata Hardy 1965
+Drosophila	argentata Meijere 1914
+Drosophila	argenteifrons Wheeler 1954
+Drosophila	argentina Meijere 1924
+Drosophila	argentostriata Bock 1966
+Drosophila	arizonae Ruiz Heed & Wasserman 1990
+Drosophila	artecarina Takada & Momma 1975
+Drosophila	artifacies Hardy & Kaneshiro 2001
+Drosophila	artigena Hardy 1965
+Drosophila	asahinai Okada 1964
+Drosophila	ashburneri Tsacas 1984
+Drosophila	asketostoma Hardy 1965
+Drosophila	asozana Okada 1956
+Drosophila	assita Hardy & Kaneshiro 1969
+Drosophila	asticta Tsacas 2004
+Drosophila	atacamensis Brncic & Wheeler 1987
+Drosophila	atalaia Vilela & Sene 1982
+Drosophila	aterrima Duda 1940
+Drosophila	athabasca Sturtevant & Dobzhansky 1936
+Drosophila	athabascaathabasca Sturtevant & Dobzhansky 1936
+Drosophila	atra Walker 1853
+Drosophila	atrata Burla & Pavan 1953
+Drosophila	atrifacies Hardy & Kaneshiro 2001
+Drosophila	atrimentum Hardy & Kaneshiro 1971
+Drosophila	atripex Bock & Wheeler 1972
+Drosophila	atroscutellata Hardy 1967
+Drosophila	attenuata Hardy 1965
+Drosophila	attigua Hardy & Kaneshiro 1969
+Drosophila	audientis Lin & Ting 1971
+Drosophila	aurantifrons Okada 1984
+Drosophila	auraria Peng 1937
+Drosophila	aurea Patterson & Mainland 1944
+Drosophila	aureata Wheeler 1957
+Drosophila	aureopallescens Pipkins 1964
+Drosophila	auriculata Toda 1988
+Drosophila	aurochaeta Bock 1984
+Drosophila	austroheptica Tsaur & Lin 1991
+Drosophila	austrosaltans Spassky 1957
+Drosophila	avicennai Maca 1988
+Drosophila	azteca Sturtevant & Dobzhansky 1936
+Drosophila	badia Hardy 1965
+Drosophila	baechlii Bock 1982
+Drosophila	bageshwarensis Singh & Dash 1994
+Drosophila	bahunde Tsacas 1980
+Drosophila	bai Watabe & Liang 1990
+Drosophila	baimaii Bock & Wheeler 1972
+Drosophila	bakondjo Tsacas 1980
+Drosophila	bakoue Tascas & Lachaise 1974
+Drosophila	balioptera Hardy 1965
+Drosophila	balneorum Sturtevant 1927
+Drosophila	balteata Bergroth 1894
+Drosophila	bambuphila Gupta 1971
+Drosophila	bandeirantorum Dobzhansky & Pavan 1943
+Drosophila	bangi Burla 1954
+Drosophila	bansadharae Panigrahy & Gupta 1983
+Drosophila	barbarae Bock & Wheeler 1972
+Drosophila	barkeri Bock 1976
+Drosophila	barutani Watabe & Liang 1990
+Drosophila	basdeni Wheeler 1957
+Drosophila	basilaris Adams 1905
+Drosophila	basimacula Hardy 1965
+Drosophila	basiprojecta Zhang 2004
+Drosophila	basisetae Hardy & Kaneshiro 1968
+Drosophila	basisetosa Hardy 1965
+Drosophila	batmani Vilela & Bachli 2005
+Drosophila	baucipyga Lachaise & Chassagnard 2001
+Drosophila	beardsleyi Hardy 1965
+Drosophila	bedicheki Heed & Russell 1971
+Drosophila	bella Lin & Ting 1971
+Drosophila	belladunni Heed & Krishnamurthy 1959
+Drosophila	beppui Toda & Peng 1989
+Drosophila	berryi Cockerell 1923
+Drosophila	bhagamandalensis Muniyappa Reddy & Krishnamurthy 1981
+Drosophila	biarmipes Malloch 1924
+Drosophila	biauraria Bock & Wheeler 1972
+Drosophila	bicolor Meijere 1911
+Drosophila	bicoloripennis Okada 1991
+Drosophila	bicoloripes Malloch 1926
+Drosophila	bicondyla Hardy 1965
+Drosophila	biconvexa Zhang & Liang 1992
+Drosophila	bicornuta Bock & Wheeler 1972
+Drosophila	bifasciata Pomini 1940
+Drosophila	bifidiprocera Zhang & Gan 1986
+Drosophila	bifilum Frota-Pessoa 1954
+Drosophila	bifurca Patterson & Wheeler 1942
+Drosophila	bifurcada Hunter 1992
+Drosophila	bimorpha Singh & Gupta 1981
+Drosophila	binocularis Zhang 2008
+Drosophila	binotata Meijere 1914
+Drosophila	bipectinata Duda 1923
+Drosophila	bipolita Hardy 1965
+Drosophila	bipunctata Patterson & Mainland 1943
+Drosophila	birchii Dobzhansky & Mather 1961
+Drosophila	biseriata Hardy 1965
+Drosophila	bisetata Toda 1988
+Drosophila	bishtii Singh & Negi 1995
+Drosophila	bistriata Meijere 1911
+Drosophila	bivibrissae Toda 1988
+Drosophila	bizonata Kikkawa & Peng 1938
+Drosophila	blumelae Pipkin & Heed 1964
+Drosophila	bocainensis Pavan & Cunha 1947
+Drosophila	bocainoides Carson 1954
+Drosophila	bocki Baimai 1979
+Drosophila	bocqueti Tsacas & Lachaise 1974
+Drosophila	bodemannae Pipkin & Heed 1964
+Drosophila	bodmeri Bock & Parsons 1979
+Drosophila	bogoriensis Mainx 1958
+Drosophila	boletina Duda 1927
+Drosophila	boliviana Duda 1927
+Drosophila	boliviensis Duda 1927
+Drosophila	bomarea Hunter 1979
+Drosophila	bondarenkoi Sidorenko 1993
+Drosophila	boraceia Vilela & Val 2004
+Drosophila	borbonica Tsacas & David 1975
+Drosophila	borborema Vilela & Sene 1977
+Drosophila	borboros Bock 1976
+Drosophila	borealis Patterson 1952
+Drosophila	bostrycha Hardy 1965
+Drosophila	brachynephros Okada 1956
+Drosophila	brachytarsa Chassagnard & Tsacas 1997
+Drosophila	brahmagiriensis Muniyappa Reddy & Krishnamurthy 1981
+Drosophila	breuerae Rocha 1971
+Drosophila	brevicarinata Patterson & Wheeler 1942
+Drosophila	brevicilia Hardy 1965
+Drosophila	brevina Wheeler 1981
+Drosophila	brevis Walker 1853
+Drosophila	brevissima Hardy 1965
+Drosophila	brevitabula Zhang & Toda 1992
+Drosophila	brevitarsus Hardy 1965
+Drosophila	bridwelli Hardy 1965
+Drosophila	bridwellius Hardy 1965
+Drosophila	briegeri Pavan & Breuer 1954
+Drosophila	brincki Okada 1988
+Drosophila	brncici Hunter & Hunter 1964
+Drosophila	bromeliae Sturtevant 1921
+Drosophila	bromelioides Pavan & Cunha 1947
+Drosophila	brunettii Chaudhuri & Mukherjee 1941
+Drosophila	brunnea Meijere 1911
+Drosophila	brunneicrus Hardy & Kaneshiro 2001
+Drosophila	brunneifrons Hardy 1965
+Drosophila	brunneipennis Malloch 1923
+Drosophila	brunneisetae Hardy 1965
+Drosophila	brunnotata McEvey 1982
+Drosophila	bryani Malloch 1934
+Drosophila	bunnanda Schiffer & McEvey 2006
+Drosophila	burlai Tscas & Lachaise 1974
+Drosophila	burmae Toda 1986
+Drosophila	busckii Coquillett 1901
+Drosophila	bushi Bock & Parson 1979
+Drosophila	buzzatii Patterson & Wheeler 1942
+Drosophila	caccabata Hardy 1965
+Drosophila	calceolata Duda 1926
+Drosophila	calidata Takada Beppu & Toda 1979
+Drosophila	californica Sturtevant 1923
+Drosophila	caliginosa Lamb 1914
+Drosophila	calloptera Schiner 1868
+Drosophila	camargoi Dobzhansky & Pavan 1950
+Drosophila	camaronensis Brncic 1957
+Drosophila	cameraria Haliday 1833
+Drosophila	campylophalla Tsacas 2006
+Drosophila	canadiana Takada & Yoon 1989
+Drosophila	canalinea Patterson & Mainland 1944
+Drosophila	canalinioides Wheeler 1957
+Drosophila	canavalia Magnacca & O'Grady 2008
+Drosophila	cancellata Mather 1955
+Drosophila	canescens Duda 1927
+Drosophila	canipolita Hardy 1965
+Drosophila	canuta Hardy 1965
+Drosophila	capitata Hardy 1965
+Drosophila	capnoptera Patterson & Mainland 1944
+Drosophila	caponei Pavan & Cunha 1947
+Drosophila	capricorni Dobzhansky & Pavan 1943
+Drosophila	caputudis Grimaldi 1986
+Drosophila	carablanca Hunter 1979
+Drosophila	carbonaria Patterson & Wheeler 1942
+Drosophila	carcinophila Wheeler 1960
+Drosophila	cardami Duda 1936
+Drosophila	cardini Sturtevant 1916
+Drosophila	cardinoides Dobzhansky & Pavan 1943
+Drosophila	caribiana Heed 1962
+Drosophila	carioca Vilela & Bachli 2004
+Drosophila	cariouae Tsacas 1985
+Drosophila	caripe Vilela & Bachli 2000
+Drosophila	carlosvilelai Vela & Rafael 2001
+Drosophila	carnosa Hardy 1965
+Drosophila	carolinae Vilela 1983
+Drosophila	carsoni Wheeler 1957
+Drosophila	cathara Tsacas 2004
+Drosophila	cauverii Muniyappa Reddy & Prakash 1982
+Drosophila	cederholmi Okada 1988
+Drosophila	cellarum Robineau-Desvoidy 1830
+Drosophila	ceratostoma Hardy 1967
+Drosophila	cestri Brncic 1978
+Drosophila	chaetocephala Hardy & Kaneshiro 1979
+Drosophila	chaetopeza Hardy 1965
+Drosophila	chagrinensis Stalker & Spencer 1939
+Drosophila	chamundiensis Sajjan & Krishnamurthy 1972
+Drosophila	chandleri Grimaldi 1988
+Drosophila	chandraprabhiana Gupta & Ray-Chaudhuri 1970
+Drosophila	changuinolae Wheeler & Magalhaes 1962
+Drosophila	chaolipinga Okada 1984
+Drosophila	charmadensis Gowda & Krishnamurthy 1972
+Drosophila	chauvacae Tsacas 1984
+Drosophila	cheda Tan Hsu & Sheng 1949
+Drosophila	cheongi Takada & Momma 1975
+Drosophila	chicae Hardy & Kaneshiro 2001
+Drosophila	chimera Kam & Perreira 2003
+Drosophila	chisaca Hunter 1988
+Drosophila	choachi Hunter 1992
+Drosophila	chocolata Bock 1984
+Drosophila	ciliaticrus Hardy 1965
+Drosophila	cilifemorata Hardy 1965
+Drosophila	cilifera Hardy & Kaneshiro 1968
+Drosophila	ciliotarsa Gupta & Gupta 1990
+Drosophila	cilitarsis Hering 1940
+Drosophila	cincta Meijere 1911
+Drosophila	cinerea Patterson & Wheeler 1942
+Drosophila	circumdata Duda 1926
+Drosophila	clara Hardy & Kaneshiro 2001
+Drosophila	clarinervis Toda 1986
+Drosophila	clarofinis Lee 1959
+Drosophila	clavata Hardy 1965
+Drosophila	clavisetae Hardy 1967
+Drosophila	clavitibia Hardy 1965
+Drosophila	claytonae Hardy & Kaneshiro 1969
+Drosophila	clydonia Hardy 1965
+Drosophila	clypeata Wheeler 1968
+Drosophila	clypeonigra Okada 1968
+Drosophila	clypeora Wheeler 1968
+Drosophila	clypitata Grimaldi 1987
+Drosophila	cnecopleura Hardy 1965
+Drosophila	coei Okada 1966
+Drosophila	coffeata Williston 1896
+Drosophila	coffeina Schiner 1868
+Drosophila	cogani Tsacas & Disney 1974
+Drosophila	cognata Grimshaw 1901
+Drosophila	collessi Bock 1976
+Drosophila	collinella Okada 1968
+Drosophila	colmenares Hunter 1988
+Drosophila	colobos Tsacas 2004
+Drosophila	colorata Walker 1849
+Drosophila	comatifemora Hardy 1965
+Drosophila	cominsiae Okada & Carson 1982
+Drosophila	comoe Burla 1954
+Drosophila	comorensis Tsacas 1997
+Drosophila	comosa Wheeler 1968
+Drosophila	concolor Bock 1976
+Drosophila	confertidentata Zhang Li & Feng 2006
+Drosophila	conformis Hardy 1965
+Drosophila	confusa Staeger 1844
+Drosophila	confutata Hardy 1965
+Drosophila	congesta Zetterstedt 1847
+Drosophila	coniura Okada 1988
+Drosophila	conjectura Hardy 1965
+Drosophila	conspicua Grimshaw 1901
+Drosophila	constricta Okada & Carson 1983
+Drosophila	contorta Hardy 1965
+Drosophila	converga Heed & Wheeler 1957
+Drosophila	convergens Meijere 1911
+Drosophila	convexa Malloch 1934
+Drosophila	coonorensis Reddy & Krishnamurthy 1973
+Drosophila	coracina Kikkawa & Peng 1938
+Drosophila	cordata Sturtevant 1942
+Drosophila	cordeiroi Brncic 1978
+Drosophila	cornixa Takada Momma & Shima 1973
+Drosophila	cornutitarsus Hardy & Kaneshiro 1979
+Drosophila	coroica Wasserman 1962
+Drosophila	costata Zetterstedt 1838
+Drosophila	couturieri Tsacas 2006
+Drosophila	cracens Hardy 1965
+Drosophila	craddockae Kaneshiro & Kambysellis 1999
+Drosophila	crassa Patterson & Mainland 1944
+Drosophila	crassifemur Grimshaw
+Drosophila	crispipennis Okada & Carson 1983
+Drosophila	crockeri Curran 1936
+Drosophila	crossoptera Wheeler & Takada 1962
+Drosophila	crucigera Grimshaw 1902
+Drosophila	crucigeraur Grimshaw
+Drosophila	cryptica De & Gupta 1996
+Drosophila	cuaso Bachli Vilela & Ratcov 2000
+Drosophila	cuauhtemoci Felix & Dobzhansky 1976
+Drosophila	cubicivittata Okada 1966
+Drosophila	cultello Bock 1982
+Drosophila	cundinamarca Vilela & Bachli 2000
+Drosophila	curiosa Hardy & Kaneshiro 2001
+Drosophila	curta Chassagnard & Tsacas 1997
+Drosophila	curticilia Hardy 1965
+Drosophila	curtitarsis Hardy & Kaneshiro 2001
+Drosophila	curvapex Frota-Pessoa 1954
+Drosophila	curvata Hardy 1977
+Drosophila	curvicapillata Duda 1923
+Drosophila	curviceps Okada & Kurokawa 1957
+Drosophila	curvispina Watabe & Toda 1984
+Drosophila	curvitibia Hardy 1965
+Drosophila	cuzcoica Duda 1927
+Drosophila	cyanea Okada 1988
+Drosophila	cyrtoloma Hardy 1969
+Drosophila	dacunhai Mourao & Bicudo 1967
+Drosophila	danielae McEvey & Bock 1982
+Drosophila	daruma Okada 1956
+Drosophila	dasycnemia Hardy 1965
+Drosophila	davidgrimaldii Vilela & Bachli 1990
+Drosophila	davidi Tsacas 1975
+Drosophila	debilis Walker 1849
+Drosophila	decemseriata Hendel 1936
+Drosophila	decolor Tsacas & Chassagnard 1994
+Drosophila	deflecta Malloch & McAtee 1924
+Drosophila	deltaneuron Bryan 1938
+Drosophila	demipolita Hardy 1965
+Drosophila	denieri Blanchard 1938
+Drosophila	denotata Hardy 1965
+Drosophila	denticeps Okada & Sasakawa 1956
+Drosophila	denticulata Bock & Wheeler 1972
+Drosophila	dentissima Bock & Wheeler 1972
+Drosophila	desavrilia Tsacas 1985
+Drosophila	desbaratabaile Hunter 1979
+Drosophila	desertorum Wasserman 1962
+Drosophila	diama Burla 1954
+Drosophila	diamphidia Hardy 1965
+Drosophila	diamphidiopoda Hardy 1965
+Drosophila	diana Okada & Carson 1982
+Drosophila	dianensis Gao & Watabe 2003
+Drosophila	dicropeza Hardy & Kaneshiro 1979
+Drosophila	dictena Tsacas & Chassagnard 1992
+Drosophila	differens Hardy & Kaneshiro 1975
+Drosophila	difficilis Wiedemann 1830
+Drosophila	diffusa Hardy 1965
+Drosophila	digressa Hardy & Kaneshiro 1968
+Drosophila	dilacerata Becker 1919
+Drosophila	diminuens Hardy 1965
+Drosophila	dimitra Tsacas 1981
+Drosophila	dimitroides Chassagnard & Tsacas 1997
+Drosophila	diplacantha Tsacas & David 1978
+Drosophila	diplochaeta Tsacas 2003
+Drosophila	discreta Hardy & Kaneshiro 1968
+Drosophila	disjuncta Hardy 1965
+Drosophila	dispar Mather 1955
+Drosophila	dissita Hardy 1965
+Drosophila	distincta Egger 1862
+Drosophila	distinguenda Hardy 1965
+Drosophila	divaricata Hardy & Kaneshiro 1971
+Drosophila	dives Hardy & Kaneshiro 2001
+Drosophila	divisa Duda 1927
+Drosophila	dobzhanskii Patterson 1943
+Drosophila	dolichotarsis Hardy 1967
+Drosophila	dolomata Hardy 1965
+Drosophila	dominicana Ayala 1965
+Drosophila	dominici Dwivedi 1982
+Drosophila	donaldi Wheeler 1981
+Drosophila	dorsalis Walker 1865
+Drosophila	dorsigera Hardy 1965
+Drosophila	dorsivitta Walker 1861
+Drosophila	dorsocentralis Okada 1965
+Drosophila	dorsociliata Hardy 1965
+Drosophila	dossoui Chassagnard 1991
+Drosophila	dracaenae Hardy 1965
+Drosophila	dreyfusi Dobzhansky & Pavan 1943
+Drosophila	dubia Sturtevant 1921
+Drosophila	dumalis Hardy 1965
+Drosophila	dumuya Burla 1954
+Drosophila	duncani Sturtevant 1918
+Drosophila	dunni Townsend & Wheeler 1955
+Drosophila	durantae Bock & Parsons 1979
+Drosophila	dyaramankana Burla 1954
+Drosophila	dyula Burla 1954
+Drosophila	ebenea Graber 1957
+Drosophila	ebonata Parshad & Duggal 1966
+Drosophila	echinostoma Kam & Perreira 2003
+Drosophila	editinares Okada 1966
+Drosophila	ehrmanae Parsons & Bock 1977
+Drosophila	elegans Bock & Wheeler 1972
+Drosophila	elenthiensis Sundaran 1991
+Drosophila	eleonorae Tosi Martins Vilela & Pereira 1990
+Drosophila	ellenae Bock 1980
+Drosophila	elliptica Sturtevant 1942
+Drosophila	elliptosa Okada 1974
+Drosophila	ellisoni Vilela 1983
+Drosophila	elongata Sturtevant 1927
+Drosophila	eluta Wheeler & Takada 1964
+Drosophila	elutoides Okada & Carson 1983
+Drosophila	emarginata Sturtevant 1942
+Drosophila	eminentiula Zhang & Shi 1995
+Drosophila	enderbii Hutton 1901
+Drosophila	endobranchia Carson & Wheeler 1968
+Drosophila	engima Malloch 1927
+Drosophila	engyochracea Hardy 1965
+Drosophila	enhydrobia Bachli & Tsacas 2005
+Drosophila	eniwae Takada Beppu & Toda 1979
+Drosophila	enoplotarsus Hardy 1965
+Drosophila	entrichocnema Hardy 1965
+Drosophila	eohydei Wasserman 1962
+Drosophila	eoundo Tsacas & Chassagnard 1976
+Drosophila	epiobscura Parshad & Duggal 1967
+Drosophila	eprocessata Zhang & Toda 1995
+Drosophila	equinoxialis Dobzhansky 1946
+Drosophila	ercepeae Tsacas & David 1975
+Drosophila	erebopis Tsacas 2004
+Drosophila	erecta Tsacas & Lachaise 1974
+Drosophila	eremophila Wasserman 1962
+Drosophila	erobopis Tsacas 2004
+Drosophila	eskoi Lakovaara & Lankinen 1974
+Drosophila	eugracilis Bock & Wheeler 1972
+Drosophila	eumecothrix Hardy 1965
+Drosophila	eupyga Tsacas 1981
+Drosophila	euronotus Patterson & Ward 1952
+Drosophila	eurypeza Hardy 1965
+Drosophila	excavata Okada 1988
+Drosophila	excepta Malloch 1934
+Drosophila	excita Giglio-Tos 1893
+Drosophila	exemplar Bock 1976
+Drosophila	exigua Grimshaw 1901
+Drosophila	exiguitata Takada Momma & Shima 1973
+Drosophila	eximia Hardy 1965
+Drosophila	expansa Hardy 1965
+Drosophila	ezoana Takada & Okada 1957
+Drosophila	facialba Heed & Wheeler 1957
+Drosophila	facialis Adams 1905
+Drosophila	fairchildi Pipkin & Heed 1964
+Drosophila	falleni Wheeler 1960
+Drosophila	fasciculisetae Hardy 1965
+Drosophila	fascigera Hardy & Kaneshiro 2001
+Drosophila	fasciola Williston 1896
+Drosophila	fascioloides Dobzhansky & Pavan 1943
+Drosophila	fascipennis Okada 1967
+Drosophila	fastigata Hardy 1965
+Drosophila	felix Dobzhansky 1976
+Drosophila	fenestrarum Fallen 1823
+Drosophila	fengkainensis Chen 2008
+Drosophila	ferruginea Becker 1919
+Drosophila	ficusphila Kikkawa & Peng 1938
+Drosophila	fima Burla 1954
+Drosophila	fimbriata Bock 1976
+Drosophila	finigutta Walker 1859
+Drosophila	finitima Lamb 1914
+Drosophila	finnigana Bock 1984
+Drosophila	flabellopalpis Okada 1991
+Drosophila	flavibasis Hardy 1965
+Drosophila	flavicauda Toda 1991
+Drosophila	flaviceps Grimshaw 1901
+Drosophila	flavimedifemur Zhang & Toda 1988
+Drosophila	flaviseta Adams 1905
+Drosophila	flavissima Duda 1929
+Drosophila	flavisternum Hardy 1965
+Drosophila	flavitibiae Toda 1986
+Drosophila	flavofasciata Takada Beppu & Toda 1979
+Drosophila	flavohalterata Duda 1925
+Drosophila	flavohirta Malloch 1924
+Drosophila	flavolineata Duda 1927
+Drosophila	flavomontana Patterson 1952
+Drosophila	flavopilosa Frey 1918
+Drosophila	flavopinicola Wheeler 1954
+Drosophila	flavopleuralis Takada Momma & Shima 1973
+Drosophila	flavorepleta Patterson & Pavan 1952
+Drosophila	flexa Loew 1866
+Drosophila	flexicauda Okada 1966
+Drosophila	flexipes Hardy & Kaneshiro 1968
+Drosophila	florae Sturtevant 1916
+Drosophila	flumenicola Watabe & Peng 1991
+Drosophila	fluminensis Vilela & Bachli 2004
+Drosophila	fluvialis Toda & Peng 1989
+Drosophila	fontdevilai Vela & Rafael 2001
+Drosophila	forficata Hardy & Kaneshiro 1979
+Drosophila	formella Hardy & Kaneshiro 1972
+Drosophila	formosana Duda 1926
+Drosophila	fraburu Burla 1954
+Drosophila	fracticosta Lamb 1914
+Drosophila	fragilis Wheeler 1949
+Drosophila	framire Burla 1954
+Drosophila	franii Hunter 1988
+Drosophila	freilejoni Hunter 1979
+Drosophila	freiremaiai Vilela & Bachli 2000
+Drosophila	freycinetiae Hardy 1965
+Drosophila	fringefera Gupta & Gupta 1989
+Drosophila	frolovae Wheeler 1949
+Drosophila	frontalis Williston 1896
+Drosophila	frontata Meijere 1916
+Drosophila	fronto Walker 1853
+Drosophila	frotapessoai Vilela & Bachli 1990
+Drosophila	fruhstorferi Duda 1924
+Drosophila	fulgida Hardy & Kaneshiro 2001
+Drosophila	fulva Watabe & Li 1993
+Drosophila	fulvalineata Patterson & Wheeler 1942
+Drosophila	fulvimacula Patterson & Mainland 1944
+Drosophila	fulvimaculoides Wasserman & Wilson 1957
+Drosophila	fumida Mather 1960
+Drosophila	fumifera Wheeler & Takada 1964
+Drosophila	fumipennis Duda 1925
+Drosophila	fundita Hardy 1965
+Drosophila	fundomaculata Duda 1925
+Drosophila	funebris Fabricius 1787
+Drosophila	fungi Bock & Parson 1978
+Drosophila	fungiperda Hardy 1967
+Drosophila	furcapenis Zhang & Liang 1995
+Drosophila	furcapenisoides Zhang & Liang 1995
+Drosophila	furcatarsus Hardy & Kaneshiro 1979
+Drosophila	furva Hardy 1965
+Drosophila	furvifacies Hardy 1965
+Drosophila	fusca Coquillett 1900
+Drosophila	fuscicostata Okada 1966
+Drosophila	fuscifrons Hardy 1965
+Drosophila	fuscimana Zetterstedt 1838
+Drosophila	fuscipennis Duda 1927
+Drosophila	fuscithorax Malloch 1924
+Drosophila	fuscoamoeba Bryan 1934
+Drosophila	fuscoapex Hardy 1965
+Drosophila	fuscohalterata Duda 1925
+Drosophila	fuscolineata Duda 1925
+Drosophila	fuscopalpis Wheeler & Takada 1964
+Drosophila	fuscovittata Harrison 1954
+Drosophila	fuscula Fallen 1823
+Drosophila	fusticula Hardy 1965
+Drosophila	fustiformis Zhang & Liang 1993
+Drosophila	fusus Okada 1988
+Drosophila	fuyamai Toda 1991
+Drosophila	gagne Kam & Perreira 2003
+Drosophila	galloi Lourenco & Mourao 1993
+Drosophila	gangotrii Muniyappa & Reddy 1981
+Drosophila	gani Liang & Zhang 1990
+Drosophila	gapudi Ruiz-Fiegalan 2003
+Drosophila	garnetensis Bock 1984
+Drosophila	gasici Brncic 1957
+Drosophila	gata Lachaise & Chassagnard 2001
+Drosophila	gaucha Jaeger & Salzano 1953
+Drosophila	gemmula Hardy 1965
+Drosophila	gentica Wheeler & Takada 1962
+Drosophila	gibberosa Patterson & Mainland 1943
+Drosophila	gibbinsi Aubertin 1937
+Drosophila	gibbosa Meijere 1914
+Drosophila	gigas Duda 1925
+Drosophila	gilvilateralis Hardy 1965
+Drosophila	giriensis Prakash & Reddy 1977
+Drosophila	glabriapex Hardy & Kaneshiro 1968
+Drosophila	glabrifrons Duda 1925
+Drosophila	glauca Bock 1976
+Drosophila	gorokaensis Okada & Carson 1982
+Drosophila	goureaui Hardy & Kaneshiro 1972
+Drosophila	gouveai Tidon-Sklorz & Sene 2001
+Drosophila	gracilis Walker 1853
+Drosophila	gradata Hardy & Kaneshiro 1968
+Drosophila	grandis Kikkawa & Peng 1938
+Drosophila	gratiosa Meijere 1911
+Drosophila	greeni Bock & Wheeler 1972
+Drosophila	greerae Pipkin & Heed 1964
+Drosophila	gressitti Okada 1986
+Drosophila	grimshawi Oldenberg 1914
+Drosophila	grisea Patterson & Wheeler 1942
+Drosophila	griseicollis Becker 1919
+Drosophila	griseola Zetterstedt 1847
+Drosophila	griseolineata Duda 1927
+Drosophila	grossfieldi Bock 1976
+Drosophila	grossipalpis Lamb 1914
+Drosophila	guacamaya Bachli & Vilela 2002
+Drosophila	guanche Monclus 1977
+Drosophila	guangdongensis Toda & Peng 1989
+Drosophila	guaraja King 1947
+Drosophila	guaru Dobzhansky & Pavan 1943
+Drosophila	guayllabambae Rafael & Arcos 1988
+Drosophila	gubleri Hardy 1967
+Drosophila	gundensis Prakash & Reddy 1977
+Drosophila	gunungcola Sultana Kimura & Toda 1999
+Drosophila	guptai Dwivedi 1979
+Drosophila	guttifera Walker 1849
+Drosophila	gymnobasis Hardy & Kaneshiro 1971
+Drosophila	gymnophallus Hardy & Kaneshiro 1975
+Drosophila	halapepe Magnacca & O'Grady 2008
+Drosophila	haleakalae Grimshaw 1901
+Drosophila	hamatofila Patterson & Wheeler 1942
+Drosophila	hamifera Hardy & Kaneshiro 1968
+Drosophila	hamptoni Okada 1986
+Drosophila	hanaulae Hardy 1969
+Drosophila	hannae Bock & Parsons 1978
+Drosophila	hansoni Pipkin 1964
+Drosophila	hansonioides Pipkin 1966
+Drosophila	hawaiiensis Grimshaw 1901
+Drosophila	heedi Hardy & Kaneshiro 1971
+Drosophila	hei Watabe & Peng 1991
+Drosophila	heliconiae Okada & Carson 1982
+Drosophila	helvetica Burla 1948
+Drosophila	hemianthrax Hardy & Kaneshiro 2001
+Drosophila	hemipeza Hardy 1965
+Drosophila	hendeli Vilela & Bachli 1990
+Drosophila	hermioneae Vilela 1983
+Drosophila	heterobristalis Tan Hsu & Sheng 1949
+Drosophila	heteroneura Perkins 1910
+Drosophila	hexachaetae Hardy 1965
+Drosophila	hexapogon Okada 1991
+Drosophila	hexaspina Singh & Dash 1994
+Drosophila	hexasticha Papp 1971
+Drosophila	hexastigma Patterson & Mainland 1944
+Drosophila	hexastriata Tan Hsu & Sheng 1949
+Drosophila	hibisci Cook Parsons & Bock 1977
+Drosophila	hiharai Okada 1967
+Drosophila	himalayana Gupta & Gupta 1991
+Drosophila	hirsuta Duda 1926
+Drosophila	hirticornis Meijere 1914
+Drosophila	hirticoxa Hardy 1965
+Drosophila	hirtinotata Okada 1991
+Drosophila	hirtipalpus Hardy & Kaneshiro 1968
+Drosophila	hirtipes Lamb 1914
+Drosophila	hirtiscutellata Sturtevant 1927
+Drosophila	hirtitarsus Hardy 1965
+Drosophila	hirtitbia Hardy 1965
+Drosophila	hirtitibia Hardy 1965
+Drosophila	hirtominuta Bachli 1974
+Drosophila	hirtonigra Bachli 1974
+Drosophila	hirudo Bock & Parsons 1978
+Drosophila	histrio Meigen 1830
+Drosophila	hollisae Vilela & Pereira 1992
+Drosophila	hoozani Duda 1923
+Drosophila	horrifica Bock 1982
+Drosophila	howensis Parsons & Bock 1979
+Drosophila	huancavilcae Rafael & Arcos 1989
+Drosophila	huangshaenensis Watabe 2008
+Drosophila	huayla Pilar Pilares & Vasquez 1988
+Drosophila	huaylasi Pla & Fontdevila 1990
+Drosophila	hubeiensis Sperlich & Watabe 1997
+Drosophila	huckinsi Etges & Heed 2001
+Drosophila	huichole Etges & Heed 2001
+Drosophila	huilliche Brncic 1957
+Drosophila	humeralis Grimshaw 1901
+Drosophila	hyalipennis Duda 1927
+Drosophila	hydei Sturtevant 1921
+Drosophila	hydroessa Bachli & Tsacas 2005
+Drosophila	hyperpolychaeta Okada 1988
+Drosophila	hypocausta Osten Sacken 1882
+Drosophila	hypomelana Okada & Carson 1983
+Drosophila	hystricosa Hardy & Kaneshiro 1969
+Drosophila	ichinosei Zhang & Toda 1995
+Drosophila	icteroscuta Wheeler 1949
+Drosophila	ifestia Tsacas 1984
+Drosophila	ikedai Toda 1989
+Drosophila	iki Bryan 1934
+Drosophila	illata Walker 1860
+Drosophila	illota Williston 1896
+Drosophila	illusiopolita Hardy 1965
+Drosophila	imaii Moriwaki & Okada 1967
+Drosophila	imitans Graber 1957
+Drosophila	imitator Hardy 1965
+Drosophila	immacularis Okada 1966
+Drosophila	immigrans Sturtevant 1921
+Drosophila	imparisetae Hardy 1965
+Drosophila	improcera Hardy 1965
+Drosophila	impudica Duda 1927
+Drosophila	inaequalis Grimshaw 1901
+Drosophila	inca Dobzhansky & Pavan 1943
+Drosophila	inciliata Hardy & Kaneshiro 1968
+Drosophila	incisurifrons Okada & Carson 1980
+Drosophila	incognita Hardy 1965
+Drosophila	incompleta Hardy 1965
+Drosophila	incompta Wheeler & Takada 1962
+Drosophila	incomspicua Meijere 1914
+Drosophila	indica Parshad & Paika 1964
+Drosophila	inebria Kam & Perreira 2003
+Drosophila	inedita Hardy 1965
+Drosophila	inexspectata Tsacas 1988
+Drosophila	inflatus Kaneshiro 1969
+Drosophila	infuscata Grimshaw 1901
+Drosophila	ingens Hardy & Kaneshiro 1971
+Drosophila	ingrata Haliday 1833
+Drosophila	ingrica Hackman 1957
+Drosophila	innubila Spencer 1943
+Drosophila	inopinata Lachaise & Chassagnard 2002
+Drosophila	inornata Malloch 1923
+Drosophila	insignita Hardy 1965
+Drosophila	insolita Bock 1976
+Drosophila	insulana Schiner 1868
+Drosophila	insularis Dobzhansky 1957
+Drosophila	involuta Hardy 1965
+Drosophila	iroko Burla 1954
+Drosophila	ironensis Bock & Parsons 1978
+Drosophila	iroquois Sturtevant & Dobzansky 1936
+Drosophila	isatoidea Bachli 1974
+Drosophila	ischnotrix Hardy 1965
+Drosophila	ivai Vilela 1983
+Drosophila	jackeyi Bock 1982
+Drosophila	jacobsoni Duda 1926
+Drosophila	jagri Prakash & Reddy 1979
+Drosophila	jambulina Parshad & Paika 1965
+Drosophila	jesonica Matsumura 1931
+Drosophila	johnstonae Pipkin & Heed 1964
+Drosophila	jordanensis Frota-Pessoa 1945
+Drosophila	joycei Hardy 1965
+Drosophila	jucunda Lamb 1914
+Drosophila	jumbilina Parshad & Paika 1964
+Drosophila	junae Grossfield 1976
+Drosophila	kahania Magnacca & O'Grady 2008
+Drosophila	kaindiana Okada & Carson 1982
+Drosophila	kallima Wheeler 1957
+Drosophila	kambysellisi Hardy & Kaneshiro 1969
+Drosophila	kanaka Tsacas 1988
+Drosophila	kanapiae Bock & Wheeler 1972
+Drosophila	kanekoi Watabe & Higuchi 1979
+Drosophila	kaneshiroi Hardy 1977
+Drosophila	kangi Okada & Lee 1961
+Drosophila	karakasa Watabe & Liangg 1990
+Drosophila	kashmirensis Kumar & Gupta 1985
+Drosophila	kauaiensis Magnacca & O'Grady 2008
+Drosophila	kauluai Bryan 1934
+Drosophila	kennedyi Bock 1982
+Drosophila	kepulauana Wheeler 1969
+Drosophila	kerteszina Duda 1925
+Drosophila	khansuensis Singh & Dash 1994
+Drosophila	khaoyana Bock & Wheeler 1972
+Drosophila	kikkawai Burla 1954
+Drosophila	kilimanjarica Lachaise & Chassagnard 2001
+Drosophila	kinabaluana Takada Momma & Shima 1973
+Drosophila	kirishimana Okada 1967
+Drosophila	kirki Harrison 1959
+Drosophila	kitagawai Toda 1986
+Drosophila	kitumensis Tsacas 1985
+Drosophila	kivuensis Tsacas 1980
+Drosophila	koepferae Fontdevila & Wasserman 1988
+Drosophila	kohimaensis Gupta & Gupta 1990
+Drosophila	kohkoa Wheeler 1969
+Drosophila	kokeensis Hardy 1967
+Drosophila	konaensis Magnacca & O'Grady 2008
+Drosophila	koraputae Gupta & Panigrahy 1982
+Drosophila	krassi Hardy 1965
+Drosophila	kraussi Hardy 1965
+Drosophila	krimbasi Tsacas 1985
+Drosophila	krishnamurthyi Sajjan & Sreerama Reddy 1975
+Drosophila	krugi Pavan & Breuer 1954
+Drosophila	kualapa Magnacca & O'Grady 2008
+Drosophila	kuhao Magnacca & O'Grady 2008
+Drosophila	kulango Burla 1954
+Drosophila	kulouriensis Fartyal & Singh 2008
+Drosophila	kuntzei Duda 1924
+Drosophila	kuoni Burla 1954
+Drosophila	kurokawai Okada 1971
+Drosophila	kurseongensis Gupta & Singh 1978
+Drosophila	kuscheli Brncic 1957
+Drosophila	kweichowensis Tan Hsu & Sheng 1949
+Drosophila	kyushuensis Tsacas & Chassagnard 1976
+Drosophila	lacertosa Okada 1956
+Drosophila	lachaisei Tsacas 1984
+Drosophila	lacicola Patterson 1944
+Drosophila	laciniosa Hardy 1965
+Drosophila	lacteicornis Okada 1965
+Drosophila	lacteoguttata Portschinsky 1892
+Drosophila	lagomorpha Okada & Carson 1982
+Drosophila	lambi Duda 1940
+Drosophila	lamelitarsis Duda 1936
+Drosophila	lamellitarsis Duda 1936
+Drosophila	lamingtoni Bock 1982
+Drosophila	lamottei Tsacas 1981
+Drosophila	lanaiensis Grimshaw 1901
+Drosophila	lappetata McEvey & Bock 1982
+Drosophila	larifuga Hardy 1965
+Drosophila	lasiopoda Hardy & Kaneshiro 1975
+Drosophila	lata Becker 1907
+Drosophila	latebuccata Duda 1927
+Drosophila	latecarinata Duda 1927
+Drosophila	lateralis Walker 1860
+Drosophila	latifascia Meijere 1914
+Drosophila	latifasciaeformis Duda 1940
+Drosophila	latifasciola Okada & Carson 1983
+Drosophila	latifrons Adams 1905
+Drosophila	latifrontata Frota-Pessoa 1945
+Drosophila	latifshahi Gupta & Ray-Chaudhuri 1970
+Drosophila	latigena Hardy 1965
+Drosophila	latinokogiri Okada 1991
+Drosophila	latipaenula Okada & Carson 1982
+Drosophila	lauoho Magnacca & O'Grady 2008
+Drosophila	laurelae Bock 1982
+Drosophila	lauta Wheeler & Takada 1962
+Drosophila	lebanonensis Wheeler 1949
+Drosophila	lemniscata Hardy 1965
+Drosophila	leoni Pipkin 1964
+Drosophila	leonis Patterson & Wheeler 1942
+Drosophila	leontia Tsacas & David 1978
+Drosophila	lepidobregma Hardy 1965
+Drosophila	leticiae Pipkin 1967
+Drosophila	leukorrhyna Pipkin 1964
+Drosophila	levigata Burla 1956
+Drosophila	levii Tsacas 1988
+Drosophila	liae Toda & Peng 1989
+Drosophila	libellulosa Tsacas & Legrand 1979
+Drosophila	lichuanensis Zhang & Liang 1994
+Drosophila	limbata Roser 1840
+Drosophila	limbicostata Okada 1966
+Drosophila	limbinervis Duda 1925
+Drosophila	limbipennis Meijere 1908
+Drosophila	limbiventris Duda 1925
+Drosophila	limensis Pavan & Patterson 1947
+Drosophila	limingi Gao & Watabe 2003
+Drosophila	limitata Hardy & Kaneshiro 1968
+Drosophila	limpiensis Mainland 1941
+Drosophila	lindae Wheeler 1968
+Drosophila	linearepleta Patterson & Wheeler 1942
+Drosophila	linearidentata Toda 1986
+Drosophila	linearis Walker 1853
+Drosophila	lineata Wulp 1881
+Drosophila	lineolata Meijere 1914
+Drosophila	lineosa Walker 1859
+Drosophila	lineosetae Hardy & Kaneshiro 1968
+Drosophila	lini Bock & Wheeler 1972
+Drosophila	liophallus Hardy & Kaneshiro 1968
+Drosophila	lissodora Hardy & Kaneshiro 2001
+Drosophila	litorella Meigen 1838
+Drosophila	littoralis Meigen 1830
+Drosophila	liui Chen 1988
+Drosophila	lividinervis Duda 1923
+Drosophila	lobatopalpus Kam & Perreira 2003
+Drosophila	loewi Vilela & Bachli 2000
+Drosophila	loiciana Tsacas & Chassagnard 2000
+Drosophila	lonchoptera Hardy 1965
+Drosophila	longala Patterson & Wheeler 1942
+Drosophila	longetrinica Bachli 1974
+Drosophila	longialata Takada & Momma 1975
+Drosophila	longicornis Patterson & Wheeler 1942
+Drosophila	longicorpata Takada & Momma 1975
+Drosophila	longicrinis Lachaise & Chassagnard 2002
+Drosophila	longifrons Duda 1923
+Drosophila	longifurcapenis Zhang & Liang 1995
+Drosophila	longipalpus Magnacca & O'Grady 2008
+Drosophila	longipectinata Takada Momma & Shima 1973
+Drosophila	longiphallus Gupta 1991
+Drosophila	longiserrata Toda 1988
+Drosophila	longiseta Grimshaw 1901
+Drosophila	longisetae Zhang 1991
+Drosophila	longissima Okada & Carson 1983
+Drosophila	longitarsis Duda 1931
+Drosophila	longivittata Hedge Naseerulla & Jayashankar 1989
+Drosophila	louisae Parsons & Bock 1977
+Drosophila	lowei Heed Crumpacker & Ehrman 1968
+Drosophila	lucida Seguy 1938
+Drosophila	lucipennis Lin 1972
+Drosophila	lugens Duda 1926
+Drosophila	lugubripennis Duda 1927
+Drosophila	luguensis Gao & Toda 2003
+Drosophila	luisserai Vilela & Bachli 2002
+Drosophila	luisserrai Vilela & Bachli 2002
+Drosophila	lummei Hackman 1972
+Drosophila	lundstroemi Duda 1935
+Drosophila	lurida Walker 1860
+Drosophila	lusaltans Magalhaes 1962
+Drosophila	lutea Wiedemann 1830
+Drosophila	luteola Hardy 1965
+Drosophila	lutescens Okada 1975
+Drosophila	lutzii Sturtevant 1916
+Drosophila	macalpinei Bock 1976
+Drosophila	machachensis Vela & Rafael 2001
+Drosophila	macquarti Wheeler 1981
+Drosophila	macrochaetae Hardy 1965
+Drosophila	macropolia Patterson & Mainland 1944
+Drosophila	macroptera Patterson & Wheeler 1942
+Drosophila	macrospina Stalker & Spencer 1939
+Drosophila	macrothrix Hardy & Kaneshiro 1968
+Drosophila	maculata Dufour 1839
+Drosophila	maculifrons Duda 1927
+Drosophila	maculinotata Okada 1956
+Drosophila	madeirensis Monclus 1984
+Drosophila	madikerii Muniyappa & Gupta 1980
+Drosophila	maemae Kam & Perreira 2003
+Drosophila	magalhaesi Mourao & Bicudo 1967
+Drosophila	maggulae Gupta & Sundaran 1990
+Drosophila	magnabadia Patterson & Mainland 1943
+Drosophila	magnaquinaria Wheeler 1954
+Drosophila	magnarcus Frota-Pessoa 1951
+Drosophila	magnidentata Lee 1964
+Drosophila	magnimacula Hardy 1965
+Drosophila	magnipalpa Hardy 1965
+Drosophila	magnipectinata Okada 1956
+Drosophila	mahican Sturtevant & Dobzhansky 1936
+Drosophila	mahui Magnacca & O'Grady 2008
+Drosophila	mainlandi Patterson 1943
+Drosophila	majtoi Ruiz-Fiegalan 2003
+Drosophila	makawao Magnacca & O'Grady 2008
+Drosophila	makinoi Okada 1956
+Drosophila	malagassya Tsacas & Rafael 1982
+Drosophila	malayana Takada 1976
+Drosophila	malekotliana Parshad & Paika 1964
+Drosophila	malele Magnacca & O'Grady 2008
+Drosophila	malerkotliana Parshad & Paika 1965
+Drosophila	mambilla Tsacas 1980
+Drosophila	mangabeirai Malogolowkin 1951
+Drosophila	mania Bock 1976
+Drosophila	manonoensis Harrison 1954
+Drosophila	mansura Adams 1905
+Drosophila	mapiriensis Vilela & Bachli 1990
+Drosophila	maracaya Wheeler 1957
+Drosophila	margarita Hunter 1979
+Drosophila	mariaehelenae Vilela 1984
+Drosophila	mariettae Vilela 1983
+Drosophila	marjoryae Harrison 1954
+Drosophila	martensis Wasserman & Wilson 1957
+Drosophila	maryensis Gupta & Dwivedi 1980
+Drosophila	matae Tsacas 1980
+Drosophila	mathisi Vilela 1983
+Drosophila	matileana Tsacas 2002
+Drosophila	matilei Tsacas 1975
+Drosophila	mauiensis Grimshaw 1901
+Drosophila	maura Meijere 1911
+Drosophila	mauritiana Tsacas & David 1974
+Drosophila	mawaena Magnacca & O'Grady 2008
+Drosophila	maya Heed & O'Grady 2000
+Drosophila	mayaguana Vilela 1983
+Drosophila	mayri Mather & Dobzhansky 1962
+Drosophila	mbettie Burla 1954
+Drosophila	mcclintockae Pipkin 1964
+Drosophila	mecocnemia Hardy 1965
+Drosophila	medialis Hardy 1967
+Drosophila	mediana Hardy 1965
+Drosophila	mediobandes Dwivedi & Gupta 1980
+Drosophila	medioconstricta Watabe Zhang & Gan 1990
+Drosophila	mediocris Frota-Pessoa 1954
+Drosophila	mediodelta Heed & Wheeler 1957
+Drosophila	mediodiffusa Heed & Wheeler 1957
+Drosophila	mediohispida Okada 1967
+Drosophila	medioimpressa Frota-Pessoa 1954
+Drosophila	medioobscurata Duda 1925
+Drosophila	medioparva Heed & Wheeler 1957
+Drosophila	mediopicta Frota-Pessoa 1954
+Drosophila	mediopictoides Heed & Wheeler 1957
+Drosophila	mediopunctata Dobzhansky Pavan 1943
+Drosophila	mediostriata Duda 1925
+Drosophila	mediovittata Frota-Pessoa 1954
+Drosophila	medleri Tsacas & Chassagnard 1976
+Drosophila	megagenys Bock 1976
+Drosophila	megalagitans Wheeler & Magalhaes 1962
+Drosophila	megapyga Tsacas 1981
+Drosophila	megaspis Bezzi 1908
+Drosophila	megasticta Hardy 1965
+Drosophila	meigeni Duda 1935
+Drosophila	meijerei Wheeler 1959
+Drosophila	meitanensis Tan Hsu & Sheng 1949
+Drosophila	melancholica Duda 1927
+Drosophila	melanica Sturtevant 1916
+Drosophila	melanissima Sturtevant 1916
+Drosophila	melanocephala Hardy 1967
+Drosophila	melanogaster Meigen 1830
+Drosophila	melanoloma Hardy 1965
+Drosophila	melanopedis Hardy 1965
+Drosophila	melanopleura McEvey & Bock 1982
+Drosophila	melanoptera Duda 1927
+Drosophila	melanosoma Grimshaw 1901
+Drosophila	melanospila Walker 1859
+Drosophila	melanura Miller 1944
+Drosophila	melina Wheeler 1962
+Drosophila	mellea Becker 1919
+Drosophila	menisigra Bachli 1974
+Drosophila	mercatorum Patterson & Wheeler 1942
+Drosophila	merdae Bock 1984
+Drosophila	meridiana Patterson & Wheeler 1942
+Drosophila	meridionalis Wasserman 1962
+Drosophila	merina Tsacas 1997
+Drosophila	merzi Vilela & Bachli 2002
+Drosophila	mesophragmatica Duda 1927
+Drosophila	mesostigma Frota-Pessoa 1954
+Drosophila	metallescens Meijere 1914
+Drosophila	metallica Sturtevant 1921
+Drosophila	metanthia Gupta & Gupta 1990
+Drosophila	metasetigerata Gupta & Kumar 1986
+Drosophila	metatarsalis Okada & Carson 1980
+Drosophila	metaxa Bock 1976
+Drosophila	mettleri Heed 1977
+Drosophila	metzii Sturtevant 1921
+Drosophila	mexicana Macquart 1843
+Drosophila	mexicoa Wheeler 1954
+Drosophila	microdenticulata Panigrahy & Gupta 1983
+Drosophila	microlabis Seguy 1938
+Drosophila	micromelanica Patterson 1941
+Drosophila	micromettleri Heed 1989
+Drosophila	micromyia Hardy & Kaneshiro 1975
+Drosophila	micropectinata Takada & Momma 1975
+Drosophila	microralis Tsacas 1981
+Drosophila	miki Duda 1924
+Drosophila	milleri Magalhaes 1962
+Drosophila	milolii Magnacca & O'Grady 2008
+Drosophila	mimectica Bock & Wheeler 1972
+Drosophila	mimetica Bock & Wheeler 1972
+Drosophila	mimica Hardy 1965
+Drosophila	mimiconformis Hardy 1965
+Drosophila	mimiconfutata Hardy 1965
+Drosophila	minangkabau Zhang & Toda 1995
+Drosophila	minima Okada 1966
+Drosophila	minimeta Bock 1976
+Drosophila	miniserrata Okada 1991
+Drosophila	minnamurrae Bock 1976
+Drosophila	minuta Walker 1853
+Drosophila	miranda Dobzhansky 1935
+Drosophila	mirassolensis Mourao & Gallo 1967
+Drosophila	mirei Tsacas Chassagnard & David 1988
+Drosophila	mitchelli Hardy 1965
+Drosophila	mitis Curran 1936
+Drosophila	mixtura Bock 1976
+Drosophila	moana McEvey 1982
+Drosophila	moenae Wheeler & Takada 1964
+Drosophila	mojavensis Patterson 1940
+Drosophila	moju Pavan 1950
+Drosophila	mojuoides Wasserman 1962
+Drosophila	mokonfim Burla 1954
+Drosophila	molokaiensis Grimshaw 1901
+Drosophila	mommai Takada & Okada 1960
+Drosophila	momortica Graber 1957
+Drosophila	monieri McEvey & Tsacas 1987
+Drosophila	monochaeta Sturtevant 1927
+Drosophila	monocolor Wheeler 1981
+Drosophila	montana Stone Griffen & Patterson 1941
+Drosophila	montgomeryi Hardy & Kaneshiro 1971
+Drosophila	monticola Grimshaw 1901
+Drosophila	montium Meijere 1916
+Drosophila	morelia Vilela & Bachli 2004
+Drosophila	morena Forta-Pessoa 1954
+Drosophila	moriwakii Okada & Kurokawa 1957
+Drosophila	moronu Burla 1954
+Drosophila	mossmana Bock & Parsons 1978
+Drosophila	mucunae Okada & Carson 1982
+Drosophila	mukteshwarensis Joshi Fartyal & Singh 2005
+Drosophila	mulgravei Bock 1976
+Drosophila	mulleri Sturtevant 1921
+Drosophila	mulli Perreira & Kaneshiro 1991
+Drosophila	multiciliata Hardy & Kaneshiro 2001
+Drosophila	multidentata Watabe & Zhang 1990
+Drosophila	multispina Okada 1956
+Drosophila	multistriata Duda 1923
+Drosophila	munda Spencer 1942
+Drosophila	mundagensis Sajjan & Sreerama Reddy 1975
+Drosophila	murphyi Hardy & Kaneshiro 1969
+Drosophila	musae Hardy 1965
+Drosophila	musaphilia Hardy 1965
+Drosophila	mutabilis Adams 1905
+Drosophila	mutica Toda 1988
+Drosophila	myamaungi Toda 1991
+Drosophila	mycethophila Goureau 1865
+Drosophila	mycetophaga Malloch 1924
+Drosophila	mysorensis Reddy & Krishnamurthy 1970
+Drosophila	nagarholensis Prakash & Reddy 1980
+Drosophila	nainitalensis Singh & Bhatt 1988
+Drosophila	nakanoi Zhang & Toda 1995
+Drosophila	nana Williston 1896
+Drosophila	nanella Hardy 1965
+Drosophila	nannoptera Wheeler 1949
+Drosophila	nannosoma Okada & Carson 1983
+Drosophila	nappae Vilela Valente & Basso-da-Silva 2004
+Drosophila	narinosa Frota-Pessoa 1945
+Drosophila	narragansett Sturtevant & Dobzhansky 1936
+Drosophila	nasuta Lamb 1914
+Drosophila	nasutoides Okada 1964
+Drosophila	natasha Gornostaev 1992
+Drosophila	naumanni Bock 1986
+Drosophila	nausea Bock 1982
+Drosophila	navojoa Ruiz Heed & Wasserman 1990
+Drosophila	nebulosa Sturtevant 1916
+Drosophila	neoalagitans Wheeler & Magalhaes 1962
+Drosophila	neobaimai Singh & Dash 1998
+Drosophila	neobaimaii Singh & Dash 1994
+Drosophila	neobusckii Toda 1986
+Drosophila	neocardini Streisinger 1946
+Drosophila	neochracea Wheeler 1959
+Drosophila	neoclavisetae Perreira & Kaneshiro 1991
+Drosophila	neocordata Magalhaes 1956
+Drosophila	neoelegans Gupta & Singh 1978
+Drosophila	neoelliptica Pavan & Magalhaes 1950
+Drosophila	neogata Lachaise & Chassagnard 2001
+Drosophila	neogrimshawi Hardy & Kaneshiro 1968
+Drosophila	neoguaramunu Frydenberg 1956
+Drosophila	neohaoyama Singh & Dash 1994
+Drosophila	neohydei Wasserman 1962
+Drosophila	neohypocausta Lin & Wheeler 1973
+Drosophila	neoimmigrans Gai & Krishnamurthy 1982
+Drosophila	neokadai Kaneko & Takada 1966
+Drosophila	neokhaoyana Singh & Dash 1998
+Drosophila	neokuntzei Singh & Gupta 1981
+Drosophila	neokurokawai Singh & Gupta 1981
+Drosophila	neolacteicornis Hegde & Krishna 1999
+Drosophila	neomitra Chassagnard & Tsacas 1997
+Drosophila	neomorpha Heed & Wheelr 1957
+Drosophila	neonasuta Sajjan & Krishnamurthy 1972
+Drosophila	neoperkinsi Hardy & Kaneshiro 1968
+Drosophila	neopicta Hardy & Kaneshiro 1968
+Drosophila	neorepleta Patterson & Wheeler 1942
+Drosophila	neosaltans Pavan & Magalhaes 1950
+Drosophila	neosignata Kumar & Gupta 1988
+Drosophila	neotestacea Grimaldi James & Jaenike 1992
+Drosophila	neotrapezifrons Ranganath Krishnamurthy & Hedge 1983
+Drosophila	neozelandica Harrison 1959
+Drosophila	nepalensis Okada 1955
+Drosophila	nesiota Wheeler & Takada 1962
+Drosophila	nesoetes Bock & Wheeler 1972
+Drosophila	neutralis Hardy 1965
+Drosophila	ngemba Tsacas 1980
+Drosophila	nicholsoni Malloch 1927
+Drosophila	nicolae Tsacas & Chassagnard 1988
+Drosophila	nigella Hardy 1965
+Drosophila	nigerrima Lamb 1914
+Drosophila	nigra Grimshaw 1901
+Drosophila	nigrasplendens Pipkin 1964
+Drosophila	nigrialata Takada Momma & Shima 1973
+Drosophila	nigribasis Hardy 1969
+Drosophila	nigriceps Meigen 1838
+Drosophila	nigricincta Frota-Pessoa 1954
+Drosophila	nigricosta Malloch 1926
+Drosophila	nigricruria Patterson & Mainland 1943
+Drosophila	nigriculter Okada 1988
+Drosophila	nigridentata Watabe Toda & Peng 1995
+Drosophila	nigrifemur Duda 1927
+Drosophila	nigrifrons Malloch 1934
+Drosophila	nigrilineata Angus 1967
+Drosophila	nigrimana Meigen 1830
+Drosophila	nigripalpus Hardy 1965
+Drosophila	nigripennis Kang Lee & Bahng 1965
+Drosophila	nigritarsus Hardy 1965
+Drosophila	nigriventer McEvey & Bock 1982
+Drosophila	nigrobrunnea Lamb 1914
+Drosophila	nigrocirrus Hardy 1965
+Drosophila	nigrodigita Lin & Ting 1971
+Drosophila	nigrodumosa Wasserman & Fontdevila 1990
+Drosophila	nigrodunni Heed & Wheeler 1957
+Drosophila	nigrofemorata Duda 1926
+Drosophila	nigrohalterata Duda 1925
+Drosophila	nigrohydei Patterson & Wheeler 1942
+Drosophila	nigromaculata Kikkawa & Peng 1938
+Drosophila	nigromelanica Patterson & Wheeler 1942
+Drosophila	nigropleuralis Takada Momma & Shima 1973
+Drosophila	nigropolita Hardy 1965
+Drosophila	nigrops Okada & Carson 1980
+Drosophila	nigrosaltans Magalhaes 1962
+Drosophila	nigrosparsa Strobl 1898
+Drosophila	nigrospiracula Patterson & Wheeler 1942
+Drosophila	nigrostyla Okada 1988
+Drosophila	nigrovesca Lin & Ting 1971
+Drosophila	nikananu Burla 1954
+Drosophila	nimia Bock 1976
+Drosophila	nitida Tsacas & Chassagnard 1994
+Drosophila	nitidapex Bigot 1892
+Drosophila	nitidithorax Malloch 1927
+Drosophila	niveifrons Okada & Carson 1982
+Drosophila	nixifrons Tan Hsu & Sheng 1949
+Drosophila	nodosa Duda 1926
+Drosophila	nokogiri Okada 1956
+Drosophila	norfolkensis Bock 1986
+Drosophila	notabilis Lamb 1914
+Drosophila	notha Bock 1976
+Drosophila	notostriata Okada 1966
+Drosophila	novamaculosa Mather 1956
+Drosophila	novamexicana Patterson 1941
+Drosophila	novaspinofera Gupta & Singh 1979
+Drosophila	novazonata Gupta & Dwivedi 1980
+Drosophila	novemaristata Dobzhansky & Pavan 1943
+Drosophila	novicia Wheeler & Takada 1964
+Drosophila	novitskii Sulerud & Miller 1966
+Drosophila	nubalata Okada 1991
+Drosophila	nubiluna Wheeler 1949
+Drosophila	nublada Wheeler & Kambysellis 1966
+Drosophila	nuda Okada & Carson 1980
+Drosophila	nudimanona Okada 1991
+Drosophila	nudinokogiri Okada 1967
+Drosophila	nullilineata Zhang & Toda 1988
+Drosophila	nutrita Duda 1935
+Drosophila	nyinyii Toda 1991
+Drosophila	oahuensis Grimshaw 1901
+Drosophila	obatai Hardy & Kaneshiro 1972
+Drosophila	obscura Fallen 1823
+Drosophila	obscurata Meijere 1911
+Drosophila	obscuricolor Duda 1927
+Drosophila	obscuricornis Grimshaw 1901
+Drosophila	obscurifrons Grimshaw 1901
+Drosophila	obscurinervis Toda 1986
+Drosophila	obscuripennis Loew 1866
+Drosophila	obscuripes Grimshaw 1901
+Drosophila	obsoleta Malloch 1923
+Drosophila	ocampoae Ruiz-Fiegalan 2003
+Drosophila	occidentalis Spencer 1942
+Drosophila	ocellata Hardy & Kaneshiro 1969
+Drosophila	ochracea Grimshaw 1901
+Drosophila	ochrifrons Duda 1924
+Drosophila	ochrobasis Hardy & Kaneshiro 1968
+Drosophila	ochrogaster Chassagnard 1992
+Drosophila	ochropleura Hardy & Kaneshiro 2001
+Drosophila	odontophallus Hardy & Kaneshiro 1968
+Drosophila	odontostoma Kam & Perreira 2003
+Drosophila	oenopota Scopoli 1763
+Drosophila	oenops McEvey & Bock 1982
+Drosophila	ogumai Zannat & Toda 2002
+Drosophila	ohiensis Spencer 1940
+Drosophila	ohioensis Spencer 1940
+Drosophila	ohnishii Zannat & Toda 2002
+Drosophila	okadai Takada 1959
+Drosophila	okadomei Okada 1967
+Drosophila	okala Magnacca & O'Grady 2008
+Drosophila	olaae Grimshaw 1901
+Drosophila	omogoensis Okada 1956
+Drosophila	onca Dobzhanksy & Pavan 1943
+Drosophila	oncera Bock 1976
+Drosophila	onychophora Duda 1927
+Drosophila	ophthalmitis Tsacas 2006
+Drosophila	orbitalis Sturtevant 1916
+Drosophila	orbospiracula Patterson & Wheeler 1942
+Drosophila	ordinaria Coquillett 1904
+Drosophila	oreas Hardy 1965
+Drosophila	oreia Tsacas 1980
+Drosophila	orena Tsacas & David 1978
+Drosophila	orestes Hardy 1965
+Drosophila	oribatis Tsacas 1980
+Drosophila	orientacea Grimaldi James & Jaenike 1992
+Drosophila	orissanensis Gupta 1972
+Drosophila	oritisa Chen 1990
+Drosophila	orkui Brncic & Santibanez 1957
+Drosophila	ornata Hardy & Kaneshiro 1969
+Drosophila	ornatifrons Duda 1927
+Drosophila	ornatipennis Williston 1896
+Drosophila	orosa Bock & Wheeler 1972
+Drosophila	orphnaea Tsacas 2001
+Drosophila	orphnopeza Hardy & Kaneshiro 1968
+Drosophila	orthofascia Hardy & Kaneshiro 1968
+Drosophila	orthoptera Hardy 1965
+Drosophila	oshimai Choo & Nakamura 1973
+Drosophila	othoni Pipkin 1964
+Drosophila	ovidenticulata Sundaran 1991
+Drosophila	ovilongata Gupta & Gupta 1991
+Drosophila	oviminiatus Sundaran 1991
+Drosophila	oweni Bock & Parsons 1978
+Drosophila	pachea Patterson & Wheeler 1942
+Drosophila	pachneissa Tsacas 2002
+Drosophila	pachuca Wasserman 1962
+Drosophila	pacificae Matsuda 2005
+Drosophila	padangensis Zhang & Toda 1995
+Drosophila	paenehamifera Hardy & Kaneshiro 1969
+Drosophila	pagliolii Cordeiro 1963
+Drosophila	pagoda Toda 1988
+Drosophila	paharpaniensis Singh & Dash 1994
+Drosophila	painii Singh & Negi 1995
+Drosophila	paiviae Toda & Riihimaa 1987
+Drosophila	palauana Wheeler & Takada 1964
+Drosophila	paleothoracis Grimaldi 1987
+Drosophila	pallidifrons Wheeler 1969
+Drosophila	pallidipennis Dobzhansky & Pavan 1943
+Drosophila	pallidosa Bock & Wheeler 1972
+Drosophila	pallipes Dufour 1846
+Drosophila	palmata Takada Momma & Shima 1973
+Drosophila	palniensis Hegde & Shakunthala 1999
+Drosophila	palpalis Adams 1905
+Drosophila	palumae Bock 1976
+Drosophila	palustris Spencer 1942
+Drosophila	panamensis Malloch 1926
+Drosophila	panina Magnacca & O'Grady 2008
+Drosophila	panoanoa Magnacca & O'Grady 2008
+Drosophila	papaalai Magnacca & O'Grady 2008
+Drosophila	papala Magnacca & O'Grady 2008
+Drosophila	papei Bachli & Vilela 2002
+Drosophila	papilla Zhang & Shi 1992
+Drosophila	pappi Okada 1974
+Drosophila	paraanthrax Hardy & Kaneshiro 2001
+Drosophila	parabipectinata Bock 1971
+Drosophila	parabocainensis Carson 1954
+Drosophila	parabrunnea Tsacas & Chassagnard 1976
+Drosophila	paracanalinea Wheeler 1957
+Drosophila	paracentralis Okada & Carson 1982
+Drosophila	parachrogaster Patterson & Mainland 1943
+Drosophila	paraclubata Sudaran 1991
+Drosophila	paracracens Hardy & Kaneshiro 1979
+Drosophila	paracultello Bock 1982
+Drosophila	paradentata Bachli 1974
+Drosophila	paradenticeps Okada 1971
+Drosophila	paradoxa Lamb 1918
+Drosophila	paragata Lachaise & Chassagnard 2001
+Drosophila	paraguayensis Duda 1927
+Drosophila	paraguma Okada & Carson 1980
+Drosophila	paraguttata Thompson 1957
+Drosophila	paraimmigrans Gai & Krishnamurthy 1986
+Drosophila	parakuntzei Okada 1973
+Drosophila	paralatifrontata Bachli 1974
+Drosophila	paralatinokogiri Okada 1991
+Drosophila	paralongifera Gupta & Singh 1981
+Drosophila	paralutea Bock & Wheeler 1972
+Drosophila	paramanona Okada 1991
+Drosophila	paramarginata Singh & Dash 1994
+Drosophila	paramediostriata Townsend & Wheeler 1955
+Drosophila	paramelanica Griffen 1942
+Drosophila	paranaensis Barros 1950
+Drosophila	parannularis Vilela & Bachli 1990
+Drosophila	paranthia Okada & Carson 1982
+Drosophila	paranthrax Hardy & Kaneshiro 2001
+Drosophila	parantillaria Kumar & Gupta 1990
+Drosophila	paraphryniae Okada & Carson 1982
+Drosophila	parapsychotriae Okada & Carson 1982
+Drosophila	parapunctipennis Duda 1924
+Drosophila	parasaltans Magalhaes 1956
+Drosophila	parasignata Takada Momma & Shima 1973
+Drosophila	paratarsata Vilela 1985
+Drosophila	paratriangulata Gupta & Ray-Chaudhuri 1970
+Drosophila	paratriangulifer Sundaran 1991
+Drosophila	paraviaristata Takada Momma & Shima 1973
+Drosophila	paravibrissina Duda 1924
+Drosophila	parazonata Gupta & Dwivedi 1980
+Drosophila	parisiena Heed 1991
+Drosophila	parsonsi Grossfield 1976
+Drosophila	parthenogenetica Stalker 1953
+Drosophila	parva Grimshaw
+Drosophila	parviprocessata Toda 1986
+Drosophila	parviramosa Okada & Carson 1980
+Drosophila	parvula Bock & Wheeler 1972
+Drosophila	pasochoensis Vela & Rafael 2001
+Drosophila	paucicilia Hardy & Kaneshiro 1971
+Drosophila	paucilineata Burla 1957
+Drosophila	paucipuncta Grimshaw 1901
+Drosophila	paucitarsus Hardy & Kaneshiro 1979
+Drosophila	paucula Hardy 1965
+Drosophila	pauliceia Ratcov & Vilela 2007
+Drosophila	paulistorum Dobzhansky & Pavan 1949
+Drosophila	paunii Singh & Negi 1989
+Drosophila	pavani Brncic 1957
+Drosophila	pavlovskiana Kastritsis & Dobzhansky 1967
+Drosophila	pectinifera Wheeler & Takada 1964
+Drosophila	pectinitarsus Hardy 1965
+Drosophila	pedroi Vilela 1984
+Drosophila	pegasa Wasserman 1962
+Drosophila	pellewae Pipkin & Heed 1964
+Drosophila	penicilla Zhang 1993
+Drosophila	penicillipennis Takada Momma & Shima 1973
+Drosophila	penicula Okada 1984
+Drosophila	peniculipedis Hardy 1965
+Drosophila	penidentata Singh & Gupta 1981
+Drosophila	peniglobosa Kumar & Gupta 1990
+Drosophila	peninsularis Patterson & Wheeler 1942
+Drosophila	peniquadrata Sundaran 1991
+Drosophila	penispina Gupta & Singh 1979
+Drosophila	pennae Bock & Wheeler 1972
+Drosophila	penniclubata Singh & Gupta 1981
+Drosophila	pentafuscata Gupta & Kumar 1986
+Drosophila	pentaspina Parshad & Duggal 1967
+Drosophila	pentastriata Okada 1966
+Drosophila	pentavittata Gupta & Ray-Chaudhuri 1970
+Drosophila	percnosoma Hardy 1965
+Drosophila	pereirai Takada Momma & Shima 1973
+Drosophila	periquito Bachli & Vilela 2002
+Drosophila	perissopoda Hardy 1965
+Drosophila	perkinsi Grimshaw 1901
+Drosophila	perlucida Zhang & Liang 1994
+Drosophila	perrisi Wheeler & Hamilton 1972
+Drosophila	persicae Bock & Parson 1978
+Drosophila	persimilis Dobzhansky & Epling 1944
+Drosophila	peruensis Wheeler 1959
+Drosophila	peruviana Duda 1927
+Drosophila	petalopeza Hardy 1965
+Drosophila	petitae Tsacas 1981
+Drosophila	phaeopleura Bock & Wheeler 1972
+Drosophila	phalerata Meigen 1830
+Drosophila	phryniae Okada & Carson 1982
+Drosophila	phyale Tsacas 1981
+Drosophila	picea Hardy 1978
+Drosophila	pichis Vilela & Bachli 1990
+Drosophila	picta Zetterstedt 1847
+Drosophila	picticornis Grimshaw 1901
+Drosophila	pictifrons Duda 1927
+Drosophila	pictilis Wasserman 1962
+Drosophila	pictipennis Kertesz 1901
+Drosophila	pictipes Meijere 1911
+Drosophila	pictiventris Duda 1925
+Drosophila	pictula Meijere 1911
+Drosophila	pictura Wasserman 1962
+Drosophila	pilacrinis Lachaise & Chassagnard 2002
+Drosophila	pilaresae Vela & Rafael 2001
+Drosophila	pilatisetae Hardy & Kaneshiro 1968
+Drosophila	pilicrus Duda 1926
+Drosophila	pilimana Grimshaw 1901
+Drosophila	pilocornuta Lachaise & Chassagnard 2001
+Drosophila	pilopalpus Lin & Ting 1971
+Drosophila	pilosa Watabe & Peng 1991
+Drosophila	pinguis Walker 1865
+Drosophila	pinicola Sturtevant 1942
+Drosophila	pinnitarsus Bock 1976
+Drosophila	pisonia Hardy & Kaneshiro 1971
+Drosophila	pittieri Bachli & Vilela 2002
+Drosophila	plagiata Bezzi 1908
+Drosophila	planitibia Hardy 1967
+Drosophila	platitarsus Frota-Pessoa 1954
+Drosophila	plaua Okada & Carson 1980
+Drosophila	pleuralis Williston 1896
+Drosophila	pleurovittata Harrison 1954
+Drosophila	plumosa Grimshaw 1901
+Drosophila	poecilithorax Malloch 1925
+Drosophila	poecilogastra Duda 1926
+Drosophila	poeyi Sturtevant 1921
+Drosophila	pohaka Magnacca & O'Grady 2008
+Drosophila	poinari Grimaldi 1987
+Drosophila	polita Grimshaw 1901
+Drosophila	polliciforma Hardy 1965
+Drosophila	pollinospadix Patterson & Mainland 1944
+Drosophila	polychaeta Patterson & Wheeler 1942
+Drosophila	polymorpha Dobzhansky & Pavan 1943
+Drosophila	polypori Malloch 1924
+Drosophila	ponderosa Patterson & Mainland 1943
+Drosophila	ponera Tsacas & David 1975
+Drosophila	poonia Magnacca & O'Grady 2008
+Drosophila	popayan Vilela & Bachli 2004
+Drosophila	populi Wheeler & Throckmorton 1961
+Drosophila	porrecta Okada 1984
+Drosophila	potamophila Toda & Peng 1989
+Drosophila	praesutilis Hardy 1965
+Drosophila	prashadi Brunetti 1923
+Drosophila	preapicula Hardy 1965
+Drosophila	preciosa Meijere 1911
+Drosophila	pretiosa Hardy 1965
+Drosophila	primaeva Hardy & Kaneshiro 1968
+Drosophila	procardinoides Frydenberg 1956
+Drosophila	proceriseta Hardy 1965
+Drosophila	prodispar Parsons & Bock 1982
+Drosophila	prodita Hardy 1965
+Drosophila	progaster Bock 1976
+Drosophila	progastor Bock 1976
+Drosophila	prognatha Sturtevant 1916
+Drosophila	projectans Sturtevant 1916
+Drosophila	prolaticilia Hardy 1965
+Drosophila	prolixa Hardy 1965
+Drosophila	prolongata Singh & Gupta 1977
+Drosophila	promeridiana Wasserman 1962
+Drosophila	prominens Hardy 1965
+Drosophila	propachuca Wasserman 1962
+Drosophila	propiofacies Hardy 1965
+Drosophila	prorepleta Duda 1925
+Drosophila	prosaltans Duda 1927
+Drosophila	prosimilis Duda 1927
+Drosophila	prostipennis Lin 1972
+Drosophila	prostopalpis Hardy & Kaneshiro 1968
+Drosophila	protrusa Zhang & Liang 1992
+Drosophila	proxima Adams 1905
+Drosophila	pruinifacies Frota-Pessoa 1954
+Drosophila	pruinosa Duda 1940
+Drosophila	pseudoananassae Bock 1971
+Drosophila	pseudoargentostriata Wheeler 1981
+Drosophila	pseudobaimaii Takada Momma & Shima 1973
+Drosophila	pseudobocainensis Wheeler & Magalhaes 1962
+Drosophila	pseudodenticulata Takada & Momma 1975
+Drosophila	pseudoebenea Graber 1957
+Drosophila	pseudomayri Baimai 1970
+Drosophila	pseudonokogiri Kang Lee & Bahng 1965
+Drosophila	pseudoobscura Frolova 1929
+Drosophila	pseudorepleta Vilela & Bachli 1990
+Drosophila	pseudosaltans Magalhaes 1956
+Drosophila	pseudosordidula Kaneko & Tokumitsu 1964
+Drosophila	pseudotakahashii Mather 1957
+Drosophila	pseudotalamancana Pereira & Vilela 1987
+Drosophila	pseudotenuicauda Toda 1983
+Drosophila	pseudotetrachaeta Angus 1967
+Drosophila	psilophallus Hardy & Kaneshiro 1971
+Drosophila	psilotarsalis Hardy & Kaneshiro 1975
+Drosophila	psychotriae Okada & Carson 1980
+Drosophila	pterocelis Tsacas & Chassagnard 1999
+Drosophila	puginoata Meijere 1915
+Drosophila	pulaua Wheeler 1969
+Drosophila	pulchella Sturtevant 1916
+Drosophila	pulchra Schiner 1868
+Drosophila	pulchrella Tan Hsu & Sheng 1949
+Drosophila	pullata Tan Hsu & Sheng 1949
+Drosophila	pullipes Hardy & Kaneshiro 1972
+Drosophila	pulverea Duda 1927
+Drosophila	pumilio Meijere 1908
+Drosophila	punalau Bryan
+Drosophila	punalua Bryan 1934
+Drosophila	punctatipennis Tscas & David 1975
+Drosophila	punctatonervosa Frey 1954
+Drosophila	punctatoneurvosa Frey 1954
+Drosophila	puncteluta Okada 1986
+Drosophila	puncticeps Okada 1956
+Drosophila	punctiscutata Lamb 1914
+Drosophila	punjabiensis Parshad & Paika 1965
+Drosophila	puriensis Gupta & Panigrahy 1982
+Drosophila	purpurea Gupta & Sundaran 1990
+Drosophila	pusilla Grimshaw 1901
+Drosophila	putrida Sturtevant 1916
+Drosophila	pychnochaetae Hardy 1965
+Drosophila	pyo Toda 1991
+Drosophila	quadraria Bock & Wheeler 1972
+Drosophila	quadrilineata Meijere 1911
+Drosophila	quadripunctata Meijere 1908
+Drosophila	quadriseriata Duda 1924
+Drosophila	quadriserrata Okada & Carson 1982
+Drosophila	quadrisetae Hardy 1965
+Drosophila	quadrisetata Takada Beppu & Toda 1979
+Drosophila	quadrivittata Okada 1956
+Drosophila	quadrum Wiedemann 1830
+Drosophila	quasianomalipes Hardy 1965
+Drosophila	quasiexpansa Hardy 1965
+Drosophila	quatrou Tsacas 1980
+Drosophila	quelpartiensis Kang Lee & Bahng 1967
+Drosophila	querubimae Vilela 1983
+Drosophila	quinaria Loew 1866
+Drosophila	quinqueannulata Frey 1917
+Drosophila	quinqueramosa Hardy & Kaneshiro 2001
+Drosophila	quinquestriata Lin & Wheeler 1973
+Drosophila	racemova Patterson & Mainland 1944
+Drosophila	ramamensis Dwivedi 1979
+Drosophila	ramipara Zhang & Liang 1992
+Drosophila	ramosissima Zhang & Liang 1992
+Drosophila	ramsdeni Sturtevant 1916
+Drosophila	ramulosa Burla 1956
+Drosophila	ranchograndensis Bachli & Vilela 2002
+Drosophila	raridentata Okada & Chung 1960
+Drosophila	reaumurii Dufour 1845
+Drosophila	recens Wheeler 1960
+Drosophila	rectangularis Sturtevant 1942
+Drosophila	recticilia Hardy & Kaneshiro 1968
+Drosophila	reducta Hardy 1965
+Drosophila	redunca Hardy 1965
+Drosophila	reilliana Bock 1982
+Drosophila	rellima Wheeler 1960
+Drosophila	remota Walker 1849
+Drosophila	repleta Wollaston 1858
+Drosophila	repletoides Hsu 1943
+Drosophila	reschae Hardy & Kaneshiro 1975
+Drosophila	residua Hardy 1965
+Drosophila	reticulata Wheeler 1957
+Drosophila	retnasabapathyi Takada & Momma 1975
+Drosophila	retrusa Hardy 1965
+Drosophila	reynoldsiae Hardy & Kaneshiro 1972
+Drosophila	rhabdote Bock 1976
+Drosophila	rhinos Bock & Parsons 1979
+Drosophila	rhombura Okada & Carson 1983
+Drosophila	rhopaloa Bock & Wheeler 1972
+Drosophila	richardsoni Vilela 1983
+Drosophila	ritae Patterson & Wheeler 1942
+Drosophila	riverata Singh & Gupta 1977
+Drosophila	robusta Sturtevant 1916
+Drosophila	roehrae Pipkin & Heed 1964
+Drosophila	rosinae Vilela 1983
+Drosophila	rostrata Duda 1925
+Drosophila	rotundicornis Okada 1966
+Drosophila	ruberrima Meijere 1911
+Drosophila	ruberrimoides Zhang & Gan 1986
+Drosophila	rubida Mather 1960
+Drosophila	rubidifrons Patterson & Mainland 1944
+Drosophila	rubra Sturtevant 1927
+Drosophila	rubrifrons Patterson & Wheeler 1942
+Drosophila	rubrrima Meijere 1911
+Drosophila	ruburra Hardy 1965
+Drosophila	rudis Walker 1860
+Drosophila	rufa Kikkawa & Peng 1938
+Drosophila	rufifrons Loew 1873
+Drosophila	rufuloventer Lamb 1914
+Drosophila	ruizi Ruiz-Fiegalan 2004
+Drosophila	ruminahuii Vela & Rafael 2004
+Drosophila	rustica Hardy 1965
+Drosophila	saba Burla 1954
+Drosophila	sabroskyi Hardy 1965
+Drosophila	sadleria Bryan 1938
+Drosophila	sahyadrii Prakash & Reddy 1979
+Drosophila	salatigae Meijere 1914
+Drosophila	salpina Chen 1994
+Drosophila	saltans Sturtevant 1916
+Drosophila	samoaensis Harrison 1954
+Drosophila	sampagensis Muniyappa & Reddy 1980
+Drosophila	sannio Gornostayev 1991
+Drosophila	santomea Lachaise & Harry 2000
+Drosophila	sanyi Burla 1954
+Drosophila	saraswati Singh & Dash 1998
+Drosophila	saraswatii Singh & Dash 1994
+Drosophila	sargakhetensis Joshi Fartyal & Singh 2005
+Drosophila	sattalensis Fartyal & Singh 1994
+Drosophila	scaptomyzoptera Duda 1935
+Drosophila	schachti Bachli Vilela & Haring 2002
+Drosophila	schildi Malloch 1924
+Drosophila	schineri Pereira & Vilela 1987
+Drosophila	schmidti Duda 1924
+Drosophila	scioptera Duda 1927
+Drosophila	scitula Hardy 1967
+Drosophila	scolostoma Hardy 1965
+Drosophila	scopata Bock 1976
+Drosophila	scutellaris Duda 1929
+Drosophila	scutellata Duda 1926
+Drosophila	sechellia Tsacas & Bachli 1981
+Drosophila	seclusa Hardy 1965
+Drosophila	seculusa Hardy 1965
+Drosophila	secunda Maca 1992
+Drosophila	seguyi Smart 1945
+Drosophila	seguyiana Chassagnard & Tsacas 1997
+Drosophila	sejuncta Hardy & Kaneshiro 1968
+Drosophila	semialba Duda 1925
+Drosophila	semiatra Meijere 1914
+Drosophila	semifuscata Hardy 1965
+Drosophila	seminigra Duda 1926
+Drosophila	seminokogiri Okada 1967
+Drosophila	seminole Sturtevant & Dobzhansky 1936
+Drosophila	semipruinosa Tsacas 2002
+Drosophila	senei Vilela 1983
+Drosophila	senilis Duda 1926
+Drosophila	senticosa Zhang & Toda 1995
+Drosophila	senufo Burla 1954
+Drosophila	seorsa Hardy 1965
+Drosophila	separata Meijere 1911
+Drosophila	septacoila Gai & Krishnamurthy 1984
+Drosophila	septentriosaltans Magalhaes & Buck 1962
+Drosophila	septuosa Hardy 1965
+Drosophila	serenensis Brncic 1957
+Drosophila	serido Vilela & Sene 1977
+Drosophila	seriema Tidon-Sklorz & Sene 1995
+Drosophila	serrata Malloch 1927
+Drosophila	serricea Lamb 1914
+Drosophila	serriflabella Okada 1966
+Drosophila	serripaenula Okada & Carson 1982
+Drosophila	serrula Tsacas 1984
+Drosophila	serrulata Zhang & Toda 1995
+Drosophila	setapex Patterson & Mainland 1944
+Drosophila	setaria Parshad & Singh 1971
+Drosophila	setifera Wheeler & Takada 1964
+Drosophila	setiger Grimshaw 1901
+Drosophila	setipalpus Hardy 1965
+Drosophila	setitarsa Gupta & Dwivedi 1980
+Drosophila	setosifrons Hardy & Kaneshiro 1968
+Drosophila	setosimentum Hardy & Kaneshiro 1968
+Drosophila	setositibia Hardy & Kaneshiro 2001
+Drosophila	setula Heed & Wheeler 1957
+Drosophila	sexlineata Duda 1940
+Drosophila	sexpunctata Seguy 1938
+Drosophila	sexvittata Okada 1956
+Drosophila	seyanii Chassagnard & Tsacas 1997
+Drosophila	shaitanensis Sidorenko 1996
+Drosophila	sharpi Grimshaw 1901
+Drosophila	shiptonensis Bock 1984
+Drosophila	shwezayana Toda 1986
+Drosophila	shyri Vela & Rafael 2004
+Drosophila	siamana Ikeda Hihara Asada Fujiwara & Lin 1983
+Drosophila	siangensis Kumar & Gupta 1988
+Drosophila	sierrae Ruiz-Fiegalan 2003
+Drosophila	sigmoides Loew 1872
+Drosophila	signata Duda 1923
+Drosophila	sikkimensis Gupta & Gupta 1991
+Drosophila	silvalineata Gupta & Ray-Chaudhuri 1970
+Drosophila	silvarentis Hardy & Kaneshiro 1968
+Drosophila	silvata Meijere 1916
+Drosophila	silvestris Perkins 1910
+Drosophila	silvistriata Bock & Baimai 1967
+Drosophila	similis Williston 1896
+Drosophila	simplex Meijere 1914
+Drosophila	simulans Sturtevant 1919
+Drosophila	simulivora Tsacas & Disney 1974
+Drosophila	sinape Bock 1976
+Drosophila	singulata Duda 1924
+Drosophila	sinobscura Watabe 1996
+Drosophila	sinuata Bock 1982
+Drosophila	smicra Tsacas 1980
+Drosophila	smithersi Bock 1976
+Drosophila	sobrina Hardy & Kaneshiro 1971
+Drosophila	sodomae Hardy & Kaneshiro 1968
+Drosophila	sogo Burla 1954
+Drosophila	solennis Walker 1860
+Drosophila	solstitialis Chen 1994
+Drosophila	sonorae Heed & Castrezana 2008
+Drosophila	soonae Takada & Yoon 1989
+Drosophila	sordidapex Grimshaw 1901
+Drosophila	sordidula Kikkawa & Peng 1938
+Drosophila	soror Schiner 1868
+Drosophila	sororia Williston 1896
+Drosophila	spadicifrons Patterson & Mainland 1944
+Drosophila	spaniothrix Hardy & Kaneshiro 1968
+Drosophila	spathicola Okada & Carson 1980
+Drosophila	specensoides Okada & Carson 1983
+Drosophila	speciosa Silva & Martins 2004
+Drosophila	spectabilis Hardy 1965
+Drosophila	spenceri Patterson 1943
+Drosophila	sphaerocera Thomson 1869
+Drosophila	spicula Hardy 1965
+Drosophila	spiethi Hardy 1967
+Drosophila	spinatermina Heed & Wheeler 1957
+Drosophila	spinicauda Malloch 1926
+Drosophila	spinifrons Tsacas & Chassagnard 1990
+Drosophila	spinipes Lamb 1914
+Drosophila	spinomelana Okada & Carson 1983
+Drosophila	spinopenicula Okada 1988
+Drosophila	spinula Okada & Carson 1982
+Drosophila	splendida Williston 1896
+Drosophila	sproati Hardy & Kaneshiro 1968
+Drosophila	spuricurviceps Zhang & Gan 1986
+Drosophila	stackelbergi Duda 1935
+Drosophila	stalkeri Wheeler 1954
+Drosophila	starmeri Wasserman Koepfer & Ward 1973
+Drosophila	stenoptera Hardy 1965
+Drosophila	stenotrichala Lachaise & Chassagnard 2002
+Drosophila	stephanosi Tsacas 2003
+Drosophila	sternopleuralis Okada & Kurokawa 1957
+Drosophila	sticta Wheeler 1957
+Drosophila	stictoptera Tsacas & Chassagnard 1999
+Drosophila	stigma Hardy 1977
+Drosophila	straubae Heed 1991
+Drosophila	strigifrons Meijere 1914
+Drosophila	strigiventris Duda 1927
+Drosophila	sturtevanti Duda 1927
+Drosophila	subantillaria Okada 1984
+Drosophila	subarctica Hackman 1969
+Drosophila	subauraria Kimura 1983
+Drosophila	subbadia Patterson & Mainland 1943
+Drosophila	subelegans Okada 1988
+Drosophila	subeluta Okada & Carson 1983
+Drosophila	subfasciata Meijere 1914
+Drosophila	subflavohalterata Burla 1956
+Drosophila	subfunebris Stalker & Spencer 1939
+Drosophila	subgilva Burla 1956
+Drosophila	subinfumata Duda 1925
+Drosophila	sublineata Duda 1926
+Drosophila	submacroptera Patterson & Mainland 1943
+Drosophila	subminima Okada 1988
+Drosophila	subnitida Malloch 1927
+Drosophila	subobscura Collin 1936
+Drosophila	suboccidentalis Spencer 1942
+Drosophila	subopaca Hardy & Kaneshiro 2001
+Drosophila	suborosa Kumar & Gupta 1992
+Drosophila	subpalustris Spencer 1942
+Drosophila	subpollinosa Meijere 1914
+Drosophila	subpulchrella Takamori & Watabe 2006
+Drosophila	subsaltans Magalhaes 1956
+Drosophila	subsilvestris Hardy & Kaneshiro 1968
+Drosophila	subsltans Magalhaes 1956
+Drosophila	subsplendens Duda 1935
+Drosophila	substenoptera Hardy 1969
+Drosophila	subtilis Kikkawa & Peng 1938
+Drosophila	subviridis Patterson & Mainland 1943
+Drosophila	succini Grimaldi 1987
+Drosophila	sucinea Patterson & Mainland 1944
+Drosophila	suffusca Spencer 1943
+Drosophila	sui Lin & Tseng 1973
+Drosophila	sulfurigaster Duda 1923
+Drosophila	sumatrensis Duda 1926
+Drosophila	superba Sturtevant 1916
+Drosophila	surangensis Singh & Dash 1994
+Drosophila	surukella Okada 1965
+Drosophila	suruku Burla 1954
+Drosophila	suturalis Wheeler 1957
+Drosophila	suzukii Matsumura 1931
+Drosophila	swezeyi Hardy 1965
+Drosophila	sycophaga Tsacas 1981
+Drosophila	sycophila Tsacas 1981
+Drosophila	sycovora Tsacas 1981
+Drosophila	sydneyensis Malloch 1927
+Drosophila	synpanishi Okada 1964
+Drosophila	systenopeza Hardy & Kaneshiro 1979
+Drosophila	taekjuni Kim & Joo 2002
+Drosophila	taeniata Hardy 1965
+Drosophila	taeniopleura Okada 1991
+Drosophila	taiensis Kumar & Gupta 1988
+Drosophila	taipinsanensis Lin & Tseng 1973
+Drosophila	takadai Lee 1964
+Drosophila	takahashii Sturtevant 1927
+Drosophila	talamancana Wheeler 1968
+Drosophila	talasica Gornostayev 1991
+Drosophila	tamashiroi Hardy 1965
+Drosophila	tani Cheng & Okada 1985
+Drosophila	tanorum Okada 1964
+Drosophila	tanytarsis Hardy & Kaneshiro 2001
+Drosophila	tanythrix Hardy 1965
+Drosophila	taractica Hardy 1965
+Drosophila	tarphytrichia Hardy 1965
+Drosophila	tarsalis Walker 1853
+Drosophila	tarsata Schiner 1868
+Drosophila	teissieri Tsacas 1971
+Drosophila	tendomentum Hardy 1965
+Drosophila	tenebrosa Spencer 1943
+Drosophila	tenuicauda Okada 1956
+Drosophila	tenuinokogiri Okada 1991
+Drosophila	tenuipes Walker 1849
+Drosophila	teratos Bock 1982
+Drosophila	testacea Roser 1840
+Drosophila	testacens Wheeler 1981
+Drosophila	tetrachaeta Angus 1964
+Drosophila	tetradentata Singh & Gupta 1981
+Drosophila	tetraspilota Hardy 1965
+Drosophila	tetravittata Takada & Momma 1975
+Drosophila	texana Patterson 1940
+Drosophila	thienemanni Duda 1931
+Drosophila	thodayi Parsons & Bock 1982
+Drosophila	thoracis Williston 1896
+Drosophila	throckmortoni Okada 1973
+Drosophila	tibialis Wheeler 1957
+Drosophila	tibudu Burla 1954
+Drosophila	tjibodas Meijere 1916
+Drosophila	tolteca Patterson & Mainland 1944
+Drosophila	tomasi Vela & Rafael 2001
+Drosophila	tongpua Lin & Tseng 1973
+Drosophila	tonpua Lin & Ting 1971
+Drosophila	torquata Zhang & Toda 1995
+Drosophila	torrei Sturtevant 1921
+Drosophila	torula Hardy 1965
+Drosophila	totonigra Hardy 1965
+Drosophila	touchardiae Hardy & Kaneshiro 1972
+Drosophila	toxochaeta Perreira & Kaneshiro 1991
+Drosophila	toyohii Lin & Tseng 1972
+Drosophila	toyohiokadai Sidorenko 1990
+Drosophila	tozana Bock 1989
+Drosophila	tranquilla Spencer 1943
+Drosophila	transversa Fallen 1823
+Drosophila	trapeza Heed & Wheeler 1957
+Drosophila	trapezifrons Okada 1966
+Drosophila	triaina Lu & Zhang 2004
+Drosophila	triangula Wheeler 1949
+Drosophila	triangulifer Lamb 1914
+Drosophila	triangulina Duda 1927
+Drosophila	triantilia Okada 1988
+Drosophila	triauraria Bock & Wheeler 1972
+Drosophila	trichaeta Angus 1967
+Drosophila	trichaetosa Hardy 1965
+Drosophila	trichala Lachaise & Chassagnard 2002
+Drosophila	trichiaspis Duda 1940
+Drosophila	tricingulata Okada & Carson 1980
+Drosophila	tricolora Bock 1976
+Drosophila	tricombata Singh & Gupta 1977
+Drosophila	trifasciata Meijere 1916
+Drosophila	trifiloides Wheeler 1957
+Drosophila	trifilum Frota-Pessoa 1954
+Drosophila	trifurca Bock 1982
+Drosophila	trilimbata Bezzi 1928
+Drosophila	trilineata Chung 1960
+Drosophila	trilutea Bock & Wheeler 1972
+Drosophila	tripartita Okada 1966
+Drosophila	tripunctata Loew 1862
+Drosophila	triseta Meijere 1911
+Drosophila	trisetosa Okada 1966
+Drosophila	trispina Wheeler 1949
+Drosophila	tristani Sturtevant 1921
+Drosophila	tristipennis Duda 1924
+Drosophila	tristipes Duda 1924
+Drosophila	tristis Fallen 1823
+Drosophila	tristriata Heed & Wheeler 1957
+Drosophila	triultea Bock & Wheeler 1972
+Drosophila	trivittata Strobl 1893
+Drosophila	trizonata Okada 1966
+Drosophila	tropicalis Burla & Cunha 1949
+Drosophila	truncata Okada 1964
+Drosophila	truncipenna Hardy 1965
+Drosophila	tsacasi Bock & Wheeler 1972
+Drosophila	tschirnhausi Bachli & Vilela 2002
+Drosophila	tsigana Burla & Gloor 1952
+Drosophila	tsukubaensis Takamori 1983
+Drosophila	tuchaua Pavan 1950
+Drosophila	tucumana Vilela & Pereira 1985
+Drosophila	turbata Hardy & Kaneshiro 1969
+Drosophila	tychaea Tsacas 1981
+Drosophila	uebe Burla 1954
+Drosophila	undulata Grimshaw
+Drosophila	ungarensis Meijere 1911
+Drosophila	unguicula Okada & Carson 1983
+Drosophila	unicolor Walker 1864
+Drosophila	unicolorata Wheeler 1959
+Drosophila	unicula Hardy 1965
+Drosophila	unimaculata Strobl 1893
+Drosophila	uninubes Patterson & Mainland 1943
+Drosophila	unipectinata Duda 1924
+Drosophila	unipucntata Patterson 1943
+Drosophila	unipunctata Patterson 1943
+Drosophila	uniseriata Hardy & Kaneshiro 1968
+Drosophila	uniseta Wasserman Koepfer & Ward 1973
+Drosophila	unispina Okada 1956
+Drosophila	upoluae Malloch 1934
+Drosophila	urubamba Vilela & Pereira 1993
+Drosophila	usambarensis Lachaise & Chassagnard 2001
+Drosophila	ussurica Duda 1935
+Drosophila	ustulata Meijere 1908
+Drosophila	valeana Bock 1984
+Drosophila	valenciai Vela & Rafael 2001
+Drosophila	vallismaia Tsacas 1984
+Drosophila	vanderlindei Ruiz-Fiegalan 2004
+Drosophila	vara Zhang 2004
+Drosophila	varga Hardy 1965
+Drosophila	variabilis Hardy 1965
+Drosophila	varians Bock & Wheeler 1972
+Drosophila	variata Bock 1982
+Drosophila	varifrons Grimshaw 1901
+Drosophila	variopicta Becker 1908
+Drosophila	varipennis Grimshaw 1901
+Drosophila	varipes Macquart 1835
+Drosophila	vazrae Kumar & Gupta 1993
+Drosophila	velascoi Ruiz-Fiegalan 2003
+Drosophila	velata Hardy 1965
+Drosophila	velox Watabe & Peng 1991
+Drosophila	velutinifrons Hardy 1965
+Drosophila	venezolana Wasserman Fontdevila & Ruiz 1983
+Drosophila	venusta Hardy 1965
+Drosophila	verticis Williston 1896
+Drosophila	vesciseta Hardy & Kaneshiro 1968
+Drosophila	vicaria Hardy 1965
+Drosophila	vicentinae Vilela 1983
+Drosophila	victoria Sturtevant 1942
+Drosophila	villitibia Hardy 1965
+Drosophila	villosa Hardy 1965
+Drosophila	villosipedis Hardy 1965
+Drosophila	vina Burla 1954
+Drosophila	vindicta Parsons & Bock 1982
+Drosophila	vinnula Hardy 1965
+Drosophila	viracochi Brncic & Santibanez 1957
+Drosophila	vireni Bachli Vilela & Haring 2002
+Drosophila	virgulata Hardy & Kaneshiro 1968
+Drosophila	virilis Sturtevant 1916
+Drosophila	vittatifrons Williston 1896
+Drosophila	vulcana Graber 1957
+Drosophila	vumbae Bock & Wheeler 1972
+Drosophila	waddingtoni Basden 1976
+Drosophila	wakahamai Toda & Peng 1989
+Drosophila	wangi Toda & Zhang 1995
+Drosophila	wassermani Pitnick & Heed 1994
+Drosophila	watanabei Gupta 1992
+Drosophila	wauana Okada & Carson 1982
+Drosophila	whartonae Pipkin & Heed 1964
+Drosophila	wheeleri Patterson & Alexander 1952
+Drosophila	whianensis Bock 1976
+Drosophila	williamsi Hardy 1965
+Drosophila	willistoni Sturtevant 1916
+Drosophila	wingei Cordeiro 1964
+Drosophila	xalapa Vilela & Bachli 2004
+Drosophila	xanthia Tsacas 1981
+Drosophila	xanthochroa Tsacas 2001
+Drosophila	xanthogaster Duda 1924
+Drosophila	xanthognoma Hardy 1965
+Drosophila	xanthopallescens Pipkin 1964
+Drosophila	xanthops Okada & Carson 1980
+Drosophila	xanthorrhoeae Bock 1984
+Drosophila	xanthosoma Grimshaw 1901
+Drosophila	xenophaga Kam & Perreira 2003
+Drosophila	xerophila Val 1983
+Drosophila	xiphiochaeta Tsacas & Chassagnard 1990
+Drosophila	xiphiphora Pipkin 1964
+Drosophila	xuthoptera Hardy 1965
+Drosophila	yakuba Burla 1954
+Drosophila	yakushimana Okada 1967
+Drosophila	yangana Rafael & Vela 2003
+Drosophila	yooni Hardy 1977
+Drosophila	yunnanensis Watabe & Liang 1990
+Drosophila	yuwanensis Kim & Okada 1988
+Drosophila	z-notata Bryan 1934
+Drosophila	zebrina Bezzi 1928
+Drosophila	zentae Bock 1976
+Drosophila	zingiphila Kumar & Gupta 1993
+Drosophila	zonaria Okada 1966
+Drosophila	zonata Chen & Watabe 1993
+Drosophila	zophea Tsacas 2004
+Drosophila	zottii Vilela 1983
+Electrophortica	succini Hennig 1965
+Erima	annulata Malloch 1923
+Erima	brincki Hackman 1960
+Erima	convergens Malloch 1927
+Erima	crassiseta Hackman 1960
+Erima	fasciata Kertesz 1899
+Hirtodrosophila	actinia Okada 1991
+Hirtodrosophila	akabo Burla 1954
+Hirtodrosophila	alabamensis Sturtevant 1918
+Hirtodrosophila	albiventer McEvey & Bock 1982
+Hirtodrosophila	alboralis Momma & Takada 1954
+Hirtodrosophila	allynensis Bock 1976
+Hirtodrosophila	alpiniae Okada & Carson 1980
+Hirtodrosophila	apicohispida Okada 1973
+Hirtodrosophila	asozana Okada 1956
+Hirtodrosophila	astioidea Duda 1923
+Hirtodrosophila	astoides Duda 1923
+Hirtodrosophila	audientis Lin & Ting 1971
+Hirtodrosophila	baechlii Bock 1982
+Hirtodrosophila	baikalensis Watabe Toda & Sidorenko 1996
+Hirtodrosophila	batracida Grimaldi 1994
+Hirtodrosophila	bicoloripennis Okada 1991
+Hirtodrosophila	borbonica Tsacas & David 1975
+Hirtodrosophila	borboros Bock 1976
+Hirtodrosophila	cameraria Haliday 1833
+Hirtodrosophila	caputudis Grimaldi 1986
+Hirtodrosophila	chagrinensis Stalker & Spencer 1939
+Hirtodrosophila	chandleri Grimaldi 1988
+Hirtodrosophila	cinerea Patterson & Wheeler 1942
+Hirtodrosophila	clypeata Wheeler 1968
+Hirtodrosophila	clypeora Wheeler 1968
+Hirtodrosophila	clypitata Grimaldi 1987
+Hirtodrosophila	confusa Staeger 1844
+Hirtodrosophila	cowani Vilela & Bachli 2004
+Hirtodrosophila	danielae McEvey & Bock 1982
+Hirtodrosophila	dentata Duda 1924
+Hirtodrosophila	dintata Duda 1924
+Hirtodrosophila	dolichophallata Kumar & Gupta 1992
+Hirtodrosophila	donaldi Wheeler 1981
+Hirtodrosophila	duncani Sturtevant 1918
+Hirtodrosophila	durantae Bock & Parsons 1979
+Hirtodrosophila	elliptosa Okada 1974
+Hirtodrosophila	fascipennis Okada 1967
+Hirtodrosophila	flabellopalpis Okada 1991
+Hirtodrosophila	flavohalterata Duda 1925
+Hirtodrosophila	furcapenis Zhang & Liang 1995
+Hirtodrosophila	furcapenisoides Zhang & Liang 1995
+Hirtodrosophila	fuscohalterata Duda 1925
+Hirtodrosophila	gavea Vilela & Bachli 2005
+Hirtodrosophila	gilva Burla 1956
+Hirtodrosophila	glabrifrons Duda 1925
+Hirtodrosophila	grisea Patterson & Wheeler 1942
+Hirtodrosophila	hannae Bock & Parsons 1978
+Hirtodrosophila	hexapogon Okada 1991
+Hirtodrosophila	hexaspina Fartyal & Singh 2002
+Hirtodrosophila	hirticornis Meijere 1914
+Hirtodrosophila	hirtinotata Okada 1991
+Hirtodrosophila	hirtominuta Bachli 1974
+Hirtodrosophila	hirtonigra Bachli 1974
+Hirtodrosophila	hirudo Back & Parsons 1978
+Hirtodrosophila	histrioides Okada & Kurokawa 1957
+Hirtodrosophila	ikedai Toda 1989
+Hirtodrosophila	innocua Malloch 1934
+Hirtodrosophila	isatoidea Bachli 1974
+Hirtodrosophila	jacobsoni Duda 1926
+Hirtodrosophila	jordanensis Frota-Pessoa 1945
+Hirtodrosophila	junae Grossfield 1976
+Hirtodrosophila	kaindiana Okada & Carson 1982
+Hirtodrosophila	kangi Okada & Lee 1961
+Hirtodrosophila	kuscheli Brncic 1957
+Hirtodrosophila	lamingtoni Bock 1982
+Hirtodrosophila	lappetata McEvey & Bock 1982
+Hirtodrosophila	latifrontata Frota-Pessoa 1945
+Hirtodrosophila	latinokogiri Okada 1968
+Hirtodrosophila	laurelae Bock 1982
+Hirtodrosophila	levigata Burla 1956
+Hirtodrosophila	limbicostata Okada 1966
+Hirtodrosophila	longala Patterson & Wheeler 1942
+Hirtodrosophila	longecrinita Duda 1924
+Hirtodrosophila	longetrinica Bachli 1974
+Hirtodrosophila	longialata Takada & Momma 1975
+Hirtodrosophila	longicorpata Takada & Momma 1975
+Hirtodrosophila	longifurcapenis Zhang & Liang 1995
+Hirtodrosophila	longiphallus Gupta & Sundaran 1990
+Hirtodrosophila	longivittata Hegde Naseerulla & Jayashankar 1989
+Hirtodrosophila	lundstroemi Duda 1935
+Hirtodrosophila	macalpinei Bock 1976
+Hirtodrosophila	macromaculata Kang & Lee 1961
+Hirtodrosophila	magnarcus Frota-Pessoa 1951
+Hirtodrosophila	makinoi Okada 1956
+Hirtodrosophila	manonoensis Harrison 1954
+Hirtodrosophila	mediohispida Okada 1967
+Hirtodrosophila	mendeli Mourao Gallo & Bicudo 1965
+Hirtodrosophila	menisigra Bachli 1974
+Hirtodrosophila	mexicoa Wheeler 1954
+Hirtodrosophila	miniserrata Okada 1991
+Hirtodrosophila	minuscula Vilela & Bachli 2005
+Hirtodrosophila	mixtura Bock 1976
+Hirtodrosophila	morgani Mourao Gallo & Bicudo 1967
+Hirtodrosophila	mycetophaga Malloch 1924
+Hirtodrosophila	narinosa Frota-Pessoa 1945
+Hirtodrosophila	naumanni Bock 1986
+Hirtodrosophila	neomakinoi Gupta & Singh 1981
+Hirtodrosophila	nigripennis Kang Lee & Bahng 1965
+Hirtodrosophila	nigriventer McEvey & Bock 1982
+Hirtodrosophila	nigrohalterata Duda 1925
+Hirtodrosophila	nokogiri Okada 1956
+Hirtodrosophila	novicia Wheeler & Takada 1964
+Hirtodrosophila	nubalata Okada 1991
+Hirtodrosophila	nudimanona Okada 1991
+Hirtodrosophila	nudinokogiri Okada 1967
+Hirtodrosophila	okadomei Okada 1967
+Hirtodrosophila	oldenbergi Duda 1924
+Hirtodrosophila	omogoensis Okada 1956
+Hirtodrosophila	orbospiracula Patterson & Wheeler 1942
+Hirtodrosophila	ordinaria Coquillett 1904
+Hirtodrosophila	paiviae Toda & Riihimaa 1987
+Hirtodrosophila	palumae Bock 1976
+Hirtodrosophila	paradentata Bachli 1974
+Hirtodrosophila	paradinticeps Okada 1971
+Hirtodrosophila	paralatifrontata Bachli 1974
+Hirtodrosophila	paramanona Okada 1991
+Hirtodrosophila	pentavittata Gupta & Ray-Chaudhuri 1970
+Hirtodrosophila	pichis Vilela & Bachli 1990
+Hirtodrosophila	pictiventris Duda 1925
+Hirtodrosophila	pleuralis Williston 1896
+Hirtodrosophila	pleurostrigata Burla 1956
+Hirtodrosophila	poecilogastra Duda 1926
+Hirtodrosophila	polypori Malloch 1924
+Hirtodrosophila	prognatha Sturtevant 1916
+Hirtodrosophila	pseudonokogiri Kang Lee & Bahng 1965
+Hirtodrosophila	quadrivittata Okada 1956
+Hirtodrosophila	ramulosa Burla 1956
+Hirtodrosophila	reilliana Bock 1982
+Hirtodrosophila	sanyi Burla 1954
+Hirtodrosophila	scutellata Duda 1926
+Hirtodrosophila	seminigra Duda 1926
+Hirtodrosophila	seminokogiri Okada 1967
+Hirtodrosophila	sexvittata Okada 1956
+Hirtodrosophila	shaitanensis Sidorenko 1996
+Hirtodrosophila	shiptonensis Bock 1984
+Hirtodrosophila	solomonica Takada 1983
+Hirtodrosophila	spinicauda Malloch 1926
+Hirtodrosophila	spinipes Lamb 1914
+Hirtodrosophila	strigocula Burla 1956
+Hirtodrosophila	subarctica Hackman 1969
+Hirtodrosophila	subflavohalterata Burla 1956
+Hirtodrosophila	subgilva Burla 1956
+Hirtodrosophila	sublineata Duda 1926
+Hirtodrosophila	taeniopleura Okada 1991
+Hirtodrosophila	tenuinokogiri Okada 1991
+Hirtodrosophila	thoracis Williston 1896
+Hirtodrosophila	toyohiokadai Sidorenko 1990
+Hirtodrosophila	tozana Bock 1989
+Hirtodrosophila	trapezina Duda 1923
+Hirtodrosophila	tricolora Bock 1976
+Hirtodrosophila	trifasciata Meijere 1916
+Hirtodrosophila	trifurca Bock 1982
+Hirtodrosophila	trilineata Chung 1960
+Hirtodrosophila	trivittata Strobl 1893
+Hirtodrosophila	unicolorata Wheeler 1959
+Hirtodrosophila	ussurica Duda 1935
+Hirtodrosophila	vina Burla 1954
+Hirtodrosophila	whianensis Bock 1976
+Hirtodrosophila	yakushimana Okada 1967
+Hirtodrosophila	zentae Bock 1976
+Leucophenga	abbreviata Meijere 1911
+Leucophenga	academica Maca & Lin 1993
+Leucophenga	acutipennis Malloch 1926
+Leucophenga	acutipollinosa Okada 1987
+Leucophenga	africana Bachli 1971
+Leucophenga	albiceps Meijere 1914
+Leucophenga	albifascia Okada 1966
+Leucophenga	albofasciata Macquart 1851
+Leucophenga	ambigua Kahl 1917
+Leucophenga	angulata Singh Dash & Fartyal 2000
+Leucophenga	angusta Okada 1956
+Leucophenga	apicifera Adams 1905
+Leucophenga	argentata Meijere 1914
+Leucophenga	argenteiventris Kahl 1917
+Leucophenga	argenteofasciata Kahl 1917
+Leucophenga	argentina Meijere 1924
+Leucophenga	atra Bachli 1971
+Leucophenga	atrinervis Okada 1968
+Leucophenga	atriventris Lin & Wheeler 1972
+Leucophenga	bakeri Sturtevant 1927
+Leucophenga	basilaris Adams 1905
+Leucophenga	bella Curran 1928
+Leucophenga	bellula Bergroth 1894
+Leucophenga	bezzii Sturtevant 1927
+Leucophenga	bifasciata Duda 1923
+Leucophenga	bimaculata Loew 1866
+Leucophenga	bistriata Kahl 1917
+Leucophenga	bivirgata Bachli 1971
+Leucophenga	boninensis Wheeler & Takada 1964
+Leucophenga	brazilensis Malloch 1924
+Leucophenga	brunneipennis Kahl 1917
+Leucophenga	burlai Bachli 1971
+Leucophenga	buxtoni Duda 1935
+Leucophenga	caliginosa Bachli 1971
+Leucophenga	candida Bock 1989
+Leucophenga	capillata Bachli 1971
+Leucophenga	chaco Wheeler 1968
+Leucophenga	champawatensis Fartyal & Singh 2005
+Leucophenga	chaubattiaensis Fartyal & Singh 2001
+Leucophenga	cincta Meijere 1911
+Leucophenga	clubiata Singh Dash
+Leucophenga	concilia Okada 1956
+Leucophenga	confluens Duda 1923
+Leucophenga	cooperensis Bock 1979
+Leucophenga	costata Okada 1966
+Leucophenga	cuneata Bachli 1971
+Leucophenga	curvipila Duda 1939
+Leucophenga	cuthbertsoni Malloch 1929
+Leucophenga	cyanorosa Bock 1979
+Leucophenga	decaryi Seguy 1932
+Leucophenga	denigrata Bachli 1971
+Leucophenga	dentata Bachli 1971
+Leucophenga	digmasoma Lin & Wheeler 1972
+Leucophenga	dilatata Bachli 1971
+Leucophenga	disjuncta Bachli 1971
+Leucophenga	domanda Bock 1984
+Leucophenga	dudai Bachli 1971
+Leucophenga	edwardsi Bachli 1971
+Leucophenga	elegans Duda 1927
+Leucophenga	fenchihuensis Okada 1987
+Leucophenga	fenestrata Duda 1927
+Leucophenga	ferrari Bachli Vilela & McEvey 2005
+Leucophenga	flavicosta Duda 1926
+Leucophenga	flaviseta Adams 1905
+Leucophenga	flavohalterata Malloch 1925
+Leucophenga	flavopuncta Malloch 1925
+Leucophenga	formosa Okada 1987
+Leucophenga	frontalis Williston 1896
+Leucophenga	fuscipennis Duda 1923
+Leucophenga	fuscorbitata Bachli 1971
+Leucophenga	gibbosa Meijere 1914
+Leucophenga	goodi Kahl 1917
+Leucophenga	grossipalpis Lamb 1914
+Leucophenga	guro Burla 1954
+Leucophenga	guttata Wheeler 1952
+Leucophenga	hasemani Kahl 1917
+Leucophenga	helvetica Bachli Vilela & Haring 2002
+Leucophenga	horea Tsacas & Chassagnard 1991
+Leucophenga	hungarica Papp 2000
+Leucophenga	imminuta Bachli 1971
+Leucophenga	incurvata Bachli 1971
+Leucophenga	insulana Schiner 1868
+Leucophenga	interrupta Duda 1924
+Leucophenga	iriomotensis Chen & Aotsuka 2003
+Leucophenga	isaka Bachli Vilela & McEvey 2005
+Leucophenga	ivontaka Bachli Vilela & McEvey 2005
+Leucophenga	jacobsoni Duda 1926
+Leucophenga	janicae Bock 1979
+Leucophenga	japonica Sidorenko 1991
+Leucophenga	kilembensis Bachli 1971
+Leucophenga	kumaonensis Fartyal & Singh 2001
+Leucophenga	kurahashii Okada 1987
+Leucophenga	lacteusa Takada & Wakahama 1967
+Leucophenga	latevittata Duda 1939
+Leucophenga	latifrons Duda 1923
+Leucophenga	limbipennis Meijere 1908
+Leucophenga	londti Bachli Vilela & McEvey 2005
+Leucophenga	lubrica Bock 1979
+Leucophenga	lynettae Bock 1984
+Leucophenga	maculata Dufour 1839
+Leucophenga	maculosa Coquillett 1895
+Leucophenga	magnipalpis Duda 1923
+Leucophenga	magnornata Bachli 1971
+Leucophenga	malgachensis Bachli Vilela & McEvey 2005
+Leucophenga	mananara Bachli Vilela & McEvey 2005
+Leucophenga	mansura Adams 1905
+Leucophenga	meijerei Duda 1924
+Leucophenga	melanogaster Tsacas & Chassagnard 1991
+Leucophenga	meredithiana Okada 1987
+Leucophenga	montana Wheeler 1952
+Leucophenga	muden Bachli Vilela & McEvey 2005
+Leucophenga	multipunctata Chen & Aotsuka 2003
+Leucophenga	munroi Duda 1939
+Leucophenga	mutabilis Adams 1905
+Leucophenga	nainae Fartyal & Singh 2001
+Leucophenga	neoangusta Godbole & Vaidya 1976
+Leucophenga	neointerrupta Fartyal & Singh 2001
+Leucophenga	neolacteusa Singh & Bhatt 1988
+Leucophenga	neopalpalis Bachli 1971
+Leucophenga	neovaria Wheeler 1960
+Leucophenga	neovittata Bachli 1971
+Leucophenga	nigriceps Okada 1966
+Leucophenga	nigrinervis Duda 1924
+Leucophenga	nigripalpalis Tsacas & Chassagnard 1991
+Leucophenga	nigripalpis Duda 1923
+Leucophenga	nigrorbitata Bachli 1971
+Leucophenga	nigroscutellata Duda 1924
+Leucophenga	obscura Chen & Aotsuka 2003
+Leucophenga	obscuripennis Loew 1866
+Leucophenga	oedipus Seguy 1938
+Leucophenga	okhalkandensis Singh Dash & Fartyal 2000
+Leucophenga	orientalis Lin & Wheeler 1972
+Leucophenga	ornata Wheeler 1959
+Leucophenga	ornativentris Kahl 1917
+Leucophenga	pacifica Bock 1986
+Leucophenga	palpalis Adams 1905
+Leucophenga	paludicola Patterson & Mainland 1944
+Leucophenga	papuana Okada 1987
+Leucophenga	paracapillata Bachli 1971
+Leucophenga	paracuthbertsoni Bachli 1971
+Leucophenga	paraflaviseta Bachli 1971
+Leucophenga	patternella Bock 1979
+Leucophenga	pectinata Okada 1968
+Leucophenga	pentapunctata Panigrahy & Gupta 1982
+Leucophenga	perargentata Bachli 1971
+Leucophenga	philippinensis Sidorenko 1998
+Leucophenga	pleurovirgata Bachli 1971
+Leucophenga	poeciliventris Malloch 1923
+Leucophenga	ponapensis Wheeler & Takada 1964
+Leucophenga	proxima Adams 1905
+Leucophenga	pulcherrima Patterson & Mainland 1944
+Leucophenga	pulchra Schiner 1868
+Leucophenga	quadripunctata Meijere 1908
+Leucophenga	quinquemaculata marginalis Oldenberg 1914
+Leucophenga	marginalis Oldenberg 1914
+Leucophenga	quinquemaculata quinquemaculata Strobl 1893
+Leucophenga	quinquemaculata Strobl 1893
+Leucophenga	quinquemaculipennis Okada 1956
+Leucophenga	ranohira Bachli Vilela & McEvey 2005
+Leucophenga	rectinervis Okada 1966
+Leucophenga	regina Malloch 1935
+Leucophenga	repletoides Bachli 1971
+Leucophenga	rimbickana Singh & Gupta 1981
+Leucophenga	rudis Walker 1860
+Leucophenga	saigusai Okada 1968
+Leucophenga	salatigae Meijere 1914
+Leucophenga	samoaensis Harrison 1954
+Leucophenga	scaevolaevora Seguy 1951
+Leucophenga	schnuseana Duda 1927
+Leucophenga	sculpta Chen & Toda 1994
+Leucophenga	scutellata Malloch 1923
+Leucophenga	sema Burla 1954
+Leucophenga	semicapillata Bachli 1971
+Leucophenga	semiplumata Duda 1939
+Leucophenga	sericea Lamb 1914
+Leucophenga	serrata Bachli 1971
+Leucophenga	setipalpis Duda 1923
+Leucophenga	shillogensis Dwivedi & Gupta 1979
+Leucophenga	shillongensis Dwivedi & Gupta 1979
+Leucophenga	sierraleonica Bachli 1971
+Leucophenga	singhi Fartyal & Singh 2001
+Leucophenga	sordida Duda 1923
+Leucophenga	sorii Kang Lee & Bahng 1965
+Leucophenga	spilossoma Lin & Wheeler 1972
+Leucophenga	spinifera Okada 1987
+Leucophenga	stackelbergi Duda 1934
+Leucophenga	stenomaculipennis Okada 1968
+Leucophenga	stigma Bock 1979
+Leucophenga	striata Bachli 1971
+Leucophenga	striatipennis Okada 1989
+Leucophenga	stuckenbergi Bachli Vilela & McEvey 2005
+Leucophenga	subacutipennis Duda 1924
+Leucophenga	subpollinosa Meijere 1914
+Leucophenga	subvirgata Bachli 1971
+Leucophenga	subvittata Duda 1939
+Leucophenga	suzukii Matsumura 1931
+Leucophenga	taiwanensis Lin & Wheeler 1972
+Leucophenga	tectifrons Meijere 1914
+Leucophenga	tenebrosa Bachli 1971
+Leucophenga	tenuipalpis Takada & Momma 1975
+Leucophenga	todai Sidorenko 1991
+Leucophenga	tripunctipennis Malloch 1926
+Leucophenga	trisphenata Wheeler 1952
+Leucophenga	trispina Upadhyay & Singh 2007
+Leucophenga	tritaeniata Duda 1923
+Leucophenga	trivittata Okada 1991
+Leucophenga	umbratula Duda 1924
+Leucophenga	umbrosa Bachli 1971
+Leucophenga	undulata Hendel 1913
+Leucophenga	unifasciventris Malloch 1926
+Leucophenga	varia Walker 1849
+Leucophenga	varinervis Duda 1923
+Leucophenga	violae Bock 1979
+Leucophenga	wauensis Okada 1989
+Leucophenga	xanthobasis Curran 1936
+Leucophenga	zebra Bock 1979
+Leucophengae	sorii Kang Lee & Bahng 1965
+Microdrosophila	acristata Okada 1968
+Microdrosophila	bamanpuriensis Upadhyay & Singh 2007
+Microdrosophila	basiprojecta Zhang 2004
+Microdrosophila	bicornua Okada 1985
+Microdrosophila	bilineata Kumar & Gupta 1990
+Microdrosophila	bimaculata Meijere 1908
+Microdrosophila	bipartita Zhang 1989
+Microdrosophila	bullata Takada & Momma 1975
+Microdrosophila	chejuensis Lee & Kim 1990
+Microdrosophila	chinsurae De & Gupta 1994
+Microdrosophila	chuii Chen 1994
+Microdrosophila	conda Zhang 1989
+Microdrosophila	congesta Zetterstedt 1847
+Microdrosophila	conica Okada 1985
+Microdrosophila	convergens Malloch 1934
+Microdrosophila	cristata Okada 1960
+Microdrosophila	cucullata Zhang 1989
+Microdrosophila	curvula Zhang 1989
+Microdrosophila	dentata Zhang 1989
+Microdrosophila	discrepantia Bock 1982
+Microdrosophila	distincta Wheeler & Takada 1964
+Microdrosophila	duplicristata Okada 1985
+Microdrosophila	elongata Okada 1965
+Microdrosophila	falciformis Chen & Toda 1994
+Microdrosophila	filamentea Okada 1985
+Microdrosophila	frontata Meijere 1916
+Microdrosophila	furcata Okada 1988
+Microdrosophila	fuscata Okada 1960
+Microdrosophila	gangtokensis Gupta & Gupta 1991
+Microdrosophila	gangwonensis Kim & Joo 2002
+Microdrosophila	hasta Bock 1982
+Microdrosophila	honoghensis Zhang 1989
+Microdrosophila	jarrae Bock 1982
+Microdrosophila	korogo Burla 1954
+Microdrosophila	laticlavia Wheeler & Kambysellis 1966
+Microdrosophila	latifrons Okada 1965
+Microdrosophila	luchunensis Zhang 1989
+Microdrosophila	mabi Burla 1954
+Microdrosophila	macroctenia Okada 1988
+Microdrosophila	maculata Okada 1960
+Microdrosophila	magniflava Zhang 1989
+Microdrosophila	mamaru Burla 1954
+Microdrosophila	marginata Okada 1966
+Microdrosophila	matsudairai Okada 1960
+Microdrosophila	neodistincta Sundaran & Gupta 1990
+Microdrosophila	nigripalpis Okada 1966
+Microdrosophila	nigrispina Okada 1985
+Microdrosophila	nigrohalterata Okada 1966
+Microdrosophila	ochracella Wheeler & Takada 1964
+Microdrosophila	paradistincta De & Gupta 1994
+Microdrosophila	pauciramosa Okada 1966
+Microdrosophila	pectinata Okada 1966
+Microdrosophila	peniciliata De & Gupta 1994
+Microdrosophila	philippina Okada 1985
+Microdrosophila	pleurolineata Wheeler & Takada 1964
+Microdrosophila	pseudopleurolineata Okada 1968
+Microdrosophila	purpurata Okada 1956
+Microdrosophila	quadrata Sturtevant 1916
+Microdrosophila	residua Bock 1982
+Microdrosophila	rhoparia Okada 1985
+Microdrosophila	sagittatusa Chen 1994
+Microdrosophila	sarawakana Okada 1985
+Microdrosophila	serrata Okada 1985
+Microdrosophila	setulosa Zhang 1989
+Microdrosophila	sexsetosa Duda 1939
+Microdrosophila	sikkimensis Kumar & Gupta 1990
+Microdrosophila	spiciferipennis Zhang 1989
+Microdrosophila	submarginata Okada 1965
+Microdrosophila	suvae Wheeler & Kambysellis 1966
+Microdrosophila	tabularis Zhang 1989
+Microdrosophila	takadai Bock 1982
+Microdrosophila	tecifrons Meijere 1914
+Microdrosophila	tectifrons Meijere 1914
+Microdrosophila	triaina Lu & Zhang 2004
+Microdrosophila	urashimae Okada 1960
+Microdrosophila	vara Zhang 2004
+Microdrosophila	virajpetiensis Sundaran & Gupta 1990
+Microdrosophila	vittata Okada 1985
+Microdrosophila	zetterstedti Wheeler 1959
+Paracacoxenus	guttatus Hardy & Wheeler 1960
+Paracacoxenus	inquilinus Hendel 1933
+Paraphortica	lata Becker 1907
+Parastegana	drosophiloides Toda & Peng 1992
+Parastegana	femorata Duda 1923
+Parastegana	maculipennis Okada 1971
+Phortica	acongruens Zhang & Shi 1997
+Phortica	afoliolata Chen & Toda 2005
+Phortica	africana Malloch 1925
+Phortica	albavictoria Patterson & Mainland 1944
+Phortica	albodorsata Sturtevant 1927
+Phortica	albomaculata Duda 1926
+Phortica	alpha Chen & Toda 2007
+Phortica	angulata Prigent & Chen 2008
+Phortica	annulata Malloch 1923
+Phortica	antheria Okada 1977
+Phortica	antillaria Chen & Toda 1997
+Phortica	bandes Singh & Negi 1992
+Phortica	bicornuta Chen & Toda 1997
+Phortica	bipartita Toda & Peng 1992
+Phortica	biprotrusa Chen & Toda 1998
+Phortica	brachychaeta Chen & Toda 2005
+Phortica	cardua Okada 1977
+Phortica	chi Toda & Sidorenko 1996
+Phortica	conifera Okada 1977
+Phortica	curvispina Prigent & Chen 2008
+Phortica	eparmata Okada 1977
+Phortica	epsilon Chen & Toda 2007
+Phortica	erinacea Maca 1977
+Phortica	eugamma Toda & Peng 1990
+Phortica	excrescentiosa Toda & Peng 1990
+Phortica	expansa Chen & Toda 2007
+Phortica	fangae Maca 1993
+Phortica	fenestrata Duda 1939
+Phortica	flavithorax Duda 1939
+Phortica	flexuosa Zhang & Gan 1986
+Phortica	foliacea Tsacas & Okada 1983
+Phortica	foliata Chen & Toda 1997
+Phortica	foliiseta Duda 1923
+Phortica	foliisetoides Chen & Toda 2005
+Phortica	gamma Toda & Peng 1990
+Phortica	gigas Okada 1977
+Phortica	glabra Chen & Toda 2005
+Phortica	glabtabula Chen & Gao 2006
+Phortica	goetzi Maca 1987
+Phortica	gombakana Takada & Momma 1975
+Phortica	hainanensis Chen & Toda 1998
+Phortica	hani Zhang & Shi 1997
+Phortica	helva Chen & Gao 2008
+Phortica	hongae Maca 1993
+Phortica	huachucae Wheeler 1960
+Phortica	huazhii Cheng & Chen 2008
+Phortica	huiluoi Cheng & Chen 2008
+Phortica	iota Toda & Sidorenko 1996
+Phortica	jamilii Chen & Toda 2007
+Phortica	kappa Maca 1977
+Phortica	kinabalensis Chen & Toda 2007
+Phortica	kukuanensis Maca 2003
+Phortica	lambda Toda & Peng 1990
+Phortica	lanuginosa Chen & Toda 2007
+Phortica	latifoliacea Chen & Watabe 2008
+Phortica	latipenis Chen & Gao 2006
+Phortica	liewi Chen & Toda 2007
+Phortica	linae Maca & Chen 1993
+Phortica	longipenis Chen & Gao 2006
+Phortica	machoruka Prigent & Chen 2008
+Phortica	maculiceps Duda 1924
+Phortica	magna Okada 1960
+Phortica	manjano Prigent & Chen 2008
+Phortica	melanopous Prigent & Chen 2008
+Phortica	membranifera Chen & Toda 2007
+Phortica	multiprocera Chen & Gao 2008
+Phortica	ni Chen & Toda 2007
+Phortica	nigrifoliiseta Takada Momma & Shima 1973
+Phortica	nudiarista Cheng & Chen 2008
+Phortica	okadai Maca 1977
+Phortica	oldenbergi Duda 1924
+Phortica	omega Okada 1977
+Phortica	orientalis Hendel 1914
+Phortica	palmata Chen & Toda 2007
+Phortica	pangi Chen & Wen 2006
+Phortica	pappi Tsacas & Okada 1983
+Phortica	paramagna Okada 1971
+Phortica	parviarista Cheng & Chen 2008
+Phortica	pasohensis Chen & Toda 2007
+Phortica	penidenticulata Gupta & Gupta 1992
+Phortica	perforcipata Maca & Lin 1993
+Phortica	pi Toda & Peng 1990
+Phortica	picta Coquillett 1904
+Phortica	polychaeta Wheeler 1968
+Phortica	protrusa Zhang & Shi 1997
+Phortica	pseudogigas Zhang & Gan 1986
+Phortica	pseudopi Toda & Peng 1990
+Phortica	pseudotau Toda & Peng 1990
+Phortica	psi Zhang & Gan 1986
+Phortica	radiata Duda 1926
+Phortica	rhagolobos Chen & Gao 2008
+Phortica	saeta Zhang & Gan 1986
+Phortica	sagittaristula Chen & Wen 2006
+Phortica	saltiaristula Chen & Wen 2006
+Phortica	scutellaris Williston 1896
+Phortica	semivirgo Maca 1977
+Phortica	setitabula Chen & Gao 2006
+Phortica	sexpunctata Seguy 1938
+Phortica	shillongensis Singh & Gupta 1979
+Phortica	sobodo Burla 1954
+Phortica	speculum Maca & Lin 1993
+Phortica	spinosa Chen & Gao 2005
+Phortica	subradiata Okada 1977
+Phortica	symmetria Chen & Toda 2005
+Phortica	takadai Okada 1977
+Phortica	tanabei Chen & Toda 2005
+Phortica	tau Toda & Peng 1990
+Phortica	uncinata Chen & Gao 2006
+Phortica	unipetala Chen & Wen 2006
+Phortica	unispina Prigent & Chen 2008
+Phortica	variegata Fallen 1823
+Phortica	varipes Duda 1926
+Phortica	vinywelea Prigent & Chen 2008
+Phortica	vumbae Tsacas 1990
+Phortica	watanabei Maca & Lin 1993
+Phortica	xishuangbanna Cheng & Chen 2008
+Phortica	xyleboriphaga Senior-White 1921
+Phortica	zeta Chen & Toda 2007
+Phorticella	albicornis Enderlein 1922
+Phorticella	albostriata Malloch 1924
+Phorticella	annulipes Duda 1924
+Phorticella	antestriata Okada & Carson 1983
+Phorticella	bakeri Sturtevant 1927
+Phorticella	bistriata Meijere 1911
+Phorticella	fenestrata Duda 1923
+Phorticella	flavipennis Duda 1929
+Phorticella	htunmaungi Wynn Toda & Peng 1990
+Phorticella	madagascariensis Chassagnard & McEvey 1997
+Phorticella	nullistriata Wynn Toda & Peng 1990
+Phorticella	ochroptera Chassagnard & McEvey 1997
+Phorticella	singularis Duda 1924
+Phorticella	tortia Wynn & Toda 1990
+Pseudocacoxenus	lineatifrons Duda 1925
+Scaptomyza	aberrans Hardy 1965
+Scaptomyza	abrupta Hackman 1959
+Scaptomyza	acronastes Hardy 1965
+Scaptomyza	acuta Nishiharu 1979
+Scaptomyza	adunca Hardy 1965
+Scaptomyza	adusta Loew 1862
+Scaptomyza	affinicuspidata Hardy 1965
+Scaptomyza	albovittata Malloch 1938
+Scaptomyza	aloha Hackman 1959
+Scaptomyza	amplialata Takada Beppu & Toda 1979
+Scaptomyza	ampliloba Hardy 1967
+Scaptomyza	andina Wheeler & Takada 1966
+Scaptomyza	anechocerca Hardy 1965
+Scaptomyza	angustipennis Frey 1954
+Scaptomyza	anomala Hardy 1965
+Scaptomyza	apicata Thomson 1869
+Scaptomyza	apiciguttula Hardy 1965
+Scaptomyza	apicigutulla Hardy 1965
+Scaptomyza	apicipuncta Malloch 1934
+Scaptomyza	apponopusilla Hardy 1965
+Scaptomyza	apponpusilla Hardy 1965
+Scaptomyza	argentifrons Hardy 1965
+Scaptomyza	articulata Hardy 1965
+Scaptomyza	atahualpa Hackman 1959
+Scaptomyza	atlantica Hackman 1955
+Scaptomyza	australis Malloch 1923
+Scaptomyza	baechlii Sidorenko 1993
+Scaptomyza	basiloba Hardy 1965
+Scaptomyza	bicolor Malloch 1934
+Scaptomyza	bilobata Hardy 1965
+Scaptomyza	bimaculata Meijere 1908
+Scaptomyza	biolbata Hardy 1965
+Scaptomyza	bipars Hardy 1965
+Scaptomyza	bipunctipennis Wheeler 1952
+Scaptomyza	biseta Malloch 1932
+Scaptomyza	bogotae Wheeler & Takada 1966
+Scaptomyza	boninensis Okada 1973
+Scaptomyza	brachycerca Hardy 1965
+Scaptomyza	brevilamellata Frey 1954
+Scaptomyza	brunnimaculata Hardy 1965
+Scaptomyza	bryani Wirth 1952
+Scaptomyza	bryanti Hackman 1959
+Scaptomyza	buccata Hackman 1962
+Scaptomyza	budnikae Brncic 1983
+Scaptomyza	caliginosa Hardy 1967
+Scaptomyza	camptochaites Hardy 1965
+Scaptomyza	carinata Okada 1973
+Scaptomyza	cerina Hardy 1965
+Scaptomyza	chauliodon Hardy 1965
+Scaptomyza	choi Kang Lee & Bahng 1965
+Scaptomyza	chylizosoma Seguy 1938
+Scaptomyza	clavata Okada 1973
+Scaptomyza	clavifera Wheeler & Takada 1966
+Scaptomyza	cnecosoma Hardy 1965
+Scaptomyza	cochleata Burla 1957
+Scaptomyza	concinna Hardy 1965
+Scaptomyza	confusa Hardy 1965
+Scaptomyza	connata Hardy 1965
+Scaptomyza	consimilis Hackman 1955
+Scaptomyza	contestata Hardy 1967
+Scaptomyza	coquilletti Wheeler & Takada 1966
+Scaptomyza	cornuta Hardy 1965
+Scaptomyza	crassifemur Grimshaw 1901
+Scaptomyza	cristata Singh 1976
+Scaptomyza	crocata Bock 1976
+Scaptomyza	cryptoloba Hardy 1965
+Scaptomyza	ctenophora Hardy 1965
+Scaptomyza	cuspidata Hardy 1965
+Scaptomyza	cyrandraea Hardy 1965
+Scaptomyza	cyrtandrae Hardy 1965
+Scaptomyza	dankoi Wheeler & Takada 1966
+Scaptomyza	decepta Hardy 1965
+Scaptomyza	deemingi Tsacas 1972
+Scaptomyza	deludens Hardy 1967
+Scaptomyza	dentata Hardy 1965
+Scaptomyza	denticauda Malloch 1934
+Scaptomyza	devexa Hardy 1965
+Scaptomyza	diaphorocerca Hardy 1965
+Scaptomyza	dibi Burla 1954
+Scaptomyza	dichromos Bock 1976
+Scaptomyza	dominicana Grimaldi 1987
+Scaptomyza	domita Hardy 1965
+Scaptomyza	dorsalis Seguy 1938
+Scaptomyza	dubautiae Hardy 1965
+Scaptomyza	dubia Hardy 1965
+Scaptomyza	elmoi Takada 1970
+Scaptomyza	eurystylata Hardy 1965
+Scaptomyza	evexa Hardy 1965
+Scaptomyza	exigua Grimshaw 1901
+Scaptomyza	exilis McEvey 1990
+Scaptomyza	fastigata Hardy 1965
+Scaptomyza	femoralis Malloch 1933
+Scaptomyza	finitima Hardy 1965
+Scaptomyza	flava Fallen 1823
+Scaptomyza	flavella Harrison 1959
+Scaptomyza	flavida Hardy 1965
+Scaptomyza	flavifacies Malloch 1932
+Scaptomyza	flaviventris Hackman 1959
+Scaptomyza	freyi Hackman 1959
+Scaptomyza	frustulifera Frey 1954
+Scaptomyza	fuscifrons Hackman 1962
+Scaptomyza	fuscinervis Malloch 1924
+Scaptomyza	fuscitarsis Harrison 1959
+Scaptomyza	gilvivirilia Hardy 1965
+Scaptomyza	gilvivirlia Hardy 1965
+Scaptomyza	glauca Hardy 1965
+Scaptomyza	gracilis Walker 1853
+Scaptomyza	grahami Hackman 1959
+Scaptomyza	graminum Fallen 1823
+Scaptomyza	griseola Zetterstedt 1847
+Scaptomyza	hackmani Hardy 1965
+Scaptomyza	hamata Hardy 1965
+Scaptomyza	hardyi Hackman 1959
+Scaptomyza	heedi Wheeler & Takada 1966
+Scaptomyza	helvola Frey 1954
+Scaptomyza	hennigi Hackman 1959
+Scaptomyza	hexasticha Okada 1973
+Scaptomyza	himalayana Takada 1970
+Scaptomyza	hirsuta Wheeler 1949
+Scaptomyza	horaeoptera Tsacas & Cogan 1976
+Scaptomyza	horrida Frey 1954
+Scaptomyza	hsui Hackman 1955
+Scaptomyza	ichneumon Knab 1914
+Scaptomyza	impunctata Frey 1945
+Scaptomyza	inaequalis Grimshaw 1901
+Scaptomyza	incerta Frey 1954
+Scaptomyza	inermis Hardy 1965
+Scaptomyza	inflatus Kaneshiro 1969
+Scaptomyza	infurcula Hardy 1965
+Scaptomyza	innotabilis Hardy 1965
+Scaptomyza	intermedia Duda 1927
+Scaptomyza	intricata Hardy 1965
+Scaptomyza	isopedon Hardy 1965
+Scaptomyza	kaavae Malloch 1934
+Scaptomyza	kauaiensis Hackman 1959
+Scaptomyza	kilembea Tsacas 1972
+Scaptomyza	latifrons Malloch 1932
+Scaptomyza	latitergum Hardy 1965
+Scaptomyza	levata Hardy 1965
+Scaptomyza	lobifera Hardy 1965
+Scaptomyza	lonchoptera Hardy 1965
+Scaptomyza	longipecten griseonigra Hardy 1965
+Scaptomyza	griseonigra Hardy 1965
+Scaptomyza	longipecten longipectin Hackman
+Scaptomyza	longipectin Hackman
+Scaptomyza	longipecten longipecten
+Scaptomyza	longipecten
+Scaptomyza	longipecten Hackman 1959
+Scaptomyza	longipennis Seguy 1938
+Scaptomyza	longisetosa Hackman 1959
+Scaptomyza	macroptera Wheeler & Takada 1966
+Scaptomyza	maculifera Becker 1919
+Scaptomyza	malada Wheeler & Takada 1966
+Scaptomyza	mateolata McEvey 1990
+Scaptomyza	mauiensis Grimshaw 1901
+Scaptomyza	mecocera Hardy 1965
+Scaptomyza	mecocerca Hardy 1965
+Scaptomyza	mediana Hardy 1965
+Scaptomyza	mediopallens Hackman 1959
+Scaptomyza	melancholica Duda 1927
+Scaptomyza	melania Seguy 1938
+Scaptomyza	melanissima Okada 1966
+Scaptomyza	meocerca Hardy 1965
+Scaptomyza	merina McEvey 1990
+Scaptomyza	mimitantalia Tsacas & Cogan 1976
+Scaptomyza	mimula Hardy 1965
+Scaptomyza	mitchelli Hackman 1959
+Scaptomyza	molokaiensis Hardy 1967
+Scaptomyza	montana Wheeler 1949
+Scaptomyza	monticola Grimshaw 1901
+Scaptomyza	multidenta Hardy 1965
+Scaptomyza	multispinosa Malloch 1934
+Scaptomyza	mumfordi Malloch 1933
+Scaptomyza	mutica Hardy 1965
+Scaptomyza	nasalis Grimshaw 1901
+Scaptomyza	neoandina Wheeler & Takada 1966
+Scaptomyza	neoevexa O'Grady Bonacum Desalle & Val 2003
+Scaptomyza	neokauaiensis O'Grady Bonacum Desalle & Val 2003
+Scaptomyza	neosilvicola O'Grady Bonacum Desalle & Val 2003
+Scaptomyza	nigricosta Wheeler & Takada 1966
+Scaptomyza	nigripalpis Malloch 1924
+Scaptomyza	nigrita Wheeler 1952
+Scaptomyza	nigrocella Wheeler 1949
+Scaptomyza	nigrosignata Hardy 1965
+Scaptomyza	noei Brncic 1955
+Scaptomyza	oahuensis Hardy 1967
+Scaptomyza	obscuricornis Grimshaw 1901
+Scaptomyza	obscurifrons Grimshaw 1901
+Scaptomyza	ochromata Hardy 1965
+Scaptomyza	okadai Hackman 1959
+Scaptomyza	ostensa Hardy 1965
+Scaptomyza	oxyphallus Tsacas 1990
+Scaptomyza	palata Hardy 1965
+Scaptomyza	pallida Zetterstedt 1847
+Scaptomyza	pallifrons Hackman 1959
+Scaptomyza	palmae Hardy 1965
+Scaptomyza	paradusta Wheeler 1952
+Scaptomyza	paralobae Hardy 1965
+Scaptomyza	parandina Wheeler & Takada 1966
+Scaptomyza	parasplendens Okada 1966
+Scaptomyza	paravittata Wheeler 1952
+Scaptomyza	parva Grimshaw 1901
+Scaptomyza	pectinifera Frey 1954
+Scaptomyza	penicula Hardy 1965
+Scaptomyza	perkinsi Grimshaw 1901
+Scaptomyza	personata Wheeler & Takada 1966
+Scaptomyza	philipensis Bock 1986
+Scaptomyza	photophilia Hardy 1965
+Scaptomyza	phryxothrix Hardy 1965
+Scaptomyza	picifemorata Hackman 1959
+Scaptomyza	platyrhina Hardy 1967
+Scaptomyza	pleurolineata Wheeler & Takada 1966
+Scaptomyza	plumata Singh 1976
+Scaptomyza	polygonia Okada 1956
+Scaptomyza	pressobrunnea Tsacas & Chassagnard 1976
+Scaptomyza	protensa Hardy 1965
+Scaptomyza	prunctivena Hardy 1965
+Scaptomyza	pseudovittata Brncic 1955
+Scaptomyza	psychotriae Okada & Carson 1980
+Scaptomyza	punctivena Hardy 1965
+Scaptomyza	pusilla Grimshaw 1901
+Scaptomyza	pygaea Tsacas 1990
+Scaptomyza	quadridentata Hardy 1965
+Scaptomyza	quadriseriata Malloch 1934
+Scaptomyza	quadruangulata Singh & Dash 1993
+Scaptomyza	recava Hardy 1965
+Scaptomyza	recta Hardy 1965
+Scaptomyza	reducta Hardy 1965
+Scaptomyza	remota Walker 1849
+Scaptomyza	retusa Hardy 1965
+Scaptomyza	robusta Hardy 1965
+Scaptomyza	rostrata Hardy 1965
+Scaptomyza	rotundiloba Hardy 1965
+Scaptomyza	ruficornis Meigen 1838
+Scaptomyza	salvadorae Wheeler & Takada 1966
+Scaptomyza	samurai Wheeler & Takada 1966
+Scaptomyza	santacruzi Val 1983
+Scaptomyza	santahelenica Tsacas & Cogan 1976
+Scaptomyza	scoliops Hardy 1965
+Scaptomyza	scoloplichas Hardy 1965
+Scaptomyza	semiflava Hardy 1965
+Scaptomyza	setiger Hardy 1965
+Scaptomyza	setosa Wheeler & Takada 1966
+Scaptomyza	setosiloba Hardy 1965
+Scaptomyza	setosiscutellum Hardy 1965
+Scaptomyza	sichuanica Sidorenko 1995
+Scaptomyza	silvata Okada 1966
+Scaptomyza	silvicola Hardy 1965
+Scaptomyza	sinica Lin & Ting 1971
+Scaptomyza	spiculipennis Takada & Momma 1975
+Scaptomyza	spilota Hardy 1965
+Scaptomyza	spinipalpis Seguy 1934
+Scaptomyza	stamineifrons Hackman
+Scaptomyza	stramineifrons Hackman 1962
+Scaptomyza	stramineipes Malloch 1934
+Scaptomyza	stratifrons Hackman
+Scaptomyza	striaticeps Wheeler & Takada 1966
+Scaptomyza	striatifrons Hackman 1959
+Scaptomyza	subandina Wheeler & Takada 1966
+Scaptomyza	subsplendens Duda 1935
+Scaptomyza	substrigata Meijere 1914
+Scaptomyza	subvittata Hackman 1959
+Scaptomyza	swezeyi Wirth 1952
+Scaptomyza	taigensis Sidorenko & Toda 1996
+Scaptomyza	taiwanica Lin & Ting 1971
+Scaptomyza	teinoptera Hackman 1955
+Scaptomyza	tenuata Hardy 1965
+Scaptomyza	terminalis Loew 1863
+Scaptomyza	throckmortoni Hardy 1967
+Scaptomyza	tistai Kumar & Gupta 1991
+Scaptomyza	trivittata Hardy 1965
+Scaptomyza	trochanterata Collin 1953
+Scaptomyza	tumidula Hardy 1965
+Scaptomyza	uliginosa Hardy 1965
+Scaptomyza	umbrosa Hardy 1965
+Scaptomyza	undulata Grimshaw 1901
+Scaptomyza	unipunctum Zetterstedt 1847
+Scaptomyza	univitta Hardy 1965
+Scaptomyza	vagabunda Hardy 1965
+Scaptomyza	varia Hardy 1965
+Scaptomyza	varifrons Grimshaw 1901
+Scaptomyza	varipicta Hardy 1965
+Scaptomyza	villosa Hardy 1965
+Scaptomyza	vittata Coquillett 1895
+Scaptomyza	vittiger Hardy 1965
+Scaptomyza	waialealeae Hardy 1965
+Scaptomyza	wheeleri Hackman 1959
+Scaptomyza	xanthopleura Hardy 1965
+Scaptomyza	yakutica Sidorenko & Toda 1996
+Styloptera	alocasiae Okada & Carson 1980
+Styloptera	formosae Duda 1924
+Styloptera	fruhstorferi Duda 1924
+Styloptera	furcata Carson & Okada 1982
+Styloptera	globosa Okada 1982
+Styloptera	maculata Carson & Okada 1982
+Styloptera	nishiharui Okada 1982
+Styloptera	punctata Okada & Carson 1983
+Styloptera	repletoides Carson & Okada 1980
+Styloptera	striata Bock 1982
+Styloptera	tigrina Carson & Okada 1982
+Styloptera	wheeleri Bock 1982
+Thyreocephala	bimaculata Okada 1985
+Thyreocephala	trimaculata Okada 1985
+Thyreocephala	viridifrons Okada 1985
+Titanochaeta	bryani Wirth
+Titanochaeta	chauliodon Hardy 1965
+Titanochaeta	contestata Hardy 1967
+Titanochaeta	glauca Hardy 1965
+Titanochaeta	ichneumon Knab
+Titanochaeta	setosiscutellum Hardy 1965
+Titanochaeta	swezeyi Wirth
+Titanochaeta	vittiger Hardy 1965
+Zapriothrica	dispar Schiner 1868
+Zapriothrica	hirta Wheeler 1959
+Zapriothrica	nudiseta Wheeler 1959
+Zapriothrica	salebrosa Wheeler 1968
+Zapriothrica	sternalis Wheeler 1959
+Zygothrica	abbrevidispar Grimaldi 1987
+Zygothrica	africana Grimaldi 1990
+Zygothrica	aldrichi Sturtevant 1920
+Zygothrica	aldrichii Sturtevant 1920
+Zygothrica	aliucapa Grimaldi 1987
+Zygothrica	aliunota Grimaldi 1990
+Zygothrica	amplialdrichi Grimaldi 1987
+Zygothrica	andea Grimaldi 1987
+Zygothrica	anota Grimaldi 1987
+Zygothrica	antedispar Grimaldi 1987
+Zygothrica	apopoeyi Burla 1956
+Zygothrica	atriangula Duda 1927
+Zygothrica	australiaensis Prigent 2006
+Zygothrica	bicornigera Prigent 2006
+Zygothrica	bilineata Williston 1896
+Zygothrica	bilinefilia Grimaldi 1987
+Zygothrica	britannia Grimaldi 1990
+Zygothrica	candens Burla 1956
+Zygothrica	caputrichia Grimaldi 1987
+Zygothrica	carsoni Grimaldi 1990
+Zygothrica	caudata Hendel 1913
+Zygothrica	celsa Grimaldi 1987
+Zygothrica	centralis Grimaldi 1987
+Zygothrica	circumveha Grimaldi 1987
+Zygothrica	clavipoeyi Burla 1956
+Zygothrica	cryptica Grimaldi 1987
+Zygothrica	desallei O'Grady 2002
+Zygothrica	dimidiata Duda 1927
+Zygothrica	dispar Wiedemann 1830
+Zygothrica	dissimulata Grimaldi 1987
+Zygothrica	exuberans Wheeler 1968
+Zygothrica	fascipennis Duda 1927
+Zygothrica	femina Grimaldi 1987
+Zygothrica	festiva Burla 1956
+Zygothrica	fijiana Takada 1976
+Zygothrica	flavifrons Grimaldi 1990
+Zygothrica	flavociliata Hendel 1936
+Zygothrica	flavofinira Takada 1976
+Zygothrica	florinjecta Grimaldi 1987
+Zygothrica	fuscalata Grimaldi 1987
+Zygothrica	fuscina Burla 1956
+Zygothrica	gemma Burla 1956
+Zygothrica	glossusta Grimaldi 1987
+Zygothrica	gracilipoeyi Burla 1956
+Zygothrica	hypandriata Burla 1956
+Zygothrica	joeyesco Grimaldi 1987
+Zygothrica	karenae Grimaldi 1987
+Zygothrica	kerteszi Duda 1925
+Zygothrica	kokodana Grimaldi 1990
+Zygothrica	laevifrons Duda 1927
+Zygothrica	laeviventris Duda 1927
+Zygothrica	lanceolata Burla 1956
+Zygothrica	laticeps Burla 1954
+Zygothrica	latipanops Grimaldi 1987
+Zygothrica	latipaps Grimaldi 1987
+Zygothrica	leptorostra Grimaldi 1990
+Zygothrica	malayana Takada 1976
+Zygothrica	malaysiana Grimaldi 1990
+Zygothrica	manni Grimaldi 1987
+Zygothrica	mediogaster Grimaldi 1987
+Zygothrica	mediovitta Grimaldi 1987
+Zygothrica	mesopoeyi Burla 1956
+Zygothrica	microeristes Grimaldi 1987
+Zygothrica	microstoma Duda 1925
+Zygothrica	neoaldrichi Burla 1956
+Zygothrica	neolinea Grimaldi 1987
+Zygothrica	nigra Grimaldi 1987
+Zygothrica	nigropleura Grimaldi 1987
+Zygothrica	nitidifrons Duda 1927
+Zygothrica	ora Grimaldi 1987
+Zygothrica	orbitalis Sturtevant 1916
+Zygothrica	orientalis Grimaldi 1990
+Zygothrica	oviserrata Grimaldi 1987
+Zygothrica	paleovitta Grimaldi 1990
+Zygothrica	pallida Grimaldi 1987
+Zygothrica	pallidipoeyi Burla 1956
+Zygothrica	palpipoeyi Burla 1956
+Zygothrica	panamensis Grimaldi 1987
+Zygothrica	panopia Grimaldi 1987
+Zygothrica	paraldrichi Burla 1956
+Zygothrica	parapoeyi Burla 1956
+Zygothrica	paraptilialis Burla 1956
+Zygothrica	paravitta Grimaldi 1987
+Zygothrica	parilis Burla 1956
+Zygothrica	parvipoeyi Burla 1956
+Zygothrica	perplexa Grimaldi 1987
+Zygothrica	peruviana Grimaldi 1987
+Zygothrica	pictura Grimaldi 1987
+Zygothrica	pilipes Hendel 1936
+Zygothrica	pimacula Prigent 2006
+Zygothrica	pleurostrigata Burla 1956
+Zygothrica	poeyi Sturtevant 1921
+Zygothrica	posthona Grimaldi 1987
+Zygothrica	prensiseta Grimaldi 1987
+Zygothrica	prodispar Duda 1927
+Zygothrica	prosopeiona Grimaldi 1990
+Zygothrica	prosopelona Grimaldi 1991
+Zygothrica	ptilialis Burla 1956
+Zygothrica	quinquelineata Duda 1925
+Zygothrica	quintamaculata Prigent 2006
+Zygothrica	radialis Grimaldi 1987
+Zygothrica	samoaensis Malloch 1934
+Zygothrica	scutellaris Wheeler 1952
+Zygothrica	sectipoeyi Burla 1956
+Zygothrica	semistriata Wheeler 1952
+Zygothrica	simulans Grimaldi 1987
+Zygothrica	somatia Grimaldi 1987
+Zygothrica	sphaerocera Grimaldi 1987
+Zygothrica	spiculirostris Burla 1956
+Zygothrica	spinathigma Grimaldi 1987
+Zygothrica	strigocula Burla 1956
+Zygothrica	subcandens Burla 1956
+Zygothrica	tambopata Grimaldi 1987
+Zygothrica	tenuirostris Duda 1925
+Zygothrica	trinidada Grimaldi 1987
+Zygothrica	triscutellaris Prigent 2006
+Zygothrica	venustipoeyi Burla 1956
+Zygothrica	vietnamensis Grimaldi 1990
+Zygothrica	virgatalba Burla 1956
+Zygothrica	virgatinigra Burla 1956
+Zygothrica	vitrea Grimaldi 1987
+Zygothrica	vittatifrons Williston 1896
+Zygothrica	vitticlara Burla 1956
+Zygothrica	vittimaculosa Burla 1956
+Zygothrica	vittimarginata Burla 1956
+Zygothrica	vittimarmorata Burla 1956
+Zygothrica	vittinotialis Burla 1956
+Zygothrica	vittinubila Burla 1956
+Zygothrica	vittipinctata Burla 1956
+Zygothrica	vittipoecila Burla 1956
+Zygothrica	vittipunctata Burla 1956
+Zygothrica	vittisecta Burla 1956
+Zygothrica	vittivirgata Burla 1956
+Zygothrica	waui Grimaldi 1990
+Zygothrica	zaprionides Tsacas 1990
+Zygothrica	zonata Grimaldi 1987
+Zygothrica	zygia Grimaldi 1987
+Zygothrica	zygopoeyi Burla 1956
+Acletoxenus	formosus Loew 1864
+Acletoxenus	indicus Malloch 1929
+Acletoxenus	meijerei Duda 1924
+Acletoxenus	quadristriatus Duda 1936
+Amiota	acongruens Shi & Zhang 1997
+Amiota	aculeata Chen & Aotsuka 2005
+Amiota	acuta Okada 1968
+Amiota	africana Malloch 1925
+Amiota	ailaoshanensis Chen & Watabe 2005
+Amiota	albavictoria Patterson & Mainland 1944
+Amiota	albidipuncta Xu & Chen 2007
+Amiota	albilabris Roth 1860
+Amiota	albodorsata Sturtevant 1927
+Amiota	alboguttata Wahlberg 1839
+Amiota	albomaculata Duda 1926
+Amiota	allemandi Bachli Vilela & Haring 2002
+Amiota	angulisternita Chen & Liu 2004
+Amiota	angustifolia Zhang & Chen 2006
+Amiota	annulata Malloch 1923
+Amiota	antheria Okada 1977
+Amiota	antillaria Chen & Toda 1997
+Amiota	apidoxenus Tsacas & Desmier Chenon 1976
+Amiota	apodemata Gupta & Panigrahy 1987
+Amiota	aquilotaurusata Takada Beppu & Toda 1979
+Amiota	arcuata Chen & Watabe 2005
+Amiota	argyreator Frey 1932
+Amiota	aristata Chen & Toda 2001
+Amiota	asymmetrica Chen & Takamori 2005
+Amiota	atomia Maca & Lin 1993
+Amiota	bacillia Zhang & Chen 2006
+Amiota	balaenodentata Takada Beppu & Toda 1979
+Amiota	bandai Chassagnard & Tsacas 1997
+Amiota	barretti Johnson 1921
+Amiota	basdeni Assis-Fonseca 1965
+Amiota	biacuta Zhang & Chen 2006
+Amiota	bicolorata Bock 1989
+Amiota	bicornuta Chen & Toda 1997
+Amiota	bifoliolata Zhang & Chen 2006
+Amiota	bifurcata Chen 2004
+Amiota	bipartita Toda & Peng 1992
+Amiota	biprotrusa Chen & Toda 1998
+Amiota	bispinula Chen & Toda 2007
+Amiota	brevipartita Chen & Gao 2005
+Amiota	brunneifemoralis Xu & Chen 2007
+Amiota	buccata Wheeler 1952
+Amiota	capitata Collart 1937
+Amiota	cardua Okada 1977
+Amiota	caudua Okada 1977
+Amiota	cerata Chen & Toda 2007
+Amiota	chi Toda & Sidorenko 1996
+Amiota	clavata Okada 1960
+Amiota	collini Beuk & Maca 1995
+Amiota	communis Chen & Steyskal 2004
+Amiota	conifera Okada 1977
+Amiota	convergens Malloch 1927
+Amiota	cuii Chen & Toda 2001
+Amiota	cultella Zhang & Chen 2006
+Amiota	curvibacula Chen & Toda 2007
+Amiota	curvispina Chen & Gao 2005
+Amiota	curvistyla Okada 1971
+Amiota	dayanensis Chen Huazhong 1990
+Amiota	dehiscentia Chen & Watabe 2005
+Amiota	delta Takada Beppu & Toda 1979
+Amiota	deltoidea Zhang & Chen 2006
+Amiota	dentata Okada 1971
+Amiota	dilatifemorata Cao & Chen 2008
+Amiota	dispina Okada 1960
+Amiota	elongata Okada 1960
+Amiota	eos Sidorenko 1989
+Amiota	eparmata Okada 1977
+Amiota	eugamma Toda & Peng 1990
+Amiota	excrescentiosa Toda & Peng 1990
+Amiota	falcilis Takada Beppu & Toda 1979
+Amiota	fangae Maca 1993
+Amiota	femorata Chen & Takamori 2005
+Amiota	filipes Maca 1980
+Amiota	fissifoliolata Cao & Chen 2008
+Amiota	flagellata Okada 1971
+Amiota	flavipes Xu & Chen 2007
+Amiota	flavopruinosa Duda 1934
+Amiota	flavopruniosa Duda 1934
+Amiota	flexuosa Zhang & Gan 1986
+Amiota	foliacea Tsacas & Okada 1983
+Amiota	foliata Chen & Toda 1997
+Amiota	foliiseta Duda 1923
+Amiota	forficula Takada Beppu & Toda 1979
+Amiota	furcata Okada 1960
+Amiota	fuscata Chen & Zhang 2005
+Amiota	gamma Toda & Peng 1990
+Amiota	gaoi Zhang & Chen 2006
+Amiota	gigas Okada 1977
+Amiota	goetzi Maca 1987
+Amiota	gombakana Takada & Momma 1975
+Amiota	gracilenta Zhang & Chen 2006
+Amiota	hainanensis Chen & Toda 1998
+Amiota	hani Shi & Zhang 1997
+Amiota	hernowoi Chen & Toda 1998
+Amiota	hongae Maca 1993
+Amiota	hsui Maca 2003
+Amiota	huachucae Wheeler 1960
+Amiota	huae Chen & Gao 2005
+Amiota	humeralis Loew 1862
+Amiota	iota Toda & Sidorenko 1996
+Amiota	javaensis Chen & Toda 1998
+Amiota	jizushanensis Chen & Watabe 2005
+Amiota	kamui Chen & Toda 2001
+Amiota	kappa Maca 1977
+Amiota	kimurai Chen & Toda 2001
+Amiota	kitamurai Chen & Liu 2004
+Amiota	lacteoguttata Portschinsky 1891
+Amiota	lambda Toda & Peng 1990
+Amiota	lambirensis Chen & Toda 2007
+Amiota	lanceolata Okada 1971
+Amiota	latitabula Chen & Watabe 2005
+Amiota	leucophengoides Sturtevant 1927
+Amiota	leucostoma Loew 1862
+Amiota	linae Maca & Chen 1993
+Amiota	lineiventris Maca 2003
+Amiota	lini Okada 1971
+Amiota	lipingae Chen & Gao 2005
+Amiota	longispinata Chen & Gao 2005
+Amiota	luguhuensis Chen & Watabe 2005
+Amiota	macai Chen & Toda 2001
+Amiota	maculicepa Duda 1924
+Amiota	magna Okada 1960
+Amiota	magniflava Chen & Toda 2001
+Amiota	mariae Maca 2003
+Amiota	melanoleuca Tsacas 1990
+Amiota	minor Malloch 1921
+Amiota	montuosa Zhang & Chen 2008
+Amiota	multispinata Zhang & Chen 2006
+Amiota	nagatai Okada 1960
+Amiota	nebojsa Maca 2003
+Amiota	nigrescens Wheeler 1952
+Amiota	nigrifoliiseta Takada Momma & Shima 1973
+Amiota	nozawai Chen & Watabe 2005
+Amiota	nuerhachii Chen & Toda 2001
+Amiota	okadai Maca 1977
+Amiota	okinawana Okada 1971
+Amiota	omega Okada 1977
+Amiota	onchopyga Nishiharu 1979
+Amiota	orchidea Okada 1968
+Amiota	orientalis Hendel 1914
+Amiota	palpifera Okada 1971
+Amiota	pappi Tsacas & Okada 1983
+Amiota	paramagna Okada 1971
+Amiota	paraspinata Chen & Watabe 2005
+Amiota	parvipyga Chen & Toda 1998
+Amiota	parviserrata Chen & Toda 2007
+Amiota	pengi Chen & Toda 1998
+Amiota	penidenticulata Gupta & Gupta 1992
+Amiota	perforcipata Maca & Lin 1993
+Amiota	perpusilla Walker 1849
+Amiota	phyllochaeta Tsacas & Okada 1983
+Amiota	pi Toda & Peng 1990
+Amiota	pianmensis Zhang & Chen 2006
+Amiota	picta Coquillett 1904
+Amiota	planata Chen & Toda 2001
+Amiota	poecilogastra Loew 1874
+Amiota	polychaeta Wheeler 1968
+Amiota	pontianakensis Chen & Toda 1998
+Amiota	promissa Okada 1960
+Amiota	protrusa Shi & Zhang 1997
+Amiota	pseudogigas Zhang & Gan 1986
+Amiota	pseudopi Toda & Peng 1990
+Amiota	pseudotau Toda & Peng 1990
+Amiota	psi Zhang & Gan 1986
+Amiota	quadrifoliolata Chen & Toda 2007
+Amiota	ratnae Chen & Toda 1998
+Amiota	rufescens Oldenberg 1914
+Amiota	sacculipes Maca & Lin 1993
+Amiota	saeta Zhang & Gan 1986
+Amiota	setigera Malloch 1924
+Amiota	setitibia Xu & Chen 2007
+Amiota	setosa Zhang & Chen 2006
+Amiota	shangrila Chen & Watabe 2005
+Amiota	shillongensis Singh & Gupta 1979
+Amiota	sigma Okada 1971
+Amiota	sinuata Okada 1968
+Amiota	speculum Maca & Lin 1993
+Amiota	spinata Chen & Toda 2001
+Amiota	spinifemorata Li & Chen 2008
+Amiota	steganoptera Malloch 1926
+Amiota	steyskali Maca 2003
+Amiota	stylopyga Wakahama & Okada 1958
+Amiota	subfurcata Okada 1971
+Amiota	subradiata Okada 1977
+Amiota	subsinuata Chen & Aotsuka 2005
+Amiota	subtursradiata Duda 1934
+Amiota	subtusradiata Duda 1934
+Amiota	takadai Okada 1977
+Amiota	tau Toda & Peng 1990
+Amiota	taurusata Takada Beppu & Toda 1979
+Amiota	todai Sidorenko 1989
+Amiota	trifurcata Okada 1968
+Amiota	variegata Fallen 1923
+Amiota	vulnerabla Chen & Zhang 2004
+Amiota	vumbae Tsacas 1990
+Amiota	wangi Chen & Zhang 2005
+Amiota	watabei Chen & Toda 2001
+Amiota	watanabei Maca & Lin 1993
+Amiota	wuyishanensis Chen & Zhang 2005
+Amiota	xishuangbanna Chen & Aotsuka 2005
+Amiota	yangonensis Chen & Toda 1998
+Amiota	yifengi Zhang & Chen 2006
+Amiota	yixiangna Chen & Takamori 2005
+Apenthecia	ambigua Tsacas 1983
+Apenthecia	argentata Tsacas 1983
+Apenthecia	argyrea Chassagnard & Tsacas 1997
+Apenthecia	brincki Hackman 1960
+Apenthecia	capitata Collart 1937
+Apenthecia	crassiseta Hackman 1960
+Apenthecia	foliolata Toda & Peng 1992
+Apenthecia	heterochaeta Chen & Toda 2008
+Apenthecia	hispida Chen & Toda 2008
+Apenthecia	imperfecta Tsacas 1983
+Apenthecia	latifascia Tsacas 1983
+Apenthecia	lepidothrix Wheeler & Takada 1964
+Apenthecia	litongi Cao & Chen 2008
+Apenthecia	obscura Chassagnard & Tsacas 1997
+Apenthecia	vittata Tsacas 1983
+Cacoxenus	academica Maca & Lin 1993
+Cacoxenus	apidoxenus Tsacas & Desmier de Chenon 1976
+Cacoxenus	argyreator Frey 1932
+Cacoxenus	asiatica Okada 1988
+Cacoxenus	australicus Chassagnard & Tsacas 2003
+Cacoxenus	campsiphallus Chassagnard & Tsacas 2003
+Cacoxenus	coccidoctonus Tsacas & Chassagnard 1999
+Cacoxenus	creberii Singh 1976
+Cacoxenus	exiguus Duda 1924
+Cacoxenus	frontalis Collart 1935
+Cacoxenus	guttatus Hardy & Wheeler 1960
+Cacoxenus	indagator Loew 1858
+Cacoxenus	inquilinus Hendel 1933
+Cacoxenus	kaszabi Okada 1973
+Cacoxenus	lepidothrix Wheeler & Takada 1966
+Cacoxenus	leucophengoides Sturtevant 1927
+Cacoxenus	marinae Gornostaev 1995
+Cacoxenus	multidentatus Tsacas & Chassagnard 1999
+Cacoxenus	notius Tsacas & Chassagnard 1999
+Cacoxenus	odontophorus Tsacas & Chassagnard 1999
+Cacoxenus	olgae Gornostaev 1995
+Cacoxenus	oligodous Tsacas & Chassagnard 1999
+Cacoxenus	orientalis Chassagnard & Tsacas 2003
+Cacoxenus	oxyphallus Gupta & Tsacas 2003
+Cacoxenus	pachyphallus Chassagnard & Tsacas 2003
+Cacoxenus	paolii Seguy 1933
+Cacoxenus	parallelinervis Duda 1924
+Cacoxenus	paulodentatus Chassagnard & Tsacas 2003
+Cacoxenus	perspicax Knab 1914
+Cacoxenus	philippinensis Sidorenko 1998
+Cacoxenus	pictipennis Tsacas & Chassagnard 1999
+Cacoxenus	polyodous Tsacas & Chassagnard 1999
+Cacoxenus	pterodactylus Maca 1988
+Cacoxenus	rhopalophorus Tsacas & Chassagnard 1999
+Cacoxenus	ripersiae Chassagnard & Tsacas 2003
+Cacoxenus	romankovae Sidorenko 1991
+Cacoxenus	vanharteni Sidorenko 2010
+Cacoxenus	vlasovi Duda 1934
+Celidosoma	nigrocincta Hardy 1965
+Colocasiomyia	alocasiae Okada 1975
+Colocasiomyia	arenga Okada 1987
+Colocasiomyia	baechlii Okada 1986
+Colocasiomyia	bogneri Okada 1986
+Colocasiomyia	colocasiae Duda 1924
+Colocasiomyia	crassipes Meijere 1914
+Colocasiomyia	cristata Meijere 1914
+Colocasiomyia	diconica Toda & Okada 1983
+Colocasiomyia	erythrocephala Sultana & Yafuso 2002
+Colocasiomyia	gigantea Okada 1987
+Colocasiomyia	heterodonta Yafuso & Okada 1990
+Colocasiomyia	iskandari Okada 1986
+Colocasiomyia	micheliae Yafuso Sultana Sasaki & Toda 2000
+Colocasiomyia	nepalensis Grimaldi 1992
+Colocasiomyia	nigricauda Sultana & Toda 2002
+Colocasiomyia	pararenga Okada 1990
+Colocasiomyia	pistilicola Carson & Okada 1980
+Colocasiomyia	sagittata Okada 1990
+Colocasiomyia	seminigra Duda 1923
+Colocasiomyia	stamenicola Carson & Okada 1980
+Colocasiomyia	steudnerae Takenaka & Toda 2006
+Colocasiomyia	sulawesiana Okada & Yafuso 1989
+Colocasiomyia	toshiokai Toda & Okada 1983
+Colocasiomyia	xanthogaster Yafuso & Okada 1990
+Colocasiomyia	xenalocasiae Okada 1980
+Colocasiomyia	zeylanica Okada 1986
+Dicladochaeta	biseriata Malloch 1932
+Drosophilella	alocasiae Okada 1975
+Drosophilella	arenga Okada 1987
+Drosophilella	baechlii Okada 1986
+Drosophilella	bogneri Okada 1986
+Drosophilella	diconica Toda & Okada 1983
+Drosophilella	gigantea Okada 1987
+Drosophilella	iskandari Okada 1986
+Drosophilella	pistilicola Carson & Okada 1980
+Drosophilella	scenalocasiae Okada 1980
+Drosophilella	stamenicola Carson & Okada 1980
+Drosophilella	toshiokai Toda & Okada 1983
+Drosophilella	xenalocasiae Okada 1980
+Drosophilella	zeylandica Okada 1986
+Hypselothyrea	africana Papp 2004
+Hypselothyrea	albifascia Okada 1980
+Hypselothyrea	amputata Papp 2004
+Hypselothyrea	aptera Papp 1979
+Hypselothyrea	bengalensis De & Gupta 1994
+Hypselothyrea	brevipennis Meijere 1906
+Hypselothyrea	breviscutellata Duda 1928
+Hypselothyrea	claudensis Bock 1982
+Hypselothyrea	deficiens Papp 2004
+Hypselothyrea	dimidiata Meijere 1906
+Hypselothyrea	fascipennis Meijere 1906
+Hypselothyrea	formosana Papp 2004
+Hypselothyrea	guttata Duda 1926
+Hypselothyrea	lanigera Duda 1928
+Hypselothyrea	longimana Papp 2004
+Hypselothyrea	mixta Papp 2004
+Hypselothyrea	notabilis Lamb 1914
+Hypselothyrea	parafascipennis Okada 1980
+Hypselothyrea	paraguttata Takada & Momma 1975
+Hypselothyrea	paralanigera Papp 2004
+Hypselothyrea	paratenuis Papp 2004
+Hypselothyrea	pseudoguttata Takada & Momma 1975
+Hypselothyrea	rotata De & Gupta 1994
+Hypselothyrea	scutellata Okada 1980
+Hypselothyrea	spinifera Okada 1980
+Hypselothyrea	subaptera Papp 2004
+Hypselothyrea	tenuis Okada 1980
+Hypselothyrea	truncata Okada 1980
+Hypselothyrea	tuberofacies Okada 1980
+Hypselothyrea	varanasiensis Gupta 1974
+Jeannelopsis	aneura Tsacas 1990
+Jeannelopsis	mirabilis Seguy 1938
+Jeannelopsis	zophoptera Tsacas 1990
+Liodrosophila	actinia Okada 1988
+Liodrosophila	aerea Okada 1956
+Liodrosophila	anfuensis Chen & Toda 1994
+Liodrosophila	angulata Dwivedi & Gupta 1979
+Liodrosophila	argyrea Tsacas 1990
+Liodrosophila	basisternata Okada 1992
+Liodrosophila	bicolor Okada 1956
+Liodrosophila	bifurcata Okada 1974
+Liodrosophila	bimaculata Okada 1966
+Liodrosophila	castanea Okada & Chung 1960
+Liodrosophila	ceylonica Okada 1974
+Liodrosophila	ciliatipes Okada 1974
+Liodrosophila	ciliptipes Okada 1974
+Liodrosophila	coeruleifrons Meijere 1911
+Liodrosophila	contracta Duda 1926
+Liodrosophila	crassipeda Takada & Momma 1975
+Liodrosophila	crescens Okada 1992
+Liodrosophila	dictenia Okada 1974
+Liodrosophila	dimidiata Duda 1922
+Liodrosophila	divergens Okada 1974
+Liodrosophila	fasciata Duda 1926
+Liodrosophila	flavipes Harrison 1954
+Liodrosophila	formiciformes Bock 1982
+Liodrosophila	fuscata Okada 1974
+Liodrosophila	fuscipennis Okada 1966
+Liodrosophila	globosa Okada 1965
+Liodrosophila	iophacanthusa Chen 1994
+Liodrosophila	kimidiata Duda 1922
+Liodrosophila	kimurai Chen & Toda 1994
+Liodrosophila	lampra Tsacas 1990
+Liodrosophila	longiaristata Takada Momma & Shima 1973
+Liodrosophila	lucida Seguy 1938
+Liodrosophila	lutea Bock 1982
+Liodrosophila	macera Bock 1986
+Liodrosophila	maculipennis Okada 1992
+Liodrosophila	madagascarensis Okada 1974
+Liodrosophila	malleopyga Takada & Momma 1975
+Liodrosophila	marginifrons Duda 1922
+Liodrosophila	melania Seguy 1938
+Liodrosophila	melanostoma Okada 1992
+Liodrosophila	minicosta Takada & Momma 1975
+Liodrosophila	minidenta Gupta & Gupta 1991
+Liodrosophila	moyae Bock 1982
+Liodrosophila	nana Wheeler & Takada 1964
+Liodrosophila	nigrogibberata Takada & Momma 1975
+Liodrosophila	nitida Duda 1922
+Liodrosophila	okadai Dwivedi & Gupta 1979
+Liodrosophila	onchopyga Okada 1966
+Liodrosophila	ornata Okada 1974
+Liodrosophila	pallidipennis Harrison 1954
+Liodrosophila	parabimaculata Takada & Momma 1975
+Liodrosophila	penispinosa Dwivedi & Gupta 1979
+Liodrosophila	pugnicoxa Takada & Momma 1975
+Liodrosophila	pusilla Meijere 1911
+Liodrosophila	quadrimaculata Okada 1974
+Liodrosophila	rufa Okada 1974
+Liodrosophila	rugulosa Meijere 1914
+Liodrosophila	sinuata Okada 1974
+Liodrosophila	spinata Okada 1974
+Liodrosophila	striatifrons Okada 1992
+Liodrosophila	submarginalis Okada 1974
+Liodrosophila	trichaetopennis Takada & Momma 1975
+Liodrosophila	trukana Wheeler & Takada 1964
+Liodrosophila	varians Duda 1922
+Liodrosophila	viridifrons Okada 1992
+Liodrosophila	vitrea Bock 1982
+Liodrosophila	xanthosoma Okada 1992
+Luzonimyia	cineracea Bock 1982
+Luzonimyia	natalensis Malloch 1990
+Luzonimyia	nigropuncta Malloch 1926
+Luzonimyia	vumbaensis Tsacas 1990
+Mayagueza	argentifera Wheeler 1960
+Paraliodrosophila	antennata Wheeler 1957
+Paraliodrosophila	bipartita Duda 1925
+Paraliodrosophila	burlai Haenni & Bosak 2007
+Paraliodrosophila	dudai Wheeler 1954
+Paraliodrosophila	mihalyii Wheeler 1963
+Paramycodrosophila	acumina Bock 1982
+Paramycodrosophila	anomala Wheeler 1954
+Paramycodrosophila	bimaculata Malloch 1934
+Paramycodrosophila	centralis Wheeler 1954
+Paramycodrosophila	costaricana Duda 1925
+Paramycodrosophila	diversicrus McEvey & Bock 1982
+Paramycodrosophila	lydiae Tsacas & Chassagnard 1991
+Paramycodrosophila	nakamurai Okada 1973
+Paramycodrosophila	neopictula Wheeler & Takada 1964
+Paramycodrosophila	nephelea Wheeler 1968
+Paramycodrosophila	okadai Wynn 1990
+Paramycodrosophila	parapictula Wheeler & Takada 1964
+Paramycodrosophila	parsoni Bock 1982
+Paramycodrosophila	parsonsi Bock 1982
+Paramycodrosophila	pictifrons Malloch 1934
+Paramycodrosophila	pictula Meijere 1911
+Paramycodrosophila	takadai Wynn 1990
+Pararhinoleucophenga	maura Meijere 1911
+Pararhinoleucophenga	nuda Okada 1988
+Parascaptomyza	brevilamellata Frey 1954
+Parascaptomyza	helvola Frey 1954
+Parascaptomyza	horrida Frey 1954
+Parascaptomyza	incerta Frey 1954
+Parascaptomyza	pectinifera Frey 1954
+Pseudiastata	armata Wheeler 1957
+Pseudiastata	australis Blanchard 1938
+Pseudiastata	brasiliensis Lima 1937
+Pseudiastata	dominica Grimaldi 1993
+Pseudiastata	floridana Grimaldi 1993
+Pseudiastata	mexicoa Grimaldi 1993
+Pseudiastata	nebulosa Coquillett 1908
+Pseudiastata	pallida Wheeler 1960
+Pseudiastata	pictiventris Wheeler 1960
+Pseudiastata	pseudococcivora Sabrosky 1951
+Pseudiastata	vorax Sabrosky 1951
+Pseudostegana	albinotata Okada 1982
+Pseudostegana	angustifasciata Chen & Wang 2005
+Pseudostegana	atrofrons Chen & Toda 2005
+Pseudostegana	bifasciata Chen & Wang 2005
+Pseudostegana	bisetosa Chen & Toda 2005
+Pseudostegana	campanularia Okada 1982
+Pseudostegana	curvata Chen & Toda 2005
+Pseudostegana	dactylis Chen & Toda 2005
+Pseudostegana	dolichopoda Chen & Wang 2005
+Pseudostegana	fleximediata Takada Momma & Shima 1973
+Pseudostegana	grandipalpis Takada & Momma 1975
+Pseudostegana	hamata Chen & Toda 2005
+Pseudostegana	hirta Okada 1982
+Pseudostegana	javana Okada 1978
+Pseudostegana	lacrymaria Okada 1982
+Pseudostegana	latifasciata Chen & Toda 2005
+Pseudostegana	latipalpis Sidorenko 1998
+Pseudostegana	latiparma Okada 1982
+Pseudostegana	latizonaria Okada 1982
+Pseudostegana	leptoptera Chen & Toda 2005
+Pseudostegana	lineoparma Okada 1982
+Pseudostegana	malayana Okada 1978
+Pseudostegana	melanogaster Chen & Toda 2005
+Pseudostegana	melanopogonias Chen & Toda 2005
+Pseudostegana	myrmecoformis Chen & Toda 2005
+Pseudostegana	nitidifrons Chen & Wang 2005
+Pseudostegana	nitidiventris Chen & Toda 2005
+Pseudostegana	orbicapitata Chen & Toda 2005
+Pseudostegana	oxycephala Chen & Toda 2005
+Pseudostegana	pallidimaculata Chen & Wang 2005
+Pseudostegana	philoga Chen & Toda 2005
+Pseudostegana	xanthoptera Chen & Wang 2005
+Pseudostegana	zonaria Okada 1982
+Soederbomia	flava Hendel 1938
+Upolumyia	bimaculata Malloch 1934
+Upolumyia	pictifrons Malloch 1934
+Zaprionus	arduus Collart 1937
+Zaprionus	armatus Collart 1937
+Zaprionus	aungsani Wynn & Toda 1988
+Zaprionus	badyi Burla 1954
+Zaprionus	bakeri Sturtevant 1927
+Zaprionus	beninensis Chassagnard & Tsacas 1993
+Zaprionus	burlai Yassin 2008
+Zaprionus	camerounensis Chassagnard & Tsacas 1993
+Zaprionus	campestris Chassagnard 1988
+Zaprionus	capensis Chassagnard & Tsacas 1993
+Zaprionus	cercociliaris Gupta & Gupta 1991
+Zaprionus	cercus Chassagnard & McEvey 1992
+Zaprionus	davidi Chassagnard & Tsacas 1993
+Zaprionus	enoplomerus Chassagnard 1988
+Zaprionus	flavipennis Duda 1929
+Zaprionus	flavofasciatus Takada Beppu & Toda 1979
+Zaprionus	fumipennis Seguy 1938
+Zaprionus	ghesquierei Collart 1937
+Zaprionus	grandis Kikkawa & Peng 1938
+Zaprionus	hoplophorus Tsacas & Chassagnard 1990
+Zaprionus	indianus Gupta 1970
+Zaprionus	inermis Collart 1937
+Zaprionus	kolodkinae Chassagnard & Tsacas 1987
+Zaprionus	koroleu Burla 1954
+Zaprionus	lineosus Walker 1860
+Zaprionus	litos Chassagnard & McEvey 1992
+Zaprionus	mascariensis Tsacas & David 1975
+Zaprionus	megalorchis Chassagnard & Tsacas 1993
+Zaprionus	momorticus Graber 1957
+Zaprionus	montanus Collart 1937
+Zaprionus	multistriatus Duda 1923
+Zaprionus	multivittiger Chassagnard 1996
+Zaprionus	neglectus Collart 1937
+Zaprionus	niabu Burla 1954
+Zaprionus	nigrodigita Lin & Ting 1971
+Zaprionus	obscuricornis Meijere 1916
+Zaprionus	orissaensis Gupta 1972
+Zaprionus	ornatus Seguy 1933
+Zaprionus	proximus Collart 1937
+Zaprionus	pyinoolwinensis Wynn & Toda 1988
+Zaprionus	seguyi Tsacas & Chassagnard 1990
+Zaprionus	sepsoides Duda 1939
+Zaprionus	serratus Chassagnard 1988
+Zaprionus	sexstriatus Chassagnard 1996
+Zaprionus	sexvittatus Collart 1937
+Zaprionus	silvistriatus Bock & Baimai 1967
+Zaprionus	simplex Chassagnard & McEvey 1992
+Zaprionus	spineus Tsacas & Chassagnard 1990
+Zaprionus	spinilineosus Okada & Carson 1983
+Zaprionus	spinipes Tsacas & Chassagnard 1990
+Zaprionus	spinipilus Chassagnard & McEvey 1992
+Zaprionus	spinoarmatus Tsacas & Chassagnard 1990
+Zaprionus	spinosus Collart 1937
+Zaprionus	taronus Chassagnard & Tsacas 1993
+Zaprionus	tenuirostris Duda 1925
+Zaprionus	tsacasi Yassin 2008
+Zaprionus	tuberarmatus Tsacas & Chassagnard 1990
+Zaprionus	tuberculatus Malloch 1932
+Zaprionus	verruca Chassagnard & McEvey 1992
+Zaprionus	vittiger Coquillett 1901
+Zaprionus	vrydaghi Collart 1937
+Antopocerus	adunca Hardy 1965
+Antopocerus	aduncus Hardy 1965
+Antopocerus	arcuata Hardy 1965
+Antopocerus	arcuatus Hardy 1965
+Antopocerus	cognatus Grimshaw
+Antopocerus	diamphidiopoda Hardy 1965
+Antopocerus	diamphidiopodus Hardy 1965
+Antopocerus	entrichocnema Hardy 1965
+Antopocerus	entrichocnemus Hardy 1965
+Antopocerus	longiseta Grimshaw
+Antopocerus	orthoptera Hardy 1965
+Antopocerus	orthopterus Hardy 1965
+Antopocerus	tanythrix Hardy 1965
+Antopocerus	villosa Hardy 1965
+Antopocerus	villosus Hardy 1965
+Apacrochaeta	columbiensis Duda 1927
+Ateledrosophila	diamphidia Hardy 1965
+Ateledrosophila	preapicula Hardy 1965
+Baeodrosophila	bicolor Wheeler & Takada 1964
+Baeodrosophila	discolor Wheeler & Takada 1964
+Baeodrosophila	pallens Wheeler & Takada 1964
+Baeodrosophila	pubescens Wheeler & Takada 1964
+Baeodrosophila	weiri Bock 1982
+Balara	poecilithorax Malloch 1925
+Balara	poecilothorax Malloch 1925
+Bialba	rotunda Bock 1989
+Calodrosophila	phalerosa Wheeler & Takada 1964
+Cladochaeta	abarista Grimaldi & Nguyen 1999
+Cladochaeta	abbrevifusca Grimaldi & Nguyen 1999
+Cladochaeta	abeja Grimaldi & Nguyen 1999
+Cladochaeta	abrupta Grimaldi & Nguyen 1999
+Cladochaeta	adumbrata Duda 1925
+Cladochaeta	adusta Grimaldi & Nguyen 1999
+Cladochaeta	akantha Grimaldi & Nguyen 1999
+Cladochaeta	albifrons Grimaldi & Nguyen 1999
+Cladochaeta	ambidextra Grimaldi & Nguyen 1999
+Cladochaeta	amblyharpa Grimaldi & Nguyen 1999
+Cladochaeta	antalba Grimaldi & Nguyen 1999
+Cladochaeta	aquila Grimaldi & Nguyen 1999
+Cladochaeta	armata Frota-Pessoa 1947
+Cladochaeta	arthrostyla Grimaldi & Nguyen 1999
+Cladochaeta	austrinversa Grimaldi & Nguyen 1999
+Cladochaeta	bilinea Grimaldi & Nguyen 1999
+Cladochaeta	bispina Grimaldi & Nguyen 1999
+Cladochaeta	bomplandi Malloch 1934
+Cladochaeta	brunnea Grimaldi & Nguyen 1999
+Cladochaeta	bupeo Grimaldi & Nguyen 1999
+Cladochaeta	calvovis Grimaldi & Nguyen 1999
+Cladochaeta	carinata Grimaldi & Nguyen 1999
+Cladochaeta	centetor Grimaldi & Nguyen 1999
+Cladochaeta	chaeta Grimaldi & Nguyen 1999
+Cladochaeta	chelifera Grimaldi & Nguyen 1999
+Cladochaeta	crassa Grimaldi & Nguyen 1999
+Cladochaeta	dejecta Grimaldi & Nguyen 1999
+Cladochaeta	devriesi Grimaldi & Nguyen 1999
+Cladochaeta	dikra Grimaldi & Nguyen 1999
+Cladochaeta	diminuta Grimaldi & Nguyen 1999
+Cladochaeta	dolichofrons Grimaldi & Nguyen 1999
+Cladochaeta	dominicana Grimaldi & Nguyen 1999
+Cladochaeta	dominitica Grimaldi & Nguyen 1999
+Cladochaeta	dracula Grimaldi & Nguyen 1999
+Cladochaeta	ectopia Grimaldi & Nguyen 1999
+Cladochaeta	erecta Grimaldi & Nguyen 1999
+Cladochaeta	fasciata Grimaldi & Nguyen 1999
+Cladochaeta	floridana Malloch 1924
+Cladochaeta	florinversa Grimaldi & Nguyen 1999
+Cladochaeta	fuscora Grimaldi & Nguyen 1999
+Cladochaeta	genuinus Grimaldi & Nguyen 1999
+Cladochaeta	glans Grimaldi & Nguyen 1999
+Cladochaeta	glapica Grimaldi & Nguyen 1999
+Cladochaeta	hadrunca Grimaldi & Nguyen 1999
+Cladochaeta	hamula Grimaldi & Nguyen 1999
+Cladochaeta	heedi Grimaldi & Nguyen 1999
+Cladochaeta	hermani Grimaldi & Nguyen 1999
+Cladochaeta	hodita Grimaldi & Nguyen 1999
+Cladochaeta	howdeni Grimaldi & Nguyen 1999
+Cladochaeta	incessa Grimaldi & Nguyen 1999
+Cladochaeta	infumata Duda 1925
+Cladochaeta	inornata Grimaldi & Nguyen 1999
+Cladochaeta	inversa Walker 1861
+Cladochaeta	jamaicensis Grimaldi & Nguyen 1999
+Cladochaeta	janzeni Grimaldi & Nguyen 1999
+Cladochaeta	johnsonae Nguyen 2001
+Cladochaeta	labidia Grimaldi & Nguyen 1999
+Cladochaeta	laevacerca Grimaldi & Nguyen 1999
+Cladochaeta	longistyla Grimaldi & Nguyen 1999
+Cladochaeta	masneri Grimaldi & Nguyen 1999
+Cladochaeta	mathisi Grimaldi & Nguyen 1999
+Cladochaeta	mexinversa Grimaldi & Nguyen 1999
+Cladochaeta	minuta Duda 1925
+Cladochaeta	mystaca Grimaldi & Nguyen 1999
+Cladochaeta	neblina Grimaldi & Nguyen 1999
+Cladochaeta	nebulosa Coquillett 1900
+Cladochaeta	neoinversa Grimaldi & Nguyen 1999
+Cladochaeta	neosimplex Grimaldi & Nguyen 1999
+Cladochaeta	nigranus Grimaldi & Nguyen 1999
+Cladochaeta	obscura Grimaldi & Nguyen 1999
+Cladochaeta	obunca Grimaldi & Nguyen 1999
+Cladochaeta	onyx Grimaldi & Nguyen 1999
+Cladochaeta	ostia Grimaldi & Nguyen 1999
+Cladochaeta	paradoxa Lamb 1918
+Cladochaeta	paravolsella Grimaldi & Nguyen 1999
+Cladochaeta	paulhansoni Grimaldi & Nguyen 1999
+Cladochaeta	pequenita Grimaldi & Nguyen 1999
+Cladochaeta	pleurvitta Grimaldi & Nguyen 1999
+Cladochaeta	polia Grimaldi & Nguyen 1999
+Cladochaeta	propenicula Grimaldi & Nguyen 1999
+Cladochaeta	pruinopleura Grimaldi & Nguyen 1999
+Cladochaeta	pseudikra Grimaldi & Nguyen 1999
+Cladochaeta	pseudunca Grimaldi & Nguyen 1999
+Cladochaeta	psychotria Grimaldi & Nguyen 1999
+Cladochaeta	ptyelophila Tsacas 1993
+Cladochaeta	ranhyae Grimaldi & Nguyen 1999
+Cladochaeta	reversa Grimaldi & Nguyen 1999
+Cladochaeta	robusta Grimaldi & Nguyen 1999
+Cladochaeta	santana Grimaldi & Nguyen 1999
+Cladochaeta	sclerstyla Grimaldi & Nguyen 1999
+Cladochaeta	sepia Grimaldi & Nguyen 1999
+Cladochaeta	similex Grimaldi & Nguyen 1999
+Cladochaeta	simplex Grimaldi & Nguyen 1999
+Cladochaeta	sororia Williston 1896
+Cladochaeta	spectabilis Grimaldi & Nguyen 1999
+Cladochaeta	spinacosta Grimaldi & Nguyen 1999
+Cladochaeta	spinula Grimaldi & Nguyen 1999
+Cladochaeta	spira Grimaldi & Nguyen 1999
+Cladochaeta	starki Grimaldi & Nguyen 1999
+Cladochaeta	sternospina Grimaldi & Nguyen 1999
+Cladochaeta	sturtevanti Wheeler & Takada 1971
+Cladochaeta	telescopica Grimaldi & Nguyen 1999
+Cladochaeta	tepui Grimaldi & Nguyen 1999
+Cladochaeta	tica Grimaldi & Nguyen 1999
+Cladochaeta	trauma Grimaldi & Nguyen 1999
+Cladochaeta	travassosi Frota-Pessoa 1947
+Cladochaeta	tricerabops Grimaldi & Nguyen 1999
+Cladochaeta	tripunctata Grimaldi & Nguyen 1999
+Cladochaeta	tubula Grimaldi & Nguyen 1999
+Cladochaeta	unca Grimaldi & Nguyen 1999
+Cladochaeta	vapida Grimaldi & Nguyen 1999
+Cladochaeta	venebula Grimaldi & Nguyen 1999
+Cladochaeta	verdifrons Grimaldi & Nguyen 1999
+Cladochaeta	vermes Grimaldi & Nguyen 1999
+Cladochaeta	vittata Grimaldi & Nguyen 1999
+Cladochaeta	vivipara Grimaldi & Nguyen 1999
+Cladochaeta	volsella Grimaldi & Nguyen 1999
+Cladochaeta	vomica Grimaldi & Nguyen 1999
+Cladochaeta	wilhansoni Grimaldi & Nguyen 1999
+Cladochaeta	wirthi Grimaldi & Nguyen 1999
+Cladochaeta	yanomama Grimaldi & Nguyen 1999
+Cladochaeta	zurquia Grimaldi & Nguyen 1999
+Collessia	hiharai Okada 1967
+Collessia	kirishimana Okada 1967
+Collessia	minor Okada 1988
+Collessia	nigripennis Okada 1988
+Collessia	superba Bock 1982
+Crincosia	gugorum Bock 1984
+Crincosia	lawgana Bock 1982
+Crincosia	setifera Bock 1982
+Diathoneura	aberrans Wheeler 1957
+Diathoneura	adumbrata Duda 1925
+Diathoneura	albifacies Duda 1925
+Diathoneura	albinota Wheeler 1957
+Diathoneura	bicolor Frota-Pessoa 1947
+Diathoneura	bomplandi Malloch 1934
+Diathoneura	borgmeieri Duda 1927
+Diathoneura	brasiliensis Duda 1927
+Diathoneura	carrerai Frota-Pessoa 1947
+Diathoneura	cavalcantii Frota-Pessoa 1947
+Diathoneura	cruciata Duda 1925
+Diathoneura	dubia Sturtevant 1921
+Diathoneura	dudai Vilela & Bachli 1990
+Diathoneura	euryopa Duda 1925
+Diathoneura	flavolineata Duda 1927
+Diathoneura	guttipennis Duda 1925
+Diathoneura	iheringi Frota-Pessoa 1947
+Diathoneura	infumata Duda 1925
+Diathoneura	laticeps Duda 1925
+Diathoneura	longipennis Malloch 1926
+Diathoneura	lopesi Frota-Pessoa 1947
+Diathoneura	maculipennis Malloch 1926
+Diathoneura	magnipennis Duda 1927
+Diathoneura	mephistocephala Nguyen 2003
+Diathoneura	metallica Sturtevant 1921
+Diathoneura	minuta Duda 1925
+Diathoneura	montei Frota-Pessoa 1947
+Diathoneura	nana Williston 1896
+Diathoneura	nigrescens Duda 1925
+Diathoneura	nigrifrons Duda 1925
+Diathoneura	nubeculosa Duda 1925
+Diathoneura	opaca Williston 1896
+Diathoneura	peruviana Duda 1927
+Diathoneura	pilifrons Frota-Pessoa 1947
+Diathoneura	pleurolineata Duda 1925
+Diathoneura	plumata Duda 1927
+Diathoneura	quadrivittata Duda 1925
+Diathoneura	ripa Okada 1966
+Diathoneura	smithi Vilela & Bachli 1990
+Diathoneura	splendida Williston 1896
+Diathoneura	superba Sturtevant 1916
+Diathoneura	taeniatipennis Duda 1925
+Diathoneura	tanyptera Duda 1925
+Diathoneura	tessellata Duda 1925
+Diathoneura	triseta Malloch 1924
+Diathoneura	uniradiata Duda 1925
+Gitona	americana Patterson 1943
+Gitona	beckeri Duda 1924
+Gitona	bivisualis Patterson 1943
+Gitona	brasiliensis Lima 1950
+Gitona	canariensis Duda 1934
+Gitona	darwendalei Duda 1935
+Gitona	distans Bezzi 1924
+Gitona	distigma Meigen 1830
+Gitona	ethiopica Tsacas & Teshome 1981
+Gitona	fluminensis Lima 1950
+Gitona	frontalis Collart 1935
+Gitona	gossypii Seguy 1933
+Gitona	incohata Bock 1982
+Gitona	inornata Seguy 1933
+Gitona	magnipalpis Duda 1936
+Gitona	microchaeta Seguy 1941
+Gitona	pauliani Seguy 1951
+Gitona	pruinosa Bigot 1888
+Gitona	sonoita Wheeler 1949
+Gitona	stuckenbergi Tsacas 1990
+Gitona	valentinae Maca 1988
+Gitona	vlasovi Duda 1934
+Hyalistata	dominica Grimaldi 1993
+Hyalistata	floridana Grimaldi 1993
+Hyalistata	mexicoa Grimaldi 1993
+Hyalistata	vitrea Grimaldi 1993
+Idiomyia	clavisetae Hardy 1967
+Idiomyia	hemipeza Hardy 1965
+Idiomyia	heteroneura Perkins
+Idiomyia	melanocephala Hardy 1967
+Idiomyia	oahuensis Grimshaw
+Idiomyia	obscuripes Grimshaw
+Idiomyia	planitibia Hardy 1967
+Idiomyia	silvestris Perkins
+Lencophenga	abbreviata Meijere 1911
+Lencophenga	academica Maca & Lin 1993
+Lencophenga	albiceps Meijere 1914
+Lencophenga	argentata Meijere 1914
+Lencophenga	atriventris Lin & Wheeler 1972
+Lencophenga	bellula Bergroth 1894
+Lencophenga	bifasciata Duda 1923
+Lencophenga	confluens Duda 1923
+Lencophenga	digmasoma Lin & Wheeler 1972
+Lencophenga	fenchihuensis Okada 1987
+Lencophenga	flavicosta Duda 1926
+Lencophenga	formosa Okada 1987
+Lencophenga	fuscipennis Duda 1923
+Lencophenga	interrupta Duda 1924
+Lencophenga	latifrons Duda 1923
+Lencophenga	limbipennis Meijere 1908
+Lencophenga	maculata Dufour 1839
+Lencophenga	magnipalpis Duda 1923
+Lencophenga	meijerei Duda 1924
+Lencophenga	nigrinervis Duda 1924
+Lencophenga	nigripalpis Duda 1924
+Lencophenga	nigroscutellata Duda 1924
+Lencophenga	orientalis Lin & Wheeler 1972
+Lencophenga	ornata Wheeler 1959
+Lencophenga	pectinata Okada 1968
+Lencophenga	quadripunctata Meijere 1908
+Lencophenga	setipalpis Duda 1923
+Lencophenga	sordida Duda 1923
+Lencophenga	spilossoma Lin & Wheeler 1972
+Lencophenga	spinifera Okada 1987
+Lencophenga	subacutipennis Duda 1924
+Lencophenga	subpollinosa Meijere 1914
+Lencophenga	taiwanensis Lin & Wheeler 1972
+Lencophenga	umbratula Duda 1924
+Lencophenga	varinervis Duda 1923
+Lordiphosa	acongruens Zhang & Liang 1992
+Lordiphosa	acuminata Collin 1952
+Lordiphosa	alticola Hu Watabe & Toda 1999
+Lordiphosa	andalusiaca Strobl 1906
+Lordiphosa	antillaria Okada 1984
+Lordiphosa	archoroides Zhang 1993
+Lordiphosa	baechlii Zhang 2008
+Lordiphosa	basdeni Wheeler 1957
+Lordiphosa	biconvexa Zhang & Liang 1992
+Lordiphosa	chaoi Hu & Toda 1999
+Lordiphosa	chaolipinga Okada 1984
+Lordiphosa	clarofinis Lee 1959
+Lordiphosa	coei Okada 1966
+Lordiphosa	collinella Okada 1968
+Lordiphosa	cultrata Zhang 1993
+Lordiphosa	denticeps Okada & Sasakawa 1956
+Lordiphosa	deqenensis Zhang 1993
+Lordiphosa	deqensis Zhang 1993
+Lordiphosa	emeishanensis Hu & Toda 1999
+Lordiphosa	eminens Quan & Zhang 2003
+Lordiphosa	falsiramula Zhang 1993
+Lordiphosa	fenestrarum Fallen 1823
+Lordiphosa	gruicollara Quan & Zhang 2003
+Lordiphosa	harpophallata Hu Watabe & Toda 1999
+Lordiphosa	hexasticha Papp 1971
+Lordiphosa	himalayana Gupta & Gupta 1991
+Lordiphosa	hirsuta Duda 1926
+Lordiphosa	incidens Quan & Zhang 2003
+Lordiphosa	kurokawai Okada 1971
+Lordiphosa	ludianensis Quan & Zhang 2001
+Lordiphosa	macai Zhang 2008
+Lordiphosa	miki Duda 1924
+Lordiphosa	mommai Takada & Okada 1960
+Lordiphosa	neokurokawai Singh & Gupta 1981
+Lordiphosa	nigricolor Strobl 1898
+Lordiphosa	nigrifemur Quan & Zhang 2001
+Lordiphosa	nigrostyla Okada 1988
+Lordiphosa	paradenticeps Okada 1971
+Lordiphosa	paraflabella Gupta & De 1996
+Lordiphosa	parantillaria Kumar & Gupta 1990
+Lordiphosa	penicilla Zhang 1993
+Lordiphosa	penicula Okada 1984
+Lordiphosa	peniglobosa Kumar & Gupta 1990
+Lordiphosa	piliferous Quan & Zhang 2003
+Lordiphosa	porrecta Okada 1984
+Lordiphosa	presuturalis Hu & Toda 1999
+Lordiphosa	protrusa Zhang & Liang 1992
+Lordiphosa	pseudocyanea Hu & Toda 1999
+Lordiphosa	ramipara Zhang & Liang 1992
+Lordiphosa	ramosissima Zhang & Liang 1992
+Lordiphosa	ramula Zhang 1993
+Lordiphosa	ripa Okada 1966
+Lordiphosa	serriflabella Okada 1966
+Lordiphosa	shennongjiana Hu & Toda 1999
+Lordiphosa	shii Quan & Zhang 2001
+Lordiphosa	spinopenicula Okada 1988
+Lordiphosa	stackelbergi Duda 1935
+Lordiphosa	subantillaria Okada 1984
+Lordiphosa	tripartita Okada 1966
+Lordiphosa	tsacasi Zhang 2008
+Lordiphosa	variopicta Becker 1908
+Lordiphosa	vittata Zhang & Liang 1994
+Lordiphosa	yeren Hu & Toda 1999
+Lordiphosa	zonaria Okada 1966
+Neorhinoleucophenga	kerteszi Duda 1925
+Neorhinoleucophenga	quinquelineata Duda 1925
+Neorhinoleucophenga	trachyopa Duda 1925
+Neorhinoleucophenga	vitripennis Duda 1925
+Neotanygastrella	abbe Burla 1954
+Neotanygastrella	africana Burla 1954
+Neotanygastrella	antillea Wheeler 1957
+Neotanygastrella	boliviensis Duda 1927
+Neotanygastrella	chymomyzoides Duda 1927
+Neotanygastrella	janeae Bock 1982
+Neotanygastrella	leucopoda Wheeler 1949
+Neotanygastrella	makore Burla 1954
+Neotanygastrella	miti Burla 1954
+Neotanygastrella	naboika Burla 1954
+Neotanygastrella	nigricosta Malloch 1926
+Neotanygastrella	ornata Wheeler 1957
+Neotanygastrella	pacifica Wheeler & Takada 1964
+Neotanygastrella	punctiscutata Lamb 1914
+Neotanygastrella	sabahna Takada Momma & Shima 1973
+Neotanygastrella	samoana Wheeler & Kambysellis 1966
+Neotanygastrella	tricoloripes Duda 1925
+Neotanygastrella	wheeleri Grimaldi 1987
+Nudidrosophila	aenicta Hardy 1967
+Nudidrosophila	amita Hardy 1965
+Nudidrosophila	eximia Hardy 1965
+Nudidrosophila	gemmula Hardy 1965
+Nudidrosophila	lepidobregma Hardy 1965
+Oxystyloptera	mamaru Burla 1954
+Oxystyloptera	sexsetosa Duda 1939
+Palmophila	dentata Grimaldi 2003
+Palmophila	ecuadoriensis Grimaldi 2003
+Palmophila	rozeni Grimaldi 2003
+Protochymomyza	miocena Grimaldi 1987
+Rhinoleucophenga	americana Patterson 1943
+Rhinoleucophenga	angustifrons Malogolowkin 1946
+Rhinoleucophenga	bezzii Duda 1927
+Rhinoleucophenga	bivisualis Patterson 1943
+Rhinoleucophenga	brasiliensis Lima 1950
+Rhinoleucophenga	breviplumata Duda 1927
+Rhinoleucophenga	fluminensis Lima 1950
+Rhinoleucophenga	gigantea Thomson 1869
+Rhinoleucophenga	lopesi Malogolowkin 1946
+Rhinoleucophenga	matogrossensis Malogolowkin 1946
+Rhinoleucophenga	nigrescens Malogolowkin 1946
+Rhinoleucophenga	obesa Loew 1872
+Rhinoleucophenga	pallida Hendel 1917
+Rhinoleucophenga	personata Malogolowkin 1946
+Rhinoleucophenga	punctulata Duda 1929
+Rhinoleucophenga	sonoita Wheeler 1949
+Rhinoleucophenga	stigma Hendel 1917
+Rhinoleucophenga	subradiata Duda 1929
+Sphaerogastrella	albimana Okada & Carson 1983
+Sphaerogastrella	angustifrons Okada 1992
+Sphaerogastrella	flabellata Okada & Carson 1983
+Sphaerogastrella	granulosa Okada 1992
+Sphaerogastrella	hypsela Okada & Carson 1983
+Sphaerogastrella	javana Meijere 1911
+Sphaerogastrella	novoguinensis Duda 1926
+Sphaerogastrella	papuana Okada & Carson 1983
+Sphaerogastrella	rostralis Okada 1974
+Sphaerogastrella	scutellaris Okada & Carson 1983
+Stegana	acutangula Hendel 1913
+Stegana	adentata Toda & Peng 1992
+Stegana	affinis Malloch 1924
+Stegana	africana Malloch 1934
+Stegana	albinotata Okada 1982
+Stegana	annulata Haliday 1833
+Stegana	annulosa Duda 1929
+Stegana	antica Curran 1934
+Stegana	antigua Wheeler 1960
+Stegana	antila Sidorenko & Okada 1991
+Stegana	antlia Okada 1991
+Stegana	aotsukai Chen & Wang 2004
+Stegana	arcygramma Chen & Chen 2008
+Stegana	atrifrons Malloch 1924
+Stegana	atrimana Malloch 1924
+Stegana	bacilla Chen & Aotsuka 2004
+Stegana	baechlii Lastovka & Maca 1982
+Stegana	bakeri Sturtevant 1927
+Stegana	barretti Johnson 1921
+Stegana	belokobylskiji Sidorenko 1997
+Stegana	bicoloripes Tsacas 1990
+Stegana	biprotrusa Chen & Aotsuka 2004
+Stegana	brasiliensis Duda 1927
+Stegana	brevibarba Cao & Chen 2008
+Stegana	brunnea Malloch 1924
+Stegana	burmensis Sidorenko 1997
+Stegana	campanularia Okada 1982
+Stegana	capillaria Cao & Chen 2008
+Stegana	castanea Okada 1988
+Stegana	cheni Sidorenko 1997
+Stegana	chitouensis Sidorenko 1998
+Stegana	claudana Bock 1982
+Stegana	coleoptrata Scopoli 1763
+Stegana	conformis Malloch 1924
+Stegana	consimilis Papp & Maca 2000
+Stegana	convergens Meijere 1911
+Stegana	crescentica Gupta & Panigrahy 1987
+Stegana	cristimana Malloch 1924
+Stegana	ctenaria Nishiharu 1979
+Stegana	curvinervis Hendel 1914
+Stegana	dendrobium Chen & Aotsuka 2004
+Stegana	dentifera Lastovka & Maca 1982
+Stegana	dorsolineata Duda 1925
+Stegana	drosophiloides Toda & Peng 1992
+Stegana	earli Bock 1982
+Stegana	emeiensis Sidorenko 1997
+Stegana	enigma Sidorenko 1998
+Stegana	femorata Duda 1923
+Stegana	flavifrons Malloch 1924
+Stegana	flavimana Malloch 1924
+Stegana	fleximediata Takada Momma & Shima 1973
+Stegana	fumipennis Enderlein 1922
+Stegana	furta Linnaeus 1767
+Stegana	fuscibasis Malloch 1924
+Stegana	grandipalpis Takada & Momma 1975
+Stegana	hirta Okada 1982
+Stegana	hirtipenis Xu Gao & Chen 2007
+Stegana	horae Williston 1896
+Stegana	hypoleuca Meigen 1830
+Stegana	ikedai Okada & Sidorenko 1992
+Stegana	intermedia Duda 1927
+Stegana	interrupta Malloch 1924
+Stegana	izu Sidorenko 1997
+Stegana	javana Okada 1978
+Stegana	kanmiyai Okada & Sidorenko 1992
+Stegana	lacrymaria Okada 1982
+Stegana	lamondi Bock 1982
+Stegana	lateralis Wulp 1897
+Stegana	latipalpis Sidorenko 1998
+Stegana	latiparma Okada 1982
+Stegana	latipenis Xu Gao & Chen 2007
+Stegana	latizonaria Okada 1982
+Stegana	leucomelana Walker 1859
+Stegana	lineoparma Okada 1982
+Stegana	longibarba Cao & Chen 2008
+Stegana	longifibula Takada 1968
+Stegana	maculipennis Okada 1971
+Stegana	magnifica Hendel 1913
+Stegana	maichouensis Sidorenko 1998
+Stegana	malayana Okada 1978
+Stegana	masanoritodai Okada & Sidorenko 1992
+Stegana	mehadiae Duda 1924
+Stegana	meichiensis Chen & Toda 1994
+Stegana	melanostigma Chen & Chen 2008
+Stegana	melanostoma Chen & Chen 2008
+Stegana	minor Duda 1927
+Stegana	monochrous Tsacas 1990
+Stegana	monodonata Chen & Chen 2008
+Stegana	moritha Sidorenko 1997
+Stegana	multiclavata Cao & Chen 2008
+Stegana	nainitalensis Singh & Fartyal 2002
+Stegana	nartshukae Sidorenko 1997
+Stegana	nigrifrons Meijere 1911
+Stegana	nigrimana Malloch 1924
+Stegana	nigripennis Hendel 1914
+Stegana	nigrita Malloch 1924
+Stegana	nigrithorax Strobl 1898
+Stegana	nigrolimbata Duda 1924
+Stegana	nigromarginata Duda 1925
+Stegana	norma Curran 1934
+Stegana	obscuricornis Meijere 1915
+Stegana	ornatipes Wheeler & Takada 1964
+Stegana	pallipes Wiedemann 1830
+Stegana	papuana Okada & Sidorenko 1992
+Stegana	penihexata Gupta & Panigrahy 1987
+Stegana	pililobosa Chen & Chen 2008
+Stegana	planifacies Malloch 1924
+Stegana	platypezina Duda 1927
+Stegana	plesia Tsacas & Chassagnard 1996
+Stegana	prigenti Chen & Wang 2004
+Stegana	proximata Seguy 1938
+Stegana	psilolobosa Chen & Chen 2008
+Stegana	pyinoolwinensis Sidorenko 1997
+Stegana	scarabeo Bock 1982
+Stegana	schildi Malloch 1924
+Stegana	scutellata Meijere 1911
+Stegana	setifrons Sidorenko 1997
+Stegana	shirozui Okada 1971
+Stegana	sibirica Duda 1934
+Stegana	sidorenkoi Hu & Toda 1994
+Stegana	similis Lastovka & Maca 1982
+Stegana	singularis Sidorenko 1990
+Stegana	sinica Sidorenko 1991
+Stegana	spyrotsakasi Tsacas 1997
+Stegana	stuckenbergi Tsacas 1990
+Stegana	subconvergens Okada 1988
+Stegana	subexcavata Vaidya & Godbole 1976
+Stegana	taba Okada 1971
+Stegana	taiwana Okada 1991
+Stegana	tarsalis Williston 1896
+Stegana	tempifera Malloch 1924
+Stegana	tenebrosa Walker 1865
+Stegana	toyaensis Okada & Sidorenko 1992
+Stegana	triseta Duda 1925
+Stegana	trisetosa Chen & Wang 2004
+Stegana	undulata Meijere 1911
+Stegana	unidentata Takada 1968
+Stegana	uniformis Malloch 1924
+Stegana	varicolor Duda 1925
+Stegana	varipes Tsacas 1990
+Stegana	vietnamensis Sidorenko 1997
+Stegana	vittata Coquillett 1901
+Stegana	watabei Sidorenko 1998
+Stegana	wheeleri Lastovka & Maca 1982
+Stegana	xiaoleiae Cao & Chen 2008
+Stegana	xuei Hu & Toda 1994
+Stegana	yapingi Chen & Wang 2004
+Stegana	zhangi Sidorenko 1997
+Stegana	zonaria Okada 1982
+Clastopteromyia	aberrans Wheeler 1957
+Clastopteromyia	albinota Wheeler 1957
+Clastopteromyia	armata Frota-Pessoa 1947
+Clastopteromyia	bicolor Frota-Pessoa 1947
+Clastopteromyia	carrerai Frota-Pessoa 1947
+Clastopteromyia	cavalcantii Frota-Pessoa 1947
+Clastopteromyia	iheringi Frota-Pessoa 1947
+Clastopteromyia	longipennis Malloch 1926
+Clastopteromyia	lopesi Frota-Pessoa 1947
+Clastopteromyia	maculipennis Malloch 1926
+Clastopteromyia	montei Frota-Pessoa 1947
+Clastopteromyia	pilifrons Frota-Pessoa 1947
+Clastopteromyia	travassosi Frota-Pessoa 1947
+Clastopteromyia	triseta Malloch 1924
+Dettopsomyia	acrostichalis Duda 1926
+Dettopsomyia	alba Carson & Okada 1982
+Dettopsomyia	bombax Burla 1954
+Dettopsomyia	equscauda Takada & Momma 1975
+Dettopsomyia	formosa Lamb 1914
+Dettopsomyia	fruhstorferi Duda 1924
+Dettopsomyia	jacobsoni Duda 1926
+Dettopsomyia	nigrovittata Malloch 1924
+Dettopsomyia	philippina Takada 1976
+Dettopsomyia	pictipes Meijere 1911
+Dettopsomyia	preciosa Meijere 1911
+Dettopsomyia	repletoides Carson & Okada 1980
+Dettopsomyia	woodruffi Takada 1990
+Dichaetophora	aberrans Lamb 1914
+Dichaetophora	abnormis Hu & Toda 2005
+Dichaetophora	acutissima Okada 1956
+Dichaetophora	agbo Burla 1954
+Dichaetophora	argentea McEvey & Bock 1982
+Dichaetophora	aristata Okada 1984
+Dichaetophora	bicornis Hu & Toda 2005
+Dichaetophora	brunnea Okada 1984
+Dichaetophora	burmana Okada 1984
+Dichaetophora	carinata Bock 1982
+Dichaetophora	cirricauda Okada 1988
+Dichaetophora	clypeonigra Okada 1968
+Dichaetophora	constricta Okada 1988
+Dichaetophora	cyanea Okada 1988
+Dichaetophora	emeishanensis Hu & Toda 1999
+Dichaetophora	facilis Lin & Ting 1971
+Dichaetophora	fascifrons Okada 1988
+Dichaetophora	flava Nishiharu 1981
+Dichaetophora	flexicauda Okada 1966
+Dichaetophora	hainanensis Hu & Toda 2005
+Dichaetophora	heterodentata Okada 1984
+Dichaetophora	hexachaeta Okada 1984
+Dichaetophora	imitans Graber 1957
+Dichaetophora	laeana Okada 1984
+Dichaetophora	lindae Wheeler & Takada 1964
+Dichaetophora	macalpinei Bock 1982
+Dichaetophora	madagascarensis Okada 1984
+Dichaetophora	magnidentata Lee 1964
+Dichaetophora	malayana Okada 1984
+Dichaetophora	mosana Bock 1984
+Dichaetophora	neocirricauda Gupta & De 1996
+Dichaetophora	nigrifrons Okada 1988
+Dichaetophora	ogasawarensis Toda 1987
+Dichaetophora	okadai Nishiharu 1981
+Dichaetophora	papuana Okada 1984
+Dichaetophora	paraserrata Okada 1988
+Dichaetophora	pectinata McEvey & Bock 1982
+Dichaetophora	plana Bock 1982
+Dichaetophora	presuturalis Hu & Toda 1999
+Dichaetophora	pseudocyanea Hu & Toda 1999
+Dichaetophora	pseudotenuicauda Toda 1983
+Dichaetophora	quadrifrons Okada 1988
+Dichaetophora	quelpartiensis Kang Lee & Bahng 1967
+Dichaetophora	raridentata Okada & Chung 1960
+Dichaetophora	rotundicornis Okada 1966
+Dichaetophora	sakagamii Toda 1989
+Dichaetophora	sarawakana Okada 1984
+Dichaetophora	serrata Okada 1984
+Dichaetophora	sinensis Hu & Toda 2005
+Dichaetophora	spinipes Okada 1984
+Dichaetophora	sternopleuralis Okada 1984
+Dichaetophora	surukella Okada 1965
+Dichaetophora	suruku Burla 1954
+Dichaetophora	tenuicauda Okada 1956
+Dichaetophora	tridens Okada 1984
+Dichaetophora	wulaiensis Okada 1984
+Dichaetophora	yeren Hu & Toda 1999
+Drosophillela	alocasiae Okada 1975
+Drosophillela	xenalocasiae Okada 1980
+Eostegana	argentea Okada 1982
+Eostegana	australis Bock 1982
+Eostegana	biroi Hendel 1913
+Eostegana	bulla Bock 1989
+Eostegana	inclinata Okada 1982
+Eostegana	maculosa Okada 1982
+Eostegana	ortalidoides Walker 1864
+Eostegana	punctipennis Okada 1982
+Eostegana	roripennis Walker 1859
+Eostegana	striatipennis Duda 1923
+Eostegana	tessellata Okada 1982
+Gitonides	perspicax Knab
+Grimshawomyia	palata Hardy 1965
+Grimshawomyia	perkinsi Grimshaw
+Laccodrosophila	atra Duda 1927
+Laccodrosophila	flavescens Wheeler 1957
+Laccodrosophila	flavipes Duda 1927
+Laccodrosophila	heedi Wheeler 1957
+Laccodrosophila	takadai Wheeler 1968
+Lissocephala	africana Tsacas 1981
+Lissocephala	ambigua Tsacas & Chassagnard 1978
+Lissocephala	asiatica Okada 1964
+Lissocephala	bergi Chassagnard & Tsacas 1997
+Lissocephala	bicolor Meijere 1911
+Lissocephala	bicoloroides Okada 1985
+Lissocephala	binotata Meijere 1914
+Lissocephala	carayoni Tsacas & Chassagnard 1986
+Lissocephala	corpusculata Takada & Momma 1975
+Lissocephala	couturieri Tsacas & Lachaise 1979
+Lissocephala	diola Tsacas & Lachaise 1979
+Lissocephala	disjuncta Tsacas & Chassagnard 1978
+Lissocephala	fijiensis Harrison 1954
+Lissocephala	horea Tsacas 1981
+Lissocephala	indersinghi Takada & Momma 1975
+Lissocephala	juncta Tsacas & Chassagnard 1978
+Lissocephala	kamundii Chassagnard & Tsacas 1997
+Lissocephala	lachaisei Tsacas 1981
+Lissocephala	lebou Tsacas & Lachaise 1979
+Lissocephala	linearis Tsacas 1981
+Lissocephala	melanosanu Tsacas 1981
+Lissocephala	melanothyrea Tsacas 1981
+Lissocephala	metallescens Meijere 1914
+Lissocephala	neoasiatica Takada & Momma 1975
+Lissocephala	nigroscutellata Tsacas 1981
+Lissocephala	pallidipennis Harrison 1954
+Lissocephala	parabicolor Okada 1985
+Lissocephala	parasiatica Takada & Momma 1975
+Lissocephala	powelli Carson & Wheeler 1973
+Lissocephala	pulchra Tsacas 1981
+Lissocephala	rasplusi McEvey & Lachaise 1990
+Lissocephala	sabroskyi Wheeler & Takada 1964
+Lissocephala	sanu Burla 1954
+Lissocephala	sosefi Chassagnard & Tsacas 1997
+Lissocephala	subbicolor Okada 1985
+Lissocephala	taiensis Tsacas 1981
+Lissocephala	unipuncta Malloch 1929
+Lissocephala	versicolor Malloch 1934
+Marquesia	femoralis Malloch 1933
+Marquesia	major Malloch 1932
+Miomyia	io Grimaldi 1987
+Mulgravea	asiatica Okada 1964
+Mulgravea	bhutanica De & Gupta 1995
+Mulgravea	bimaculata Okada 1985
+Mulgravea	corpusculata Takada & Momma 1975
+Mulgravea	detriculata De & Gupta 1995
+Mulgravea	indersinghi Takada & Momma 1975
+Mulgravea	minima Bock 1982
+Mulgravea	neoasiatica Takada & Momma 1975
+Mulgravea	parasiatica Takada & Momma 1975
+Mulgravea	peniglobosa De & Gupta 1995
+Mulgravea	ranipoolensis Kumar 1991
+Mulgravea	spinisterna De & Gupta 1995
+Mulgravea	trimaculata Okada 1985
+Mulgravea	viridifrons Okada 1985
+Mulgravea	vittata Okada 1988
+Mycodrosophila	aciliata Okada 1986
+Mycodrosophila	adyala Burla 1954
+Mycodrosophila	albicornis Meijere 1916
+Mycodrosophila	alienata Duda 1926
+Mycodrosophila	amabilis Meijere 1911
+Mycodrosophila	ampularia Chen Shao & Fan 1989
+Mycodrosophila	angularis Okada 1986
+Mycodrosophila	annulata Bock 1980
+Mycodrosophila	annulipes Okada 1986
+Mycodrosophila	aqua Bock 1980
+Mycodrosophila	argentifrons Malloch 1927
+Mycodrosophila	atie Burla 1954
+Mycodrosophila	atrithorax Okada 1968
+Mycodrosophila	barracloughi Chassagnard & Tsacas 1998
+Mycodrosophila	basalis Okada 1956
+Mycodrosophila	biceps Kang Lee & Bahng 1966
+Mycodrosophila	bicolor Okada 1986
+Mycodrosophila	bifibulata Takada 1968
+Mycodrosophila	biroi Duda 1923
+Mycodrosophila	bombax Burla 1954
+Mycodrosophila	boudinoti Tsacas & Chassagnard 1991
+Mycodrosophila	brunnescens Wheeler & Takada 1963
+Mycodrosophila	buxtoni Malloch 1934
+Mycodrosophila	caesia McEvey 2005
+Mycodrosophila	calceus Okada 1986
+Mycodrosophila	carinata Bock 1980
+Mycodrosophila	carola Wheeler & Takada 1964
+Mycodrosophila	celesta Sidorenko 1992
+Mycodrosophila	chazeaui Tsacas & Chassagnard 1991
+Mycodrosophila	ciliatipes Duda 1923
+Mycodrosophila	ciliophora Okada 1986
+Mycodrosophila	claudensis Bock 1980
+Mycodrosophila	claytonae Wheeler & Takada 1963
+Mycodrosophila	compacta Bock 1980
+Mycodrosophila	coralloides Chen Shao & Fan 1989
+Mycodrosophila	cornea Okada 1986
+Mycodrosophila	costata Okada 1986
+Mycodrosophila	delta McEvey 2005
+Mycodrosophila	dianae Bock 1980
+Mycodrosophila	dimidiata Loew 1862
+Mycodrosophila	ditan Burla 1954
+Mycodrosophila	diversa Bock 1980
+Mycodrosophila	dudleyi Chassagnard & Tsacas 1997
+Mycodrosophila	echinacea Chen Shao & Fan 1989
+Mycodrosophila	elegans Wheeler & Takada 1963
+Mycodrosophila	erecta Okada 1968
+Mycodrosophila	esakii Wheeler & Takada 1964
+Mycodrosophila	fascinata McEvey 2005
+Mycodrosophila	flavilumbus Okada 1986
+Mycodrosophila	fracticosta Lamb 1914
+Mycodrosophila	fumusala Lin & Ting 1971
+Mycodrosophila	gaku Burla 1954
+Mycodrosophila	gordoni McEvey & Bock 1982
+Mycodrosophila	gracilis Okada 1986
+Mycodrosophila	grandifrons McEvey & Bock 1982
+Mycodrosophila	gratiosa Meijere 1911
+Mycodrosophila	gressitti Wheeler & Takada 1964
+Mycodrosophila	halterata Malloch 1930
+Mycodrosophila	helenae Bock 1980
+Mycodrosophila	heterothrix McEvey & Bock 1982
+Mycodrosophila	huangshanensis Chen & Toda 1994
+Mycodrosophila	japonica Okada 1956
+Mycodrosophila	joalahae Bock 1982
+Mycodrosophila	kabakolo Burla 1954
+Mycodrosophila	kitagawai Wynn & Toda 1990
+Mycodrosophila	koreana Lee & Takada 1959
+Mycodrosophila	kuntii Kumar & Gupta 1992
+Mycodrosophila	legrandi Tsacas & Chassagnard 1991
+Mycodrosophila	longicornis Seguy 1933
+Mycodrosophila	malayana Okada 1986
+Mycodrosophila	margoae Bock 1980
+Mycodrosophila	marksae Bock 1980
+Mycodrosophila	matilei Chassagnard & Lachaise 2000
+Mycodrosophila	melaniae McEvey 2005
+Mycodrosophila	melanophaea Tsacas 1990
+Mycodrosophila	melanopleura Sundaran & Gupta 1991
+Mycodrosophila	minor Bock 1980
+Mycodrosophila	missima Okada 1986
+Mycodrosophila	mulgravensis Bock 1980
+Mycodrosophila	multidentata Okada 1986
+Mycodrosophila	neoprojectans Wheeler & Takada 1963
+Mycodrosophila	nigerrima Lamb 1914
+Mycodrosophila	nigrans Chassagnard & Tsacas 1997
+Mycodrosophila	nigrithorax Malloch 1934
+Mycodrosophila	nigrobrunnea Lamb 1914
+Mycodrosophila	nigropleura Wheeler & Takada 1963
+Mycodrosophila	nigropleurata Takada & Momma 1975
+Mycodrosophila	nigropteropleura Kang Lee & Bahng 1965
+Mycodrosophila	ocellata McEvey 2005
+Mycodrosophila	ohbai Wynn & Toda 1990
+Mycodrosophila	palmata Okada 1956
+Mycodrosophila	palpalis McEvey 2005
+Mycodrosophila	papuana Okada 1986
+Mycodrosophila	parallelinervis Duda 1926
+Mycodrosophila	penihispidus Sundaran & Gupta 1991
+Mycodrosophila	planata McEvey 2005
+Mycodrosophila	planipalpis Kang Lee & Bahng 1966
+Mycodrosophila	poecilogastra Loew 1874
+Mycodrosophila	ponapeae Wheeler & Takada 1964
+Mycodrosophila	projectans Sturtevant 1916
+Mycodrosophila	pseudoprojectans Wheeler & Takada 1963
+Mycodrosophila	punctata Tsacas 1990
+Mycodrosophila	quadrata Okada 1986
+Mycodrosophila	rayi Bock 1980
+Mycodrosophila	recula Wheeler & Kambysellis 1966
+Mycodrosophila	rika Sidorenko 1999
+Mycodrosophila	rosemaryae Bock 1980
+Mycodrosophila	scotos Bock 1980
+Mycodrosophila	separata Meijere 1911
+Mycodrosophila	serrata Okada 1986
+Mycodrosophila	setipalpis Okada 1956
+Mycodrosophila	shikokuana Okada 1956
+Mycodrosophila	simplex Bock 1980
+Mycodrosophila	spinata Okada 1986
+Mycodrosophila	stalkeri Wheeler & Takada 1963
+Mycodrosophila	stigma Bock 1980
+Mycodrosophila	stylaria Chen & Okada 1989
+Mycodrosophila	subciliatipes Okada 1986
+Mycodrosophila	subgratiosa Okada 1965
+Mycodrosophila	suluma Burla 1954
+Mycodrosophila	sunguru Burla 1954
+Mycodrosophila	takachihonis Okada 1956
+Mycodrosophila	tillieri Tsacas & Chassagnard 1991
+Mycodrosophila	umbra McEvey 2005
+Mycodrosophila	vannuatuae McEvey 2005
+Mycodrosophila	variata Bock 1980
+Mycodrosophila	wassermani Wheeler & Takada 1964
+Mycodrosophila	xanthopleura Sundaran & Gupta 1991
+Nesiodrosophila	argentea McEvey & Bock 1982
+Nesiodrosophila	aristata Okada 1984
+Nesiodrosophila	brunnea Okada 1984
+Nesiodrosophila	burmana Okada 1984
+Nesiodrosophila	carinata Bock 1982
+Nesiodrosophila	cirricauda Okada 1988
+Nesiodrosophila	constricta Okada 1988
+Nesiodrosophila	facilis Lin & Ting 1971
+Nesiodrosophila	fascifrons Okada 1988
+Nesiodrosophila	flava Nishiharu 1981
+Nesiodrosophila	heterodentata Okada 1984
+Nesiodrosophila	hexachaeta Okada 1984
+Nesiodrosophila	laeana Okada 1984
+Nesiodrosophila	lindae Wheeler & Takada 1964
+Nesiodrosophila	macalpinei Bock 1982
+Nesiodrosophila	madagascarensis Okada 1984
+Nesiodrosophila	malayana Okada 1984
+Nesiodrosophila	mosana Bock 1984
+Nesiodrosophila	neocirricauda De & Gupta 1996
+Nesiodrosophila	nigrifrons Okada 1988
+Nesiodrosophila	ogasawarensis Toda 1987
+Nesiodrosophila	okadai Nishiharu 1981
+Nesiodrosophila	papuana Okada 1984
+Nesiodrosophila	paraserrata Okada 1988
+Nesiodrosophila	pectinata McEvey & Bock 1982
+Nesiodrosophila	plana Bock 1982
+Nesiodrosophila	quadrifrons Okada 1988
+Nesiodrosophila	sakagamii Toda 1989
+Nesiodrosophila	sarawakana Okada 1984
+Nesiodrosophila	serrata Okada 1984
+Nesiodrosophila	spinipes Okada 1984
+Nesiodrosophila	sternopleuralis Okada 1984
+Nesiodrosophila	tridens Okada 1984
+Nesiodrosophila	wulaiensis Okada 1984
+Palmomyia	incerta Grimaldi 2003
+Paracaptomyza	angustipennis Frey 1954
+Paraleucophenga	emeiensis Sidorenko 1998
+Paraleucophenga	invicta Walker 1856
+Paraleucophenga	javana Okada 1988
+Paraleucophenga	neojavanaii Singh & Negi 1992
+Paraleucophenga	semiplumata Duda 1939
+Paraleucophenga	shanyinensis Chen & Toda 1994
+Paraleucophenga	shimai Okada 1988
+Poliocephala	microabdomina Bock 1989
+Pyrgometopa	penicillata Kertesz 1901
+Samoaia	attenuata Wheeler & Kambysellis 1966
+Samoaia	comma Malloch 1934
+Samoaia	hirta Malloch 1934
+Samoaia	leonensis Wheeler & Kambysellis 1966
+Samoaia	mallochi Wheeler & Kambysellis 1966
+Samoaia	nuda Malloch 1934
+Samoaia	ocellaris Malloch 1934
+Scaptodrosophila	abdita Papp Racz & Bachli 1999
+Scaptodrosophila	aclinata McEvey & Barker 2001
+Scaptodrosophila	acuta Sturtevant 1927
+Scaptodrosophila	adelphe Bock 1976
+Scaptodrosophila	adyukru Burla 1954
+Scaptodrosophila	agamse Burla 1954
+Scaptodrosophila	akaju Burla 1954
+Scaptodrosophila	albifrontata Malloch 1934
+Scaptodrosophila	albolimbata Duda 1924
+Scaptodrosophila	altera Bock 1976
+Scaptodrosophila	alternata Meijere 1911
+Scaptodrosophila	ambiguifascia Okada & Carson 1983
+Scaptodrosophila	amydriae Okada & Carson 1982
+Scaptodrosophila	anderssoni Okada 1988
+Scaptodrosophila	angelicae Okada & Nishiharu 1981
+Scaptodrosophila	angusta Meijere 1916
+Scaptodrosophila	anthemon Bock 1976
+Scaptodrosophila	anthia Okada & Carson 1982
+Scaptodrosophila	anuda Curran 1936
+Scaptodrosophila	anyi Burla 1954
+Scaptodrosophila	aproclinata Okada & Carson 1980
+Scaptodrosophila	aterrima Duda 1940
+Scaptodrosophila	atricha Chassagnard & Tsacas 1997
+Scaptodrosophila	aurochaeta Bock 1984
+Scaptodrosophila	bambuphila Gupta 1971
+Scaptodrosophila	bangi Burla 1954
+Scaptodrosophila	bansadharae Panigrahy & Gupta 1983
+Scaptodrosophila	barkeri Bock 1976
+Scaptodrosophila	baseogrisea Duda 1924
+Scaptodrosophila	bella Chassagnard & Tsacas 1997
+Scaptodrosophila	bicolor Chassagnard & Tsacas 1997
+Scaptodrosophila	bodmeri Bock & Parson 1979
+Scaptodrosophila	brincki Okada 1988
+Scaptodrosophila	brooksae Pipkin 1961
+Scaptodrosophila	brunnea Meijere 1911
+Scaptodrosophila	brunneipennis Malloch 1923
+Scaptodrosophila	brunnotata McEvey 1982
+Scaptodrosophila	bryani Malloch 1934
+Scaptodrosophila	bushi Bock & Parson 1979
+Scaptodrosophila	caledobrunnea Chassagnard & Tsacas 1997
+Scaptodrosophila	caledonica Chassagnard & Tsacas 1997
+Scaptodrosophila	caliginosa Lamb 1914
+Scaptodrosophila	cancellata Mather 1955
+Scaptodrosophila	cederholmi Okada 1988
+Scaptodrosophila	chandraprabhiana Gupta & Ray-Chaudhuri 1970
+Scaptodrosophila	chocolata Bock 1984
+Scaptodrosophila	claropleura Chassagnard & Tsacas 1997
+Scaptodrosophila	claytoni Klinken 1997
+Scaptodrosophila	clunicrus Duda 1923
+Scaptodrosophila	collessi Bock 1976
+Scaptodrosophila	cominsiae Okada & Carson 1982
+Scaptodrosophila	compressiceps Duda 1923
+Scaptodrosophila	concolor Bock 1976
+Scaptodrosophila	coniura Okada 1988
+Scaptodrosophila	convexa Malloch 1934
+Scaptodrosophila	coracina Kikkawa & Peng 1938
+Scaptodrosophila	cristata Singh 1976
+Scaptodrosophila	crocata Bock 1976
+Scaptodrosophila	crockeri Curran 1936
+Scaptodrosophila	cultello Bock 1982
+Scaptodrosophila	decipiens Duda 1923
+Scaptodrosophila	deflexa Duda 1924
+Scaptodrosophila	diana Okada & Carson 1982
+Scaptodrosophila	dibi Burla 1954
+Scaptodrosophila	dichromos Bock 1976
+Scaptodrosophila	divergens Duda 1924
+Scaptodrosophila	dorsata Duda 1924
+Scaptodrosophila	dorsocentralis Okada 1965
+Scaptodrosophila	ebenea Graber 1957
+Scaptodrosophila	ebonata Parshad & Duggal 1967
+Scaptodrosophila	ehrmanae Parsons & Bock 1977
+Scaptodrosophila	elenthiensis Sundaran & Gupta 1991
+Scaptodrosophila	ellenae Bock 1980
+Scaptodrosophila	eluta Wheeler & Takada 1964
+Scaptodrosophila	elutoides Okada & Carson 1983
+Scaptodrosophila	enigma Malloch 1927
+Scaptodrosophila	eoundo Tsacas & Chassagnard 1976
+Scaptodrosophila	evanescens Klinken 1997
+Scaptodrosophila	evenhuisi Chassagnard & Tsacas 1997
+Scaptodrosophila	excavata Okada 1988
+Scaptodrosophila	excepta Malloch 1934
+Scaptodrosophila	exemplar Bock 1976
+Scaptodrosophila	fimbriata Bock 1976
+Scaptodrosophila	finitima Lamb 1914
+Scaptodrosophila	finnigana Bock 1984
+Scaptodrosophila	flavipes Harrison 1954
+Scaptodrosophila	flavissima Duda 1929
+Scaptodrosophila	framire Burla 1954
+Scaptodrosophila	fringefera Gupta & Gupta 1989
+Scaptodrosophila	fumida Mather 1960
+Scaptodrosophila	fungi Bock & Parson 1978
+Scaptodrosophila	fuscithorax Malloch 1924
+Scaptodrosophila	fuscopalpis Wheeler & Takada 1964
+Scaptodrosophila	fuscovittata Harrison 1954
+Scaptodrosophila	garnetensis Bock 1984
+Scaptodrosophila	garumga Klinken 1997
+Scaptodrosophila	glauca Bock 1976
+Scaptodrosophila	gressitti Okada 1986
+Scaptodrosophila	grossfieldi Bock 1976
+Scaptodrosophila	hamptoni Okada 1986
+Scaptodrosophila	heliconiae Okada & Carson 1982
+Scaptodrosophila	hibisci Bock 1977
+Scaptodrosophila	hirsuata Singh & Dash 1998
+Scaptodrosophila	horaeogaster Chassagnard & Tsacas 1997
+Scaptodrosophila	horrifica Bock 1982
+Scaptodrosophila	howensis Parson & Bock 1980
+Scaptodrosophila	hypopygialis Duda 1924
+Scaptodrosophila	incisurifrons Okada & Carson 1980
+Scaptodrosophila	inconspicua Meijere 1914
+Scaptodrosophila	infuscata Chassagnard & Tsacas 1997
+Scaptodrosophila	inornata Malloch 1923
+Scaptodrosophila	insolita Bock 1976
+Scaptodrosophila	jackeyi Bock 1982
+Scaptodrosophila	jucunda Lamb 1914
+Scaptodrosophila	kennedyi Bock 1982
+Scaptodrosophila	kirki Harrison 1959
+Scaptodrosophila	kohimaensis Gupta & Gupta 1990
+Scaptodrosophila	koraputae Gupta & Panigrahy 1982
+Scaptodrosophila	krishnamurthyi Sajjan & Reddy 1975
+Scaptodrosophila	kyushuensis Tsacas & Chassagnard 1976
+Scaptodrosophila	lagomorpha Okada & Carson 1982
+Scaptodrosophila	lambi Duda 1940
+Scaptodrosophila	lampra Chassagnard & Tsacas 1997
+Scaptodrosophila	lateralis Walker 1860
+Scaptodrosophila	laterolinea Chassagnard & Tsacas 1997
+Scaptodrosophila	latifascia Meijere 1914
+Scaptodrosophila	latifasciaeformis Duda 1940
+Scaptodrosophila	latifasciola Okada & Carson 1983
+Scaptodrosophila	latifshahi Gupta & Ray-Chaudhuri 1970
+Scaptodrosophila	lativittata Malloch 1923
+Scaptodrosophila	lebanonensis Wheeler 1949
+Scaptodrosophila	lobata Chassagnard & Tsacas 1997
+Scaptodrosophila	louisae Parsons & Bock 1977
+Scaptodrosophila	loxostyla Chassagnard & Tsacas 1997
+Scaptodrosophila	lugens Duda 1926
+Scaptodrosophila	lurida Walker 1860
+Scaptodrosophila	magna Chassagnard & Tsacas 1997
+Scaptodrosophila	mania Bock 1976
+Scaptodrosophila	marginata Duda 1924
+Scaptodrosophila	marjoryae Harrison 1954
+Scaptodrosophila	mbettie Burla 1954
+Scaptodrosophila	medleri Tsacas & Chassagnard 1976
+Scaptodrosophila	megagenys Bock 1976
+Scaptodrosophila	meijerei Wheeler 1959
+Scaptodrosophila	melaena Chassagnard & Tsacas 1997
+Scaptodrosophila	melanopleura McEvey & Bock 1982
+Scaptodrosophila	merdae Bock 1984
+Scaptodrosophila	metanthia Gupta & Gupta 1990
+Scaptodrosophila	metatarsalis Okada & Carson 1980
+Scaptodrosophila	metaxa Bock 1976
+Scaptodrosophila	minima Okada 1966
+Scaptodrosophila	minimeta Bock 1976
+Scaptodrosophila	minnamurrae Bock 1976
+Scaptodrosophila	mirei Tsacas & Chassagnard 1988
+Scaptodrosophila	moana McEvey 1982
+Scaptodrosophila	moenae Wheeler & Takada 1964
+Scaptodrosophila	mokonfim Burla 1954
+Scaptodrosophila	momortica Graber 1957
+Scaptodrosophila	moronu Burla 1954
+Scaptodrosophila	mossmana Bock & Parsons 1978
+Scaptodrosophila	mossmanna Bock & Parsons 1978
+Scaptodrosophila	mulgravei Bock 1976
+Scaptodrosophila	multipunctata Duda 1923
+Scaptodrosophila	mundagensis Sajjan & Reddy 1975
+Scaptodrosophila	nannosoma Okada & Carson 1983
+Scaptodrosophila	nausea Bock 1982
+Scaptodrosophila	neomedleri Gupta & Panigrahy 1982
+Scaptodrosophila	neozelandica Harrison 1959
+Scaptodrosophila	nicholsoni Malloch 1927
+Scaptodrosophila	nicolae Tsacas & Chassagnard 1988
+Scaptodrosophila	nigrescens Okada 1988
+Scaptodrosophila	nigriceps Chassagnard & Tsacas 1997
+Scaptodrosophila	nigrifrons Malloch 1934
+Scaptodrosophila	nigrofemorata Duda 1926
+Scaptodrosophila	nigrops Okada & Carson 1980
+Scaptodrosophila	nimia Bock 1976
+Scaptodrosophila	nitidithorax Malloch 1927
+Scaptodrosophila	norfolkensis Bock 1986
+Scaptodrosophila	notha Bock 1976
+Scaptodrosophila	novamaculosa Mather 1956
+Scaptodrosophila	novoguineensis Duda 1923
+Scaptodrosophila	novoguinensis Duda 1923
+Scaptodrosophila	nublada Wheeler & Kambysellis 1966
+Scaptodrosophila	nuda Okada & Carson 1980
+Scaptodrosophila	obsoleta Malloch 1923
+Scaptodrosophila	oenops McEvey & Bock 1982
+Scaptodrosophila	oncera Bock 1976
+Scaptodrosophila	oralis Duda 1923
+Scaptodrosophila	oreibatis Chassagnard & Tsacas 1997
+Scaptodrosophila	oresibios Chassagnard & Tsacas 1997
+Scaptodrosophila	ovidenticulata Sundaran & Gupta 1991
+Scaptodrosophila	oviminiatus Sundaran & Gupta 1991
+Scaptodrosophila	oweni Bock & Parsons 1978
+Scaptodrosophila	palauana Wheeler & Takada 1964
+Scaptodrosophila	pallidipes Chassagnard & Tsacas 1997
+Scaptodrosophila	parabrunnea Tsacas & Chassagnard 1976
+Scaptodrosophila	paracentralis Okada & Carson 1982
+Scaptodrosophila	paraclubata Sundaran & Gupta 1991
+Scaptodrosophila	paracultello Bock 1982
+Scaptodrosophila	paraguma Okada & Carson 1980
+Scaptodrosophila	paranthia Okada & Carson 1982
+Scaptodrosophila	paraphryniae Okada & Carson 1982
+Scaptodrosophila	parapsychotriae Okada & Carson 1982
+Scaptodrosophila	parapunctipennis Duda 1924
+Scaptodrosophila	paratriangulata Gupta & Ray-Chaudhuri 1970
+Scaptodrosophila	paratriangulifer Sundaran & Gupta 1991
+Scaptodrosophila	parsonsi Grossfield 1976
+Scaptodrosophila	parviramosa Okada & Carson 1980
+Scaptodrosophila	peniquadrata Sundaran & Gupta 1991
+Scaptodrosophila	phryniae Okada & Carson 1982
+Scaptodrosophila	pictipennis Kertesz 1901
+Scaptodrosophila	pilicrus Duda 1926
+Scaptodrosophila	pilopalpus Lin & Ting 1971
+Scaptodrosophila	plaua Okada & Carson 1980
+Scaptodrosophila	pleurolineata Chassagnard & Tsacas 1997
+Scaptodrosophila	pleurovittata Harrison 1954
+Scaptodrosophila	plumata Singh 1976
+Scaptodrosophila	precaria Klinken 1997
+Scaptodrosophila	pressobrunnea Tsacas & Chassgnard 1976
+Scaptodrosophila	pseudoebenea Graber 1957
+Scaptodrosophila	psychotriae Okada & Carson 1980
+Scaptodrosophila	pugionata Meijere 1916
+Scaptodrosophila	pumilio Meijere 1908
+Scaptodrosophila	puncteluta Okada 1986
+Scaptodrosophila	puncticeps Okada 1956
+Scaptodrosophila	puriensis Gupta & Panigrahy 1982
+Scaptodrosophila	pusio Duda 1923
+Scaptodrosophila	pygmaea Duda 1926
+Scaptodrosophila	quadriradiata Duda 1923
+Scaptodrosophila	quadristriata Duda 1923
+Scaptodrosophila	rhabdote Bock 1976
+Scaptodrosophila	rhinos Bock & Parsons 1979
+Scaptodrosophila	rhypara Chassagnard & Tsacas 1997
+Scaptodrosophila	riverata Singh & Gupta 1977
+Scaptodrosophila	rufifrons Loew 1873
+Scaptodrosophila	rufuloventer Lamb 1914
+Scaptodrosophila	saba Burla 1954
+Scaptodrosophila	samoaensis Harrison 1954
+Scaptodrosophila	scaptomyzoidea Duda 1923
+Scaptodrosophila	scutellaris Duda 1929
+Scaptodrosophila	scutellimargo Duda 1924
+Scaptodrosophila	scutellimbago Duda 1924
+Scaptodrosophila	scutellopilosa Chassagnard & Tsacas 1997
+Scaptodrosophila	senufo Burla 1954
+Scaptodrosophila	setaria Parshad & Singh 1972
+Scaptodrosophila	setifera Wheeler & Takada 1964
+Scaptodrosophila	silvalineata Gupta & Ray-Chaudhuri 1970
+Scaptodrosophila	simplex Meijere 1914
+Scaptodrosophila	sinape Bock 1976
+Scaptodrosophila	singularis Chassagnard & Tsacas 1997
+Scaptodrosophila	smicra Tsacas 1980
+Scaptodrosophila	spathicola Okada & Carson 1980
+Scaptodrosophila	specensis Bock 1976
+Scaptodrosophila	specensoides Okada & Carson 1983
+Scaptodrosophila	spinifrons Tsacas & Chassagnard 1990
+Scaptodrosophila	spinomelana Okada & Carson 1983
+Scaptodrosophila	stramineipes Malloch 1934
+Scaptodrosophila	strigifrons Meijere 1914
+Scaptodrosophila	subacuticornis Duda 1924
+Scaptodrosophila	subeluta Okada & Carson 1983
+Scaptodrosophila	subminima Okada 1988
+Scaptodrosophila	subnitida Malloch 1927
+Scaptodrosophila	subtilis Kikkawa & Peng 1938
+Scaptodrosophila	sumatrensis Duda 1926
+Scaptodrosophila	sydneyensis Malloch 1927
+Scaptodrosophila	thodayi Parsons & Bock 1982
+Scaptodrosophila	throckmortoni Okada 1973
+Scaptodrosophila	triangulifer Lamb 1914
+Scaptodrosophila	tricingulata Okada & Carson 1980
+Scaptodrosophila	triseta Meijere 1911
+Scaptodrosophila	uebe Burla 1954
+Scaptodrosophila	valeana Bock 1984
+Scaptodrosophila	variata Bock 1982
+Scaptodrosophila	varipes Chassagnard & Tsacas 1997
+Scaptodrosophila	vazrae Kumar & Gupta 1993
+Scaptodrosophila	victoria Sturtevant 1942
+Scaptodrosophila	vindicta Parsons & Bock 1982
+Scaptodrosophila	xanthops Okada & Carson 1980
+Scaptodrosophila	xanthorrhoeae Bock 1984
+Scaptodrosophila	xiphiochaeta Tsacas & Chassagnard 1990
+Scaptodrosophila	zebrina Bezzi 1928
+Scaptodrosophila	zingiphila Kumar & Gupta 1993
+Scaptodrosophila	zophera Chassagnard & Tsacas 1997
+Simphthalmus	creberii Singh 1976
+Sphyrnoceps	brunnea Meijere 1914
+Spuristyloptera	multipunctata Duda 1923
+Tambourella	endiandrae Wheeler 1957
+Tambourella	ornata Okada 1980
+Tambourella	sphaerogaster Okada 1980
+Zapriouns	lineosa Walker 1860
+Zapriouns	multistriata Duda 1923
+Zapriouns	obscuricornis Meijere 1914
+Zaropunis	melanope Tsacas 1990

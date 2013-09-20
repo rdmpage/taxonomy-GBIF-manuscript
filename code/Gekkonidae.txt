@@ -1,0 +1,2210 @@
+Alsophylax	boehmei Shcherbak 1991
+Alsophylax	laevis Nikolsky 1907
+Alsophylax	loricatus loricatus Strauch 1887
+Alsophylax	loricatus Strauch 1887
+Alsophylax	loricatus szczerbaki Golubev & Sattarov 1979
+Alsophylax	szczerbaki Golubev & Sattarov 1979
+Alsophylax	pipiens Pallas 1827
+Alsophylax	przewalskii Strauch 1887
+Alsophylax	tadjikiensis Golubev 1979
+Alsophylax	tokobajevi Yeriomtschenko & Szczerbak 1984
+Asiocolotes	depressus Minton & Anderson 1965
+Asiocolotes	levitoni Golubev & Szczerbak 1979
+Carinatogecko	aspratilis Anderson 1973
+Carinatogecko	heteropholis Minton et al. 1970
+Cnemaspis	affinis Stoliczka 1870
+Cnemaspis	africana elgonensis Loveridge 1935
+Cnemaspis	elgonensis Loveridge 1935
+Cnemaspis	africana Werner 1895
+Cnemaspis	africana africana
+Cnemaspis	africana
+Cnemaspis	alantika Bauer Chirio Ineich & Lebreton 2006
+Cnemaspis	alwisi Mendis Wickramasinghe & Munindradasa 2007
+Cnemaspis	amith Manamendra-Arachchi Batuwita & Pethiyagoda 2007
+Cnemaspis	anaikattiensis Mukherjee Bhupathy & Nixon 2005
+Cnemaspis	andersonii Annandale 1905
+Cnemaspis	argus Dring 1979
+Cnemaspis	assamensis Das & Sengupta 2000
+Cnemaspis	aurantiacopes Grismer & Ngo 2007
+Cnemaspis	australis Manamendra-Arachchi Batuwita & Pethiyagoda 2007
+Cnemaspis	barbouri Perret 1986
+Cnemaspis	baueri Das & Grismer 2003
+Cnemaspis	bayuensis Grismer Grismer Wood & Chan 2008
+Cnemaspis	beddomei Theobald 1876
+Cnemaspis	biocellata Grismer Chan Nasir & Sumontha 2008
+Cnemaspis	boiei Gray 1842
+Cnemaspis	boulengerii Strauch 1887
+Cnemaspis	caudanivea Grismer & Ngo 2007
+Cnemaspis	chanardi Grismer Sumontha Cota Grismer Wood Pauwels & Kunya 2010
+Cnemaspis	chanthaburiensis Bauer & Das 1998
+Cnemaspis	clivicola Manamendra-Arachchi Batuwita & Pethiyagoda 2007
+Cnemaspis	dezwaani Das 2005
+Cnemaspis	dickersoni Schmidt 1919
+Cnemaspis	dilepis Perret 1963
+Cnemaspis	dringi Das & Bauer 1998
+Cnemaspis	flavigaster Chan & Grismer 2008
+Cnemaspis	flavolineata Nicholls 1949
+Cnemaspis	gemunu Bauer De Silva Greenbaum & Jackman 2007
+Cnemaspis	gigas Perret 1986
+Cnemaspis	goaensis Sharma 1976
+Cnemaspis	harimau Chan Grismer Anuar Quah Muin Savage Grismer Ahmad Remigio & Greer 2010
+Cnemaspis	heteropholis Bauer 2002
+Cnemaspis	huaseesom Grismer Sumontha Cota Grismer Wood Pauwels & Kunya 2010
+Cnemaspis	indica Gray 1846
+Cnemaspis	indraneildasii Bauer 2002
+Cnemaspis	jacobsoni Das 2005
+Cnemaspis	jerdonii Theobald 1868
+Cnemaspis	kallima Manamendra-Arachchi Batuwita & Pethiyagoda 2007
+Cnemaspis	kamolnorranathi Grismer Sumontha Cota Grismer Wood Pauwels & Kunya 2010
+Cnemaspis	kandiana Kelaart 1852
+Cnemaspis	karsticola Grismer Grismer Wood & Chan 2008
+Cnemaspis	kendallii Gray 1845
+Cnemaspis	koehleri Mertens 1937
+Cnemaspis	kolhapurensis Giri Bauer & Gaikwad 2009
+Cnemaspis	kumarasinghei Mendis Wickramasinghe & Munindradasa 2007
+Cnemaspis	kumpoli Taylor 1963
+Cnemaspis	laoensis Grismer 2010
+Cnemaspis	latha Manamendra-Arachchi Batuwita & Pethiyagoda 2007
+Cnemaspis	limi Das & Grismer 2003
+Cnemaspis	littoralis Jerdon 1854
+Cnemaspis	mcguirei Grismer Grismer Wood & Chan 2008
+Cnemaspis	menikay Manamendra-Arachchi Batuwita & Pethiyagoda 2007
+Cnemaspis	modiglianii Das 2005
+Cnemaspis	molligodai Mendis Wickramasinghe & Munindradasa 2007
+Cnemaspis	monachorum Grismer Ahmad Chan Belabut Muin Wood & Grismer 2009
+Cnemaspis	monticola Manamendra-Arachchi Batuwita & Pethiyagoda 2007
+Cnemaspis	nairi Inger Marx & Koshy 1984
+Cnemaspis	narathiwatensis Grismer Sumontha Cota Grismer Wood Pauwels & Kunya 2010
+Cnemaspis	neangthyi Grismer Grismer & Chav 2010
+Cnemaspis	nigridia Smith 1925
+Cnemaspis	nilagirica Manamendra-Arachchi Batuwita & Pethiyagoda 2007
+Cnemaspis	niyomwanae Grismer Sumontha Cota Grismer Wood Pauwels & Kunya 2010
+Cnemaspis	nuicamensis Grismer & Ngo 2007
+Cnemaspis	occidentalis Angel 1943
+Cnemaspis	ornata Beddome 1870
+Cnemaspis	otai Das & Bauer 2000
+Cnemaspis	paripari Grismer & Chan 2009
+Cnemaspis	pava Manamendra-Arachchi Batuwita & Pethiyagoda 2007
+Cnemaspis	pemanggilensis Grismer & Das 2006
+Cnemaspis	perhentianensis Grismer & Chan 2008
+Cnemaspis	permanggilensis Grismer & Das 2006
+Cnemaspis	petrodroma Perret 1986
+Cnemaspis	phillipsi Manamendra-Arachchi Batuwita & Pethiyagoda 2007
+Cnemaspis	phuketensis Das & Leon 2004
+Cnemaspis	podihuna Deraniyagala 1944
+Cnemaspis	pseudomcguirei Grismer Ahmad Chan Belabut Muin Wood & Grismer 2009
+Cnemaspis	psychedelica Grismer Ngo & Grismer 2010
+Cnemaspis	pulchra Manamendra-Arachchi Batuwita & Pethiyagoda 2007
+Cnemaspis	punctata Manamendra-Arachchi Batuwita & Pethiyagoda 2007
+Cnemaspis	punctatonuchalis Grismer Sumontha Cota Grismer Wood Pauwels & Kunya 2010
+Cnemaspis	quattuorseriata Sternfeld 1912
+Cnemaspis	ranwellai Mendis Wickramasinghe 2006
+Cnemaspis	retigalensis Mendis Wickramasinghe & Munindradasa 2007
+Cnemaspis	roticanai Grismer & Chan 2010
+Cnemaspis	samanalensis Mendis Wickramasinghe & Munindradasa 2007
+Cnemaspis	scalpensis Ferguson 1877
+Cnemaspis	shahruli Grismer Chan Quah Muin Savage Grismer Ahmad Greer & Remegio 2010
+Cnemaspis	siamensis Smith 1925
+Cnemaspis	silvula Manamendra-Arachchi Batuwita & Pethiyagoda 2007
+Cnemaspis	sisparensis Theobald 1876
+Cnemaspis	spinicollis Mueller 1907
+Cnemaspis	timoriensis Dumeril & Bibron 1836
+Cnemaspis	tropidogaster Boulenger 1885
+Cnemaspis	tucdupensis Grismer & Ngo 2007
+Cnemaspis	upendrai Manamendra-Arachchi Batuwita & Pethiyagoda 2007
+Cnemaspis	uzungwae Perret 1986
+Cnemaspis	vandeventeri Grismer Sumontha Cota Grismer Wood Pauwels & Kunya 2010
+Cnemaspis	whittenorum Das 2005
+Cnemaspis	wicksi Stoliczka 1873
+Cnemaspis	wynadensis Beddome 1870
+Cnemaspis	yercaudensis Das & Bauer 2000
+Coleodactylus	amazonicus Andersson 1918
+Coleodactylus	brachystoma Amaral 1935
+Coleodactylus	meridionalis Boulenger 1888
+Coleodactylus	natalensis Freire 1999
+Coleodactylus	septentrionalis Vanzolini 1980
+Cryptactites	peringueyi Boulenger 1910
+Cyrtopodion	agamuroides Nikolsky 1900
+Cyrtopodion	amictophole Hoofien 1967
+Cyrtopodion	baigii Masroor 2008
+Cyrtopodion	battalense Khan 1993
+Cyrtopodion	baturense Khan & Baig 1992
+Cyrtopodion	brachykolon Krysko Rehman & Auffenberg 2007
+Cyrtopodion	brevipes Blanford 1874
+Cyrtopodion	caspium Eichwald 1831
+Cyrtopodion	chitralense Smith 1935
+Cyrtopodion	dadunense Shi & Zhao 2011
+Cyrtopodion	dattanense Khan 1980
+Cyrtopodion	elongatum Blanford 1875
+Cyrtopodion	fasciolatum Blyth 1861
+Cyrtopodion	fedtschenkoi Strauch 1887
+Cyrtopodion	fortmunroi Khan 1993
+Cyrtopodion	gastrophole Werner 1917
+Cyrtopodion	golubevi Nazarov Ananjeva & Radjabizadeh 2009
+Cyrtopodion	heterocercum Blanford 1874
+Cyrtopodion	himalayanum Duda & Sahi 1978
+Cyrtopodion	indusoani Khan 1988
+Cyrtopodion	kachhensis kachhensis
+Cyrtopodion	kachhensis
+Cyrtopodion	kachhensis ingoldbyi Procter 1923
+Cyrtopodion	ingoldbyi Procter 1923
+Cyrtopodion	kachhensis Stoliczka 1872
+Cyrtopodion	kiabii Ahmadzadeh Flecks Torki & Boehme 2011
+Cyrtopodion	kirmanense Nikolsky 1900
+Cyrtopodion	kohsulaimanai Khan 1991
+Cyrtopodion	kotschyi beutleri Baran & Gruber 1981
+Cyrtopodion	beutleri Baran & Gruber 1981
+Cyrtopodion	kotschyi bolkarensis Roesler 1994
+Cyrtopodion	bolkarensis Roesler 1994
+Cyrtopodion	kotschyi ciliciensis Baran & Gruber 1982
+Cyrtopodion	ciliciensis Baran & Gruber 1982
+Cyrtopodion	kotschyi fuchsi Beutler & Gruber 1977
+Cyrtopodion	fuchsi Beutler & Gruber 1977
+Cyrtopodion	kotschyi kalypsae Stepanek 1939
+Cyrtopodion	kalypsae Stepanek 1939
+Cyrtopodion	kotschyi karabagi Baran & Gruber 1981
+Cyrtopodion	karabagi Baran & Gruber 1981
+Cyrtopodion	kotschyi orientalis Stepanek 1937
+Cyrtopodion	orientalis Stepanek 1937
+Cyrtopodion	kotschyi rumelicus Mueller 1940
+Cyrtopodion	rumelicus Mueller 1940
+Cyrtopodion	kotschyi skopjensis Karaman 1965
+Cyrtopodion	skopjensis Karaman 1965
+Cyrtopodion	kotschyi unicolor Wettstein 1937
+Cyrtopodion	unicolor Wettstein 1937
+Cyrtopodion	kotschyi buchholzi Beutler & Gruber 1977
+Cyrtopodion	buchholzi Beutler & Gruber 1977
+Cyrtopodion	kotschyi schultzewestrumi Beutler & Gruber 1977
+Cyrtopodion	schultzewestrumi Beutler & Gruber 1977
+Cyrtopodion	kotschyi stepaneki Wettstein 1937
+Cyrtopodion	stepaneki Wettstein 1937
+Cyrtopodion	kotschyi Steindachner 1870
+Cyrtopodion	kotschyi bibroni Beutler & Gruber 1977
+Cyrtopodion	bibroni Beutler & Gruber 1977
+Cyrtopodion	kotschyi concolor Bedriaga 1882
+Cyrtopodion	concolor Bedriaga 1882
+Cyrtopodion	kotschyi danilewskii Strauch 1887
+Cyrtopodion	danilewskii Strauch 1887
+Cyrtopodion	kotschyi fitzingeri Stepanek 1937
+Cyrtopodion	fitzingeri Stepanek 1937
+Cyrtopodion	kotschyi lycaonicus Mertens 1952
+Cyrtopodion	lycaonicus Mertens 1952
+Cyrtopodion	kotschyi maculatus Bedriaga 1882
+Cyrtopodion	maculatus Bedriaga 1882
+Cyrtopodion	kotschyi ponticus Baran & Gruber 1982
+Cyrtopodion	ponticus Baran & Gruber 1982
+Cyrtopodion	kotschyi saronicus Werner 1937
+Cyrtopodion	saronicus Werner 1937
+Cyrtopodion	kotschyi solerii Wettstein 1937
+Cyrtopodion	solerii Wettstein 1937
+Cyrtopodion	kotschyi kotschyi
+Cyrtopodion	kotschyi
+Cyrtopodion	kotschyi wettsteini Stepanek 1937
+Cyrtopodion	wettsteini Stepanek 1937
+Cyrtopodion	kotschyi adelphiensis Beutler & Gruber 1977
+Cyrtopodion	adelphiensis Beutler & Gruber 1977
+Cyrtopodion	kotschyi bartoni Stepanek 1934
+Cyrtopodion	bartoni Stepanek 1934
+Cyrtopodion	kotschyi colchicus Nikolsky 1902
+Cyrtopodion	colchicus Nikolsky 1902
+Cyrtopodion	kotschyi oertzeni Boettger 1888
+Cyrtopodion	oertzeni Boettger 1888
+Cyrtopodion	kotschyi steindachneri Stepanek 1937
+Cyrtopodion	steindachneri Stepanek 1937
+Cyrtopodion	kotschyi syriacus Stepanek 1937
+Cyrtopodion	syriacus Stepanek 1937
+Cyrtopodion	kotschyi tinensis Beutler & Froer 1980
+Cyrtopodion	tinensis Beutler & Froer 1980
+Cyrtopodion	lawderanum Stoliczka 1871
+Cyrtopodion	longipes Nikolsky 1896
+Cyrtopodion	medogense Zhao & LI 1987
+Cyrtopodion	mintoni Golubev & Szczerbak 1981
+Cyrtopodion	montiumsalsorum Annandale 1913
+Cyrtopodion	narynense Jerjomtschenko Zarinenko & Panfilow 1999
+Cyrtopodion	persepolense Nazarov Ananjeva & Radjabizadeh 2009
+Cyrtopodion	potoharense Khan 2001
+Cyrtopodion	rhodocaudum Baig 1998
+Cyrtopodion	rohtasfortai Khan & Tasnim 1990
+Cyrtopodion	russowii Strauch 1887
+Cyrtopodion	sagittiferum Nikolsky 1900
+Cyrtopodion	scabrum Heyden 1827
+Cyrtopodion	sistanensis Nazarov & Rajabizadeh 2007
+Cyrtopodion	spinicaudum Strauch 1887
+Cyrtopodion	turcmenicum Shcherbak 1978
+Cyrtopodion	voraginosum Leviton & Anderson 1984
+Cyrtopodion	voraginosus Leviton & Anderson 1984
+Cyrtopodion	watsoni Murray 1892
+Dierogekko	inexpectatus Bauer Jackman Sadlier & Withaker 2006
+Dierogekko	insularis Bauer Jackman Sadlier & Withaker 2006
+Dierogekko	kaalaensis Bauer Jackman Sadlier & Withaker 2006
+Dierogekko	koniambo Bauer Jackman Sadlier & Withaker 2006
+Dierogekko	nehoueensis Bauer Jackman Sadlier & Withaker 2006
+Dierogekko	poumensis Bauer Jackman Sadlier & Withaker 2006
+Dierogekko	thomaswhitei Bauer Jackman Sadlier & Withaker 2006
+Dierogekko	validiclavis Sadlier 1988
+Dixonius	aaronbaueri Ngo & Ziegler 2009
+Dixonius	hangseesom Bauer Sumontha Grossmann Pauwels & Vogel 2004
+Dixonius	melanostictus Taylor 1962
+Dixonius	siamensis Boulenger 1899
+Dixonius	vietnamensis Das 2004
+Eublepharis	angramainyu Anderson & Leviton 1966
+Eublepharis	fuscus Boerner 1981
+Eublepharis	hardwickii Gray 1827
+Eublepharis	macularius afghanicus Boerner 1976
+Eublepharis	afghanicus Boerner 1976
+Eublepharis	macularius montanus Boerner 1976
+Eublepharis	montanus Boerner 1976
+Eublepharis	macularius macularius
+Eublepharis	macularius
+Eublepharis	macularius smithi Boerner 1981
+Eublepharis	smithi Boerner 1981
+Eublepharis	macularius fasciolatus Guenther 1864
+Eublepharis	fasciolatus Guenther 1864
+Eublepharis	macularius Blyth 1854
+Eublepharis	turcmenicus Darevsky 1977
+Eurydactylodes	agricolae Henkel & Boehme 2001
+Eurydactylodes	occidentalis Bauer Jackman Sadlier & Whitaker 2009
+Eurydactylodes	symmetricus Andersson 1908
+Eurydactylodes	vieillardi Bavay 1869
+Goggia	braacki Good Bauer & Branch 1996
+Goggia	essexi Hewitt 1925
+Goggia	gemmula Bauer Branch & Good 1996
+Goggia	hewitti Branch Bauer & Good 1995
+Goggia	hexapora Branch Bauer & Good 1995
+Goggia	lineata Gray 1838
+Goggia	microlepidota Fitzsimons 1939
+Goggia	rupicola Fitzsimons 1938
+Gonatodes	albogularis bodinii Rivero Blanco 1964
+Gonatodes	bodinii Rivero Blanco 1964
+Gonatodes	albogularis Dumeril & Bibron 1836
+Gonatodes	albogularis fuscus Hallowell 1855
+Gonatodes	fuscus Hallowell 1855
+Gonatodes	albogularis notatus Reinhardt & Luetken 1862
+Gonatodes	notatus Reinhardt & Luetken 1862
+Gonatodes	albogularis albogularis
+Gonatodes	albogularis
+Gonatodes	alexandermendesi Cole & Kok 2006
+Gonatodes	annularis Boulenger 1887
+Gonatodes	antillensis Lidth DE
+Gonatodes	astralis Schargel Rivas Makowsky Senaris Natera Barros Molina & Barrio-Amoros 2010
+Gonatodes	atricucullaris Noble 1921
+Gonatodes	caudiscutatus Guenther 1859
+Gonatodes	ceciliae Donoso-Barros 1966
+Gonatodes	concinnatus O
+Gonatodes	daudini Powell & Henderson 2005
+Gonatodes	eladioi DO Nascimento Avila-Pires & DA Cunha 1987
+Gonatodes	falconensis Shreve 1947
+Gonatodes	hasemani Griffin 1917
+Gonatodes	humeralis Guichenot 1855
+Gonatodes	infernalis Rivas & Schargel 2008
+Gonatodes	lichenosus Rojas-Runjaic Infante-Rivero Cabello & Velozo 2010
+Gonatodes	nascimentoi Sturaro & Avila-Pires 2011
+Gonatodes	ocellatus Gray 1831
+Gonatodes	petersi Donoso-Barros 1967
+Gonatodes	purpurogularis Esqueda 2004
+Gonatodes	riveroi Sturaro & Avila-Pires 2011
+Gonatodes	seigliei Donoso-Barros 1966
+Gonatodes	superciliaris Barrio-Amoros & Brewer-Carias 2008
+Gonatodes	taniae Roze 1963
+Gonatodes	tapajonicus Rodrigues 1980
+Gonatodes	timidus Kok 2011
+Gonatodes	vittatus vittatus
+Gonatodes	vittatus
+Gonatodes	vittatus roquensis Roze 1956
+Gonatodes	roquensis Roze 1956
+Gonatodes	vittatus Lichtenstein 1856
+Gymnodactylus	carvalhoi Vanzolini 2005
+Gymnodactylus	darwinii Gray 1845
+Gymnodactylus	geckoides amarali Barbour 1925
+Gymnodactylus	amarali Barbour 1925
+Gymnodactylus	geckoides geckoides
+Gymnodactylus	geckoides
+Gymnodactylus	geckoides Spix 1825
+Gymnodactylus	guttulatus Vanzolini 1982
+Gymnodactylus	vanzolinii Cassimiro & Rodrigues 2009
+Hemidactylus	aaronbaueri Giri 2008
+Hemidactylus	agrius Vanzolini 1978
+Hemidactylus	albopunctatus Loveridge 1947
+Hemidactylus	ansorgii Werner 1897
+Hemidactylus	aporus Boulenger 1906
+Hemidactylus	aquilonius McMahan & Zug 2007
+Hemidactylus	arnoldi Lanza 1978
+Hemidactylus	barbierii Sindaco Razzetti Wasonga Carugati & Fasola 2007
+Hemidactylus	barodanus Boulenger 1901
+Hemidactylus	bavazzanoi Lanza 1978
+Hemidactylus	bayonii Bocage 1893
+Hemidactylus	beninensis Bauer Tchibozo Pauwels & Lenglet 2006
+Hemidactylus	bouvieri Bocourt 1870
+Hemidactylus	bouvieri boavistensis Boulenger 1906
+Hemidactylus	boavistensis Boulenger 1906
+Hemidactylus	bouvieri bouvieri Bocourt 1870
+Hemidactylus	bouvieri razoensis Gruber & Schleich 1982
+Hemidactylus	razoensis Gruber & Schleich 1982
+Hemidactylus	bowringii Gray 1845
+Hemidactylus	brasilianus Amaral 1935
+Hemidactylus	brookii leightoni
+Hemidactylus	leightoni
+Hemidactylus	brookii angulatus Hallowell 1854
+Hemidactylus	angulatus Hallowell 1854
+Hemidactylus	brookii parvimaculatus Deraniyagala 1953
+Hemidactylus	parvimaculatus Deraniyagala 1953
+Hemidactylus	brookii brookii
+Hemidactylus	brookii
+Hemidactylus	brookii subtriedroides Annandale 1905
+Hemidactylus	subtriedroides Annandale 1905
+Hemidactylus	brookii Gray 1845
+Hemidactylus	citernii Boulenger 1912
+Hemidactylus	curlei Parker 1942
+Hemidactylus	dawudazraqi Moravec Kratochvil Amr Jandzik Smid & Gvozdik 2011
+Hemidactylus	depressus Gray 1842
+Hemidactylus	dracaenacolus Roesler & Wranik 1999
+Hemidactylus	echinus O
+Hemidactylus	fasciatus ituriensis Schmidt 1919
+Hemidactylus	ituriensis Schmidt 1919
+Hemidactylus	fasciatus Gray 1842
+Hemidactylus	fasciatus fasciatus
+Hemidactylus	fasciatus
+Hemidactylus	flaviviridis Rueppell 1835
+Hemidactylus	forbesii Boulenger 1899
+Hemidactylus	foudaii Baha EL
+Hemidactylus	frenatus Schlegel 1836
+Hemidactylus	funaiolii Lanza 1978
+Hemidactylus	garnotii Dumeril & Bibron 1836
+Hemidactylus	giganteus Stoliczka 1871
+Hemidactylus	gracilis Blanford 1870
+Hemidactylus	granchii Lanza 1978
+Hemidactylus	graniticolus Agarwal Giri & Bauer 2011
+Hemidactylus	granti Boulenger 1899
+Hemidactylus	greefii Bocage 1886
+Hemidactylus	gujaratensis Giri Bauer Vyas & Patil 2009
+Hemidactylus	haitianus Meerwarth 1901
+Hemidactylus	homoeolepis Blanford 1881
+Hemidactylus	hunae Deraniyagala 1937
+Hemidactylus	imbricatus Bauer Giri Greenbaum Jackman Dharne & Shouche 2008
+Hemidactylus	inintellectus Sindaco Ziliani Razetti Carugati Grieco Pupin Al-Aseily Pella & Fasola 2009
+Hemidactylus	isolepis Boulenger 1895
+Hemidactylus	jubensis Boulenger 1895
+Hemidactylus	kamdemtohami Bauer & Pauwels 2002
+Hemidactylus	karenorum Theobald 1868
+Hemidactylus	klauberi Scortecci 1948
+Hemidactylus	laevis Boulenger 1901
+Hemidactylus	lamaensis Ullenbruch Grell & Boehme 2010
+Hemidactylus	lankae Deraniyagala 1953
+Hemidactylus	laticaudatus laticaudatus
+Hemidactylus	laticaudatus
+Hemidactylus	laticaudatus Andersson 1910
+Hemidactylus	laticaudatus fossatii Scortecci 1928
+Hemidactylus	fossatii Scortecci 1928
+Hemidactylus	lavadeserticus Moravec & Boehme 1997
+Hemidactylus	lemurinus Arnold 1980
+Hemidactylus	leschenaultii Dumeril & Bibron 1836
+Hemidactylus	longicephalus Bocage 1873
+Hemidactylus	lopezjuradoi Arnold Vasconcelos Harris Mateo & Carranza 2008
+Hemidactylus	mabouia Moreau DE
+Hemidactylus	macropholis Boulenger 1896
+Hemidactylus	maculatus maculatus Dumeril & Bibron 1836
+Hemidactylus	maculatus Dumeril & Bibron 1836
+Hemidactylus	maculatus hunae Deraniyagala 1937
+Hemidactylus	mahendrai Shukla 1983
+Hemidactylus	makolowodei Bauer Lebreton Chirio Ineich & Talla Kouete 2006
+Hemidactylus	marmoratus Hallowell 1861
+Hemidactylus	matschiei Tornier 1901
+Hemidactylus	megalops Parker 1932
+Hemidactylus	mercatorius Gray 1842
+Hemidactylus	mindiae Baha El
+Hemidactylus	modestus Guenther 1894
+Hemidactylus	muriceus Peters 1870
+Hemidactylus	newtoni Ferreira 1897
+Hemidactylus	ophiolepis Boulenger 1903
+Hemidactylus	ophiolepoides Lanza 1978
+Hemidactylus	oxyrhinus Boulenger 1899
+Hemidactylus	palaichthus Kluge 1969
+Hemidactylus	persicus Anderson 1872
+Hemidactylus	platycephalus Peters 1854
+Hemidactylus	platyurus Schneider 1792
+Hemidactylus	porbandarensis Sharma 1981
+Hemidactylus	prashadi Smith 1935
+Hemidactylus	pseudomuriceus Henle & Boehme 2003
+Hemidactylus	puccionii Calabresi 1927
+Hemidactylus	pumilio Boulenger 1899
+Hemidactylus	reticulatus Beddome 1870
+Hemidactylus	richardsonii Gray 1845
+Hemidactylus	ruspolii Boulenger 1896
+Hemidactylus	sataraensis Giri & Bauer 2008
+Hemidactylus	scabriceps Annandale 1906
+Hemidactylus	sinaitus Boulenger 1885
+Hemidactylus	smithi Boulenger 1895
+Hemidactylus	somalicus Parker 1932
+Hemidactylus	squamulatus barbouri Loveridge 1942
+Hemidactylus	barbouri Loveridge 1942
+Hemidactylus	squamulatus squamulatus
+Hemidactylus	squamulatus
+Hemidactylus	squamulatus Tornier 1896
+Hemidactylus	squamulatus floweri Werner 1908
+Hemidactylus	floweri Werner 1908
+Hemidactylus	stejnegeri Ota & Hikida 1989
+Hemidactylus	subtriedrus Jerdon 1854
+Hemidactylus	tanganicus Loveridge 1929
+Hemidactylus	tasmani Hewitt 1932
+Hemidactylus	taylori Parker 1932
+Hemidactylus	thayene Zug & McMahan 2007
+Hemidactylus	treutleri Mahony 2009
+Hemidactylus	triedrus triedrus Daudin 1802
+Hemidactylus	triedrus Daudin 1802
+Hemidactylus	triedrus lankae Deraniyagala 1953
+Hemidactylus	tropidolepis Mocquard 1888
+Hemidactylus	turcicus parkeri Loveridge 1936
+Hemidactylus	parkeri Loveridge 1936
+Hemidactylus	turcicus spinalis Buchholz 1954
+Hemidactylus	spinalis Buchholz 1954
+Hemidactylus	turcicus lavadeserticus Moravec & Boehme 1997
+Hemidactylus	turcicus turcicus Linnaeus 1758
+Hemidactylus	turcicus Linnaeus 1758
+Hemidactylus	vietnamensis Darevsky Kupriyanova & Roshchin 1984
+Hemidactylus	yerburyi yerburyi
+Hemidactylus	yerburyi
+Hemidactylus	yerburyi Anderson 1895
+Hemidactylus	yerburyi pauciporosus Lanza 1978
+Hemidactylus	pauciporosus Lanza 1978
+Holodactylus	africanus Boettger 1893
+Holodactylus	cornii Scortecci 1930
+Homonota	andicola Cei 1978
+Homonota	borellii Peracca 1897
+Homonota	darwinii darwinii
+Homonota	darwinii
+Homonota	darwinii Boulenger 1885
+Homonota	darwinii macrocephala Cei 1978
+Homonota	macrocephala Cei 1978
+Homonota	fasciata Dumeril & Bibron 1836
+Homonota	gaudichaudii dorbignii Dumeril & Bibron 1836
+Homonota	dorbignii Dumeril & Bibron 1836
+Homonota	gaudichaudii gaudichaudii Dumeril & Bibron 1836
+Homonota	gaudichaudii Dumeril & Bibron 1836
+Homonota	gaudichaudii klugei Donoso-Barros 1970
+Homonota	klugei Donoso-Barros 1970
+Homonota	horrida Burmeister 1861
+Homonota	penai Donoso-Barros 1966
+Homonota	rupicola Cacciali avila & Bauer 2007
+Homonota	underwoodi Kluge 1964
+Homonota	uruguayensis Vaz-Ferreira & Sierra de Soriano 1961
+Homonota	whitii Boulenger 1885
+Lepidoblepharis	buchwaldi Werner 1910
+Lepidoblepharis	colombianus Mechler 1968
+Lepidoblepharis	conolepis Avila-Pires 2001
+Lepidoblepharis	duolepis Ayala & Castro 1983
+Lepidoblepharis	festae Peracca 1897
+Lepidoblepharis	grandis Miyata 1985
+Lepidoblepharis	heyerorum Vanzolini 1978
+Lepidoblepharis	hoogmoedi Avila-Pires 1995
+Lepidoblepharis	intermedius Boulenger 1914
+Lepidoblepharis	microlepis Noble 1923
+Lepidoblepharis	miyatai Lamar 1985
+Lepidoblepharis	montecanoensis Markezich & Taphorn 1994
+Lepidoblepharis	oxycephalus Werner 1894
+Lepidoblepharis	peraccae Boulenger 1908
+Lepidoblepharis	ruthveni Parker 1926
+Lepidoblepharis	sanctaemartae Ruthven 1916
+Lepidoblepharis	williamsi Ayala & Serna 1986
+Lepidoblepharis	xanthostigma Noble 1916
+Naultinus	elegans elegans Gray 1842
+Naultinus	elegans Gray 1842
+Naultinus	elegans punctatus Gray 1843
+Naultinus	punctatus Gray 1843
+Naultinus	gemmeus Mccann 1955
+Naultinus	grayii Bell 1843
+Naultinus	manukanus Mccann 1955
+Naultinus	poecilochlorus Robb 1980
+Naultinus	rudis Fischer 1881
+Naultinus	stellatus Hutton 1872
+Naultinus	tuberculatus Mccann 1955
+Paragehyra	gabriellae Nussbaum & Raxworthy 1994
+Paragehyra	petiti Angel 1929
+Phyllurus	amnicola Couper Schneider Hoskin & Covacevich 2000
+Phyllurus	caudiannulatus Covacevich 1975
+Phyllurus	championae Couper Schneider Hoskin & Covacevich 2000
+Phyllurus	gulbaru Hoskin Couper & Schneider 2003
+Phyllurus	isis Couper Covacevich & Moritz 1993
+Phyllurus	kabikabi Couper Hamley & Hoskin 2008
+Phyllurus	nepthys Couper Covacevich & Moritz 1993
+Phyllurus	ossa Couper Covacevich & Moritz 1993
+Phyllurus	platurus Shaw 1790
+Pristurus	abdelkuri Arnold 1986
+Pristurus	adrarensis Geniez & Arnold 2006
+Pristurus	carteri carteri Gray 1863
+Pristurus	carteri Gray 1863
+Pristurus	carteri tuberculatus Parker 1931
+Pristurus	tuberculatus Parker 1931
+Pristurus	celerrimus Arnold 1977
+Pristurus	collaris Steindachner 1867
+Pristurus	crucifer Valenciennes 1861
+Pristurus	flavipunctatus Rueppell 1835
+Pristurus	flavipunctatus guweirensis Haas 1951
+Pristurus	guweirensis Haas 1951
+Pristurus	flavipunctatus flavipunctatus Rueppell 1835
+Pristurus	gasperetti gasperetti
+Pristurus	gasperetti
+Pristurus	gasperetti Arnold 1986
+Pristurus	gasperetti gallagheri Arnold 1986
+Pristurus	gallagheri Arnold 1986
+Pristurus	guichardi Arnold 1986
+Pristurus	insignis Blanford 1881
+Pristurus	insignoides Arnold 1986
+Pristurus	mazbah Al-Safadi 1989
+Pristurus	minimus Arnold 1977
+Pristurus	obsti Roesler & Wranik 1999
+Pristurus	ornithocephalus Arnold 1986
+Pristurus	phillipsii Boulenger 1895
+Pristurus	popovi Arnold 1982
+Pristurus	rupestris guweirensis Haas 1943
+Pristurus	guweirensis Haas 1943
+Pristurus	rupestris iranicus Schmidt 1952
+Pristurus	iranicus Schmidt 1952
+Pristurus	rupestris rupestris
+Pristurus	rupestris
+Pristurus	rupestris Blanford 1874
+Pristurus	saada Arnold 1986
+Pristurus	samhaensis Roesler & Wranik 1999
+Pristurus	schneideri Roesler Koehler & Boehme 2008
+Pristurus	simonettai Lanza & Sassi 1968
+Pristurus	sokotranus Parker 1938
+Pristurus	somalicus Parker 1932
+Rhacodactylus	auriculatus Bavay 1869
+Rhacodactylus	chahoua Bavay 1869
+Rhacodactylus	ciliatus Guichenot 1866
+Rhacodactylus	leachianus aubrianus
+Rhacodactylus	aubrianus
+Rhacodactylus	leachianus Cuvier 1829
+Rhacodactylus	leachianus leachianus Cuvier 1829
+Rhacodactylus	leachianus henkeli
+Rhacodactylus	henkeli
+Rhacodactylus	sarasinorum Roux 1913
+Rhacodactylus	trachyrhynchus trachyrhynchus
+Rhacodactylus	trachyrhynchus
+Rhacodactylus	trachyrhynchus trachycephalus Boulenger 1878
+Rhacodactylus	trachycephalus Boulenger 1878
+Rhacodactylus	trachyrhynchus Bocage 1873
+Rhoptropus	afer Peters 1869
+Rhoptropus	barnardi Hewitt 1926
+Rhoptropus	biporosus Fitzsimons 1957
+Rhoptropus	boultoni montanus Laurent 1964
+Rhoptropus	montanus Laurent 1964
+Rhoptropus	boultoni Schmidt 1933
+Rhoptropus	boultoni benguellensis Mertens 1938
+Rhoptropus	benguellensis Mertens 1938
+Rhoptropus	boultoni boultoni
+Rhoptropus	boultoni
+Rhoptropus	braconnieri Thominot 1878
+Rhoptropus	bradfieldi diporus Haacke 1965
+Rhoptropus	diporus Haacke 1965
+Rhoptropus	bradfieldi bradfieldi Hewitt 1935
+Rhoptropus	bradfieldi Hewitt 1935
+Rhoptropus	taeniostictus Laurent 1964
+Sphaerodactylus	altavelensis lucioi Thomas & Schwartz 1983
+Sphaerodactylus	lucioi Thomas & Schwartz 1983
+Sphaerodactylus	altavelensis altavelensis
+Sphaerodactylus	altavelensis
+Sphaerodactylus	altavelensis brevirostratus Shreve 1968
+Sphaerodactylus	brevirostratus Shreve 1968
+Sphaerodactylus	altavelensis enriquilloensis Shreve 1968
+Sphaerodactylus	enriquilloensis Shreve 1968
+Sphaerodactylus	altavelensis Noble & Hassler 1933
+Sphaerodactylus	argivus argivus
+Sphaerodactylus	argivus
+Sphaerodactylus	argivus Garman 1888
+Sphaerodactylus	argivus lewisi Grant 1941
+Sphaerodactylus	lewisi Grant 1941
+Sphaerodactylus	argivus bartschi Cochran 1934
+Sphaerodactylus	bartschi Cochran 1934
+Sphaerodactylus	argus argus Gosse 1850
+Sphaerodactylus	argus Gosse 1850
+Sphaerodactylus	argus andresensis Dunn & Saxe 1950
+Sphaerodactylus	andresensis Dunn & Saxe 1950
+Sphaerodactylus	ariasae Hedges & Thomas 2001
+Sphaerodactylus	armasi Schwartz & Garrido 1974
+Sphaerodactylus	armstrongi Noble & Hassler 1933
+Sphaerodactylus	armstrongi hypsinephes Thomas & Schwartz 1983
+Sphaerodactylus	hypsinephes Thomas & Schwartz 1983
+Sphaerodactylus	armstrongi armstrongi Noble & Hassler 1933
+Sphaerodactylus	asterulus Schwartz & Graham 1980
+Sphaerodactylus	beattyi beattyi
+Sphaerodactylus	beattyi
+Sphaerodactylus	beattyi seamani Thomas & Schwartz 1966
+Sphaerodactylus	seamani Thomas & Schwartz 1966
+Sphaerodactylus	beattyi Grant 1937
+Sphaerodactylus	becki Schmidt 1919
+Sphaerodactylus	bromeliarum Peters & Schwartz 1977
+Sphaerodactylus	caicosensis Cochran 1934
+Sphaerodactylus	callocricus Schwartz 1976
+Sphaerodactylus	celicara Garrido & Schwartz 1982
+Sphaerodactylus	cinereus cinereus
+Sphaerodactylus	cinereus
+Sphaerodactylus	cinereus stejnegeri Cochran 1931
+Sphaerodactylus	stejnegeri Cochran 1931
+Sphaerodactylus	cinereus Wagler 1830
+Sphaerodactylus	clenchi apocoptus Schwartz 1983
+Sphaerodactylus	apocoptus Schwartz 1983
+Sphaerodactylus	clenchi Shreve 1968
+Sphaerodactylus	clenchi clenchi Shreve 1968
+Sphaerodactylus	cochranae Ruibal 1946
+Sphaerodactylus	copei copei
+Sphaerodactylus	copei
+Sphaerodactylus	copei websteri Schwartz 1975
+Sphaerodactylus	websteri Schwartz 1975
+Sphaerodactylus	copei picturatus Garman 1887
+Sphaerodactylus	picturatus Garman 1887
+Sphaerodactylus	copei enochrus Schwartz & Thomas 1965
+Sphaerodactylus	enochrus Schwartz & Thomas 1965
+Sphaerodactylus	copei pelates Schwartz 1975
+Sphaerodactylus	pelates Schwartz 1975
+Sphaerodactylus	copei polyommatus Thomas 1968
+Sphaerodactylus	polyommatus Thomas 1968
+Sphaerodactylus	copei astreptus Schwartz 1975
+Sphaerodactylus	astreptus Schwartz 1975
+Sphaerodactylus	copei cataplexis Schwartz & Thomas 1965
+Sphaerodactylus	cataplexis Schwartz & Thomas 1965
+Sphaerodactylus	copei deuterus Schwartz 1975
+Sphaerodactylus	deuterus Schwartz 1975
+Sphaerodactylus	copei Steindachner 1867
+Sphaerodactylus	corticola campter Schwartz 1968
+Sphaerodactylus	campter Schwartz 1968
+Sphaerodactylus	corticola corticola
+Sphaerodactylus	corticola
+Sphaerodactylus	corticola soter Schwartz 1968
+Sphaerodactylus	soter Schwartz 1968
+Sphaerodactylus	corticola Garman 1888
+Sphaerodactylus	corticola aporrox Schwartz 1968
+Sphaerodactylus	aporrox Schwartz 1968
+Sphaerodactylus	cricoderus Thomas Hedges & Garrido 1992
+Sphaerodactylus	cryphius Thomas & Schwartz 1977
+Sphaerodactylus	darlingtoni noblei Shreve 1968
+Sphaerodactylus	noblei Shreve 1968
+Sphaerodactylus	darlingtoni darlingtoni
+Sphaerodactylus	darlingtoni
+Sphaerodactylus	darlingtoni Shreve 1968
+Sphaerodactylus	darlingtoni bobilini Thomas & Schwartz 1983
+Sphaerodactylus	bobilini Thomas & Schwartz 1983
+Sphaerodactylus	darlingtoni mekistus Thomas & Schwartz 1983
+Sphaerodactylus	mekistus Thomas & Schwartz 1983
+Sphaerodactylus	difficilis anthracomus Schwartz 1983
+Sphaerodactylus	anthracomus Schwartz 1983
+Sphaerodactylus	difficilis euopter Schwartz 1983
+Sphaerodactylus	euopter Schwartz 1983
+Sphaerodactylus	difficilis peratus Schwartz 1983
+Sphaerodactylus	peratus Schwartz 1983
+Sphaerodactylus	difficilis typhlopous Schwartz 1983
+Sphaerodactylus	typhlopous Schwartz 1983
+Sphaerodactylus	difficilis difficilis
+Sphaerodactylus	difficilis
+Sphaerodactylus	difficilis diolenius Schwartz 1983
+Sphaerodactylus	diolenius Schwartz 1983
+Sphaerodactylus	difficilis lycauges Schwartz 1983
+Sphaerodactylus	lycauges Schwartz 1983
+Sphaerodactylus	difficilis Barbour 1914
+Sphaerodactylus	dimorphicus Fong & Diaz 2004
+Sphaerodactylus	docimus Schwartz & Garrido 1985
+Sphaerodactylus	dunni Schmidt 1936
+Sphaerodactylus	elasmorhynchus Thomas 1966
+Sphaerodactylus	elegans Macleay 1834
+Sphaerodactylus	elegans punctatissimus Dumeril & Bibron 1836
+Sphaerodactylus	punctatissimus Dumeril & Bibron 1836
+Sphaerodactylus	elegans elegans
+Sphaerodactylus	elegans
+Sphaerodactylus	elegantulus Barbour 1917
+Sphaerodactylus	epiurus Thomas & Hedges 1993
+Sphaerodactylus	fantasticus karukera Thomas 1964
+Sphaerodactylus	karukera Thomas 1964
+Sphaerodactylus	fantasticus phyzacinus Thomas 1964
+Sphaerodactylus	phyzacinus Thomas 1964
+Sphaerodactylus	fantasticus fuga Thomas 1964
+Sphaerodactylus	fuga Thomas 1964
+Sphaerodactylus	fantasticus ligniservulus King 1962
+Sphaerodactylus	ligniservulus King 1962
+Sphaerodactylus	fantasticus fantasticus
+Sphaerodactylus	fantasticus
+Sphaerodactylus	fantasticus anidrotus Thomas 1964
+Sphaerodactylus	anidrotus Thomas 1964
+Sphaerodactylus	fantasticus hippomanes Thomas 1964
+Sphaerodactylus	hippomanes Thomas 1964
+Sphaerodactylus	fantasticus tartaropylorus Thomas 1964
+Sphaerodactylus	tartaropylorus Thomas 1964
+Sphaerodactylus	fantasticus orescius Thomas 1964
+Sphaerodactylus	orescius Thomas 1964
+Sphaerodactylus	fantasticus Dumeril & Bibron 1836
+Sphaerodactylus	gaigeae Grant 1932
+Sphaerodactylus	gilvitorques Cope 1862
+Sphaerodactylus	glaucus Cope 1866
+Sphaerodactylus	goniorhynchus Cope 1895
+Sphaerodactylus	graptolaemus Harris & Kluge 1984
+Sphaerodactylus	heliconiae Harris 1982
+Sphaerodactylus	homolepis Cope 1886
+Sphaerodactylus	inaguae Noble & Klingel 1932
+Sphaerodactylus	intermedius Barbour & Ramsden 1919
+Sphaerodactylus	kirbyi Lazell 1994
+Sphaerodactylus	klauberi Grant 1931
+Sphaerodactylus	ladae Thomas & Hedges 1988
+Sphaerodactylus	lazelli Shreve 1968
+Sphaerodactylus	leucaster Schwartz 1973
+Sphaerodactylus	levinsi Heatwole 1968
+Sphaerodactylus	lineolatus Lichtenstein & Von 1856
+Sphaerodactylus	macrolepis guarionex Thomas & Schwartz 1966
+Sphaerodactylus	guarionex Thomas & Schwartz 1966
+Sphaerodactylus	macrolepis inigoi Thomas & Schwartz 1966
+Sphaerodactylus	inigoi Thomas & Schwartz 1966
+Sphaerodactylus	macrolepis phoberus Thomas & Schwartz 1966
+Sphaerodactylus	phoberus Thomas & Schwartz 1966
+Sphaerodactylus	macrolepis stibarus Thomas & Schwartz 1966
+Sphaerodactylus	stibarus Thomas & Schwartz 1966
+Sphaerodactylus	macrolepis Guenther 1859
+Sphaerodactylus	macrolepis grandisquamis Stejneger 1904
+Sphaerodactylus	grandisquamis Stejneger 1904
+Sphaerodactylus	macrolepis mimetes Thomas & Schwartz 1966
+Sphaerodactylus	mimetes Thomas & Schwartz 1966
+Sphaerodactylus	macrolepis spanius Thomas & Schwartz 1966
+Sphaerodactylus	spanius Thomas & Schwartz 1966
+Sphaerodactylus	macrolepis ateles Thomas & Schwartz 1966
+Sphaerodactylus	ateles Thomas & Schwartz 1966
+Sphaerodactylus	macrolepis macrolepis
+Sphaerodactylus	macrolepis
+Sphaerodactylus	mariguanae Cochran 1934
+Sphaerodactylus	microlepis microlepis Reinhardt & Luetken 1862
+Sphaerodactylus	microlepis Reinhardt & Luetken 1862
+Sphaerodactylus	microlepis thomasi Schwartz 1965
+Sphaerodactylus	thomasi Schwartz 1965
+Sphaerodactylus	micropithecus Schwartz 1977
+Sphaerodactylus	millepunctatus Hallowell 1861
+Sphaerodactylus	molei Boettger 1894
+Sphaerodactylus	monensis Meerwarth 1901
+Sphaerodactylus	nicholsi Grant 1931
+Sphaerodactylus	nigropunctatus alayoi Grant 1959
+Sphaerodactylus	alayoi Grant 1959
+Sphaerodactylus	nigropunctatus granti Thomas & Schwartz 1966
+Sphaerodactylus	granti Thomas & Schwartz 1966
+Sphaerodactylus	nigropunctatus atessares Thomas & Schwartz 1966
+Sphaerodactylus	atessares Thomas & Schwartz 1966
+Sphaerodactylus	nigropunctatus flavicauda Barbour 1904
+Sphaerodactylus	flavicauda Barbour 1904
+Sphaerodactylus	nigropunctatus lissodesmus Thomas & Schwartz 1966
+Sphaerodactylus	lissodesmus Thomas & Schwartz 1966
+Sphaerodactylus	nigropunctatus porrasi Schwartz 1972
+Sphaerodactylus	porrasi Schwartz 1972
+Sphaerodactylus	nigropunctatus Gray 1845
+Sphaerodactylus	nigropunctatus strategus Thomas & Schwartz 1966
+Sphaerodactylus	strategus Thomas & Schwartz 1966
+Sphaerodactylus	nigropunctatus decoratus Garman 1888
+Sphaerodactylus	decoratus Garman 1888
+Sphaerodactylus	nigropunctatus gibbus Barbour 1921
+Sphaerodactylus	gibbus Barbour 1921
+Sphaerodactylus	nigropunctatus ocujal Thomas & Schwartz 1966
+Sphaerodactylus	ocujal Thomas & Schwartz 1966
+Sphaerodactylus	nigropunctatus nigropunctatus
+Sphaerodactylus	nigropunctatus
+Sphaerodactylus	notatus atactus Schwartz 1966
+Sphaerodactylus	atactus Schwartz 1966
+Sphaerodactylus	notatus notatus
+Sphaerodactylus	notatus
+Sphaerodactylus	notatus amaurus Schwartz 1966
+Sphaerodactylus	amaurus Schwartz 1966
+Sphaerodactylus	notatus exsul Barbour 1914
+Sphaerodactylus	exsul Barbour 1914
+Sphaerodactylus	notatus peltastes Schwartz 1966
+Sphaerodactylus	peltastes Schwartz 1966
+Sphaerodactylus	notatus Baird 1859
+Sphaerodactylus	nycteropus Thomas & Schwartz 1977
+Sphaerodactylus	ocoae Schwartz & Thomas 1977
+Sphaerodactylus	oliveri Grant 1944
+Sphaerodactylus	omoglaux Thomas 1982
+Sphaerodactylus	oxyrhinus oxyrhinus Gosse 1850
+Sphaerodactylus	oxyrhinus Gosse 1850
+Sphaerodactylus	oxyrhinus dacnicolor Barbour 1910
+Sphaerodactylus	dacnicolor Barbour 1910
+Sphaerodactylus	pacificus Stejneger 1903
+Sphaerodactylus	parkeri Grant 1939
+Sphaerodactylus	parthenopion Thomas 1965
+Sphaerodactylus	parvus King 1962
+Sphaerodactylus	perissodactylius Thomas & Hedges 1988
+Sphaerodactylus	pimienta Thomas Hedges & Garrido 1998
+Sphaerodactylus	plummeri Thomas & Hedges 1992
+Sphaerodactylus	ramsdeni Ruibal 1959
+Sphaerodactylus	randi Shreve 1968
+Sphaerodactylus	randi methorius Schwartz 1977
+Sphaerodactylus	methorius Schwartz 1977
+Sphaerodactylus	randi strahmi Schwartz 1977
+Sphaerodactylus	strahmi Schwartz 1977
+Sphaerodactylus	randi randi
+Sphaerodactylus	randi
+Sphaerodactylus	rhabdotus Schwartz 1970
+Sphaerodactylus	richardi Hedges & Garrido 1993
+Sphaerodactylus	richardsonii Gray 1845
+Sphaerodactylus	richardsonii gossei Grant 1939
+Sphaerodactylus	gossei Grant 1939
+Sphaerodactylus	richardsonii richardsonii Gray 1845
+Sphaerodactylus	roosevelti Grant 1931
+Sphaerodactylus	rosaurae Parker 1940
+Sphaerodactylus	ruibali Grant 1959
+Sphaerodactylus	sabanus Cochran 1938
+Sphaerodactylus	samanensis Cochran 1932
+Sphaerodactylus	savagei Shreve 1968
+Sphaerodactylus	savagei juanilloensis Shreve 1968
+Sphaerodactylus	juanilloensis Shreve 1968
+Sphaerodactylus	savagei savagei Shreve 1968
+Sphaerodactylus	scaber Barbour & Ramsden 1919
+Sphaerodactylus	scapularis Boulenger 1902
+Sphaerodactylus	schuberti Thomas & Hedges 1998
+Sphaerodactylus	schwartzi Thomas Hedges
+Sphaerodactylus	semasiops Thomas 1975
+Sphaerodactylus	shrevei Lazell 1961
+Sphaerodactylus	siboney Fong & Diaz 2004
+Sphaerodactylus	sommeri Graham 1981
+Sphaerodactylus	sputator Sparrman 1784
+Sphaerodactylus	storeyae Grant 1944
+Sphaerodactylus	streptophorus Thomas & Schwartz 1977
+Sphaerodactylus	streptophorus sphenophanes Thomas & Schwartz 1983
+Sphaerodactylus	sphenophanes Thomas & Schwartz 1983
+Sphaerodactylus	streptophorus streptophorus
+Sphaerodactylus	streptophorus
+Sphaerodactylus	thompsoni Schwartz & Franz 1976
+Sphaerodactylus	torrei spielmani Grant 1958
+Sphaerodactylus	spielmani Grant 1958
+Sphaerodactylus	torrei Barbour 1914
+Sphaerodactylus	torrei torrei Barbour 1914
+Sphaerodactylus	townsendi Grant 1931
+Sphaerodactylus	underwoodi Schwartz 1968
+Sphaerodactylus	vincenti psammius Schwartz 1964
+Sphaerodactylus	psammius Schwartz 1964
+Sphaerodactylus	vincenti festus Barbour 1915
+Sphaerodactylus	festus Barbour 1915
+Sphaerodactylus	vincenti vincenti Boulenger 1891
+Sphaerodactylus	vincenti Boulenger 1891
+Sphaerodactylus	vincenti josephinae Schwartz 1964
+Sphaerodactylus	josephinae Schwartz 1964
+Sphaerodactylus	vincenti ronaldi Schwartz 1964
+Sphaerodactylus	ronaldi Schwartz 1964
+Sphaerodactylus	vincenti adamas Schwartz 1964
+Sphaerodactylus	adamas Schwartz 1964
+Sphaerodactylus	vincenti diamesus Schwartz 1964
+Sphaerodactylus	diamesus Schwartz 1964
+Sphaerodactylus	vincenti monilifer Barbour 1921
+Sphaerodactylus	monilifer Barbour 1921
+Sphaerodactylus	vincenti pheristus Schwartz 1964
+Sphaerodactylus	pheristus Schwartz 1964
+Sphaerodactylus	williamsi Thomas & Schwartz 1983
+Sphaerodactylus	zygaena Schwartz & Thomas 1977
+Strophurus	assimilis Storr 1988
+Strophurus	ciliaris Boulenger 1885
+Strophurus	elderi Stirling & Zietz 1893
+Strophurus	intermedius Ogilby 1892
+Strophurus	jeanae Storr 1988
+Strophurus	krisalys Sadlier O
+Strophurus	mcmillani Storr 1978
+Strophurus	michaelseni Werner 1910
+Strophurus	rankini Storr 1979
+Strophurus	robinsoni Smith 1995
+Strophurus	spinigerus Gray 1842
+Strophurus	strophurus Dumeril & Bibron 1836
+Strophurus	taeniatus Loennberg & Andersson 1913
+Strophurus	wellingtonae Storr 1988
+Strophurus	williamsi Kluge 1963
+Strophurus	wilsoni Storr 1983
+Teratolepis	albofasciatus Grandison & Soman 1963
+Teratolepis	fasciata Blyth 1854
+Uroplatus	alluaudi Mocquard 1894
+Uroplatus	ebenaui Boettger 1879
+Uroplatus	fimbriatus Schneider 1797
+Uroplatus	finiavana Ratsoavina Louis Crottini Randrianiaina Glaw & Vences 2011
+Uroplatus	giganteus Glaw Kosuch Henkel Sound & Boehme 2006
+Uroplatus	guentheri Mocquard 1908
+Uroplatus	henkeli Boehme & Ibisch 1990
+Uroplatus	lineatus Dumeril & Bibron 1836
+Uroplatus	malahelo Nussbaum & Raxworthy 1994
+Uroplatus	malama Nussbaum & Raxworthy 1995
+Uroplatus	phantasticus Boulenger 1888
+Uroplatus	pietschmanni Boehle & Schoenecker 2004
+Uroplatus	sikorae sameiti Boehme & Ibisch 1990
+Uroplatus	sameiti Boehme & Ibisch 1990
+Uroplatus	sikorae Boettger 1913
+Uroplatus	sikorae sikorae
+Uroplatus	sikorae
+Yantarogekko	balticus
+Afroedura	africana namaquensis Fitzsimons 1938
+Afroedura	namaquensis Fitzsimons 1938
+Afroedura	africana Boulenger 1888
+Afroedura	africana africana
+Afroedura	africana
+Afroedura	africana tirasensis Haacke 1965
+Afroedura	tirasensis Haacke 1965
+Afroedura	amatolica Hewitt 1925
+Afroedura	bogerti Loveridge 1944
+Afroedura	hawequensis Mouton & Mostet 1985
+Afroedura	karroica karroica Hewitt 1926
+Afroedura	karroica Hewitt 1926
+Afroedura	karroica Hewitt 1925
+Afroedura	karroica halli Hewitt 1935
+Afroedura	halli Hewitt 1935
+Afroedura	nivaria Boulenger 1894
+Afroedura	pondolia marleyi Fitzsimons 1930
+Afroedura	marleyi Fitzsimons 1930
+Afroedura	pondolia major
+Afroedura	major
+Afroedura	pondolia pondolia
+Afroedura	pondolia
+Afroedura	pondolia haackei
+Afroedura	haackei
+Afroedura	pondolia langi Fitzsimons 1930
+Afroedura	langi Fitzsimons 1930
+Afroedura	pondolia multiporis Hewitt 1925
+Afroedura	multiporis Hewitt 1925
+Afroedura	pondolia Hewitt 1925
+Afroedura	tembulica Hewitt 1926
+Afroedura	transvaalica loveridgei Broadley 1963
+Afroedura	loveridgei Broadley 1963
+Afroedura	transvaalica transvaalica
+Afroedura	transvaalica
+Afroedura	transvaalica Hewitt 1925
+Afrogecko	ansorgii Boulenger 1907
+Afrogecko	plumicaudus Haacke 2008
+Afrogecko	porphyreus porphyreus
+Afrogecko	porphyreus
+Afrogecko	porphyreus cronwrigthi Hewitt 1937
+Afrogecko	cronwrigthi Hewitt 1937
+Afrogecko	porphyreus Daudin 1802
+Afrogecko	porphyreus namaquensis Hewitt 1935
+Afrogecko	namaquensis Hewitt 1935
+Afrogecko	swartbergensis Haacke 1996
+Asaccus	barani Torki Ahmadzadeh Ilgaz Avci & Kumlutas 2011
+Asaccus	caudivolvulus Arnold & Gardner 1994
+Asaccus	elisae Werner 1895
+Asaccus	gallagheri Arnold 1972
+Asaccus	granularis Torki 2010
+Asaccus	griseonotus Dixon & Anderson 1973
+Asaccus	iranicus Torki Ahmadzadeh Ilgaz Avci & Kumlutas 2011
+Asaccus	kermanshahensis Rastegar-Pouyani 1996
+Asaccus	kurdistanensis Rastegar-Pouyani Nilson & Faizi 2006
+Asaccus	montanus Gardner 1994
+Asaccus	nasrullahi Werner 2006
+Asaccus	platyrhynchus Arnold & Gardner 1994
+Asaccus	saffinae Afrasiab & Mohamad 2009
+Asaccus	tangestanensis Torki Ahmadzadeh Ilgaz Avci & Kumlutas 2011
+Asaccus	zagrosicus Torki Ahmadzadeh Ilgaz Avci & Kumlutas 2011
+Cosymbotus	craspedotus Mocquard 1890
+Crenadactylus	ocellatus Gray 1845
+Crenadactylus	ocellatus bilineatus Gray 1845
+Crenadactylus	bilineatus Gray 1845
+Crenadactylus	ocellatus naso Storr 1978
+Crenadactylus	naso Storr 1978
+Crenadactylus	ocellatus ocellatus
+Crenadactylus	ocellatus
+Crenadactylus	ocellatus rostralis Storr 1978
+Crenadactylus	rostralis Storr 1978
+Euleptes	europaea Gene 1839
+Geckolepis	anomala Mocquard 1902
+Geckolepis	maculata Peters 1880
+Geckolepis	petiti Angel 1942
+Geckolepis	polylepis Boettger 1893
+Geckolepis	typica typica
+Geckolepis	typica
+Geckolepis	typica Grandidier 1867
+Geckolepis	typica modesta Methuen & Hewitt 1913
+Geckolepis	modesta Methuen & Hewitt 1913
+Geckonia	chazaliae Mocquard 1895
+Haemodracon	riebeckii Peters 1882
+Haemodracon	trachyrhinus Boulenger 1899
+Hemitheconyx	caudicinctus Dumeril 1851
+Hemitheconyx	taylori Parker 1930
+Lepidodactylus	aureolineatus Taylor 1915
+Lepidodactylus	balioburius Ota & Crombie 1989
+Lepidodactylus	browni Pernetta & Black 1983
+Lepidodactylus	buleli Ineich 2008
+Lepidodactylus	christiani Taylor 1917
+Lepidodactylus	euaensis Gibbons & Brown 1988
+Lepidodactylus	flaviocularis Brown Mccoy & Rodda 1992
+Lepidodactylus	gardineri Boulenger 1897
+Lepidodactylus	guppyi Boulenger 1884
+Lepidodactylus	herrei herrei Taylor 1923
+Lepidodactylus	herrei Taylor 1923
+Lepidodactylus	herrei medianus Brown & Alcala 1978
+Lepidodactylus	medianus Brown & Alcala 1978
+Lepidodactylus	intermedius Darevsky 1964
+Lepidodactylus	listeri Boulenger 1889
+Lepidodactylus	lombocensis Mertens 1929
+Lepidodactylus	lugubris Dumeril & Bibron 1836
+Lepidodactylus	lugubus Dumeril & Bibron 1836
+Lepidodactylus	magnus Brown & Parker 1977
+Lepidodactylus	manni Schmidt 1923
+Lepidodactylus	moestus Peters 1867
+Lepidodactylus	mutahi Brown & Parker 1977
+Lepidodactylus	novaeguineae Brown & Parker 1977
+Lepidodactylus	oligoporus Buden 2007
+Lepidodactylus	oortii Kopstein 1926
+Lepidodactylus	orientalis Brown & Parker 1977
+Lepidodactylus	paurolepis Ota Fisher & Ineich 1995
+Lepidodactylus	planicaudus Stejneger 1905
+Lepidodactylus	pulcher Boulenger 1885
+Lepidodactylus	pumilus Boulenger 1885
+Lepidodactylus	pusillus Cope 1869
+Lepidodactylus	ranauensis Ota & Hikida 1988
+Lepidodactylus	shebae Brown & Tanner 1949
+Lepidodactylus	tepukapili Zug Watling Alefaio Alefaio & Ludescher 2003
+Lepidodactylus	vanuatuensis Ota Fisher Ineich Case Radtkey & Zug 1998
+Lepidodactylus	woodfordi Boulenger 1887
+Lepidodactylus	yami Ota 1987
+Matoatoa	brevipes Mocquard 1900
+Matoatoa	spannringi Nussbaum Raxworthy & Pronk 1998
+Microscalabotes	bivittis Peters 1883
+Narudasia	festiva Methuen & Hewitt 1914
+Pachydactylus	acuminatus Fitzsimons 1941
+Pachydactylus	affinis Boulenger 1896
+Pachydactylus	amoenus Werner 1910
+Pachydactylus	atorquatus Bauer & Barts & Hulbert 2006
+Pachydactylus	austeni Hewitt 1923
+Pachydactylus	barnardi Fitzsimons 1941
+Pachydactylus	bicolor Hewitt 1926
+Pachydactylus	boehmei Bauer 2010
+Pachydactylus	capensis Smith 1845
+Pachydactylus	caraculicus Fitzsimons 1959
+Pachydactylus	carinatus Bauer Lamb & Branch 2006
+Pachydactylus	etultra Branch Bauer Jackman & Heinicke 2011
+Pachydactylus	fasciatus Boulenger 1888
+Pachydactylus	formosus Smith 1849
+Pachydactylus	gaiasensis Steyn & Mitchell 1967
+Pachydactylus	geitje Sparrman 1778
+Pachydactylus	goodi Bauer Lamb & Branch 2006
+Pachydactylus	griffini Bauer Lamb & Branch 2006
+Pachydactylus	haackei Branch Bauer & Good 1996
+Pachydactylus	kladaroderma Branch Bauer & Good 1996
+Pachydactylus	kobosensis Fitzsimons 1938
+Pachydactylus	labialis Fitzsimons 1938
+Pachydactylus	laevigatus pulitzerae Schmidt 1933
+Pachydactylus	pulitzerae Schmidt 1933
+Pachydactylus	laevigatus Fischer 1888
+Pachydactylus	laevigatus laevigatus
+Pachydactylus	laevigatus
+Pachydactylus	maculatus Gray 1845
+Pachydactylus	mariquensis latirostris Hewitt 1923
+Pachydactylus	latirostris Hewitt 1923
+Pachydactylus	mariquensis mariquensis
+Pachydactylus	mariquensis
+Pachydactylus	mariquensis Smith 1849
+Pachydactylus	mclachlani Bauer Lamb & Branch 2006
+Pachydactylus	monicae Bauer Lamb & Branch 2006
+Pachydactylus	montanus Methuen & Hewitt 1914
+Pachydactylus	monticolus Fitzsimons 1943
+Pachydactylus	namaquensis Sclater 1898
+Pachydactylus	oculatus Hewitt 1927
+Pachydactylus	oreophilus Mclachlan & Spence 1967
+Pachydactylus	oshaughnessyi oshaughnessyi Boulenger 1885
+Pachydactylus	oshaughnessyi Boulenger 1885
+Pachydactylus	oshaughnessyi katanganus DE Witte 1953
+Pachydactylus	katanganus DE Witte 1953
+Pachydactylus	otaviensis Bauer Lamb & Branch 2006
+Pachydactylus	parascutatus Bauer Lamb & Branch 2002
+Pachydactylus	punctatus punctatus Peters 1855
+Pachydactylus	punctatus Peters 1855
+Pachydactylus	punctatus amoenoides Hewitt 1935
+Pachydactylus	amoenoides Hewitt 1935
+Pachydactylus	punctatus Peters 1854
+Pachydactylus	purcelli Boulenger 1910
+Pachydactylus	rangei Andersson 1908
+Pachydactylus	reconditus Bauer Lamb & Branch 2006
+Pachydactylus	robertsi Fitzsimons 1938
+Pachydactylus	rugosus Smith 1849
+Pachydactylus	sansteynae Steyn & Mitchell 1967
+Pachydactylus	scherzi Mertens 1954
+Pachydactylus	scutatus angolensis Loveridge 1944
+Pachydactylus	angolensis Loveridge 1944
+Pachydactylus	scutatus Hewitt 1927
+Pachydactylus	scutatus scutatus Hewitt 1927
+Pachydactylus	serval onsceepensis Hewitt 1935
+Pachydactylus	onsceepensis Hewitt 1935
+Pachydactylus	serval Werner 1910
+Pachydactylus	serval serval Werner 1910
+Pachydactylus	tigrinus Van Dam 1921
+Pachydactylus	tsodiloensis Haacke 1966
+Pachydactylus	vansoni Fitzsimons 1933
+Pachydactylus	vanzyli Steyn & Haacke 1966
+Pachydactylus	visseri Bauer Lamb & Branch 2006
+Pachydactylus	waterbergensis Bauer & Lamb 2003
+Pachydactylus	weberi Roux 1907
+Pachydactylus	werneri Hewitt 1935
+Paroedura	androyensis Grandidier 1867
+Paroedura	bastardi bastardi Mocquard 1900
+Paroedura	bastardi Mocquard 1900
+Paroedura	bastardi ibityensis Roesler & Krueger 1998
+Paroedura	ibityensis Roesler & Krueger 1998
+Paroedura	gracilis Boulenger 1896
+Paroedura	homalorhina Angel 1936
+Paroedura	karstophila Nussbaum & Raxworthy 2000
+Paroedura	lohatsara Glaw Vences & Schmidt 2001
+Paroedura	maingoka Nussbaum & Raxworthy 2000
+Paroedura	masobe Nussbaum & Raxworthy 1994
+Paroedura	oviceps Boettger 1881
+Paroedura	picta Peters 1854
+Paroedura	sanctijohannis Guenther 1879
+Paroedura	stumpffi Boettger 1879
+Paroedura	tanjaka Nussbaum & Raxworthy 2000
+Paroedura	vahiny Nussbaum & Raxworthy 2000
+Paroedura	vazimba Nussbaum & Raxworthy 2000
+Perochirus	ateles Dumeril 1856
+Perochirus	guentheri Boulenger 1885
+Perochirus	scutellatus Fischer 1882
+Phelsuma	abbotti sumptio Cheke 1982
+Phelsuma	sumptio Cheke 1982
+Phelsuma	abbotti Stejneger 1893
+Phelsuma	abbotti chekei Boerner & Minuth 1984
+Phelsuma	chekei Boerner & Minuth 1984
+Phelsuma	abbotti abbotti
+Phelsuma	abbotti
+Phelsuma	abbotti pulchra
+Phelsuma	pulchra
+Phelsuma	andamanense Blyth 1861
+Phelsuma	antanosy Raxworthy & Nussbaum 1993
+Phelsuma	astriata astovei Fitzsimons 1948
+Phelsuma	astovei Fitzsimons 1948
+Phelsuma	astriata astriata
+Phelsuma	astriata
+Phelsuma	astriata Tornier 1901
+Phelsuma	astriata semicarinata
+Phelsuma	semicarinata
+Phelsuma	barbouri Loveridge 1942
+Phelsuma	berghofi Krueger 1996
+Phelsuma	borai Glaw Koehler & Vences 2009
+Phelsuma	borbonica Mertens 1942
+Phelsuma	borbonica borbonica Mertens 1942
+Phelsuma	borbonica mater Meier 1995
+Phelsuma	mater Meier 1995
+Phelsuma	borbonica agalegae Cheke 1975
+Phelsuma	agalegae Cheke 1975
+Phelsuma	breviceps Boettger 1894
+Phelsuma	cepediana Merrem 1820
+Phelsuma	comorensis Boettger 1913
+Phelsuma	dorsivittata Mertens 1964
+Phelsuma	dubia Boettger 1881
+Phelsuma	edwardnewtoni Vinson & Vinson 1969
+Phelsuma	edwardnewtonii Vinson & Vinson 1969
+Phelsuma	flavigularis Mertens 1962
+Phelsuma	gigas Lienard 1842
+Phelsuma	gouldi Crottini Gehring Glaw Harris Lima & Vences 2011
+Phelsuma	guentheri Boulenger 1885
+Phelsuma	guimbeaui Mertens 1963
+Phelsuma	guttata Kaudern 1922
+Phelsuma	hielscheri Roesler 2001
+Phelsuma	hoeschi Berghoff & Trautmann 2009
+Phelsuma	inexpectata Mertens 1966
+Phelsuma	kely Schoenecker 2004
+Phelsuma	klemmeri Seipp 1991
+Phelsuma	kochi Mertens 1954
+Phelsuma	laticauda angularis Mertens 1964
+Phelsuma	angularis Mertens 1964
+Phelsuma	laticauda laticauda
+Phelsuma	laticauda
+Phelsuma	laticauda Boettger 1880
+Phelsuma	lineata chloroscelis Mertens 1962
+Phelsuma	chloroscelis Mertens 1962
+Phelsuma	lineata dorsivittata Mertens 1964
+Phelsuma	lineata lineata
+Phelsuma	lineata
+Phelsuma	lineata Gray 1842
+Phelsuma	lineata bifasciata Boettger 1913
+Phelsuma	bifasciata Boettger 1913
+Phelsuma	lineata bombetokensis Mertens 1964
+Phelsuma	bombetokensis Mertens 1964
+Phelsuma	lineata punctulata Mertens 1970
+Phelsuma	punctulata Mertens 1970
+Phelsuma	madagascariensis grandis Gray 1870
+Phelsuma	grandis Gray 1870
+Phelsuma	madagascariensis Gray 1831
+Phelsuma	madagascariensis madagascariensis
+Phelsuma	madagascariensis
+Phelsuma	madagascariensis boehmei Meier 1982
+Phelsuma	boehmei Meier 1982
+Phelsuma	madagascariesis madagascariensis Gray 1831
+Phelsuma	madagascariesis
+Phelsuma	madagascariesis kochi Mertens 1954
+Phelsuma	madagascariesis madagascariesis
+Phelsuma	malamakibo Nussbaum Raxworthy Raselimanana & Ramanamanjato 2000
+Phelsuma	masohoala Raxworthy & Nussbaum 1994
+Phelsuma	modesta leiogaster Mertens 1973
+Phelsuma	leiogaster Mertens 1973
+Phelsuma	modesta Mertens 1970
+Phelsuma	modesta isakae Meier 1993
+Phelsuma	isakae Meier 1993
+Phelsuma	modesta modesta
+Phelsuma	modesta
+Phelsuma	mutabilis Grandidier 1869
+Phelsuma	nigra Boettger 1913
+Phelsuma	nigristriata Meier 1984
+Phelsuma	ocellata Boulenger 1885
+Phelsuma	ornata Gray 1825
+Phelsuma	parkeri Loveridge 1941
+Phelsuma	parva Meier 1983
+Phelsuma	pronki Seipp 1994
+Phelsuma	pusilla Mertens 1964
+Phelsuma	pusilla hallmanni Meier 1989
+Phelsuma	hallmanni Meier 1989
+Phelsuma	pusilla pusilla Mertens 1964
+Phelsuma	quadriocellata bimaculata Kaudern 1922
+Phelsuma	bimaculata Kaudern 1922
+Phelsuma	quadriocellata lepida Krueger 1993
+Phelsuma	lepida Krueger 1993
+Phelsuma	quadriocellata parva Meier 1983
+Phelsuma	quadriocellata quadriocellata
+Phelsuma	quadriocellata
+Phelsuma	quadriocellata Peters 1883
+Phelsuma	ravenala Raxworthy Ingram Rabibisoa & Pearson 2007
+Phelsuma	robertmertensi Meier 1980
+Phelsuma	roesleri Glaw Gehring Koehler Franzen & Vences 2010
+Phelsuma	rosagularis Mertens 1963
+Phelsuma	seippi Meier 1987
+Phelsuma	serraticauda Mertens 1963
+Phelsuma	standingi Methuen & Hewitt 1913
+Phelsuma	sundbergi ladiguensis Boehme & Meier 1981
+Phelsuma	ladiguensis Boehme & Meier 1981
+Phelsuma	sundbergi sundbergi Rendahl 1939
+Phelsuma	sundbergi Rendahl 1939
+Phelsuma	sundbergi longinsulae Rendahl 1939
+Phelsuma	longinsulae Rendahl 1939
+Phelsuma	v-nigra Boettger 1913
+Phelsuma	vanheygeni Lerner 2004
+Phyllodactylus	angelensis Dixon 1966
+Phyllodactylus	angustidigitus Dixon & Huey 1970
+Phyllodactylus	apricus Dixon 1966
+Phyllodactylus	barringtonensis Van Denburgh 1912
+Phyllodactylus	baurii gorii Lanza 1973
+Phyllodactylus	gorii Lanza 1973
+Phyllodactylus	baurii baurii Garman 1892
+Phyllodactylus	baurii Garman 1892
+Phyllodactylus	bordai Taylor 1942
+Phyllodactylus	bugastrolepis Dixon 1966
+Phyllodactylus	clinatus Dixon & Huey 1970
+Phyllodactylus	darwini Taylor 1942
+Phyllodactylus	davisi Dixon 1964
+Phyllodactylus	delcampoi Mosauer 1936
+Phyllodactylus	delsolari Venegas Townsend Loch & Boehme 2008
+Phyllodactylus	dixoni Rivero-Blanco & Lancini 1968
+Phyllodactylus	duellmani Dixon 1960
+Phyllodactylus	galapagensis daphnensis Van Denburgh 1912
+Phyllodactylus	daphnensis Van Denburgh 1912
+Phyllodactylus	galapagensis olschkii Lanza 1973
+Phyllodactylus	olschkii Lanza 1973
+Phyllodactylus	galapagensis maresi Lanza 1973
+Phyllodactylus	maresi Lanza 1973
+Phyllodactylus	galapagensis Peters 1870
+Phyllodactylus	galapagensis galapagensis
+Phyllodactylus	galapagensis
+Phyllodactylus	gerrhopygus Wiegmann 1834
+Phyllodactylus	gilberti Heller 1903
+Phyllodactylus	heterurus Werner 1907
+Phyllodactylus	hispaniolae Schwartz 1979
+Phyllodactylus	homolepidurus homolepidurus
+Phyllodactylus	homolepidurus
+Phyllodactylus	homolepidurus Smith 1935
+Phyllodactylus	homolepidurus nolascoensis Dixon 1964
+Phyllodactylus	nolascoensis Dixon 1964
+Phyllodactylus	inaequalis Cope 1876
+Phyllodactylus	insularis Dixon 1960
+Phyllodactylus	interandinus Dixon & Huey 1970
+Phyllodactylus	johnwrighti Dixon & Huey 1970
+Phyllodactylus	julieni Cope 1885
+Phyllodactylus	kofordi Dixon & Huey 1970
+Phyllodactylus	lanei isabelae Castro-Franco & Uribe-Pena 1992
+Phyllodactylus	isabelae Castro-Franco & Uribe-Pena 1992
+Phyllodactylus	lanei lanei
+Phyllodactylus	lanei
+Phyllodactylus	lanei rupinus Dixon 1964
+Phyllodactylus	rupinus Dixon 1964
+Phyllodactylus	lanei lupitae Castro-Franco & Uribe-Pena 1992
+Phyllodactylus	lupitae Castro-Franco & Uribe-Pena 1992
+Phyllodactylus	lanei Smith 1935
+Phyllodactylus	leei Cope 1889
+Phyllodactylus	lepidopygus Tschudi 1845
+Phyllodactylus	martini Lidth DE
+Phyllodactylus	microphyllus Cope 1876
+Phyllodactylus	muralis isthmus Dixon 1964
+Phyllodactylus	isthmus Dixon 1964
+Phyllodactylus	muralis muralis
+Phyllodactylus	muralis
+Phyllodactylus	muralis Taylor 1940
+Phyllodactylus	nocticolus Dixon 1964
+Phyllodactylus	palmeus Dixon 1968
+Phyllodactylus	papenfussi Murphy Blair
+Phyllodactylus	partidus Dixon 1966
+Phyllodactylus	paucituberculatus Dixon 1960
+Phyllodactylus	pulcher Gray 1830
+Phyllodactylus	pumilius Dixon & Huey 1970
+Phyllodactylus	quentheri
+Phyllodactylus	reissii Peters 1862
+Phyllodactylus	rutteni Hummelinck 1940
+Phyllodactylus	santacruzensis Dixon 1966
+Phyllodactylus	sentosus Dixon & Huey 1970
+Phyllodactylus	sommeri Schwartz 1979
+Phyllodactylus	thompsoni Venegas Townsend Loch & Boehme 2008
+Phyllodactylus	tinklei Dixon 1966
+Phyllodactylus	transversalis Huey 1975
+Phyllodactylus	tuberculosus ingeri Dixon 1964
+Phyllodactylus	ingeri Dixon 1964
+Phyllodactylus	tuberculosus tuberculosus
+Phyllodactylus	tuberculosus
+Phyllodactylus	tuberculosus Wiegmann 1834
+Phyllodactylus	tuberculosus magnus Taylor 1942
+Phyllodactylus	magnus Taylor 1942
+Phyllodactylus	tuberculosus saxatilis Dixon 1964
+Phyllodactylus	saxatilis Dixon 1964
+Phyllodactylus	unctus Cope 1864
+Phyllodactylus	ventralis O'Shaughnessy 1875
+Phyllodactylus	wirshingi sommeri Schwartz 1979
+Phyllodactylus	wirshingi hispaniolae Schwartz 1979
+Phyllodactylus	wirshingi wirshingi
+Phyllodactylus	wirshingi
+Phyllodactylus	wirshingi Kerster & Smith 1955
+Phyllodactylus	xanti xanti Cope 1863
+Phyllodactylus	xanti Cope 1863
+Phyllodactylus	xanti sloani Bostic 1971
+Phyllodactylus	sloani Bostic 1971
+Phyllodactylus	xanti zweifeli Dixon 1964
+Phyllodactylus	zweifeli Dixon 1964
+Pseudogekko	brevipes Boettger 1897
+Pseudogekko	compressicorpus Taylor 1915
+Pseudogekko	labialis Peters 1868
+Pseudogekko	smaragdinus Taylor 1922
+Saltuarius	cornutus Ogilby 1892
+Saltuarius	kateae Couper Sadlier Shea & Wilmer 2008
+Saltuarius	moritzi Couper Sadlier Shea & Wilmer 2008
+Saltuarius	occultus Couper Covacevich & Moritz 1993
+Saltuarius	salebrosus Covacevich 1975
+Saltuarius	swaini Wells & Wellington 1985
+Saltuarius	wyberba Couper Schneider & Covacevich 1997
+Tarentola	albertschwartzi Sprackland & Swinney 1998
+Tarentola	americana americana Gray 1831
+Tarentola	americana Gray 1831
+Tarentola	americana warreni Schwartz 1968
+Tarentola	warreni Schwartz 1968
+Tarentola	angustimentalis Steindachner 1891
+Tarentola	annularis relicta Joger 1984
+Tarentola	relicta Joger 1984
+Tarentola	annularis Geoffroy DE
+Tarentola	annularis annularis
+Tarentola	annularis
+Tarentola	bischoffi Joger 1984
+Tarentola	boehmei Joger 1984
+Tarentola	boettgeri hierrensis Joger & Bischoff 1983
+Tarentola	hierrensis Joger & Bischoff 1983
+Tarentola	boettgeri boettgeri Steindachner 1891
+Tarentola	boettgeri Steindachner 1891
+Tarentola	caboverdianus Schleich 1984
+Tarentola	caboverdianus nicolauensis Schleich 1984
+Tarentola	nicolauensis Schleich 1984
+Tarentola	caboverdianus razianus Schleich 1984
+Tarentola	razianus Schleich 1984
+Tarentola	caboverdianus caboverdianus
+Tarentola	caboverdianus
+Tarentola	chazaliae Mocquard 1895
+Tarentola	crombiei Diaz & Hedges 2008
+Tarentola	darwini Joger 1984
+Tarentola	delalandii Dumeril & Bibron 1836
+Tarentola	deserti Boulenger 1891
+Tarentola	ephippiata senegambiae Joger 1984
+Tarentola	senegambiae Joger 1984
+Tarentola	ephippiata ephippiata
+Tarentola	ephippiata
+Tarentola	ephippiata hoggarensis Werner 1937
+Tarentola	hoggarensis Werner 1937
+Tarentola	ephippiata nikolausi Joger 1984
+Tarentola	nikolausi Joger 1984
+Tarentola	ephippiata O
+Tarentola	gigas brancoensis Schleich 1984
+Tarentola	brancoensis Schleich 1984
+Tarentola	gigas gigas
+Tarentola	gigas
+Tarentola	gigas Bocage 1875
+Tarentola	gomerensis Joger & Bischoff 1983
+Tarentola	mauritanica Linnaeus 1758
+Tarentola	mauritanica fascicularis Daudin 1802
+Tarentola	fascicularis Daudin 1802
+Tarentola	mauritanica juliae Joger 1984
+Tarentola	juliae Joger 1984
+Tarentola	mauritanica mauritanica Linnaeus 1758
+Tarentola	mauritanica pallida Geniez et al. 1999
+Tarentola	pallida Geniez et al. 1999
+Tarentola	mindiae Baha EL
+Tarentola	neglecta neglecta Strauch 1895
+Tarentola	neglecta Strauch 1895
+Tarentola	neglecta geyri Joger 1984
+Tarentola	geyri Joger 1984
+Tarentola	parvicarinata Joger 1980
+Tarentola	rudis maioensis Schleich 1984
+Tarentola	maioensis Schleich 1984
+Tarentola	rudis protogigas Joger 1984
+Tarentola	protogigas Joger 1984
+Tarentola	rudis Boulenger 1906
+Tarentola	rudis rudis
+Tarentola	rudis
+Tarentola	rudis boavistensis Joger 1993
+Tarentola	boavistensis Joger 1993
+Tarentola	rudis hartogi Joger 1993
+Tarentola	hartogi Joger 1993
+Aeluroscalabotes	felinus felinus Guenther 1864
+Aeluroscalabotes	felinus Guenther 1864
+Aeluroscalabotes	felinus multituberculatus
+Aeluroscalabotes	multituberculatus
+Ailuronyx	seychellensis Dumeril & Bibron 1836
+Ailuronyx	tachyscopaeus Gerlach & Canning 1996
+Ailuronyx	trachygaster Dumeril 1851
+Aristelliger	barbouri Noble & Klingel 1932
+Aristelliger	cochranae Grant 1931
+Aristelliger	expectatus Cochran 1933
+Aristelliger	georgeensis Bocourt 1873
+Aristelliger	hechti Schwartz & Crombie 1975
+Aristelliger	lar Cope 1861
+Aristelliger	praesignis nelsoni Barbour 1914
+Aristelliger	nelsoni Barbour 1914
+Aristelliger	praesignis Hallowell 1856
+Aristelliger	praesignis praesignis
+Aristelliger	praesignis
+Aristelliger	reyesi Diaz & Hedges 2009
+Bunopus	blanfordii Strauch 1887
+Bunopus	crassicauda Nikolsky 1907
+Bunopus	spatalurus hajarensis Arnold 1980
+Bunopus	hajarensis Arnold 1980
+Bunopus	spatalurus spatalurus
+Bunopus	spatalurus
+Bunopus	spatalurus Anderson 1901
+Bunopus	tuberculatus Blanford 1874
+Calodactylodes	aureus Beddome 1870
+Calodactylodes	illingworthorum Deraniyagala 1953
+Carphodactylus	laevis Guenther 1897
+Chondrodactylus	angulifer angulifer
+Chondrodactylus	angulifer
+Chondrodactylus	angulifer namibensis Haacke 1976
+Chondrodactylus	namibensis Haacke 1976
+Chondrodactylus	angulifer Peters 1870
+Chondrodactylus	bibronii Smith 1846
+Chondrodactylus	fitzsimonsi Loveridge 1947
+Chondrodactylus	turneri Gray
+Christinus	guentheri Boulenger 1885
+Christinus	marmoratus marmoratus Gray 1845
+Christinus	marmoratus Gray 1845
+Christinus	marmoratus macrodactylus Boulenger 1885
+Christinus	macrodactylus Boulenger 1885
+Colopus	kochii Fitzsimons 1959
+Colopus	wahlbergii wahlbergii
+Colopus	wahlbergii
+Colopus	wahlbergii furcifer Haacke 1976
+Colopus	furcifer Haacke 1976
+Colopus	wahlbergii Peters 1869
+Cyrtodactylus	aaroni Guenther & Roesler 2003
+Cyrtodactylus	abrae Wells 2002
+Cyrtodactylus	adleri Das 1997
+Cyrtodactylus	aequalis Bauer 2003
+Cyrtodactylus	agusanensis Taylor 1915
+Cyrtodactylus	angularis Smith 1921
+Cyrtodactylus	annandalei Bauer 2003
+Cyrtodactylus	annulatus Taylor 1915
+Cyrtodactylus	aravallensis Gill 1997
+Cyrtodactylus	aurensis Grismer 2005
+Cyrtodactylus	auribalteatus Sumontha Panitvong & Deein 2010
+Cyrtodactylus	ayeyarwadyensis Bauer 2003
+Cyrtodactylus	badenensis Nguyen Orlov & Darevsky 2007
+Cyrtodactylus	baluensis Mocquard 1890
+Cyrtodactylus	basoglui Baran & Gruber 1982
+Cyrtodactylus	batik Iskandar Rachmansah & Umilaela 2011
+Cyrtodactylus	batucolus Grismer Chan Grismer Wood & Belabut 2008
+Cyrtodactylus	bichnganae Ngo & Grismer 2010
+Cyrtodactylus	biordinis Brown & Mccoy 1980
+Cyrtodactylus	boreoclivus Oliver Krey Mumpuni & Richards 2011
+Cyrtodactylus	brevidactylus Bauer 2002
+Cyrtodactylus	brevipalmatus Smith 1923
+Cyrtodactylus	buchardi David Teynie & Ohler 2004
+Cyrtodactylus	caovansungi Orlov Nguyen Nazarov Ananjeva & Nguyen 2007
+Cyrtodactylus	capreoloides Roesler Richards & Guenther 2007
+Cyrtodactylus	cattienensis Geissler Nazarov Orlov Boehme Phung Nguyen & Ziegler 2009
+Cyrtodactylus	cavernicolus Inger & King 1961
+Cyrtodactylus	chanhomeae Bauer Sumontha & Pauwels 2003
+Cyrtodactylus	chauquangensis Hoang Orlov Ananjeva Johns Hoang & Dau 2007
+Cyrtodactylus	chrysopylos Bauer 2003
+Cyrtodactylus	collegalensis Beddome 1870
+Cyrtodactylus	condorensis Smith 1921
+Cyrtodactylus	consobrinoides Annandale 1905
+Cyrtodactylus	consobrinus kinabaluensis Malkmus 1989
+Cyrtodactylus	kinabaluensis Malkmus 1989
+Cyrtodactylus	consobrinus Peters 1871
+Cyrtodactylus	consobrinus consobrinus Peters 1871
+Cyrtodactylus	cracens Batuwita & Bahir 2005
+Cyrtodactylus	cryptus Heidrich Roesler Thanh Boehme & Ziegler 2007
+Cyrtodactylus	darmandvillei Weber 1890
+Cyrtodactylus	derongo Brown & Parker 1973
+Cyrtodactylus	deveti Brongersma 1948
+Cyrtodactylus	dumnuii Bauer Kunya Sumontha Niyomwan Pauwels Chanhome & Kunya 2010
+Cyrtodactylus	durio Grismer Anuar Quah Muin Chan Grismer & Ahmad 2010
+Cyrtodactylus	edwardtaylori Batuwita & Bahir 2005
+Cyrtodactylus	eisenmanae Ngo 2008
+Cyrtodactylus	elok Dring 1979
+Cyrtodactylus	epiroticus Kraus 2008
+Cyrtodactylus	erythrops Bauer Kunya Sumontha Niyomwan Panitvong Pauwels Chanhome & Kunya 2009
+Cyrtodactylus	feae Boulenger 1893
+Cyrtodactylus	fraenatus Guenther 1864
+Cyrtodactylus	gansi Bauer 2003
+Cyrtodactylus	gordongekkoi Das 1993
+Cyrtodactylus	grismeri Ngo 2008
+Cyrtodactylus	gubaot Welton Siler Linkem Diesmos & Brown 2010
+Cyrtodactylus	gubernatoris Annandale 1913
+Cyrtodactylus	hontreensis Ngo Grsimer & Grismer 2008
+Cyrtodactylus	huynhi Ngo & Bauer 2008
+Cyrtodactylus	ingeri Hikida 1990
+Cyrtodactylus	interdigitalis Ulber 1993
+Cyrtodactylus	intermedius Smith 1917
+Cyrtodactylus	irianjayaensis Roesler 2001
+Cyrtodactylus	irregularis Smith 1921
+Cyrtodactylus	jambangan Welton Siler Diesmos & Brown 2010
+Cyrtodactylus	jarakensis Grismer Chan Grismer Wood & Belabut 2008
+Cyrtodactylus	jarujini Ulber 1993
+Cyrtodactylus	jellesmae Boulenger 1897
+Cyrtodactylus	khasiensis tamaiensis Smith 1940
+Cyrtodactylus	tamaiensis Smith 1940
+Cyrtodactylus	khasiensis khasiensis
+Cyrtodactylus	khasiensis
+Cyrtodactylus	khasiensis Jerdon 1870
+Cyrtodactylus	klugei Kraus 2008
+Cyrtodactylus	laevigatus Darevsky 1964
+Cyrtodactylus	laevigatus uniformis Auffenberg 1980
+Cyrtodactylus	uniformis Auffenberg 1980
+Cyrtodactylus	laevigatus laevigatus
+Cyrtodactylus	laevigatus
+Cyrtodactylus	lateralis Werner 1896
+Cyrtodactylus	leegrismeri Chan & Ahmad 2010
+Cyrtodactylus	lomyenensis Ngo & Pauwels 2010
+Cyrtodactylus	loriae Boulenger 1897
+Cyrtodactylus	louisiadensis DE Vis 1892
+Cyrtodactylus	macrotuberculatus Grismer & Ahmad 2008
+Cyrtodactylus	malayanus DE Rooij 1915
+Cyrtodactylus	malcolmsmithi Constable 1949
+Cyrtodactylus	malcomsmithi Constable 1949
+Cyrtodactylus	mamanwa Welton Siler Linkem Diesmos & Brown 2010
+Cyrtodactylus	mansarulus Duda & Sahi 1978
+Cyrtodactylus	marmoratus Kuhl 1831
+Cyrtodactylus	martini Ngo 2011
+Cyrtodactylus	matsuii Hikida 1990
+Cyrtodactylus	mimikanus Boulenger 1914
+Cyrtodactylus	murua Kraus & Allison 2006
+Cyrtodactylus	nebulosus Beddome 1870
+Cyrtodactylus	nigriocularis Nguyen Orlov & Darevsky 2007
+Cyrtodactylus	novaeguineae Schlegel 1837
+Cyrtodactylus	nuaulu Oliver Edgar Mumpuni Iskandar & Lilley 2009
+Cyrtodactylus	oldhami Theobald 1876
+Cyrtodactylus	pageli Schneider Nguyen Schmitz Kingsada Auer & Ziegler 2011
+Cyrtodactylus	pantiensis Grismer Chan Grismer Wood & Belabut 2008
+Cyrtodactylus	papilionoides Ulber & Grossmann 1991
+Cyrtodactylus	papuensis Brongersma 1934
+Cyrtodactylus	paradoxus Darevsky & Szczerbak 1997
+Cyrtodactylus	peguensis zebraicus
+Cyrtodactylus	zebraicus
+Cyrtodactylus	peguensis Boulenger 1893
+Cyrtodactylus	peguensis peguensis
+Cyrtodactylus	peguensis
+Cyrtodactylus	philippinicus Steindachner 1867
+Cyrtodactylus	phongnhakebangensis Ziegler Roesler Herrmann & Thanh 2003
+Cyrtodactylus	phuquocensis Ngo Grismer & Grismer 2010
+Cyrtodactylus	pseudoquadrivirgatus Roesler Vu Nguyen Ngo & Ziegler 2008
+Cyrtodactylus	pubisulcus Inger 1958
+Cyrtodactylus	pulchellus Gray 1827
+Cyrtodactylus	quadrivirgatus Taylor 1962
+Cyrtodactylus	ramboda Batuwita & Bahir 2005
+Cyrtodactylus	redimiculus King 1962
+Cyrtodactylus	robustus Kraus 2008
+Cyrtodactylus	roesleri Ziegler Nazarov Orlov Nguyen Vu Dang Dinh & Schmitz 2010
+Cyrtodactylus	rubidus Blyth 1861
+Cyrtodactylus	russelli Bauer 2003
+Cyrtodactylus	sadleiri Wells & Wellington 1985
+Cyrtodactylus	salomonensis Roesler Richards & Guenther 2007
+Cyrtodactylus	semenanjungensis Grismer & Leong 2005
+Cyrtodactylus	seribuatensis Youmans & Grismer 2006
+Cyrtodactylus	sermowaiensis DE Rooij 1915
+Cyrtodactylus	serratus Kraus 2007
+Cyrtodactylus	slowinskii Bauer 2002
+Cyrtodactylus	soba Batuwita & Bahir 2005
+Cyrtodactylus	spinosus Linkem McGuire Hayden Setiadi Bicford & Brown 2008
+Cyrtodactylus	stoliczkai Steindachner 1867
+Cyrtodactylus	stresemanni Roesler & Glaw 2008
+Cyrtodactylus	subsolanus Batuwita & Bahir 2005
+Cyrtodactylus	sumonthai Bauer 2002
+Cyrtodactylus	sumuroi Welton Siler Linkem Diesmos & Brown 2010
+Cyrtodactylus	sworderi Smith 1925
+Cyrtodactylus	takouensis Ngo & Bauer 2008
+Cyrtodactylus	tautbatorum Welton Siler Diesmos & Brown 2009
+Cyrtodactylus	teyniei David Nguyen Schneider & Ziegler 2011
+Cyrtodactylus	thirakhupti Pauwels Bauer Sumontha & Chanhome 2004
+Cyrtodactylus	tibetanus Boulenger 1905
+Cyrtodactylus	tigroides Bauer Sumontha & Pauwels 2003
+Cyrtodactylus	tiomanensis Das & Lim 2000
+Cyrtodactylus	tripartitus Kraus 2008
+Cyrtodactylus	variegatus Blyth 1859
+Cyrtodactylus	wakeorum Bauer 2003
+Cyrtodactylus	wallacei Hayden et al. 2008
+Cyrtodactylus	walli Ingoldby 1922
+Cyrtodactylus	wayakonei Nguyen Kingsada Roesler Auer & Ziegler 2010
+Cyrtodactylus	wetariensis Dunn 1927
+Cyrtodactylus	yangbayensis Ngo & Chan 2010
+Cyrtodactylus	yoshii Hikida 1990
+Cyrtodactylus	zhaoermii Shi & Zhao 2010
+Cyrtodactylus	ziegleri Nazarov Orlov Sang & Cuc 2008
+Cyrtodactylus	zugi Oliver Tjaturadi Mumpuni Krey & Richards 2008
+Dravidogecko	anamallensis Guenther 1875
+Gehyra	angusticaudata Taylor 1963
+Gehyra	australis Gray 1845
+Gehyra	baliola Dumeril 1851
+Gehyra	barea Kopstein 1926
+Gehyra	borroloola King 1984
+Gehyra	brevipalmata Peters 1874
+Gehyra	butleri Boulenger 1900
+Gehyra	catenata Low 1979
+Gehyra	dubia Macleay 1877
+Gehyra	fehlmanni Taylor 1962
+Gehyra	fenestra Mitchell 1965
+Gehyra	intermedia Brown 1902
+Gehyra	interstitialis Oudemans 1894
+Gehyra	kimberleyi Boerner & Schuettler 1982
+Gehyra	koira ipsa Horner 2005
+Gehyra	ipsa Horner 2005
+Gehyra	koira Horner 2005
+Gehyra	koira koira
+Gehyra	koira
+Gehyra	lacerata Taylor 1962
+Gehyra	lampei Andersson 1913
+Gehyra	lazelli Wells & Wellington 1985
+Gehyra	leopoldi Brongersma 1930
+Gehyra	lugubris Dumeril & Bibron 1836
+Gehyra	marginata Boulenger 1887
+Gehyra	membranacruralis King & Horner 1989
+Gehyra	minuta King 1982
+Gehyra	montium Storr 1982
+Gehyra	mutilata Wiegmann 1834
+Gehyra	nana Storr 1978
+Gehyra	occidentalis King 1984
+Gehyra	oceanica Lesson 1830
+Gehyra	pamela King 1982
+Gehyra	papuana Meyer 1874
+Gehyra	pilbara Mitchell 1965
+Gehyra	punctata Fry 1914
+Gehyra	purpurascens Storr 1982
+Gehyra	robusta King 1984
+Gehyra	variegata ogasawarisimae Okada 1930
+Gehyra	ogasawarisimae Okada 1930
+Gehyra	variegata Dumeril & Bibron 1836
+Gehyra	variegata variegata Dumeril & Bibron 1836
+Gehyra	vorax Girard 1858
+Gehyra	xenopus Storr 1978
+Goniurosaurus	araneus Grismer Viets & Boyle 1999
+Goniurosaurus	bawanglingensis Grismer Haitao Orlov & Anajeva 2002
+Goniurosaurus	catbaensis Ziegler Nguyen Schmitz Stenke & Roesler 2008
+Goniurosaurus	hainanensis Mocquard 1897
+Goniurosaurus	huuliensis Orlov Ryabov Nguyen Nguyen & Ho 2008
+Goniurosaurus	kuroiwae orientalis Maki 1931
+Goniurosaurus	orientalis Maki 1931
+Goniurosaurus	kuroiwae Namiye 1912
+Goniurosaurus	kuroiwae toyamai Grismer et al. 1994
+Goniurosaurus	toyamai Grismer et al. 1994
+Goniurosaurus	kuroiwae kuroiwae Namiye 1912
+Goniurosaurus	kuroiwae yamashinae Okada 1936
+Goniurosaurus	yamashinae Okada 1936
+Goniurosaurus	kuroiwae splendens Nakamura & Uano 1959
+Goniurosaurus	splendens Nakamura & Uano 1959
+Goniurosaurus	lichtenfelderi Mocquard 1897
+Goniurosaurus	luii Grismer Viets & Boyle 1999
+Goniurosaurus	yingdeensis Wang Yang & Cui 2010
+Heteronotia	binoei Gray 1845
+Heteronotia	planiceps Storr 1989
+Heteronotia	spelea Kluge 1963
+Lygodactylus	angolensis Bocage 1896
+Lygodactylus	angularis heeneni DE Witte 1933
+Lygodactylus	heeneni DE Witte 1933
+Lygodactylus	angularis angularis
+Lygodactylus	angularis
+Lygodactylus	angularis grzimeki Bannikov & Darevsky 1969
+Lygodactylus	grzimeki Bannikov & Darevsky 1969
+Lygodactylus	angularis Guenther 1893
+Lygodactylus	arnoulti Pasteur 1965
+Lygodactylus	bernardi bernardi Fitzsimons 1958
+Lygodactylus	bernardi Fitzsimons 1958
+Lygodactylus	bernardi bonsi Pasteur 1962
+Lygodactylus	bonsi Pasteur 1962
+Lygodactylus	blancae Pasteur 1995
+Lygodactylus	blanci Pasteur 1967
+Lygodactylus	bradfieldi Hewitt 1932
+Lygodactylus	broadleyi Pasteur 1995
+Lygodactylus	capensis pakenhami Loveridge 1941
+Lygodactylus	pakenhami Loveridge 1941
+Lygodactylus	capensis grotei Sternfeld 1911
+Lygodactylus	grotei Sternfeld 1911
+Lygodactylus	capensis capensis
+Lygodactylus	capensis
+Lygodactylus	capensis Smith 1849
+Lygodactylus	chobiensis Fitzsimons 1932
+Lygodactylus	conradti Matschie 1892
+Lygodactylus	conraui Tornier 1902
+Lygodactylus	decaryi Angel 1930
+Lygodactylus	depressus Schmidt 1919
+Lygodactylus	expectatus Pasteur & Blanc 1967
+Lygodactylus	fischeri Boulenger 1890
+Lygodactylus	grandisonae Pasteur 1962
+Lygodactylus	graniticolus Jacobsen 1992
+Lygodactylus	gravis Pasteur 1965
+Lygodactylus	guibei Pasteur 1965
+Lygodactylus	gutturalis dysmicus Perret 1963
+Lygodactylus	dysmicus Perret 1963
+Lygodactylus	gutturalis Bocage 1873
+Lygodactylus	gutturalis gutturalis Bocage 1873
+Lygodactylus	gutturalis paurospilus Laurent 1952
+Lygodactylus	paurospilus Laurent 1952
+Lygodactylus	heterurus heterurus Boettger 1913
+Lygodactylus	heterurus Boettger 1913
+Lygodactylus	heterurus trilineigularis Roesler 1998
+Lygodactylus	trilineigularis Roesler 1998
+Lygodactylus	howelli Pasteur & Broadley 1988
+Lygodactylus	inexpectatus Pasteur 1965
+Lygodactylus	insularis Boettger 1913
+Lygodactylus	intermedius Pasteur 1995
+Lygodactylus	keniensis Parker 1936
+Lygodactylus	kimhowelli Pasteur 1995
+Lygodactylus	klemmeri Pasteur 1965
+Lygodactylus	klugei Smith Martin & Swain 1977
+Lygodactylus	lawrencei Hewitt 1926
+Lygodactylus	luteopicturatus Pasteur 1964
+Lygodactylus	luteopicturatus luteopicturatus
+Lygodactylus	luteopicturatus
+Lygodactylus	luteopicturatus zanzibaritis Pasteur 1964
+Lygodactylus	zanzibaritis Pasteur 1964
+Lygodactylus	madagascariensis madagascariensis
+Lygodactylus	madagascariensis
+Lygodactylus	madagascariensis Boettger 1881
+Lygodactylus	madagascariensis petteri Pasteur & Blanc 1967
+Lygodactylus	petteri Pasteur & Blanc 1967
+Lygodactylus	manni Loveridge 1928
+Lygodactylus	methueni Fitzsimons 1937
+Lygodactylus	miops Guenther 1891
+Lygodactylus	mirabilis Pasteur 1962
+Lygodactylus	montanus Pasteur 1965
+Lygodactylus	nigropunctatus incognitus Jacobsen 1992
+Lygodactylus	incognitus Jacobsen 1992
+Lygodactylus	nigropunctatus montiscaeruli Jacobsen 1992
+Lygodactylus	montiscaeruli Jacobsen 1992
+Lygodactylus	nigropunctatus nigropunctatus
+Lygodactylus	nigropunctatus
+Lygodactylus	nigropunctatus Jacobsen 1992
+Lygodactylus	ocellatus ocellatus Roux 1907
+Lygodactylus	ocellatus Roux 1907
+Lygodactylus	ocellatus soutpansbergensis Jacobsen 1994
+Lygodactylus	soutpansbergensis Jacobsen 1994
+Lygodactylus	ornatus Pasteur 1965
+Lygodactylus	pauliani Pasteur & Blanc 1991
+Lygodactylus	picturatus mombasicus Loveridge 1935
+Lygodactylus	mombasicus Loveridge 1935
+Lygodactylus	picturatus sudanensis Loveridge 1935
+Lygodactylus	sudanensis Loveridge 1935
+Lygodactylus	picturatus picturatus Peters 1868
+Lygodactylus	picturatus Peters 1868
+Lygodactylus	picturatus Peters 1871
+Lygodactylus	pictus Peters 1883
+Lygodactylus	praecox Pasteur 1995
+Lygodactylus	rarus Pasteur & Blanc 1973
+Lygodactylus	rex Broadley 1963
+Lygodactylus	roavolana Puente Glaw Vieites & Vences 2009
+Lygodactylus	scheffleri compositus Pasteur 1964
+Lygodactylus	compositus Pasteur 1964
+Lygodactylus	scheffleri scheffleri Sternfeld 1912
+Lygodactylus	scheffleri Sternfeld 1912
+Lygodactylus	scheffleri ulugurensis Pasteur 1964
+Lygodactylus	ulugurensis Pasteur 1964
+Lygodactylus	scheffleri laterimaculatus Pasteur 1964
+Lygodactylus	laterimaculatus Pasteur 1964
+Lygodactylus	scorteccii Pasteur 1959
+Lygodactylus	somalicus somalicus Loveridge 1935
+Lygodactylus	somalicus Loveridge 1935
+Lygodactylus	somalicus battersbyi Pasteur 1962
+Lygodactylus	battersbyi Pasteur 1962
+Lygodactylus	stevensoni Hewitt 1926
+Lygodactylus	thomensis thomensis Peters 1881
+Lygodactylus	thomensis Peters 1881
+Lygodactylus	thomensis delicatus Pasteur 1962
+Lygodactylus	delicatus Pasteur 1962
+Lygodactylus	thomensis wermuthi Pasteur 1962
+Lygodactylus	wermuthi Pasteur 1962
+Lygodactylus	tolampyae Grandidier 1872
+Lygodactylus	tuberosus Mertens 1965
+Lygodactylus	verticillatus Mocquard 1895
+Lygodactylus	waterbergensis Jacobsen 1992
+Lygodactylus	wetzeli Smith Martin & Swain 1977
+Lygodactylus	williamsi Loveridge 1952
+Mediodactylus	amictophole Hoofien 1967
+Mediodactylus	aspratilis Anderson 1973
+Mediodactylus	dehakroense Masroor 2009
+Mediodactylus	heteropholis Minton Anderson & Anderson 1970
+Mediodactylus	kirmanense Nikolsky 1900
+Mediodactylus	narynense Eremchenko Tsarinenko & Panfilov 1999
+Nactus	acutus Kraus 2005
+Nactus	cheverti Macleay 1877
+Nactus	coindemirensis Bullock Arnold & Bloxam 1985
+Nactus	eboracensis Macleay 1877
+Nactus	galgajuga Ingram 1978
+Nactus	multicarinatus Guenther 1872
+Nactus	pelagicus pelagicus
+Nactus	pelagicus
+Nactus	pelagicus Dumeril 1858
+Nactus	pelagicus undulatus Kopstein 1926
+Nactus	undulatus Kopstein 1926
+Nactus	serpensinsula serpensinsula
+Nactus	serpensinsula
+Nactus	serpensinsula Loveridge 1951
+Nactus	serpensinsula durrelli Arnold & Jones 1994
+Nactus	durrelli Arnold & Jones 1994
+Nactus	soniae Arnold & Bour 2008
+Nactus	sphaerodactylodes Kraus 2005
+Nactus	vankampeni Brongersma 1933
+Nephrurus	amyae Couper & Gregson 1994
+Nephrurus	asper Guenther 1876
+Nephrurus	deleani Harvey 1983
+Nephrurus	laevissimus Mertens 1958
+Nephrurus	levis levis DE Vis 1886
+Nephrurus	levis DE Vis 1886
+Nephrurus	levis occidentalis Storr 1963
+Nephrurus	occidentalis Storr 1963
+Nephrurus	levis pilbarensis Storr 1963
+Nephrurus	pilbarensis Storr 1963
+Nephrurus	levis DE 1886
+Nephrurus	sheai Couper & Gregson 1994
+Nephrurus	stellatus Storr 1968
+Nephrurus	vertebralis Storr 1963
+Nephrurus	wheeleri wheeleri Loveridge 1932
+Nephrurus	wheeleri Loveridge 1932
+Nephrurus	wheeleri cinctus Storr 1963
+Nephrurus	cinctus Storr 1963
+Oedodera	marmorata Bauer Jackman Sadlier & Whithaker 2006
+Oedura	castelnaui Thominot 1889
+Oedura	coggeri Bustard 1966
+Oedura	filicipoda King 1985
+Oedura	gemmata King & Gow 1983
+Oedura	gracilis King 1985
+Oedura	jacovae Couper Keim & Hoskin 2007
+Oedura	jowalbinna Hoskin & Higgie 2008
+Oedura	lesueurii Dumeril & Bibron 1836
+Oedura	marmorata Gray 1842
+Oedura	monilis DE Vis 1888
+Oedura	obscura King 1985
+Oedura	reticulata Bustard 1969
+Oedura	rhombifer Gray 1845
+Oedura	robusta Boulenger 1885
+Oedura	tryoni DE Vis 1884
+Pseudothecadactylus	australis Guenther 1877
+Pseudothecadactylus	cavaticus Cogger 1975
+Pseudothecadactylus	lindneri Cogger 1975
+Ptenopus	carpi Brain 1962
+Ptenopus	garrulus maculatus Gray 1866
+Ptenopus	maculatus Gray 1866
+Ptenopus	garrulus Smith 1849
+Ptenopus	garrulus garrulus Smith 1849
+Ptenopus	kochi Haacke 1964
+Ptyodactylus	guttatus Heyden 1827
+Ptyodactylus	hasselquistii hasselquistii Donndorff 1798
+Ptyodactylus	hasselquistii Donndorff 1798
+Ptyodactylus	hasselquistii krameri Werner 1995
+Ptyodactylus	krameri Werner 1995
+Ptyodactylus	homolepis homolepis Blanford 1876
+Ptyodactylus	homolepis Blanford 1876
+Ptyodactylus	homolepis socotranus Steindachner 1902
+Ptyodactylus	socotranus Steindachner 1902
+Ptyodactylus	oudrii Lataste 1880
+Ptyodactylus	puiseuxi Boutan 1893
+Ptyodactylus	ragazzii Anderson 1898
+Rhynchoedura	ornata Guenther 1867
+Saurodactylus	fasciatus Werner 1931
+Saurodactylus	mauritanicus Dumeril & Bibron 1836
+Saurodactylus	mauritanicus brosseti Bons & Pasteur 1957
+Saurodactylus	brosseti Bons & Pasteur 1957
+Saurodactylus	mauritanicus mauritanicus Dumeril & Bibron 1836
+Stenodactylus	affinis Murray 1884
+Stenodactylus	arabicus Haas 1957
+Stenodactylus	curvatus Pengilley
+Stenodactylus	doriae Blanford 1874
+Stenodactylus	grandiceps Haas 1952
+Stenodactylus	khobarensis Haas 1957
+Stenodactylus	leptocosymbotus Leviton & Anderson 1967
+Stenodactylus	petrii Anderson 1896
+Stenodactylus	pulcher Anderson 1896
+Stenodactylus	slevini Haas 1957
+Stenodactylus	sthenodactylus mauritanicus Guichenot 1850
+Stenodactylus	mauritanicus Guichenot 1850
+Stenodactylus	sthenodactylus Lichtenstein 1823
+Stenodactylus	sthenodactylus sthenodactylus Lichtenstein 1823
+Stenodactylus	yemenensis Arnold 1980
+Teratoscincus	bedriagai Nikolsky 1900
+Teratoscincus	microlepis Nikolsky 1900
+Teratoscincus	przewalskii Strauch 1887
+Teratoscincus	roborowskii Bedriaga 1906
+Teratoscincus	scincus scincus
+Teratoscincus	scincus
+Teratoscincus	scincus keyserlingii Strauch 1863
+Teratoscincus	keyserlingii Strauch 1863
+Teratoscincus	scincus rustamowi Szczerbak 1979
+Teratoscincus	rustamowi Szczerbak 1979
+Teratoscincus	scincus Schlegel 1858
+Teratoscincus	toksunicus Wang 1989
+Thecadactylus	rapicauda Houttuyn 1782
+Thecadactylus	solimoensis Bergmann & Russell 2007
+Tropiocolotes	bisharicus Baha EL
+Tropiocolotes	helenae Nikolsky 1907
+Tropiocolotes	latifi Leviton & Anderson 1972
+Tropiocolotes	nattereri Steindachner 1901
+Tropiocolotes	nubicus Baha EL
+Tropiocolotes	persicus Nikolsky 1903
+Tropiocolotes	scortecci Cherchi & Spano 1963
+Tropiocolotes	steudneri Peters 1869
+Tropiocolotes	tripolitanus occidentalis Parker 1942
+Tropiocolotes	occidentalis Parker 1942
+Tropiocolotes	tripolitanus somalicus Parker 1942
+Tropiocolotes	somalicus Parker 1942
+Tropiocolotes	tripolitanus tripolitanus Peters 1880
+Tropiocolotes	tripolitanus Peters 1880
+Tropiocolotes	tripolitanus algericus Loveridge 1947
+Tropiocolotes	algericus Loveridge 1947
+Tropiocolotes	tripolitanus apoklomax Papenfuss 1969
+Tropiocolotes	apoklomax Papenfuss 1969
+Tropiocolotes	wolfgangboehmei Wilms Shobrak & Wagner 2010
+Underwoodisaurus	milii Bory 1823
+Underwoodisaurus	seorsus Doughty & Oliver 2011
+Underwoodisaurus	sphyrurus Ogilby 1892
+Agamura	femoralis Smith 1933
+Agamura	misonnei DE Witte 1973
+Agamura	persica Dumeril 1856
+Bavayia	crassicollis Roux 1913
+Bavayia	cyclura Guenther 1872
+Bavayia	exsuccida Bauer Whitaker & Sadlier 1998
+Bavayia	geitaina Wright Bauer & Sadlier 2000
+Bavayia	goroensis Bauer Jackman Sadlier Shea & Whitaker 2008
+Bavayia	madjo Bauer Jones & Sadlier 2000
+Bavayia	montana Roux 1913
+Bavayia	ornata Roux 1913
+Bavayia	pulchella Bauer Whitaker & Sadlier 1998
+Bavayia	robusta Wright Bauer & Sadlier 2000
+Bavayia	sauvagii Boulenger 1883
+Bavayia	septuiclavis Sadlier 1989
+Blaesodactylus	ambonihazo Bauer Glaw Gehring & Vences 2011
+Blaesodactylus	antongilensis Boehme & Meier 1980
+Blaesodactylus	boivini Dumeril 1856
+Blaesodactylus	sakalava Grandidier 1867
+Bogertia	lutzae Loveridge 1941
+Cadurcogekko	piveteaui
+Coleonyx	brevis Stejneger 1893
+Coleonyx	elegans nemoralis Klauber 1945
+Coleonyx	nemoralis Klauber 1945
+Coleonyx	elegans Gray 1845
+Coleonyx	elegans elegans
+Coleonyx	elegans
+Coleonyx	fasciatus Boulenger 1885
+Coleonyx	mitratus Peters 1863
+Coleonyx	reticulatus Davis & Dixon 1958
+Coleonyx	switaki gypsicolus Grismer & Ottlery 1988
+Coleonyx	gypsicolus Grismer & Ottlery 1988
+Coleonyx	switaki Murphy 1974
+Coleonyx	switaki switaki
+Coleonyx	switaki
+Coleonyx	variegatus Baird 1858
+Coleonyx	variegatus abbotti Klauber 1945
+Coleonyx	abbotti Klauber 1945
+Coleonyx	variegatus sonoriensis Klauber 1945
+Coleonyx	sonoriensis Klauber 1945
+Coleonyx	variegatus slevini
+Coleonyx	slevini
+Coleonyx	variegatus variegatus Baird 1858
+Coleonyx	variegatus utahensis Klauber 1945
+Coleonyx	utahensis Klauber 1945
+Coleonyx	variegatus bogerti Klauber 1945
+Coleonyx	bogerti Klauber 1945
+Crossobamon	eversmanni Wiegmann 1834
+Crossobamon	eversmanni lumsdenii Boulenger 1887
+Crossobamon	lumsdenii Boulenger 1887
+Crossobamon	eversmanni eversmanni
+Crossobamon	eversmanni
+Crossobamon	orientalis Blanford 1876
+Diplodactylus	alboguttatus Werner 1910
+Diplodactylus	byrnei Lucas & Frost 1896
+Diplodactylus	calcicolus Hutchinson Doughty & Oliver 2009
+Diplodactylus	capensis Doughty Oliver & Adams 2008
+Diplodactylus	conspicillatus Lucas & Frost 1897
+Diplodactylus	damaeum Lucas & Frost 1896
+Diplodactylus	fulleri Storr 1978
+Diplodactylus	furcosus Peters 1863
+Diplodactylus	galaxias Doughty Pepper & Keogh 2010
+Diplodactylus	galeatus Kluge 1963
+Diplodactylus	granariensis granariensis Storr 1979
+Diplodactylus	granariensis Storr 1979
+Diplodactylus	granariensis rex Storr 1988
+Diplodactylus	rex Storr 1988
+Diplodactylus	immaculatus Storr 1988
+Diplodactylus	kenneallyi Storr 1988
+Diplodactylus	klugei Aplin & Adams 1998
+Diplodactylus	maini Kluge 1962
+Diplodactylus	mitchelli Kluge 1963
+Diplodactylus	occultus King 1982
+Diplodactylus	ornatus Gray 1845
+Diplodactylus	polyophthalmus Guenther 1867
+Diplodactylus	pulcher Steindachner 1870
+Diplodactylus	savagei Kluge 1963
+Diplodactylus	squarrosus Kluge 1962
+Diplodactylus	steindachneri Boulenger 1885
+Diplodactylus	stenodactylus Boulenger 1896
+Diplodactylus	taenicauda DE Vis 1886
+Diplodactylus	tessellatus Guenther 1875
+Diplodactylus	vittatus Gray 1832
+Diplodactylus	wiru Hutchinson Doughty & Oliver 2009
+Diplodactylus	wombeyi Storr 1978
+Ebenavia	inunguis Boettger 1878
+Ebenavia	maintimainty Nussbaum & Raxworthy 1998
+Elasmodactylus	tetensis Loveridge 1952
+Elasmodactylus	tuberculosus Boulenger 1895
+Geckoella	albofasciatus Boulenger 1885
+Geckoella	collegalensis Beddome 1870
+Geckoella	deccanensis Guenther 1864
+Geckoella	jeyporensis Beddome 1878
+Geckoella	triedrus Guenther 1864
+Geckoella	yakhuna Deraniyagala 1945
+Gekko	albofasciolatus Guenther 1867
+Gekko	athymus Brown & Alcala 1962
+Gekko	auriverrucosus Zhou & Liu 1982
+Gekko	badenii Shcherbak & Nekrasova 1994
+Gekko	canaensis Ngo & Gamble 2011
+Gekko	canhi Roesler Nguyen Doan Ho Nguyen & Ziegler 2010
+Gekko	carusadensis Linkem Siler Diesmos Sy & Brown 2010
+Gekko	chinensis Gray 1842
+Gekko	crombota Brown Oliveros Siler & Diesmos 2008
+Gekko	ernstkelleri Roesler Siler Brown Demegillo & Gaulke 2006
+Gekko	gecko Linnaeus 1758
+Gekko	gecko azhari Mertens 1955
+Gekko	azhari Mertens 1955
+Gekko	gecko gecko Linnaeus 1758
+Gekko	gekko Linnaeus 1758
+Gekko	gigante Brown & Alcala 1978
+Gekko	grossmanni Guenther 1994
+Gekko	hokouensis Pope 1928
+Gekko	japonicus Schlegel 1836
+Gekko	kikuchii Oshima 1912
+Gekko	lauhachindai Panitvong Sumontha Konlek & Kunya 2010
+Gekko	melli Vogt 1922
+Gekko	mindorensis Taylor 1919
+Gekko	monarchus Schlegel 1836
+Gekko	nutaphandi Bauer Sumontha & Pauwels 2008
+Gekko	palawanensis Taylor 1925
+Gekko	palmatus Boulenger 1907
+Gekko	petricolus Taylor 1962
+Gekko	porosus Taylor 1922
+Gekko	reevesii Gray 1831
+Gekko	romblon Brown & Alcala 1978
+Gekko	rossi Brown Oliveros Siler & Diesmos 2009
+Gekko	russelltraini Ngo Bauer Wood & Grismer 2009
+Gekko	scabridus Liu & Zhou 1982
+Gekko	scienciadventura Roesler Ziegler VU Herrmann & Boehme 2004
+Gekko	scientiadventura Roesler Ziegler Vu Herrmann & Boehme 2004
+Gekko	shibatai Toda Sengoku Hikada & Ota 2008
+Gekko	siamensis Grossmann & Ulber 1990
+Gekko	similignum Smith 1923
+Gekko	smithii Gray 1842
+Gekko	stentor Cantor 1847
+Gekko	subpalmatus Guenther 1864
+Gekko	swinhonis Guenther 1864
+Gekko	taibaiensis Song 1985
+Gekko	takouensis Ngo & Gamble 2010
+Gekko	tawaensis Okada 1956
+Gekko	taylori Ota & Nabhitabhata 1991
+Gekko	ulikovskii Darevsky & Orlov 1994
+Gekko	verreauxi Tytler 1865
+Gekko	vertebralis Toda Sengoku Hikada & Ota 2008
+Gekko	verticillatus Cantor 1847
+Gekko	vietnamensis Nguyen 2010
+Gekko	vittatus Houttuyn 1782
+Gekko	wenxianensis Zhou & Wang 2008
+Gekko	yakuensis Matsui & Okada 1968
+Gonydactylus	markuscombaii Darevsky Helfenberger Orlov & Shah 1998
+Gonydactylus	martinstolli Darevsky Helfenberger Orlov & Shah 1998
+Gonydactylus	nepalensis Schleich & Kaestle 1998
+Gonydactylus	paradoxus Darevsky & Szczerbak 1997
+Hemiphyllodactylus	aurantiacus Beddome 1870
+Hemiphyllodactylus	ganoklonis Zug 2010
+Hemiphyllodactylus	larutensis Boulenger 1900
+Hemiphyllodactylus	titiwangsaensis Zug 2010
+Hemiphyllodactylus	typus typus Bleeker 1860
+Hemiphyllodactylus	typus Bleeker 1860
+Hemiphyllodactylus	typus chapaensis Bourret 1937
+Hemiphyllodactylus	chapaensis Bourret 1937
+Hemiphyllodactylus	typus pallidus Auffenberg 1980
+Hemiphyllodactylus	pallidus Auffenberg 1980
+Hemiphyllodactylus	yunnanensis jinpingensis Zhou & Liu 1981
+Hemiphyllodactylus	jinpingensis Zhou & Liu 1981
+Hemiphyllodactylus	yunnanensis longlingensis Zhou & Liu 1981
+Hemiphyllodactylus	longlingensis Zhou & Liu 1981
+Hemiphyllodactylus	yunnanensis yunnanensis
+Hemiphyllodactylus	yunnanensis
+Hemiphyllodactylus	yunnanensis Boulenger 1903
+Hemiphyllodactylus	yunnanensis dushanensis Zhou & Liu 1981
+Hemiphyllodactylus	dushanensis Zhou & Liu 1981
+Heteropholis	genneus McCann 1955
+Homopholis	fasciata erlangeri Steindachner 1906
+Homopholis	erlangeri Steindachner 1906
+Homopholis	fasciata fasciata Boulenger 1890
+Homopholis	fasciata Boulenger 1890
+Homopholis	mulleri Visser 1987
+Homopholis	wahlbergii arnoldi Loveridge 1944
+Homopholis	arnoldi Loveridge 1944
+Homopholis	wahlbergii wahlbergii Smith 1849
+Homopholis	wahlbergii Smith 1849
+Homopholis	wahlbergii
+Homopholis	walbergii Smith 1849
+Hoplodactylus	chrysosireticus Robb 1980
+Hoplodactylus	cryptozoicus Jewell & Leschen 2004
+Hoplodactylus	delcourti Bauer & Russell 1986
+Hoplodactylus	duvaucelii Dumeril & Bibron 1836
+Hoplodactylus	granulatus Gray 1845
+Hoplodactylus	kahutarae Whitaker 1985
+Hoplodactylus	maculatus Gray 1845
+Hoplodactylus	nebulosus Gray 1955
+Hoplodactylus	pacificus Gray 1842
+Hoplodactylus	rakiurae Thomas 1981
+Hoplodactylus	stephensi Robb 1980
+Luperosaurus	angliit Brown Diesmos & Oliveros 2011
+Luperosaurus	brooksii Boulenger 1920
+Luperosaurus	browni Russell 1979
+Luperosaurus	corfieldi Gaulke Roesler & Brown 2007
+Luperosaurus	cornfieldi Gaulke Roesler & Brown 2007
+Luperosaurus	cumingii Gray 1845
+Luperosaurus	gulat Brown Diesmos Duya Garcia & Rico 2010
+Luperosaurus	iskandari Brown Supriatna & Ota 2000
+Luperosaurus	joloensis Taylor 1918
+Luperosaurus	kubli Brown Diesmos & Duya 2007
+Luperosaurus	macgregori Stejneger 1907
+Luperosaurus	palawanensis Brown & Alcala 1978
+Luperosaurus	sorok Das Lakim & Kandaung 2008
+Luperosaurus	yasumai Ota Sengoku & Hikida 1996
+Phyllopezus	maranjonensis Koch Venegas & Boehme 2006
+Phyllopezus	periosus Rodrigues 1986
+Phyllopezus	pollicaris Spix 1825
+Phyllopezus	pollicaris pollicaris
+Phyllopezus	pollicaris
+Phyllopezus	pollicaris przewalskyi Koslowsky 1895
+Phyllopezus	przewalskyi Koslowsky 1895
+Pseudogonatodes	barbouri Noble 1921
+Pseudogonatodes	furvus Ruthven 1915
+Pseudogonatodes	gasconi Avila-Pires & Hoogmoed 2000
+Pseudogonatodes	guianensis Parker 1935
+Pseudogonatodes	lunulatus Roux 1927
+Pseudogonatodes	manessi Avila-Pires & Hoogmoed 2000
+Pseudogonatodes	peruvianus Huey & Dixon 1970
+Ptychozoon	homalocephalus Creveldt 1809
+Ptychozoon	horsfieldii Gray 1827
+Ptychozoon	intermedium Taylor 1915
+Ptychozoon	kuhli Stejneger 1902
+Ptychozoon	lionotum Annandale 1905
+Ptychozoon	nicobarensis Das & Vijayakumar 2009
+Ptychozoon	rhacophorus Boulenger 1899
+Ptychozoon	trinotaterra Brown 1999
+Quedenfeldtia	moerens Chabanaud 1916
+Quedenfeldtia	trachyblepharus Boettger 1873
+Urocotyledon	inexpectata Stejneger 1893
+Urocotyledon	palmata Mocquard 1902
+Urocotyledon	rasmusseni Bauer & Menegon 2006
+Urocotyledon	weileri Mueller 1909
+Urocotyledon	wolterstorffi Tornier 1900

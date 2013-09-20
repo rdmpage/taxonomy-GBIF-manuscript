@@ -1,0 +1,181 @@
+Epictia	collaris Hoogmoed 1977
+Epictia	melanurus Schmidt & Walker 1943
+Epictia	rufidorsa Taylor 1940
+Epictia	subcrotilla Klauber 1939
+Epictia	tricolor Orejas-Miranda & Zug 1974
+Tricheilostoma	joshuai Dunn 1944
+Rena	bressoni Taylor 1939
+Rena	dissecta Cope 1896
+Rena	maxima Loveridge 1932
+Rena	myopica Garman 1883
+Rena	nicefori Dunn 1946
+Guinea	bicolor Jan 1860
+Leptotyphlops	adleri Hahn & Wallach 1998
+Leptotyphlops	aethiopicus Broadley & Wallach 2007
+Leptotyphlops	affinis Boulenger 1884
+Leptotyphlops	albifrons Wagler 1824
+Leptotyphlops	albipuncta Jan 1861
+Leptotyphlops	albiventer Hallermann & Roedel 1995
+Leptotyphlops	alfredschmidti Lehr Wallach Koehler & Aguilar 2002
+Leptotyphlops	algeriensis Jacquet 1895
+Leptotyphlops	anthracinus Bailey 1946
+Leptotyphlops	asbolepis Thomas Mcdiarmid & Thompson 1985
+Leptotyphlops	australis Freiberg & Orejas-Miranda 1968
+Leptotyphlops	bicolor Jan 1860
+Leptotyphlops	bilineatus Schlegel 1839
+Leptotyphlops	blanfordi Boulenger 1890
+Leptotyphlops	blanfordii Boulenger 1890
+Leptotyphlops	borapeliotes Vanzolini 1996
+Leptotyphlops	borrichianus Degerbol 1923
+Leptotyphlops	boueti Chabanaud 1917
+Leptotyphlops	boulengeri Boettger 1913
+Leptotyphlops	braccianii Scortecci 1929
+Leptotyphlops	brasiliensis Laurent 1949
+Leptotyphlops	bressoni Taylor 1939
+Leptotyphlops	brevissimus Shreve 1964
+Leptotyphlops	broadleyi Wallach & Hahn 1997
+Leptotyphlops	burii Boulenger 1905
+Leptotyphlops	cairi Dumeril & Bibron 1844
+Leptotyphlops	calypso Thomas Mcdiarmid
+Leptotyphlops	collaris Hoogmoed 1977
+Leptotyphlops	columbi Klauber 1939
+Leptotyphlops	conjunctus conjunctus Jan 1861
+Leptotyphlops	conjunctus Jan 1861
+Leptotyphlops	conjunctus lepezi Boulenger 1901
+Leptotyphlops	lepezi Boulenger 1901
+Leptotyphlops	conjunctus latirostris Sternfeld 1912
+Leptotyphlops	latirostris Sternfeld 1912
+Leptotyphlops	conjunctus conjunctus
+Leptotyphlops	conjunctus
+Leptotyphlops	conjunctus incognitus Broadley & Watson 1976
+Leptotyphlops	incognitus Broadley & Watson 1976
+Leptotyphlops	cupinensis Bailey & Carvalho 1946
+Leptotyphlops	debilis Chabanaud 1918
+Leptotyphlops	diaplocius Orejas-Miranda 1969
+Leptotyphlops	dimidiatus Jan 1861
+Leptotyphlops	dissimilis Bocage 1886
+Leptotyphlops	distanti Boulenger 1892
+Leptotyphlops	drewesi Wallach 1996
+Leptotyphlops	dugandi Dunn 1944
+Leptotyphlops	dulcis dissectus Cope 1896
+Leptotyphlops	dissectus Cope 1896
+Leptotyphlops	dulcis iversoni Smith et al. 1998
+Leptotyphlops	iversoni Smith et al. 1998
+Leptotyphlops	dulcis supraorbicularis Tanner 1985
+Leptotyphlops	supraorbicularis Tanner 1985
+Leptotyphlops	dulcis myopicus Garman 1884
+Leptotyphlops	myopicus Garman 1884
+Leptotyphlops	dulcis dulcis
+Leptotyphlops	dulcis
+Leptotyphlops	dulcis Baird & Girard 1853
+Leptotyphlops	emini Boulenger 1890
+Leptotyphlops	erythraeus Scortecci 1929
+Leptotyphlops	filiformis Boulenger 1899
+Leptotyphlops	fuliginosus Passos Caramaschi & Pinto 2006
+Leptotyphlops	goudotii bakewelli
+Leptotyphlops	bakewelli
+Leptotyphlops	goudotii goudotii
+Leptotyphlops	goudotii
+Leptotyphlops	goudotii magnamaculatus Taylor 1940
+Leptotyphlops	magnamaculatus Taylor 1940
+Leptotyphlops	goudotii ater Taylor 1940
+Leptotyphlops	ater Taylor 1940
+Leptotyphlops	goudotii phenops Cope 1875
+Leptotyphlops	phenops Cope 1875
+Leptotyphlops	goudotii Dumeril & Bibron 1844
+Leptotyphlops	gracilior Boulenger 1910
+Leptotyphlops	greenwelli Wallach & Boundy 2005
+Leptotyphlops	guayaquilensis Orejas-Miranda & Peters 1970
+Leptotyphlops	howelli Broadley & Wallach 2007
+Leptotyphlops	humilis tenuiculus Garman 1883
+Leptotyphlops	tenuiculus Garman 1883
+Leptotyphlops	humilis Baird & Girard 1853
+Leptotyphlops	humilis cahuilae Klauber 1939
+Leptotyphlops	cahuilae Klauber 1939
+Leptotyphlops	humilis dugesii Bocourt 1881
+Leptotyphlops	dugesii Bocourt 1881
+Leptotyphlops	humilis segregus Klauber 1939
+Leptotyphlops	segregus Klauber 1939
+Leptotyphlops	humilis utahensis Tanner 1938
+Leptotyphlops	utahensis Tanner 1938
+Leptotyphlops	humilis humilis
+Leptotyphlops	humilis
+Leptotyphlops	humilis lindsayi
+Leptotyphlops	lindsayi
+Leptotyphlops	humilis boettgeri Werner 1899
+Leptotyphlops	boettgeri Werner 1899
+Leptotyphlops	humilis chihuahuaensis Tanner 1985
+Leptotyphlops	chihuahuaensis Tanner 1985
+Leptotyphlops	humilis levitoni
+Leptotyphlops	levitoni
+Leptotyphlops	ionidesi Broadley & Wallach 2007
+Leptotyphlops	jacobseni Broadley & Broadley 1999
+Leptotyphlops	joshuai Dunn 1944
+Leptotyphlops	keniensis Broadley & Wallach 2007
+Leptotyphlops	koppesi Amaral 1955
+Leptotyphlops	labialis Sternfeld 1908
+Leptotyphlops	leptepileptus Thomas McDiarmid & Thompson 1985
+Leptotyphlops	leptipilepta Thomas Mcdiarmid & Thompson 1985
+Leptotyphlops	longicaudus Peters 1854
+Leptotyphlops	macrolepis Peters 1857
+Leptotyphlops	macrops Broadley & Wallach 1996
+Leptotyphlops	macrorhynchus Jan 1860
+Leptotyphlops	macrurus Boulenger 1899
+Leptotyphlops	maximus Loveridge 1932
+Leptotyphlops	mbanjensis Broadley & Wallach 2007
+Leptotyphlops	melanotermus Cope 1862
+Leptotyphlops	melanurus Schmidt & Walker 1943
+Leptotyphlops	munoai Orejas-Miranda 1961
+Leptotyphlops	narirostris narirostris Peters 1867
+Leptotyphlops	narirostris Peters 1867
+Leptotyphlops	narirostris boueti Chabanaud 1917
+Leptotyphlops	nasalis Taylor 1940
+Leptotyphlops	natatrix Andersson 1937
+Leptotyphlops	nicefori Dunn 1946
+Leptotyphlops	nigricans Schlegel 1839
+Leptotyphlops	nigroterminus Broadley & Wallach 2007
+Leptotyphlops	nursii Anderson 1896
+Leptotyphlops	occidentalis Fitzsimons 1962
+Leptotyphlops	parkeri Broadley 1999
+Leptotyphlops	pembae Loveridge 1941
+Leptotyphlops	perreti Roux-Esteve 1979
+Leptotyphlops	peruvianus Orejas-Miranda 1969
+Leptotyphlops	phillipsi Barbour 1914
+Leptotyphlops	pungwensis Broadley & Wallach 1997
+Leptotyphlops	pyrites Thomas 1965
+Leptotyphlops	reticulatus Boulenger 1906
+Leptotyphlops	rostratus Bocage 1886
+Leptotyphlops	rubrolineatus Werner 1901
+Leptotyphlops	rufidorsus Taylor 1940
+Leptotyphlops	salgueiroi Amaral 1955
+Leptotyphlops	scutifrons merkeri Werner 1909
+Leptotyphlops	merkeri Werner 1909
+Leptotyphlops	scutifrons Peters 1854
+Leptotyphlops	scutifrons scutifrons
+Leptotyphlops	scutifrons
+Leptotyphlops	scutifrons pitmani Broadley & Wallach 2007
+Leptotyphlops	pitmani Broadley & Wallach 2007
+Leptotyphlops	septemstriatus Schneider 1801
+Leptotyphlops	signata Jan 1862
+Leptotyphlops	signatus Jan 1861
+Leptotyphlops	striatula Smith & Laufe 1945
+Leptotyphlops	subcrotillus Klauber 1939
+Leptotyphlops	sundewalli Jan 1862
+Leptotyphlops	sundewalli gestri Boulenger 1906
+Leptotyphlops	gestri Boulenger 1906
+Leptotyphlops	sundewalli sundewalli
+Leptotyphlops	sundewalli
+Leptotyphlops	sylvicolus Broadley & Wallach 1997
+Leptotyphlops	tanae Broadley & Wallach 2007
+Leptotyphlops	teaguei Orejas-Miranda 1964
+Leptotyphlops	telloi Broadley & Watson 1976
+Leptotyphlops	tenellus Klauber 1939
+Leptotyphlops	tesselatus Tschudi 1845
+Leptotyphlops	tricolor Orejas-Miranda & Zug 1974
+Leptotyphlops	undecimstriatus Schlegel 1839
+Leptotyphlops	unguirostris Boulenger 1902
+Leptotyphlops	vellardi Laurent 1984
+Leptotyphlops	weyrauchi Orejas-Miranda 1964
+Leptotyphlops	wilsoni Hahn 1978
+Namibiana	rostrata Bocage 1886
+Rhinoleptus	koniagui Villiers 1956

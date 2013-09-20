@@ -1,0 +1,3880 @@
+Afronatrix	anoscopus Cope 1861
+Alluaudina	bellyi Mocquard 1894
+Alluaudina	mocquardi Angel 1939
+Amphiesma	andreae Ziegler & LE Khac Quyet 2006
+Amphiesma	atemporale Bourret 1934
+Amphiesma	beddomei Guenther 1864
+Amphiesma	bitaeniatum Wall 1925
+Amphiesma	boulengeri Gressitt 1937
+Amphiesma	celebicum Peters & Doria 1878
+Amphiesma	concelarum Malnate 1963
+Amphiesma	craspedogaster Boulenger 1899
+Amphiesma	deschauenseei Taylor 1934
+Amphiesma	flavifrons Boulenger 1887
+Amphiesma	frenatum Dunn 1923
+Amphiesma	groundwateri Smith 1922
+Amphiesma	inas Laidlaw 1901
+Amphiesma	ishigakiense Malnate & Munstermann 1960
+Amphiesma	johannis Boulenger 1908
+Amphiesma	kerinciense David & Das 2003
+Amphiesma	khasiense Boulenger 1890
+Amphiesma	leucomystax David Bain Quang Truong Orlov Vogel Ngoc Thanh & Ziegler 2007
+Amphiesma	metusia Inger Zhao Shaffer & WU 1990
+Amphiesma	miyajimae Maki 1931
+Amphiesma	modestum Guenther 1875
+Amphiesma	monticola Jerdon 1853
+Amphiesma	natrix Linnaeus 1766
+Amphiesma	nicobariense Sclater 1891
+Amphiesma	octolineatum Boulenger 1904
+Amphiesma	optatum HU & Zhao 1966
+Amphiesma	parallelum Boulenger 1890
+Amphiesma	peali Sclater 1891
+Amphiesma	pealii Sclater 1891
+Amphiesma	petersii Boulenger 1893
+Amphiesma	platyceps Blyth 1854
+Amphiesma	popei Schmidt 1925
+Amphiesma	pryeri Boulenger 1887
+Amphiesma	sanguineum Smedley 1931
+Amphiesma	sarasinora Boulenger 1896
+Amphiesma	sarasinorum Boulenger 1896
+Amphiesma	sarawacense Guenther 1872
+Amphiesma	sauteri Boulenger 1909
+Amphiesma	sieboldi Guenther 1860
+Amphiesma	sieboldii Guenther 1860
+Amphiesma	stolatum Linnaeus 1758
+Amphiesma	stolatus Linnaeus 1766
+Amphiesma	venningi Wall 1910
+Amphiesma	vibakari Boie 1826
+Amphiesma	vibakari vibakari
+Amphiesma	vibakari
+Amphiesma	vibakari danjoensis Toriba 1986
+Amphiesma	danjoensis Toriba 1986
+Amphiesma	viperinum Schenkel 1901
+Amphiesma	xenura Wall 1907
+Aplopeltura	boa Boie 1828
+Argyrogena	fasciolata Shaw 1802
+Arrhyton	ainictum Schwartz & Garrido 1981
+Arrhyton	callilaemum Gosse 1851
+Arrhyton	dolichura Werner 1909
+Arrhyton	exiguum exiguum Cope 1863
+Arrhyton	exiguum Cope 1863
+Arrhyton	funereum Cope 1862
+Arrhyton	landoi Schwartz 1965
+Arrhyton	polylepis Buden 1966
+Arrhyton	procerum Hedges & Garrido 1992
+Arrhyton	redimitum Cope 1863
+Arrhyton	supernum Hedges & Garrido 1992
+Arrhyton	taeniatum Guenther 1858
+Arrhyton	tanyplectum Schwartz & Garrido 1981
+Arrhyton	vittatum Gundlach 1861
+Atractus	albuquerquei DA Cunha & DO Nascimento 1983
+Atractus	alphonsehogei DA Cunha & DO Nascimento 1983
+Atractus	andinus Prado 1944
+Atractus	arangoi Prado 1939
+Atractus	attenuates Myers & Schargel 2006
+Atractus	badius Boie 1827
+Atractus	balzani Boulenger 1898
+Atractus	biseriatus Prado 1941
+Atractus	bocki Werner 1909
+Atractus	bocourti Boulenger 1894
+Atractus	boettgeri Boulenger 1896
+Atractus	boulengeri Peracca 1896
+Atractus	boulengerii Peracca 1896
+Atractus	canedii Scrocchi & Cei 1991
+Atractus	carrioni Parker 1930
+Atractus	caxiuana DA Costa Prudente & Santos-Costa 2006
+Atractus	clarki Dunn & Bailey 1939
+Atractus	collaris Peracca 1897
+Atractus	crassicaudatus Dumeril Bibron & Dumeril 1854
+Atractus	darienensis Myers 2003
+Atractus	depressiocellus Myers 2003
+Atractus	duidensis Roze 1961
+Atractus	dunni Savage 1955
+Atractus	ecuadorensis Savage 1955
+Atractus	edioi DA Silva Rodrigues Silva Ribeiro Souza & DO Amaral Souza 2005
+Atractus	elaps Guenther 1858
+Atractus	emigdioi Gonzales-Sponga 1971
+Atractus	emmeli Boettger 1888
+Atractus	erythromelas Boulenger 1903
+Atractus	favae Filippi 1840
+Atractus	flammigerus Boie 1827
+Atractus	fuliginosus Hallowell 1845
+Atractus	gaigeae Savage 1955
+Atractus	gigas Myers & Schargel 2006
+Atractus	guentheri Wucherer 1861
+Atractus	hostilitractus Myers 2003
+Atractus	imperfectus Myers 2003
+Atractus	indistinctus Prado 1940
+Atractus	insipidus Roze 1961
+Atractus	iridescens Peracca 1896
+Atractus	kangueryensis Cacciali Villalba & Yanosky 2007
+Atractus	lancinii Roze 1961
+Atractus	lasallei Amaral 1931
+Atractus	latifrons Guenther 1868
+Atractus	lehmanni Boettger 1898
+Atractus	limitaneus Amaral 1935
+Atractus	loveridgei Amaral 1930
+Atractus	maculatus Guenther 1858
+Atractus	major Boulenger 1894
+Atractus	manizalesensis Prado 1940
+Atractus	mariselae Lancini 1969
+Atractus	matthewi Markezich & Barrio-Amoros 2004
+Atractus	melanogaster Werner 1916
+Atractus	melas Boulenger 1908
+Atractus	meridensis Esqueda & LA Marca 2005
+Atractus	micheleae Esqueda & LA Marca 2005
+Atractus	microrhynchus Cope 1868
+Atractus	mijaresi Esqueda & LA Marca 2005
+Atractus	modestus Boulenger 1894
+Atractus	multicinctus Jan 1865
+Atractus	natans Hoogmoed & Prudente 2003
+Atractus	nebularis Bernal-Carol & Roze 1997
+Atractus	nicefori Amaral 1930
+Atractus	nigricaudus Schmidt & Walker 1943
+Atractus	nigriventris Amaral 1933
+Atractus	obesus Marx 1960
+Atractus	obtusirostris Werner 1916
+Atractus	occidentalis Savage 1955
+Atractus	occipitoalbus Jan 1862
+Atractus	ochrosetrus Esqueda & LA Marca 2005
+Atractus	oculotemporalis Amaral 1932
+Atractus	pamplonensis Amaral 1937
+Atractus	pantostictus Fernandes & Puorto 1993
+Atractus	paraguayensis Werner 1924
+Atractus	paravertebralis Henle & Ehrl 1991
+Atractus	paucidens Despax 1910
+Atractus	pauciscutatus Schmidt & Walker 1943
+Atractus	peruvianus Jan 1862
+Atractus	poeppigi Jan 1862
+Atractus	potschi Fernandes 1995
+Atractus	punctiventris Amaral 1933
+Atractus	resplendens Werner 1901
+Atractus	reticulatus scrocchii Alvarez Rey & Cei 1992
+Atractus	scrocchii Alvarez Rey & Cei 1992
+Atractus	reticulatus reticulatus Boulenger 1885
+Atractus	reticulatus Boulenger 1885
+Atractus	riveroi Roze 1961
+Atractus	roulei Despax 1910
+Atractus	sanctaemartae Dunn 1946
+Atractus	sanguineus Prado 1944
+Atractus	schach Boie 1827
+Atractus	serranus Amaral 1930
+Atractus	snethlageae DA Cunha & DO Nascimento 1983
+Atractus	steyermarki Roze 1958
+Atractus	taeniatus Griffin 1916
+Atractus	tamaensis Esqueda & LA Marca 2005
+Atractus	tamessari Kok 2006
+Atractus	taphorni Schargel & Garcia-Perez 2002
+Atractus	thalesdelemai Passos Fernandes & Zanella 2005
+Atractus	torquatus Dumeril Bibron & Dumeril 1854
+Atractus	trihedrurus Amaral 1926
+Atractus	trilineatus Wagler 1828
+Atractus	trivittatus Amaral 1933
+Atractus	turikensis Barros 2000
+Atractus	univittatus Jan 1862
+Atractus	variegatus Prado 1942
+Atractus	ventrimaculatus Boulenger 1905
+Atractus	vertebralis Boulenger 1904
+Atractus	vertebrolineatus Prado 1941
+Atractus	vittatus Boulenger 1894
+Atractus	wagleri Prado 1945
+Atractus	werneri Peracca 1914
+Atractus	zidoki Gasc & Rodrigues 1979
+Balanophis	ceylonensis Guenther 1858
+Bibilava	epistibes Cadle 1996
+Bibilava	infrasignatus Guenther 1882
+Bibilava	lateralis Dumeril & Bibron 1854
+Bibilava	martae Glaw Franzen & Vences 2005
+Bibilava	stumpffi Boettger 1881
+Boiruna	maculata Boulenger 1896
+Boiruna	occipitolutea Dumeril Bibron & Dumeril 1854
+Boiruna	sertaneja Zaher 1996
+Bothrophthalmus	lineatus Peters 1863
+Bothrophthalmus	lineatus brunneus Guenther 1863
+Bothrophthalmus	brunneus Guenther 1863
+Bothrophthalmus	lineatus lineatus Peters 1863
+Brygophis	coulangesi Domergue 1988
+Buhoma	depressiceps Werner 1897
+Buhoma	procterae Loveridge 1922
+Buhoma	vauerocegae Tornier 1902
+Calamodontophis	paucidens Amaral 1936
+Calamodontophis	ronaldoi Franco DE Carvalho Cintra & DE Lema 2006
+Cantoria	annulata DE Jong 1926
+Cantoria	violacea Girard 1857
+Carphophis	amoena Say 1825
+Carphophis	amoenus Say 1825
+Carphophis	amoenus helenae Kennicott 1859
+Carphophis	helenae Kennicott 1859
+Carphophis	amoenus amoenus Say 1825
+Carphophis	vermis Kennicott 1859
+Chapinophis	xanthocheilus Campbell & Smith 1998
+Chilomeniscus	savagei Cliff 1954
+Chilomeniscus	stramineus stramineus Cope 1860
+Chilomeniscus	stramineus Cope 1860
+Chilomeniscus	stramineus esterensis Hoard 1939
+Chilomeniscus	esterensis Hoard 1939
+Clelia	bicolor Peracca 1904
+Clelia	clelia plumbea Wied-Neuwied 1820
+Clelia	plumbea Wied-Neuwied 1820
+Clelia	clelia Daudin 1803
+Clelia	clelia groomei Greer 1965
+Clelia	groomei Greer 1965
+Clelia	clelia clelia
+Clelia	clelia
+Clelia	clelia immaculata
+Clelia	immaculata
+Clelia	equatoriana Amaral 1924
+Clelia	errabunda Underwood 1993
+Clelia	hussami Morato Franco & Sanches 2003
+Clelia	langeri Reichle & Embert 2005
+Clelia	montana Franco Marques & Puorto 1997
+Clelia	plumbea Wied 1820
+Clelia	quimi Franco Marques & Puorto 1997
+Clelia	rustica Cope 1878
+Clelia	scytalina Cope 1867
+Clonophis	kirtlandii Kennicott 1856
+Coronella	austriaca acutirostris Malkmus 1995
+Coronella	acutirostris Malkmus 1995
+Coronella	austriaca fitzingeri Bonaparte 1840
+Coronella	fitzingeri Bonaparte 1840
+Coronella	austriaca austriaca
+Coronella	austriaca
+Coronella	austriaca Laurenti 1768
+Coronella	brachyura Guenther 1866
+Coronella	girondica girondica
+Coronella	girondica
+Coronella	girondica amaliae Boettger 1881
+Coronella	amaliae Boettger 1881
+Coronella	girondica Daudin 1803
+Coronella	miocaenica
+Cyclophiops	doriae Boulenger 1888
+Cyclophiops	major Guenther 1858
+Cyclophiops	multicinctus Roux 1907
+Cyclophiops	semicarinatus Hallowell 1861
+Dendrophidion	bivittatus Dumeril Bibron & Dumeril 1854
+Dendrophidion	boshelli Dunn 1944
+Dendrophidion	brunneus Guenther 1858
+Dendrophidion	dendrophis Schlegel 1837
+Dendrophidion	nuchale Peters 1863
+Dendrophidion	paucicarinatus Cope 1894
+Dendrophidion	percarinatus Cope 1893
+Dendrophidion	vinitor Smith 1941
+Diadophis	elinorae
+Diadophis	punctatus amabilis Baird & Girard 1853
+Diadophis	amabilis Baird & Girard 1853
+Diadophis	punctatus Linnaeus 1766
+Diadophis	punctatus acricus Paulson 1966
+Diadophis	acricus Paulson 1966
+Diadophis	punctatus pulchellus Baird & Girard 1853
+Diadophis	pulchellus Baird & Girard 1853
+Diadophis	punctatus similis Blanchard 1923
+Diadophis	similis Blanchard 1923
+Diadophis	punctatus arnyi
+Diadophis	arnyi
+Diadophis	punctatus occidentalis Blanchard 1923
+Diadophis	occidentalis Blanchard 1923
+Diadophis	punctatus edwardsii
+Diadophis	edwardsii
+Diadophis	punctatus anthonyi Van Denburgh & Slevin 1942
+Diadophis	anthonyi Van Denburgh & Slevin 1942
+Diadophis	punctatus dugesii Villada 1875
+Diadophis	dugesii Villada 1875
+Diadophis	punctatus modestus Bobourt 1866
+Diadophis	modestus Bobourt 1866
+Diadophis	punctatus regalis Baird & Girard 1853
+Diadophis	regalis Baird & Girard 1853
+Diadophis	punctatus stictogenys Cope 1860
+Diadophis	stictogenys Cope 1860
+Diadophis	punctatus punctatus
+Diadophis	punctatus
+Diadophis	punctatus vandenburghii Blanchard 1923
+Diadophis	vandenburghii Blanchard 1923
+Diadophis	punctatus vandenburgii Blanchard 1923
+Diadophis	vandenburgii Blanchard 1923
+Diadophis	rubescens Cope 1885
+Diaphorolepis	laevis Werner 1923
+Diaphorolepis	wagneri Jan 1863
+Ditypophis	vivax Guenther 1881
+Dromicodryas	bernieri Dumeril & Bibron 1854
+Dromicodryas	quadrilineatus Dumeril & Bibron 1854
+Dryinoides	oxyrhachis
+Drymobius	chloroticus Cope 1886
+Drymobius	margaritifera Schlegel 1837
+Drymobius	margaritiferus occidentalis Bocourt 1890
+Drymobius	occidentalis Bocourt 1890
+Drymobius	margaritiferus margaritiferus
+Drymobius	margaritiferus
+Drymobius	margaritiferus Schlegel 1837
+Drymobius	margaritiferus fistulosus Smith 1942
+Drymobius	fistulosus Smith 1942
+Drymobius	melanotropis Cope 1876
+Drymobius	rhombifer Guenther 1860
+Drymoluber	apurimacensis Lehr Carrillo & Hocking 2004
+Drymoluber	brazili Gomes 1918
+Drymoluber	dichrous Peters 1863
+Elachistodon	westermanni Reinhardt 1863
+Elaphe	algorensis
+Elaphe	bella bella Stanley 1917
+Elaphe	bella Stanley 1917
+Elaphe	bella chapaensis Bourret 1934
+Elaphe	chapaensis Bourret 1934
+Elaphe	bimaculata Schmidt 1925
+Elaphe	carinata deqenensis Yang & SU 1984
+Elaphe	deqenensis Yang & SU 1984
+Elaphe	carinata yonaguniensis
+Elaphe	yonaguniensis
+Elaphe	carinata carinata Guenther 1864
+Elaphe	carinata Guenther 1864
+Elaphe	climacophora Boie 1826
+Elaphe	conspicillata Boie 1826
+Elaphe	conspicillatus Boie 1826
+Elaphe	davidi Sauvage 1884
+Elaphe	dione Pallas 1773
+Elaphe	erythrura manillensis Jan 1863
+Elaphe	manillensis Jan 1863
+Elaphe	erythrura Dumeril Bibron & Dumeril 1854
+Elaphe	erythrura psephenoura Leviton 1979
+Elaphe	psephenoura Leviton 1979
+Elaphe	erythrura celebensis Jan 1863
+Elaphe	celebensis Jan 1863
+Elaphe	erythrura erythrura
+Elaphe	erythrura
+Elaphe	erythrura philippina
+Elaphe	philippina
+Elaphe	flavolineata Schlegel 1837
+Elaphe	helena monticollaris Schulz 1992
+Elaphe	monticollaris Schulz 1992
+Elaphe	helena helena
+Elaphe	helena
+Elaphe	helena Daudin 1803
+Elaphe	hohenackeri hohenackeri
+Elaphe	hohenackeri
+Elaphe	hohenackeri taurica Werner 1898
+Elaphe	taurica Werner 1898
+Elaphe	hohenackeri Strauch 1873
+Elaphe	kohfidischi
+Elaphe	leonardi chapaensis Bourret 1934
+Elaphe	leonardi leonardi Wall 1921
+Elaphe	leonardi Wall 1921
+Elaphe	lineata Camerano 1891
+Elaphe	longissima Laurenti 1768
+Elaphe	longissimus Laurenti 1768
+Elaphe	maculata MA & Zong 1984
+Elaphe	mandarina Cantor 1842
+Elaphe	nebraskensis
+Elaphe	obseletus Say 1823
+Elaphe	paralongissima
+Elaphe	perlacea Stejneger 1929
+Elaphe	persica Werner 1913
+Elaphe	porphyracea nigrofasciata Cantor 1839
+Elaphe	nigrofasciata Cantor 1839
+Elaphe	porphyracea porphyracea
+Elaphe	porphyracea
+Elaphe	porphyracea vaillanti Sauvage 1876
+Elaphe	vaillanti Sauvage 1876
+Elaphe	porphyracea Cantor 1839
+Elaphe	porphyracea hainana Mell 1931
+Elaphe	hainana Mell 1931
+Elaphe	porphyracea kawakamii Oshima 1911
+Elaphe	kawakamii Oshima 1911
+Elaphe	porphyracea laticincta Schulz & Helfenberger 1998
+Elaphe	laticincta Schulz & Helfenberger 1998
+Elaphe	porphyracea coxi Schulz & Helfenberger 1998
+Elaphe	coxi Schulz & Helfenberger 1998
+Elaphe	porphyracea pulchra Schmidt 1925
+Elaphe	pulchra Schmidt 1925
+Elaphe	quadrivirgata Boie 1826
+Elaphe	quadrolineata scyrensis Cattaneo 1999
+Elaphe	scyrensis Cattaneo 1999
+Elaphe	quadrolineata quadrolineata
+Elaphe	quadrolineata
+Elaphe	quatuorlineata muenteri Bedriaga 1882
+Elaphe	muenteri Bedriaga 1882
+Elaphe	quatuorlineata parensis Cattaneo 1999
+Elaphe	parensis Cattaneo 1999
+Elaphe	quatuorlineata Lacepede 1789
+Elaphe	quatuorlineata quatuorlineata
+Elaphe	quatuorlineata
+Elaphe	radiata Boie 1827
+Elaphe	rufodorsata Cantor 1842
+Elaphe	sauromates Pallas 1811
+Elaphe	schrenckii anomala Boulenger 1916
+Elaphe	anomala Boulenger 1916
+Elaphe	schrenckii Strauch 1873
+Elaphe	schrenckii schrenckii
+Elaphe	schrenckii
+Elaphe	situla Linnaeus 1758
+Elaphe	slowinskii Burbrink 2002
+Elaphe	subradiata enganensis Vinciguerra 1892
+Elaphe	enganensis Vinciguerra 1892
+Elaphe	subradiata subradiata
+Elaphe	subradiata
+Elaphe	subradiata Schlegel 1837
+Elaphe	szyndlari
+Enhydris	albomaculata Dumeril Bibron & Dumeril 1854
+Enhydris	alternans Reuss 1834
+Enhydris	bennetti Gray 1842
+Enhydris	bennettii Gray 1842
+Enhydris	bocourti Jan 1865
+Enhydris	chanardi Murphy & Voris 2005
+Enhydris	chinensis Gray 1842
+Enhydris	doriae Peters 1871
+Enhydris	dussumieri Dumeril Bibron & Dumeril 1854
+Enhydris	enhydris Schneider 1799
+Enhydris	gyii Murphy Voris & Auliya 2005
+Enhydris	indica Gray 1842
+Enhydris	innominata Morice 1875
+Enhydris	jagorii Peters 1863
+Enhydris	longicauda Bourret 1934
+Enhydris	maculosa Blanford 1881
+Enhydris	matannensis Boulenger 1897
+Enhydris	pahangensis Tweedie 1946
+Enhydris	pakistanica Mertens 1959
+Enhydris	plumbea Boie 1827
+Enhydris	polylepis Fischer 1886
+Enhydris	punctata Gray 1849
+Enhydris	sieboldi Schlegel 1837
+Enhydris	smithi Boulenger 1914
+Enhydris	subtaeniata Bourret 1934
+Enhydris	vorisi Murphy 2007
+Etheridgeum	pulchrum Werner 1924
+Fimbrios	klossi Smith 1920
+Geagras	redimitus Cope 1876
+Geophis	anocularis Dunn 1920
+Geophis	bellus Myers 2003
+Geophis	betaniensis Restrepo & Wright 1987
+Geophis	bicolor Guenther 1868
+Geophis	blanchardi Taylor & Smith 1939
+Geophis	brachycephalus Cope 1871
+Geophis	cancellatus Smith 1941
+Geophis	carinosus Stuart 1941
+Geophis	chalybeus Wagler 1830
+Geophis	championi Boulenger 1894
+Geophis	damiani Wilson Mccranie & Williams 1998
+Geophis	downsi Savage 1981
+Geophis	dubius Peters 1861
+Geophis	duellmani Smith & Holland 1969
+Geophis	dugesii aquilonaris Legler 1959
+Geophis	aquilonaris Legler 1959
+Geophis	dugesii dugesii
+Geophis	dugesii
+Geophis	dugesii Bocourt 1883
+Geophis	dunni Schmidt 1932
+Geophis	fulvoguttatus Mertens 1952
+Geophis	godmani Boulenger 1894
+Geophis	hoffmanni Peters 1859
+Geophis	immaculatus Downs 1967
+Geophis	incomptus Duellman 1959
+Geophis	isthmicus Boulenger 1894
+Geophis	juarezi Nieto-Montes
+Geophis	juliai Perez-Higareda Smith & Lopez-Luna 2001
+Geophis	laticinctus Smith & Williams 1963
+Geophis	laticollaris Smith Lynch & Altig 1965
+Geophis	latifrontalis semiannulatus Smith 1941
+Geophis	semiannulatus Smith 1941
+Geophis	latifrontalis Garman 1883
+Geophis	latifrontalis latifrontalis
+Geophis	latifrontalis
+Geophis	maculiferus Taylor 1941
+Geophis	mutitorques Cope 1885
+Geophis	nasalis Cope 1868
+Geophis	nephodrymus Townsend & Wilson 2006
+Geophis	nigroalbus Boulenger 1908
+Geophis	nigrocinctus Duellman 1959
+Geophis	omiltemanus Guenther 1893
+Geophis	petersii Boulenger 1894
+Geophis	pyburni Campbell & Murphy 1977
+Geophis	rhodogaster Cope 1868
+Geophis	rostralis Jan 1865
+Geophis	russatus Smith & Williams 1966
+Geophis	ruthveni Werner 1925
+Geophis	sallaei Boulenger 1894
+Geophis	semidoliatus Dumeril Bibron & Dumeril 1854
+Geophis	sieboldi Jan 1862
+Geophis	talamancae Lips & Savage 1994
+Geophis	tarascae Hartweg 1959
+Geophis	zeledoni Taylor 1954
+Haplocercus	ceylonensis Guenther 1858
+Hemorrhois	algirus Jan 1863
+Hemorrhois	hippocrepis Linnaeus 1758
+Hemorrhois	nummifer Reuss 1834
+Hemorrhois	ravergieri Menetries 1832
+Heterodon	nasicus kennerlyi
+Heterodon	kennerlyi
+Heterodon	nasicus Baird & Girard 1852
+Heterodon	nasicus gloydi Edgren 1952
+Heterodon	gloydi Edgren 1952
+Heterodon	nasicus nasicus
+Heterodon	nasicus
+Heterodon	platirhinos Latreille 1801
+Heterodon	simus Linnaeus 1766
+Hierophis	gemonensis Laurenti 1768
+Hierophis	spinalis Peters 1866
+Hierophis	viridiflavus Lacepede 1789
+Hologerrhum	dermali Brown Leviton Ferner & Sison 2001
+Hologerrhum	philippinum Guenther 1858
+Hydrops	caesurus Scrocchi Lucia-Ferreira Giraudo Avila & Motte 2005
+Hydrops	martii Wagler 1824
+Hydrops	martii callostictus
+Hydrops	callostictus
+Hydrops	martii martii
+Hydrops	martii
+Hydrops	triangularis bassleri Roze 1957
+Hydrops	bassleri Roze 1957
+Hydrops	triangularis neglectus Roze 1957
+Hydrops	neglectus Roze 1957
+Hydrops	triangularis fasciatus Roze 1957
+Hydrops	fasciatus Roze 1957
+Hydrops	triangularis triangularis
+Hydrops	triangularis
+Hydrops	triangularis bolivianus Roze 1957
+Hydrops	bolivianus Roze 1957
+Hydrops	triangularis venezuelensis Roze 1957
+Hydrops	venezuelensis Roze 1957
+Hydrops	triangularis Wagler 1824
+Hypsirhynchus	ater Gosse 1851
+Hypsirhynchus	ferox paracrousis Schwartz 1971
+Hypsirhynchus	paracrousis Schwartz 1971
+Hypsirhynchus	ferox scalaris Cope 1863
+Hypsirhynchus	scalaris Cope 1863
+Hypsirhynchus	ferox ferox
+Hypsirhynchus	ferox
+Hypsirhynchus	ferox exedrus Schwartz 1971
+Hypsirhynchus	exedrus Schwartz 1971
+Hypsirhynchus	ferox Guenther 1858
+Ithycyphus	blanci Domergue 1988
+Ithycyphus	goudoti Schlegel 1837
+Ithycyphus	miniatus Schlegel 1837
+Ithycyphus	oursi Domergue 1986
+Ithycyphus	perineti Domergue 1986
+Lamprophis	abyssinicus Mocquard 1906
+Lamprophis	aurora Linnaeus 1758
+Lamprophis	erlangeri Sternfeld 1908
+Lamprophis	fiskii Boulenger 1887
+Lamprophis	fuliginosus fuliginosus Boie 1827
+Lamprophis	fuliginosus Boie 1827
+Lamprophis	fuliginosus mentalis Guenther 1888
+Lamprophis	mentalis Guenther 1888
+Lamprophis	fuscus Boulenger 1893
+Lamprophis	geometricus Schlegel 1837
+Lamprophis	guttatus Smith 1843
+Lamprophis	inornatus Dumeril & Bibron 1854
+Lamprophis	lineatus Dumeril Bibron & Dumeril 1854
+Lamprophis	maculatus Parker 1932
+Lamprophis	olivaceus Dumeril 1856
+Lamprophis	swazicus Schaefer 1970
+Lamprophis	virgatus Hallowell 1854
+Langaha	alluaudi Mocquard 1901
+Langaha	madagascariensis Bonaterre 1790
+Langaha	pseudoalluaudi Domergue 1988
+Leptodeira	annulata cussiliris Duellman 1958
+Leptodeira	cussiliris Duellman 1958
+Leptodeira	annulata ashmeadii Hallowell 1845
+Leptodeira	ashmeadii Hallowell 1845
+Leptodeira	annulata annulata Linnaeus 1758
+Leptodeira	annulata Linnaeus 1758
+Leptodeira	annulata maculata Hallowell
+Leptodeira	maculata Hallowell
+Leptodeira	annulata pulchriceps Duellman 1958
+Leptodeira	pulchriceps Duellman 1958
+Leptodeira	annulata rhombifera Guenther 1872
+Leptodeira	rhombifera Guenther 1872
+Leptodeira	bakeri Ruthven 1936
+Leptodeira	frenata malleisi Dunn & Stuart 1935
+Leptodeira	malleisi Dunn & Stuart 1935
+Leptodeira	frenata frenata
+Leptodeira	frenata
+Leptodeira	frenata Cope 1886
+Leptodeira	frenata yucatanensis Cope 1887
+Leptodeira	yucatanensis Cope 1887
+Leptodeira	maculata Hallowell 1861
+Leptodeira	nigrofasciata Guenther 1868
+Leptodeira	punctata Peters 1866
+Leptodeira	rubricata Cope 1893
+Leptodeira	septentrionalis ornata Bocourt 1884
+Leptodeira	ornata Bocourt 1884
+Leptodeira	septentrionalis septentrionalis
+Leptodeira	septentrionalis
+Leptodeira	septentrionalis Kennicott 1859
+Leptodeira	septentrionalis polysticta
+Leptodeira	polysticta
+Leptodeira	splendida bressoni Taylor 1938
+Leptodeira	bressoni Taylor 1938
+Leptodeira	splendida ephippiata Smith & Tanner 1944
+Leptodeira	ephippiata Smith & Tanner 1944
+Leptodeira	splendida splendida
+Leptodeira	splendida
+Leptodeira	splendida Guenther 1895
+Leptodrymus	pulcherrimus Cope 1874
+Leptophis	ahaetulla ortonii Cope 1876
+Leptophis	ortonii Cope 1876
+Leptophis	ahaetulla bocourti Boulenger 1898
+Leptophis	bocourti Boulenger 1898
+Leptophis	ahaetulla copei Oliver 1942
+Leptophis	copei Oliver 1942
+Leptophis	ahaetulla marginatus Cope 1862
+Leptophis	marginatus Cope 1862
+Leptophis	ahaetulla nigromarginatus Guenther 1866
+Leptophis	nigromarginatus Guenther 1866
+Leptophis	ahaetulla bolivianus Oliver 1942
+Leptophis	bolivianus Oliver 1942
+Leptophis	ahaetulla chocoensis Oliver 1942
+Leptophis	chocoensis Oliver 1942
+Leptophis	ahaetulla coeruleodorsus Oliver 1942
+Leptophis	coeruleodorsus Oliver 1942
+Leptophis	ahaetulla liocercus Wied 1824
+Leptophis	liocercus Wied 1824
+Leptophis	ahaetulla praestans Cope 1868
+Leptophis	praestans Cope 1868
+Leptophis	ahaetulla occidentalis Guenther 1859
+Leptophis	occidentalis Guenther 1859
+Leptophis	ahaetulla ahaetulla
+Leptophis	ahaetulla
+Leptophis	ahaetulla Linnaeus 1758
+Leptophis	cupreus Cope 1868
+Leptophis	depressirostris Cope 1861
+Leptophis	diplotropis Guenther 1872
+Leptophis	diplotropis diplotropis
+Leptophis	diplotropis
+Leptophis	diplotropis forreri Smith 1943
+Leptophis	forreri Smith 1943
+Leptophis	mexicanus Dumeril Bibron & Dumeril 1854
+Leptophis	mexicanus mexicanus Dumeril Bibron & Dumeril 1854
+Leptophis	mexicanus mexicanus
+Leptophis	mexicanus
+Leptophis	modestus Guenther 1872
+Leptophis	nebulosus Oliver 1942
+Leptophis	riveti Despax 1910
+Leptophis	santamartensis Bernal-Carlo & Roze 1994
+Leptophis	stimsoni Harding 1995
+Liophis	almadensis Wagler 1824
+Liophis	amarali Wettstein 1930
+Liophis	andinus Dixon 1983
+Liophis	angustilineatus Schmidt & Walker 1943
+Liophis	anomalus Guenther 1858
+Liophis	atraventer Dixon & Thomas 1985
+Liophis	boursieri Jan 1867
+Liophis	breviceps breviceps Cope 1861
+Liophis	breviceps Cope 1861
+Liophis	breviceps canaima Roze 1955
+Liophis	canaima Roze 1955
+Liophis	carajasensis DA Cunha 1985
+Liophis	ceii Dixon 1991
+Liophis	cobellus Linnaeus 1758
+Liophis	cursor Lacepede 1789
+Liophis	dilepis Cope 1862
+Liophis	dorsocorallinus Esqueda Natera LA Marca & Ilija-Fistar 2000
+Liophis	elegantissimus Koslowsky 1896
+Liophis	epinephelus albiventris Jan 1863
+Liophis	albiventris Jan 1863
+Liophis	epinephelus fraseri Boulenger 1894
+Liophis	fraseri Boulenger 1894
+Liophis	epinephelus juvenalis Dunn 1937
+Liophis	juvenalis Dunn 1937
+Liophis	epinephelus pseudocobella Peracca 1914
+Liophis	pseudocobella Peracca 1914
+Liophis	epinephelus epinephelus
+Liophis	epinephelus
+Liophis	epinephelus opisthotaenius Boulenger 1908
+Liophis	opisthotaenius Boulenger 1908
+Liophis	epinephelus bimaculatus Cope 1899
+Liophis	bimaculatus Cope 1899
+Liophis	epinephelus kogiorum Bernal-Carlo 1994
+Liophis	kogiorum Bernal-Carlo 1994
+Liophis	epinephelus Cope 1862
+Liophis	festae Peracca 1897
+Liophis	flavifrenatus Cope 1862
+Liophis	frenatus Werner 1909
+Liophis	guentheri Peracca 1897
+Liophis	jaegeri Guenther 1858
+Liophis	jaegeri coralliventris Boulenger 1894
+Liophis	coralliventris Boulenger 1894
+Liophis	jaegeri jaegeri
+Liophis	jaegeri
+Liophis	janaleeae Dixon 2000
+Liophis	juliae copeae Parker 1936
+Liophis	copeae Parker 1936
+Liophis	juliae Cope 1879
+Liophis	juliae juliae
+Liophis	juliae
+Liophis	juliae mariae Barbour 1914
+Liophis	mariae Barbour 1914
+Liophis	leucogaster Jan 1863
+Liophis	lineatus lineatus
+Liophis	lineatus
+Liophis	lineatus meridionalis Schenkel 1901
+Liophis	meridionalis Schenkel 1901
+Liophis	lineatus Linnaeus 1758
+Liophis	longiventris Amaral 1925
+Liophis	maryellenae Dixon 1985
+Liophis	melanauchen Jan 1863
+Liophis	melanotus lamari Dixon & Michaud 1992
+Liophis	lamari Dixon & Michaud 1992
+Liophis	melanotus Shaw 1802
+Liophis	melanotus melanotus
+Liophis	melanotus
+Liophis	melanotus nesos Dixon & Michaud 1992
+Liophis	nesos Dixon & Michaud 1992
+Liophis	meridionalis Schenkel 1902
+Liophis	miliaris amazonicus Dunn 1922
+Liophis	amazonicus Dunn 1922
+Liophis	miliaris chrysostomus Cope 1868
+Liophis	chrysostomus Cope 1868
+Liophis	miliaris merremi Wied 1821
+Liophis	merremi Wied 1821
+Liophis	miliaris mossoroensis Hoge & Lima-Verde 1973
+Liophis	mossoroensis Hoge & Lima-Verde 1973
+Liophis	miliaris miliaris
+Liophis	miliaris
+Liophis	miliaris kogiorum Bernal-Carlo 1994
+Liophis	miliaris orinus Griffin 1916
+Liophis	orinus Griffin 1916
+Liophis	miliaris Linnaeus 1758
+Liophis	miliaris semiaureus Cope 1862
+Liophis	semiaureus Cope 1862
+Liophis	oligolepis Boulenger 1905
+Liophis	ornatus Garman 1887
+Liophis	paucidens Hoge 1953
+Liophis	perfuscus Cope 1862
+Liophis	poecilogyrus amazonicus Amaral 1944
+Liophis	amazonicus Amaral 1944
+Liophis	poecilogyrus montanus Amaral 1944
+Liophis	montanus Amaral 1944
+Liophis	poecilogyrus caesius Cope 1862
+Liophis	caesius Cope 1862
+Liophis	poecilogyrus franciscanus Amaral 1944
+Liophis	franciscanus Amaral 1944
+Liophis	poecilogyrus schotti Schlegel 1837
+Liophis	schotti Schlegel 1837
+Liophis	poecilogyrus poecilogyrus
+Liophis	poecilogyrus
+Liophis	poecilogyrus xerophilus Amaral 1944
+Liophis	xerophilus Amaral 1944
+Liophis	poecilogyrus Wied-Neuwied 1825
+Liophis	poecilogyrus subfasciatus Cope 1862
+Liophis	subfasciatus Cope 1862
+Liophis	poecilogyrus sublineatus Cope 1860
+Liophis	sublineatus Cope 1860
+Liophis	poecilogyrus pictostriatus Amaral 1944
+Liophis	pictostriatus Amaral 1944
+Liophis	poecilogyrus pinetincola Amaral 1944
+Liophis	pinetincola Amaral 1944
+Liophis	poecilogyrus reticulatus Parker 1931
+Liophis	reticulatus Parker 1931
+Liophis	problematicus Myers 1986
+Liophis	reginae macrosoma Amaral 1936
+Liophis	macrosoma Amaral 1936
+Liophis	reginae zweifeli Roze 1959
+Liophis	zweifeli Roze 1959
+Liophis	reginae semilineatus Wagler 1824
+Liophis	semilineatus Wagler 1824
+Liophis	reginae reginae
+Liophis	reginae
+Liophis	reginae Linnaeus 1758
+Liophis	sagittifer sagittifer Jan 1863
+Liophis	sagittifer Jan 1863
+Liophis	sagittifer modestus Koslowsky 1896
+Liophis	modestus Koslowsky 1896
+Liophis	steinbachi Boulenger 1905
+Liophis	subocularis Boulenger 1902
+Liophis	tachymenoides Schmidt & Walker 1943
+Liophis	taeniurus Tschudi 1845
+Liophis	torrenicolus Donnelly & Myers 1991
+Liophis	triscalis Linnaeus 1758
+Liophis	tristriatus Rendahl & Vestergren 1941
+Liophis	typhlus elaeoides
+Liophis	elaeoides
+Liophis	typhlus forsteri Wagler 1824
+Liophis	forsteri Wagler 1824
+Liophis	typhlus typhlus Linnaeus 1758
+Liophis	typhlus Linnaeus 1758
+Liophis	vanzolinii Dixon 1985
+Liophis	viridis Guenther 1862
+Liophis	vitti Dixon 2000
+Liophis	williamsi Roze 1958
+Lycodon	alcalai Ota & Ross 1994
+Lycodon	aulicus Linnaeus 1758
+Lycodon	bibonius Ota & Ross 1994
+Lycodon	butleri Boulenger 1900
+Lycodon	capucinus Boie 1827
+Lycodon	cardamomensis Daltry & Wuester 2002
+Lycodon	chrysoprateros Ota & Ross 1994
+Lycodon	dumerili Boulenger 1893
+Lycodon	effraenis Cantor 1847
+Lycodon	fasciatus Anderson 1879
+Lycodon	fausti Gaulke 2002
+Lycodon	ferroni Lanza 1999
+Lycodon	flavicollis Mukherjee & Bhupathy 2007
+Lycodon	flavomaculatus Wall 1907
+Lycodon	jara Shaw 1802
+Lycodon	kundui Smith 1943
+Lycodon	laoensis Guenther 1864
+Lycodon	mackinnoni Wall 1906
+Lycodon	muelleri Dumeril Bibron & Dumeril 1854
+Lycodon	osmanhilli Taylor 1950
+Lycodon	paucifasciatus Rendahl & Smith 1943
+Lycodon	ruhstrati ruhstrati
+Lycodon	ruhstrati
+Lycodon	ruhstrati multifasciatus Maki 1931
+Lycodon	multifasciatus Maki 1931
+Lycodon	ruhstrati Fischer 1886
+Lycodon	solivagus Ota & Ross 1994
+Lycodon	stormi Boettger 1892
+Lycodon	striatus sinhaleyus Deraniyagala 1955
+Lycodon	sinhaleyus Deraniyagala 1955
+Lycodon	striatus Shaw 1802
+Lycodon	striatus striatus Shaw 1802
+Lycodon	striatus bicolor Nikolsky 1903
+Lycodon	bicolor Nikolsky 1903
+Lycodon	subcinctus maculatus Cope 1895
+Lycodon	maculatus Cope 1895
+Lycodon	subcinctus subcinctus Boie 1827
+Lycodon	subcinctus Boie 1827
+Lycodon	subcinctus sealei Leviton 1955
+Lycodon	sealei Leviton 1955
+Lycodon	subcinctus Reinwardt 1827
+Lycodon	tesselatus Jan 1863
+Lycodon	tessellatus Jan 1863
+Lycodon	tiwarii Biswas & Sanyal 1965
+Lycodon	travancoricus Beddome 1870
+Lycodon	zawi Slowinski Pawar Win Thin Tun Gyi OO & Tun 2001
+Lycognathophis	seychellensis Schlegel 1837
+Malpolon	moilensis Reuss 1834
+Malpolon	monspessulanus monspessulanus
+Malpolon	monspessulanus
+Malpolon	monspessulanus insignitus
+Malpolon	insignitus
+Malpolon	monspessulanus Hermann 1804
+Malpolon	monspessulanus saharatlanticus Geniez Cluchier & DE Haan 2006
+Malpolon	saharatlanticus Geniez Cluchier & DE Haan 2006
+Micropisthodon	ochraceus Mocquard 1894
+Myersophis	alpestris Taylor 1963
+Myron	richardsonii Gray 1849
+Natriciteres	fuliginoides Guenther 1858
+Natriciteres	olivacea Peters 1854
+Natriciteres	variegata variegata Peters 1861
+Natriciteres	variegata Peters 1861
+Natriciteres	variegata pembana Loveridge 1935
+Natriciteres	pembana Loveridge 1935
+Natriciteres	variegata bipostocularis Broadley
+Natriciteres	bipostocularis Broadley
+Natriciteres	variegata sylvatica Groadley 1966
+Natriciteres	sylvatica Groadley 1966
+Nerodia	clarkii clarkii
+Nerodia	clarkii
+Nerodia	clarkii compressicauda
+Nerodia	compressicauda
+Nerodia	clarkii taeniata
+Nerodia	taeniata
+Nerodia	clarkii Baird & Girard 1853
+Nerodia	cyclopion Dumeril Bibron & Dumeril 1854
+Nerodia	erythrogaster neglecta Conant 1949
+Nerodia	neglecta Conant 1949
+Nerodia	erythrogaster Forster 1771
+Nerodia	erythrogaster flavigaster Conant 1949
+Nerodia	flavigaster Conant 1949
+Nerodia	erythrogaster bogerti Conant 1953
+Nerodia	bogerti Conant 1953
+Nerodia	erythrogaster alta Conant 1963
+Nerodia	alta Conant 1963
+Nerodia	erythrogaster erythrogaster
+Nerodia	erythrogaster
+Nerodia	erythrogaster transversa Hallowell 1852
+Nerodia	transversa Hallowell 1852
+Nerodia	fasciata Linnaeus 1766
+Nerodia	fasciata compressicauda Kennicott
+Nerodia	compressicauda Kennicott
+Nerodia	fasciata fasciata
+Nerodia	fasciata
+Nerodia	fasciata confluens Blanchard 1923
+Nerodia	confluens Blanchard 1923
+Nerodia	fasciata pictiventris
+Nerodia	pictiventris
+Nerodia	fasciata taeniata Cope
+Nerodia	taeniata Cope
+Nerodia	floridana Goff 1936
+Nerodia	harteri Trapido 1941
+Nerodia	paucimaculata Tinkle & Conant 1961
+Nerodia	rhombifer blanchardi Clay 1938
+Nerodia	blanchardi Clay 1938
+Nerodia	rhombifer rhombifera Hallowell 1852
+Nerodia	rhombifera Hallowell 1852
+Nerodia	rhombifer rhombifer
+Nerodia	rhombifer
+Nerodia	rhombifer werleri Conant 1953
+Nerodia	werleri Conant 1953
+Nerodia	rhombifer Hallowell 1852
+Nerodia	sipedon pleuralis Cope 1892
+Nerodia	pleuralis Cope 1892
+Nerodia	sipedon sipedon
+Nerodia	sipedon
+Nerodia	sipedon insularum Conant & Clay 1937
+Nerodia	insularum Conant & Clay 1937
+Nerodia	sipedon williamengelsi Conant & Lazell 1973
+Nerodia	williamengelsi Conant & Lazell 1973
+Nerodia	sipedon Linnaeus 1758
+Nerodia	taxispilota Holbrook 1838
+Nothopsis	rugosus Cope 1871
+Omoadiphas	aurula Koehler Mccranie & Wilson 2001
+Omoadiphas	texiguatensis Mccranie & Castaneda 2004
+Oxyrhopus	clathratus Dumeril Bibron & Dumeril 1854
+Oxyrhopus	doliatus Dumeril Bibron & Dumeril 1854
+Oxyrhopus	erdisii Barbour 1913
+Oxyrhopus	fitzingeri Tschudi 1845
+Oxyrhopus	fitzingeri fitzingeri Tschudi 1845
+Oxyrhopus	fitzingeri frizzelli
+Oxyrhopus	frizzelli
+Oxyrhopus	formosus Wied 1820
+Oxyrhopus	guibei Hoge & Romano 1977
+Oxyrhopus	leucomelas Werner 1916
+Oxyrhopus	marcapatae Boulenger 1902
+Oxyrhopus	melanogenys Tschudi 1845
+Oxyrhopus	melanogenys orientalis Cunha & Nascimento 1983
+Oxyrhopus	orientalis Cunha & Nascimento 1983
+Oxyrhopus	melanogenys melanogenys Tschudi 1845
+Oxyrhopus	occipitalis Wied-Neuwied 1824
+Oxyrhopus	petola petola Linnaeus 1758
+Oxyrhopus	petola Linnaeus 1758
+Oxyrhopus	petola digitalis Reuss 1834
+Oxyrhopus	digitalis Reuss 1834
+Oxyrhopus	petola sebae Dumeril Bibron & Dumeril 1854
+Oxyrhopus	sebae Dumeril Bibron & Dumeril 1854
+Oxyrhopus	rhombifer rhombifer
+Oxyrhopus	rhombifer
+Oxyrhopus	rhombifer bachmanni Weyenberg 1876
+Oxyrhopus	bachmanni Weyenberg 1876
+Oxyrhopus	rhombifer inaequifasciatus Werner 1909
+Oxyrhopus	inaequifasciatus Werner 1909
+Oxyrhopus	rhombifer Dumeril Bibron & Dumeril 1854
+Oxyrhopus	trigeminus guibei
+Oxyrhopus	guibei
+Oxyrhopus	trigeminus trigeminus Dumeril Bibron & Dumeril 1854
+Oxyrhopus	trigeminus Dumeril Bibron & Dumeril 1854
+Pachyophis	woodwardi
+Pantherophis	bairdi Yarrow 1880
+Pantherophis	emoryi Baird & Girard 1853
+Pantherophis	flavirufus matudai Smith 1941
+Pantherophis	matudai Smith 1941
+Pantherophis	flavirufus Cope 1867
+Pantherophis	flavirufus pardalinus Peters 1868
+Pantherophis	pardalinus Peters 1868
+Pantherophis	flavirufus polystichus Smith & Williams 1966
+Pantherophis	polystichus Smith & Williams 1966
+Pantherophis	flavirufus flavirufus
+Pantherophis	flavirufus
+Pantherophis	gloydi Conant 1940
+Pantherophis	guttatus Linnaeus 1766
+Pantherophis	obsoletus Say 1823
+Pantherophis	vulpinus Baird & Girard 1853
+Pararhabdophis	chapaensis Bourret 1934
+Phalotris	bilineatus Dumeril Bibron & Dumeril 1854
+Phalotris	concolor Ferrarezzi 1993
+Phalotris	cuyanus Cei 1984
+Phalotris	labiomaculatus DE Lema 2002
+Phalotris	lativittatus Ferrarezzi 1993
+Phalotris	matogrossensis Lema D
+Phalotris	mertensi Hoge 1955
+Phalotris	multipunctatus Puorto & Ferrarezzi 1993
+Phalotris	nasutus Gomes 1915
+Phalotris	nigrilatus Ferrarezzi 1993
+Phalotris	punctatus DE Lema 1979
+Phalotris	tricolor Dumeril Bibron & Dumeril 1854
+Phyllorhynchus	browni klauberi Shannon & Humphrey 1959
+Phyllorhynchus	klauberi Shannon & Humphrey 1959
+Phyllorhynchus	browni Stejneger 1890
+Phyllorhynchus	browni fortitus Bogert & Oliver 1956
+Phyllorhynchus	fortitus Bogert & Oliver 1956
+Phyllorhynchus	browni browni
+Phyllorhynchus	browni
+Phyllorhynchus	browni lucidus
+Phyllorhynchus	lucidus
+Phyllorhynchus	decurtatus arenicolus Savage & Cliff 1954
+Phyllorhynchus	arenicolus Savage & Cliff 1954
+Phyllorhynchus	decurtatus Cope 1868
+Phyllorhynchus	decurtatus nubilis Klauber 1940
+Phyllorhynchus	nubilis Klauber 1940
+Phyllorhynchus	decurtatus perkinsi Klauber 1935
+Phyllorhynchus	perkinsi Klauber 1935
+Phyllorhynchus	decurtatus norrisi Smith & Langebartel 1951
+Phyllorhynchus	norrisi Smith & Langebartel 1951
+Phyllorhynchus	decurtatus decurtatus
+Phyllorhynchus	decurtatus
+Pseudablabes	agassizii Jan 1863
+Pseudaspis	cana Linnaeus 1758
+Pseudoficimia	frontalis Cope 1864
+Pseudoleptodeira	latifasciata Guenther 1894
+Pseudoleptodeira	uribei Bautista & Smith 1992
+Psomophis	genimaculatus Boettger 1885
+Psomophis	joberti Sauvage 1884
+Psomophis	obtusus Cope 1864
+Rhabdops	bicolor Blyth 1854
+Rhabdops	olivaceus Beddome 1863
+Rhadinophanes	monticola Myers & Campbell 1981
+Rhinechis	scalaris Schinz 1822
+Saphenophis	antioquiensis Dunn 1943
+Saphenophis	atahuallpae Steindachner 1901
+Saphenophis	boursieri Jan & Sordelli 1867
+Saphenophis	sneiderni Myers 1973
+Sibynomorphus	inaequifasciatus Dumeril Bibron & Dumeril 1854
+Sibynomorphus	inequifasciatus Dumeril Bibron & Dumeril 1854
+Sibynomorphus	lavillai Scrocchi Porto & Rey 1993
+Sibynomorphus	mikanii Schlegel 1837
+Sibynomorphus	neuwiedi Ihering 1911
+Sibynomorphus	oligozonatus Orces & Almendariz 1989
+Sibynomorphus	oneilli Rossman & Thomas 1979
+Sibynomorphus	petersi Orces & Almendariz 1989
+Sibynomorphus	turgidus Cope 1868
+Sibynomorphus	vagrans Dunn 1923
+Sibynomorphus	vagus Jan 1863
+Sibynomorphus	ventrimaculatus Boulenger 1885
+Sibynomorphus	williamsi Carillo DE
+Sinonatrix	aequifasciata Barbour 1908
+Sinonatrix	annularis Hallowell 1856
+Sinonatrix	percarinata percarinata
+Sinonatrix	percarinata
+Sinonatrix	percarinata suriki Maki 1931
+Sinonatrix	suriki Maki 1931
+Sinonatrix	percarinata Boulenger 1899
+Sinonatrix	yunnanensis Rao & Yang 1998
+Stenophis	arctifasciatus Dumeril & Bibron 1854
+Stenophis	betsileanus Guenther 1880
+Stenophis	carleti Domergue 1994
+Stenophis	citrinus Domergue 1995
+Stenophis	gaimardi Schlegel 1837
+Stenophis	granuliceps Boettger 1877
+Stenophis	guentheri Boulenger 1896
+Stenophis	iarakaensis Domergue 1994
+Stenophis	inopinae Domergue 1994
+Stenophis	inornatus Boulenger 1896
+Stenophis	pseudogranuliceps Domergue 1994
+Stenophis	variabilis Boulenger 1896
+Styporhynchus	picturatus Schlegel 1837
+Sympholis	lippiens Cope 1861
+Tachymenis	affinis Boulenger 1896
+Tachymenis	attenuata attenuata
+Tachymenis	attenuata
+Tachymenis	attenuata Walker 1945
+Tachymenis	attenuata boliviana Walker 1945
+Tachymenis	boliviana Walker 1945
+Tachymenis	chilensis coronellina
+Tachymenis	coronellina
+Tachymenis	chilensis chilensis
+Tachymenis	chilensis
+Tachymenis	chilensis Schlegel 1837
+Tachymenis	elongata Despax 1910
+Tachymenis	peruviana Wiegmann 1835
+Tachymenis	surinamensis Dunn 1922
+Tachymenis	tarmensis Walker 1945
+Tantalophis	discolor Guenther 1860
+Texasophis	fossilis
+Texasophis	wilsoni
+Thrasops	flavigularis Hallowell 1852
+Thrasops	jacksonii Guenther 1895
+Thrasops	occidentalis Parker 1940
+Thrasops	schmidti Loveridge 1936
+Tomodon	dorsatus Dumeril Bibron & Dumeril 1854
+Tomodon	ocellatus Dumeril Bibron & Dumeril 1854
+Tomodon	orestes Harvey & Munoz 2004
+Xenochrophis	asperrimus Boulenger 1891
+Xenochrophis	bellula Stoliczka 1871
+Xenochrophis	cerasogaster Cantor 1839
+Xenochrophis	flavipunctatus Hallowell 1860
+Xenochrophis	flavipunctatus schnurrenbergeri Kramer 1977
+Xenochrophis	schnurrenbergeri Kramer 1977
+Xenochrophis	flavipunctatus flavipunctatus
+Xenochrophis	flavipunctatus
+Xenochrophis	maculatus Edeling 1864
+Xenochrophis	melanozostus Gravenhorst 1807
+Xenochrophis	piscator Schneider 1799
+Xenochrophis	punctulatus Guenther 1858
+Xenochrophis	sanctijohannis Boulenger 1890
+Xenochrophis	trianguligerus Boie 1827
+Xenochrophis	vittatus Linnaeus 1758
+Xenodermus	javanicus Reinhardt 1836
+Xenoxybelis	argenteus Daudin 1803
+Xenoxybelis	boulengeri Procter 1923
+Zelceophis	xenos
+Adelophis	copei Duges 1879
+Adelophis	foxi Rossman & Blaney 1968
+Alsophis	anomalus Peters 1863
+Alsophis	antiguae
+Alsophis	antiguae antiguae
+Alsophis	antiguae sajdaki Henderson 1990
+Alsophis	sajdaki Henderson 1990
+Alsophis	antillensis manselli Parker 1933
+Alsophis	manselli Parker 1933
+Alsophis	antillensis sibonius Cope 1879
+Alsophis	sibonius Cope 1879
+Alsophis	antillensis antillensis Schlegel 1837
+Alsophis	antillensis Schlegel 1837
+Alsophis	ater Gosse 1851
+Alsophis	biserialis biserialis Guenther 1860
+Alsophis	biserialis Guenther 1860
+Alsophis	biserialis dorsalis Steindachner 1876
+Alsophis	dorsalis Steindachner 1876
+Alsophis	biserialis occidentalis Van Denburgh 1912
+Alsophis	occidentalis Van Denburgh 1912
+Alsophis	cantherigerus cantherigerus
+Alsophis	cantherigerus
+Alsophis	cantherigerus schwartzi Lando & Williams 1969
+Alsophis	schwartzi Lando & Williams 1969
+Alsophis	cantherigerus Bibron 1843
+Alsophis	cantherigerus adspersus Gundlach & Peters 1864
+Alsophis	adspersus Gundlach & Peters 1864
+Alsophis	elegans Tschudi 1845
+Alsophis	melanichnus Cope 1862
+Alsophis	portoricensis aphantus Schwartz 1966
+Alsophis	aphantus Schwartz 1966
+Alsophis	portoricensis nicholsi Grant 1937
+Alsophis	nicholsi Grant 1937
+Alsophis	portoricensis richardi Grant 1946
+Alsophis	richardi Grant 1946
+Alsophis	portoricensis anegadae Barbour 1917
+Alsophis	anegadae Barbour 1917
+Alsophis	portoricensis Reinhardt & Luetken 1862
+Alsophis	portoricensis prymnus Schwartz 1966
+Alsophis	prymnus Schwartz 1966
+Alsophis	portoricensis portoricensis Reinhardt & Luetken 1862
+Alsophis	portoricensis variegatus Schmidt 1926
+Alsophis	variegatus Schmidt 1926
+Alsophis	rijersmai Cope 1869
+Alsophis	rufiventris Dumeril Bibron & Dumeril 1854
+Alsophis	sanctaecrucis Cope 1862
+Alsophis	sanctonum danforthi Cochran 1938
+Alsophis	danforthi Cochran 1938
+Alsophis	sanctonum sanctonum Barbour 1915
+Alsophis	sanctonum Barbour 1915
+Alsophis	slevini Van Denburgh 1912
+Alsophis	vudii raineyi Barbour & Shreve 1935
+Alsophis	raineyi Barbour & Shreve 1935
+Alsophis	vudii utowanae Barbour & Shreve 1935
+Alsophis	utowanae Barbour & Shreve 1935
+Alsophis	vudii aterrimus Barbour & Shreve 1935
+Alsophis	aterrimus Barbour & Shreve 1935
+Alsophis	vudii vudii
+Alsophis	vudii
+Alsophis	vudii picticeps Conant 1937
+Alsophis	picticeps Conant 1937
+Alsophis	vudii Cope 1862
+Amastridium	veliferum sapperi Werner 1903
+Amastridium	sapperi Werner 1903
+Amastridium	veliferum Cope 1860
+Amastridium	veliferum veliferum
+Amastridium	veliferum
+Ameiseophis	robinsoni
+Anoplohydrus	aemulans Werner 1909
+Bogertophis	rosaliae Mocquard 1899
+Bogertophis	subocularis subocularis Brown 1901
+Bogertophis	subocularis Brown 1901
+Bogertophis	subocularis amplinotus Webb 1990
+Bogertophis	amplinotus Webb 1990
+Boiga	andamanensis Wall 1909
+Boiga	angulata Peters 1861
+Boiga	barnesii Guenther 1869
+Boiga	beddomei Wall 1909
+Boiga	bengkuluensis Orlov Kudryavtzev Ryabov And
+Boiga	blandingii Hallowell 1844
+Boiga	bourreti Tillack Ziegler & Khac Quyet 2004
+Boiga	ceylonensis Guenther 1858
+Boiga	cyanea Dumeril Bibron & Dumeril 1854
+Boiga	cynodon Boie 1827
+Boiga	dendrophila latifasciata Boulenger 1896
+Boiga	latifasciata Boulenger 1896
+Boiga	dendrophila divergens Taylor 1922
+Boiga	divergens Taylor 1922
+Boiga	dendrophila gemmicincta Dumeril Bibron & Dumeril 1854
+Boiga	gemmicincta Dumeril Bibron & Dumeril 1854
+Boiga	dendrophila multicincta Boulenger 1896
+Boiga	multicincta Boulenger 1896
+Boiga	dendrophila occidentalis Brongersma 1934
+Boiga	occidentalis Brongersma 1934
+Boiga	dendrophila Boie 1827
+Boiga	dendrophila levitoni Gaulke Demegillo & Vogel 2005
+Boiga	levitoni Gaulke Demegillo & Vogel 2005
+Boiga	dendrophila dendrophila
+Boiga	dendrophila
+Boiga	dendrophila annectens Boulenger 1896
+Boiga	annectens Boulenger 1896
+Boiga	dendrophila melanota Boulenger 1896
+Boiga	melanota Boulenger 1896
+Boiga	dightoni Boulenger 1894
+Boiga	drapiezii Boie 1827
+Boiga	forsteni Dumeril Bibron & Dumeril 1854
+Boiga	gokool Gray 1835
+Boiga	guangxiensis Wen 1998
+Boiga	irregularis Merrem 1802
+Boiga	jaspidea Dumeril Bibron & Dumeril 1854
+Boiga	kraepelini Stejneger 1902
+Boiga	multifasciata Blyth 1861
+Boiga	multomaculata Boie 1827
+Boiga	nigriceps Guenther 1863
+Boiga	nuchalis Guenther 1875
+Boiga	ochracea Guenther 1868
+Boiga	ochracea stoliczkae Wall 1909
+Boiga	stoliczkae Wall 1909
+Boiga	ochracea ochracea
+Boiga	ochracea
+Boiga	ochracea walli Smith 1943
+Boiga	walli Smith 1943
+Boiga	philippina Peters 1867
+Boiga	pulverulenta Fischer 1856
+Boiga	quincunciata Wall 1908
+Boiga	ranawanei Samarawickrama Samarawickrama Wijesena & Orlov 2005
+Boiga	saengsomi Nutaphand 1985
+Boiga	schultzei Taylor 1923
+Boiga	siamensis Nootpand 1971
+Boiga	tanahjampeana Orlov & Ryabov 2002
+Boiga	trigonata Schneider 1802
+Boiga	trigonata melanocephala Annandale 1904
+Boiga	melanocephala Annandale 1904
+Boiga	trigonata trigonata
+Boiga	trigonata
+Boiga	wallachi Das 1998
+Bothrolycus	ater Guenther 1874
+Calamorhabdium	acuticeps Ahl 1933
+Calamorhabdium	kuekenthali Boettger 1898
+Cemophora	coccinea copei
+Cemophora	copei
+Cemophora	coccinea lineri Williams Brown & Wilson 1966
+Cemophora	lineri Williams Brown & Wilson 1966
+Cemophora	coccinea coccinea
+Cemophora	coccinea
+Cemophora	coccinea Blumenbach 1788
+Chionactis	occipitalis klauberi Stickel 1941
+Chionactis	klauberi Stickel 1941
+Chionactis	occipitalis occipitalis
+Chionactis	occipitalis
+Chionactis	occipitalis talpina Klauber 1951
+Chionactis	talpina Klauber 1951
+Chionactis	occipitalis annulata Baird 1859
+Chionactis	annulata Baird 1859
+Chionactis	occipitalis Hallowell 1854
+Chionactis	palarostris Klauber 1937
+Chionactis	palarostris palarostris Klauber 1937
+Chionactis	palarostris organica Klauber 1951
+Chionactis	organica Klauber 1951
+Chironius	bicarinatus Wied 1820
+Chironius	carinatus Linnaeus 1758
+Chironius	carinatus spixi Hallowell 1845
+Chironius	spixi Hallowell 1845
+Chironius	carinatus flavopictus Werner 1909
+Chironius	flavopictus Werner 1909
+Chironius	carinatus carinatus
+Chironius	carinatus
+Chironius	exoletus Linnaeus 1758
+Chironius	flavolineatus Boettger 1885
+Chironius	fuscus Linnaeus 1758
+Chironius	fuscus fuscus Linnaeus 1758
+Chironius	fuscus leucometapus Dixon Wiest & Cei 1993
+Chironius	leucometapus Dixon Wiest & Cei 1993
+Chironius	grandisquamis Peters 1869
+Chironius	laevicollis Wied 1824
+Chironius	laurenti Dixon Wiest & Cei 1993
+Chironius	monticola Roze 1952
+Chironius	multiventris septentrionalis Dixon Wiest & Cei 1993
+Chironius	septentrionalis Dixon Wiest & Cei 1993
+Chironius	multiventris multiventris
+Chironius	multiventris
+Chironius	multiventris Schmidt & Walker 1943
+Chironius	multiventris cochrane Hoge & Romano 1969
+Chironius	cochrane Hoge & Romano 1969
+Chironius	multiventris foveatus Bailey 1955
+Chironius	foveatus Bailey 1955
+Chironius	quadricarinatus quadricarinatus Boie 1827
+Chironius	quadricarinatus Boie 1827
+Chironius	quadricarinatus maculoventris Dixon Wiest & Cei 1993
+Chironius	maculoventris Dixon Wiest & Cei 1993
+Chironius	scurrulus Wagler 1824
+Chironius	vincenti Boulenger 1891
+Coluber	andreanus Werner 1917
+Coluber	bholanathi Sharma 1976
+Coluber	brevis brevis
+Coluber	brevis
+Coluber	brevis Boulenger 1895
+Coluber	brevis boschisi Scortecci 1930
+Coluber	boschisi Scortecci 1930
+Coluber	caspioides
+Coluber	constrictor anthicus Cope 1862
+Coluber	anthicus Cope 1862
+Coluber	constrictor constrictor
+Coluber	constrictor
+Coluber	constrictor etheridgei Wilson 1970
+Coluber	etheridgei Wilson 1970
+Coluber	constrictor oaxaca
+Coluber	oaxaca
+Coluber	constrictor paludicola Auffenberg & Babitt 1955
+Coluber	paludicola Auffenberg & Babitt 1955
+Coluber	constrictor priapus Dunn & Wood 1939
+Coluber	priapus Dunn & Wood 1939
+Coluber	constrictor flaviventris Say 1823
+Coluber	flaviventris Say 1823
+Coluber	constrictor foxii Baird & Girard 1853
+Coluber	foxii Baird & Girard 1853
+Coluber	constrictor helvigularis Auffenberg 1955
+Coluber	helvigularis Auffenberg 1955
+Coluber	constrictor latrunculus Wilson 1970
+Coluber	latrunculus Wilson 1970
+Coluber	constrictor Linnaeus 1758
+Coluber	dorri Lataste 1888
+Coluber	elegantissimus Guenther 1878
+Coluber	gracilis Guenther 1862
+Coluber	hungaricus
+Coluber	insulanus Mertens 1965
+Coluber	largeni Schaetti 2001
+Coluber	manseri Leviton 1986
+Coluber	merkurensis
+Coluber	messanai Schaetti & Lanza 1989
+Coluber	mormon Baird & Girard 1852
+Coluber	robertmertensi
+Coluber	rubriceps Venzmer 1919
+Coluber	schmidtleri Schaetti & McCARTHY 2001
+Coluber	scortecci Lanza 1963
+Coluber	sinai Schmidt & Marx 1956
+Coluber	smithi Boulenger 1895
+Coluber	somalicus Boulenger 1896
+Coluber	suevicus
+Coluber	taylori Parker 1949
+Coluber	thomasi Parker 1931
+Coluber	variabilis Boulenger 1905
+Coluber	vittacaudatus Blyth 1854
+Coluber	zebrinus Broadley & Schaetti 1997
+Contia	tenuis Baird & Girard 1852
+Crotaphopeltis	barotseensis Broadley 1968
+Crotaphopeltis	braestrupi Rasmussen 1985
+Crotaphopeltis	degeni Boulenger 1906
+Crotaphopeltis	hippocrepis Reinhardt 1843
+Crotaphopeltis	hotamboeia Laurenti 1768
+Crotaphopeltis	tornieri Werner 1908
+Cryophis	hallbergi Bogert & Duellman 1963
+Dendrolycus	elapoides angusticinctus Laurent
+Dendrolycus	angusticinctus Laurent
+Dendrolycus	elapoides Guenther 1874
+Dendrolycus	elapoides elapoides Guenther 1874
+Drepanoides	anomalus Jan 1863
+Eirenis	africana Boulenger 1914
+Eirenis	aurolineatus Venzmer 1919
+Eirenis	barani bischofforum Schmidtler 1997
+Eirenis	bischofforum Schmidtler 1997
+Eirenis	barani Schmidtler 1988
+Eirenis	barani barani
+Eirenis	barani
+Eirenis	coronella coronella Schlegel 1837
+Eirenis	coronella Schlegel 1837
+Eirenis	coronella fennelli Arnold 1982
+Eirenis	fennelli Arnold 1982
+Eirenis	coronella ibrahimi Sivan & Werner 2003
+Eirenis	ibrahimi Sivan & Werner 2003
+Eirenis	coronelloides Jan 1862
+Eirenis	decemlineatus Dumeril Bibron & Dumeril 1854
+Eirenis	eiselti Schmidtler & Schmidtler 1978
+Eirenis	hakkariensis Schmidtler & Eiselt 1991
+Eirenis	levantinus Schmidtler 1993
+Eirenis	lineomaculatus Schmidt 1939
+Eirenis	mcmahoni Wall 1911
+Eirenis	medus Chernov 1940
+Eirenis	modesta Martin 1838
+Eirenis	modestus modestus
+Eirenis	modestus
+Eirenis	modestus semimaculatus Boettger 1876
+Eirenis	semimaculatus Boettger 1876
+Eirenis	modestus Martin 1838
+Eirenis	modestus cilicius Schmidtler 1993
+Eirenis	cilicius Schmidtler 1993
+Eirenis	punctatolineatus punctatolineatus
+Eirenis	punctatolineatus
+Eirenis	punctatolineatus kumerloevei Eiselt 1970
+Eirenis	kumerloevei Eiselt 1970
+Eirenis	punctatolineatus Boettger 1892
+Eirenis	rechingeri Eiselt 1971
+Eirenis	rothii Jan 1863
+Eirenis	thospitis Schmidtler & Lanza 1990
+Elapoidis	fusca Boie 1826
+Elapomorphus	lemniscatus iheringi Strauch 1884
+Elapomorphus	iheringi Strauch 1884
+Elapomorphus	lemniscatus trilineatus Boulenger 1889
+Elapomorphus	trilineatus Boulenger 1889
+Elapomorphus	lemniscatus Dumeril Bibron & Dumeril 1854
+Elapomorphus	lemniscatus divittatus Lema 1984
+Elapomorphus	divittatus Lema 1984
+Elapomorphus	lemniscatus lemniscatus
+Elapomorphus	lemniscatus
+Elapomorphus	lepidus Reinhardt 1861
+Elapomorphus	quinquelineatus Raddi 1820
+Elapomorphus	spegazzinii spegazzinii Boulenger 1913
+Elapomorphus	spegazzinii Boulenger 1913
+Elapomorphus	spegazzinii suspectus Amaral 1924
+Elapomorphus	suspectus Amaral 1924
+Elapomorphus	wuchereri Guenther 1861
+Enuliophis	sclateri Boulenger 1894
+Exallodontophis	albignaci Domergue 1984
+Ficimia	hardyi Mendoza-Quijano & Smith 1993
+Ficimia	olivacea Gray 1849
+Ficimia	publia publia Cope 1866
+Ficimia	publia Cope 1866
+Ficimia	publia taylori Smith 1947
+Ficimia	taylori Smith 1947
+Ficimia	ramirezi Smith & Langebartel 1949
+Ficimia	ruspator Smith & Taylor 1941
+Ficimia	streckeri Taylor 1931
+Ficimia	variegata Guenther 1858
+Gongylosoma	baliodeirus Boie 1827
+Gongylosoma	longicauda Peters 1871
+Gongylosoma	mukutense Grismer Das & Leong 2003
+Gongylosoma	nicobariensis Stoliczka 1870
+Gongylosoma	scripta Theobald 1868
+Gyalopion	canum Cope 1861
+Gyalopion	quadrangulare Guenther 1893
+Gyalopion	quadrangulare quadrangulare Guenther 1893
+Gyalopion	quadrangulare desertorum Stebbins 1985
+Gyalopion	desertorum Stebbins 1985
+Herpetodryas	carinata Linnaeus 1754
+Hormonotus	modestus Dumeril & Bibron 1854
+Hydromorphus	concolor Peters 1859
+Hydromorphus	dunni Slevin 1942
+Hypsiglena	tanzeri Dixon & Lieb 1972
+Hypsiglena	torquata catalinae Tanner 1966
+Hypsiglena	catalinae Tanner 1966
+Hypsiglena	torquata deserticola Tanner 1966
+Hypsiglena	deserticola Tanner 1966
+Hypsiglena	torquata klauberi Tanner 1944
+Hypsiglena	klauberi Tanner 1944
+Hypsiglena	torquata nuchalata Tanner 1943
+Hypsiglena	nuchalata Tanner 1943
+Hypsiglena	torquata tiburonensis Tanner 1981
+Hypsiglena	tiburonensis Tanner 1981
+Hypsiglena	torquata unaocularis Tanner 1944
+Hypsiglena	unaocularis Tanner 1944
+Hypsiglena	torquata affinis Boulenger 1894
+Hypsiglena	affinis Boulenger 1894
+Hypsiglena	torquata baueri Zweifel 1958
+Hypsiglena	baueri Zweifel 1958
+Hypsiglena	torquata jani Duges 1865
+Hypsiglena	jani Duges 1865
+Hypsiglena	torquata martinensis Tanner & Banta 1962
+Hypsiglena	martinensis Tanner & Banta 1962
+Hypsiglena	torquata ochrorhyncha Cope 1860
+Hypsiglena	ochrorhyncha Cope 1860
+Hypsiglena	torquata chlorophaea Cope 1860
+Hypsiglena	chlorophaea Cope 1860
+Hypsiglena	torquata gularis Tanner 1954
+Hypsiglena	gularis Tanner 1954
+Hypsiglena	torquata loreala Tanner 1944
+Hypsiglena	loreala Tanner 1944
+Hypsiglena	torquata ochrorhynchus Cope 1860
+Hypsiglena	ochrorhynchus Cope 1860
+Hypsiglena	torquata tortugaensis
+Hypsiglena	tortugaensis
+Hypsiglena	torquata tortugensis Tanner 1944
+Hypsiglena	tortugensis Tanner 1944
+Hypsiglena	torquata venusta Mocquard 1899
+Hypsiglena	venusta Mocquard 1899
+Hypsiglena	torquata torquata
+Hypsiglena	torquata
+Hypsiglena	torquata Guenther 1860
+Ialtris	agyrtes Schwartz & Rossman 1976
+Ialtris	dorsalis Guenther 1858
+Ialtris	parishi Cochran 1932
+Imantodes	cenchoa semifasciatus Cope 1894
+Imantodes	semifasciatus Cope 1894
+Imantodes	cenchoa Linnaeus 1758
+Imantodes	cenchoa cenchoa
+Imantodes	cenchoa
+Imantodes	cenchoa leucomelas Cope 1861
+Imantodes	leucomelas Cope 1861
+Imantodes	gemmistratus gracillimus Guenther 1895
+Imantodes	gracillimus Guenther 1895
+Imantodes	gemmistratus luciodorsus Oliver 1942
+Imantodes	luciodorsus Oliver 1942
+Imantodes	gemmistratus oliveri Smith 1942
+Imantodes	oliveri Smith 1942
+Imantodes	gemmistratus latistratus Cope 1887
+Imantodes	latistratus Cope 1887
+Imantodes	gemmistratus reticulatus Mueller 1882
+Imantodes	reticulatus Mueller 1882
+Imantodes	gemmistratus splendidus Guenther 1895
+Imantodes	splendidus Guenther 1895
+Imantodes	gemmistratus gemmistratus
+Imantodes	gemmistratus
+Imantodes	gemmistratus Cope 1861
+Imantodes	inornatus Boulenger 1896
+Imantodes	lentiferus Cope 1894
+Imantodes	phantasma Myers 1982
+Imantodes	tennuissimus Cope 1866
+Imantodes	tenuissimus Cope 1867
+Lampropeltis	alterna Brown 1901
+Lampropeltis	alternata blairi Flury 1950
+Lampropeltis	blairi Flury 1950
+Lampropeltis	alternata alterna
+Lampropeltis	alterna
+Lampropeltis	alternata alternata
+Lampropeltis	alternata
+Lampropeltis	calligaster occipitolineata Price 1987
+Lampropeltis	occipitolineata Price 1987
+Lampropeltis	calligaster rhombomaculata Holbrook 1840
+Lampropeltis	rhombomaculata Holbrook 1840
+Lampropeltis	calligaster Harlan 1827
+Lampropeltis	calligaster calligaster
+Lampropeltis	calligaster
+Lampropeltis	getula getula Linnaeus 1766
+Lampropeltis	getula Linnaeus 1766
+Lampropeltis	getula meansi Krysko & Judd 2006
+Lampropeltis	meansi Krysko & Judd 2006
+Lampropeltis	getula splendida Baird & Girard 1853
+Lampropeltis	splendida Baird & Girard 1853
+Lampropeltis	getula holbrooki
+Lampropeltis	holbrooki
+Lampropeltis	getula niger
+Lampropeltis	niger
+Lampropeltis	getula nigrita
+Lampropeltis	nigrita
+Lampropeltis	getula nigra Yarrow 1882
+Lampropeltis	nigra Yarrow 1882
+Lampropeltis	getula floridana Blanchard 1919
+Lampropeltis	floridana Blanchard 1919
+Lampropeltis	getula sticticeps Barbour & Engels 1942
+Lampropeltis	sticticeps Barbour & Engels 1942
+Lampropeltis	getula californiae Blainville 1835
+Lampropeltis	californiae Blainville 1835
+Lampropeltis	getula goini Neill & Allen 1949
+Lampropeltis	goini Neill & Allen 1949
+Lampropeltis	intermedius
+Lampropeltis	mexicana greeri Webb 1961
+Lampropeltis	greeri Webb 1961
+Lampropeltis	mexicana leonis Guenther 1893
+Lampropeltis	leonis Guenther 1893
+Lampropeltis	mexicana thayeri Loveridge 1924
+Lampropeltis	thayeri Loveridge 1924
+Lampropeltis	mexicana Garman 1884
+Lampropeltis	mexicana mexicana
+Lampropeltis	mexicana
+Lampropeltis	pyromelana pyromelana
+Lampropeltis	pyromelana
+Lampropeltis	pyromelana Cope 1866
+Lampropeltis	pyromelana infralabialis Tanner 1953
+Lampropeltis	infralabialis Tanner 1953
+Lampropeltis	pyromelana knoblochi Taylor 1940
+Lampropeltis	knoblochi Taylor 1940
+Lampropeltis	ruthveni Blanchard 1920
+Lampropeltis	triangulum blanchardi Stuart 1935
+Lampropeltis	blanchardi Stuart 1935
+Lampropeltis	triangulum campbelli Quinn 1983
+Lampropeltis	campbelli Quinn 1983
+Lampropeltis	triangulum gaigae Dunn 1937
+Lampropeltis	gaigae Dunn 1937
+Lampropeltis	triangulum multistriata Kennicott 1860
+Lampropeltis	multistriata Kennicott 1860
+Lampropeltis	triangulum polyzona Cope 1861
+Lampropeltis	polyzona Cope 1861
+Lampropeltis	triangulum sinaloae Williams 1978
+Lampropeltis	sinaloae Williams 1978
+Lampropeltis	triangulum andesiana Williams 1978
+Lampropeltis	andesiana Williams 1978
+Lampropeltis	triangulum celaenops Stejneger 1903
+Lampropeltis	celaenops Stejneger 1903
+Lampropeltis	triangulum oligozona Bocourt 1886
+Lampropeltis	oligozona Bocourt 1886
+Lampropeltis	triangulum syspila Cope 1889
+Lampropeltis	syspila Cope 1889
+Lampropeltis	triangulum abnorma Bocourt 1886
+Lampropeltis	abnorma Bocourt 1886
+Lampropeltis	triangulum amaura Cope 1861
+Lampropeltis	amaura Cope 1861
+Lampropeltis	triangulum annulata Kennicott 1861
+Lampropeltis	annulata Kennicott 1861
+Lampropeltis	triangulum arcifera Werner 1903
+Lampropeltis	arcifera Werner 1903
+Lampropeltis	triangulum gentilis Baird & Girard 1853
+Lampropeltis	gentilis Baird & Girard 1853
+Lampropeltis	triangulum hondurensis Williams 1978
+Lampropeltis	hondurensis Williams 1978
+Lampropeltis	triangulum Lacepede 1789
+Lampropeltis	triangulum conanti Williams 1978
+Lampropeltis	conanti Williams 1978
+Lampropeltis	triangulum dixoni Quinn 1983
+Lampropeltis	dixoni Quinn 1983
+Lampropeltis	triangulum elapsoides Holbrook 1838
+Lampropeltis	elapsoides Holbrook 1838
+Lampropeltis	triangulum micropholis Cope 1860
+Lampropeltis	micropholis Cope 1860
+Lampropeltis	triangulum multistrata Kennicott 1861
+Lampropeltis	multistrata Kennicott 1861
+Lampropeltis	triangulum nelsoni Blanchard 1920
+Lampropeltis	nelsoni Blanchard 1920
+Lampropeltis	triangulum smithi Williams 1978
+Lampropeltis	smithi Williams 1978
+Lampropeltis	triangulum stuarti Williams 1978
+Lampropeltis	stuarti Williams 1978
+Lampropeltis	triangulum triangulum
+Lampropeltis	triangulum
+Lampropeltis	triangulum taylori Tanner & Loomis 1957
+Lampropeltis	taylori Tanner & Loomis 1957
+Lampropeltis	webbi Bryson Dixon & Lazcano 2005
+Lampropeltis	zonata agalma Van Denburgh & Slevin 1923
+Lampropeltis	agalma Van Denburgh & Slevin 1923
+Lampropeltis	zonata zonata Blainville 1835
+Lampropeltis	zonata Blainville 1835
+Lampropeltis	zonata herrerae Van Denburgh & Slevin 1923
+Lampropeltis	herrerae Van Denburgh & Slevin 1923
+Lampropeltis	zonata parvirubra Zweifel 1952
+Lampropeltis	parvirubra Zweifel 1952
+Lampropeltis	zonata Lockington 1835
+Lampropeltis	zonata pulchra Zweifel 1952
+Lampropeltis	pulchra Zweifel 1952
+Lampropeltis	zonata multicincta
+Lampropeltis	multicincta
+Lampropeltis	zonata multifasciata
+Lampropeltis	multifasciata
+Lioheterophis	iheringi Amaral 1935
+Liopeltis	baliodeirum baliodeirum
+Liopeltis	baliodeirum
+Liopeltis	baliodeirum cochranae Taylor 1962
+Liopeltis	cochranae Taylor 1962
+Liopeltis	calamaria Guenther 1858
+Liopeltis	frenatus Guenther 1858
+Liopeltis	herminae Boettger 1895
+Liopeltis	philippina Boettger 1897
+Liopeltis	philippinus Boettger 1897
+Liopeltis	rappi Guenther 1860
+Liopeltis	stoliczkae Sclater 1891
+Liopeltis	tricolor Schlegel 1837
+Liophidium	apperti Domergue 1984
+Liophidium	chabaudi Domergue 1984
+Liophidium	mayottensis Peters 1874
+Liophidium	rhodogaster Schlegel 1837
+Liophidium	therezieni Domergue 1984
+Liophidium	torquatum Boulenger 1888
+Liophidium	trilineatum Boulenger 1896
+Liophidium	vaillanti Mocquard 1901
+Lystrophis	dorbignyi chacoensis Lema 1994
+Lystrophis	chacoensis Lema 1994
+Lystrophis	dorbignyi dorbignyi
+Lystrophis	dorbignyi
+Lystrophis	dorbignyi orientalis Lema 1994
+Lystrophis	orientalis Lema 1994
+Lystrophis	dorbignyi uruguayensis Lema 1994
+Lystrophis	uruguayensis Lema 1994
+Lystrophis	dorbignyi Dumeril Bibron & Dumeril 1854
+Lystrophis	histricus Jan 1863
+Lystrophis	matogrossensis Scrocchi & Druz 1993
+Lystrophis	pulcher Jan 1863
+Lystrophis	semic
+Lystrophis	semicinctus Dumeril Bibron & Dumeril 1854
+Lytorhynchus	diadema arabicus
+Lytorhynchus	arabicus
+Lytorhynchus	diadema mesopotamicus
+Lytorhynchus	mesopotamicus
+Lytorhynchus	diadema gaddi Nikolsky 1907
+Lytorhynchus	gaddi Nikolsky 1907
+Lytorhynchus	diadema diadema
+Lytorhynchus	diadema
+Lytorhynchus	diadema Dumeril Bibron & Dumeril 1854
+Lytorhynchus	diadema kennedyi Schmidt 1939
+Lytorhynchus	kennedyi Schmidt 1939
+Lytorhynchus	gasperetti Leviton 1977
+Lytorhynchus	maynardi Alcock & Finn 1896
+Lytorhynchus	paradoxus Guenther 1875
+Lytorhynchus	ridgewayi Boulenger 1887
+Manolepis	putnami Jan 1863
+Masticophis	anthonyi Stejneger 1901
+Masticophis	aurigulus barbouri Van Denburgh & Slevin 1921
+Masticophis	barbouri Van Denburgh & Slevin 1921
+Masticophis	aurigulus Cope 1861
+Masticophis	aurigulus aurigulus
+Masticophis	aurigulus
+Masticophis	bilineatus slevini Lowe & Norris 1955
+Masticophis	slevini Lowe & Norris 1955
+Masticophis	bilineatus Jan 1863
+Masticophis	bilineatus bilineatus
+Masticophis	bilineatus
+Masticophis	flagellum ruddocki Brattstrom & Warren 1953
+Masticophis	ruddocki Brattstrom & Warren 1953
+Masticophis	flagellum flagellum
+Masticophis	flagellum
+Masticophis	flagellum fuliginosus
+Masticophis	fuliginosus
+Masticophis	flagellum testaceus Say 1823
+Masticophis	testaceus Say 1823
+Masticophis	flagellum cingulum
+Masticophis	cingulum
+Masticophis	flagellum lineatulus
+Masticophis	lineatulus
+Masticophis	flagellum piceus
+Masticophis	piceus
+Masticophis	flagellum Shaw 1802
+Masticophis	fuliginosus Cope 1895
+Masticophis	lateralis euryxanthus Riemer 1954
+Masticophis	euryxanthus Riemer 1954
+Masticophis	lateralis Hallowell 1853
+Masticophis	lateralis lateralis
+Masticophis	lateralis
+Masticophis	lineolatus Hensley 1950
+Masticophis	mentovarius centralis Roze 1953
+Masticophis	centralis Roze 1953
+Masticophis	mentovarius Dumeril Bibron & Dumeril 1854
+Masticophis	mentovarius striolatus Mertens 1934
+Masticophis	striolatus Mertens 1934
+Masticophis	mentovarius suborbitalis Peters 1868
+Masticophis	suborbitalis Peters 1868
+Masticophis	mentovarius variolosus Smith 1943
+Masticophis	variolosus Smith 1943
+Masticophis	mentovarius mentovarius
+Masticophis	mentovarius
+Masticophis	schotti ruthveni Ortenburger 1923
+Masticophis	ruthveni Ortenburger 1923
+Masticophis	schotti schotti
+Masticophis	schotti
+Masticophis	schotti Baird & Girard 1853
+Masticophis	taeniatus taeniatus
+Masticophis	taeniatus
+Masticophis	taeniatus Hallowell 1852
+Masticophis	taeniatus ornatus Baird & Girard 1853
+Masticophis	ornatus Baird & Girard 1853
+Masticophis	taeniatus girardi Stejneger & Barbour 1917
+Masticophis	girardi Stejneger & Barbour 1917
+Masticophis	taeniatus australis
+Masticophis	australis
+Mastigodryas	amarali Stuart 1938
+Mastigodryas	bifossatus Raddi 1820
+Mastigodryas	bifossatus bifossatus Raddi 1820
+Mastigodryas	bifossatus triseriatus Amaral 1931
+Mastigodryas	triseriatus Amaral 1931
+Mastigodryas	bifossatus striatus Amaral 1931
+Mastigodryas	striatus Amaral 1931
+Mastigodryas	boddaerti ruthveni Stuart 1933
+Mastigodryas	ruthveni Stuart 1933
+Mastigodryas	boddaerti boddaerti
+Mastigodryas	boddaerti
+Mastigodryas	boddaerti Sentzen 1796
+Mastigodryas	boddaerti dunni Stuart 1933
+Mastigodryas	dunni Stuart 1933
+Mastigodryas	boddaertii boddaertii
+Mastigodryas	boddaertii
+Mastigodryas	boddaertii dunni Stuart 1933
+Mastigodryas	bruesi Barbour 1914
+Mastigodryas	cliftoni Hardy 1964
+Mastigodryas	danieli Amaral 1935
+Mastigodryas	dorsalis Bocourt 1890
+Mastigodryas	heathii Cope 1876
+Mastigodryas	melanolomus stuarti
+Mastigodryas	stuarti
+Mastigodryas	melanolomus Cope 1868
+Mastigodryas	melanolomus laevis Fischer 1881
+Mastigodryas	laevis Fischer 1881
+Mastigodryas	melanolomus slevini
+Mastigodryas	slevini
+Mastigodryas	melanolomus alternatus Bocourt 1884
+Mastigodryas	alternatus Bocourt 1884
+Mastigodryas	melanolomus melanolomus
+Mastigodryas	melanolomus
+Mastigodryas	melanolomus tehuanae Smith 1943
+Mastigodryas	tehuanae Smith 1943
+Mastigodryas	melanolomus veraecrucis Stuart 1941
+Mastigodryas	veraecrucis Stuart 1941
+Mastigodryas	pleei Dumeril Bibron & Dumeril 1854
+Mastigodryas	pulchriceps Cope 1868
+Mastigodryas	sanguiventris Taylor 1954
+Mehelya	capensis unicolor Boulenger 1910
+Mehelya	unicolor Boulenger 1910
+Mehelya	capensis Smith 1847
+Mehelya	capensis capensis
+Mehelya	capensis
+Mehelya	capensis savorgnani Mocquard 1887
+Mehelya	savorgnani Mocquard 1887
+Mehelya	crossi Boulenger 1895
+Mehelya	egbensis Dunger 1966
+Mehelya	gabouensis Trape & Mane 2005
+Mehelya	guirali Mocquard 1887
+Mehelya	laurenti DE Witte 1959
+Mehelya	nyassae Guenther 1888
+Mehelya	poensis Smith 1847
+Mehelya	stenophthalmus Mocquard 1887
+Mehelya	vernayi Bogert 1940
+Meizodon	coronatus Schlegel 1837
+Meizodon	krameri Schaetti 1985
+Meizodon	plumbiceps Boettger 1893
+Meizodon	regularis Fischer 1856
+Meizodon	semiornatus tchadensis Chabanaud 1917
+Meizodon	tchadensis Chabanaud 1917
+Meizodon	semiornatus Peters 1854
+Meizodon	semiornatus semiornatus
+Meizodon	semiornatus
+Mimophis	mahfalensis Grandidier 1867
+Miocoluber	dalquesti
+Montaspis	gilvomaculata Bourquin 1991
+Opisthotropis	alcalai Brown & Leviton 1961
+Opisthotropis	andersonii Boulenger 1888
+Opisthotropis	ater Guenther 1872
+Opisthotropis	balteatus Cope 1895
+Opisthotropis	boonsongi Taylor & Elbel 1958
+Opisthotropis	daovantieni Orlov Darevsky & Murphy 1998
+Opisthotropis	guangxiensis Zhao Jiang & Huang 1978
+Opisthotropis	jacobi Angel & Bourret 1933
+Opisthotropis	kikuzatoi Okada & Takara 1958
+Opisthotropis	kuatunensis Pope 1928
+Opisthotropis	lateralis Boulenger 1903
+Opisthotropis	latouchii Boulenger 1899
+Opisthotropis	maculosus Stuart & Chuaynkern 2007
+Opisthotropis	maxwelli Boulenger 1914
+Opisthotropis	premaxillaris Angel 1929
+Opisthotropis	rugosus Lidth DE
+Opisthotropis	spenceri Smith 1918
+Opisthotropis	typicus Mocquard 1890
+Oreocalamus	hanitschi Boulenger 1899
+Orthriophis	cantoris Boulenger 1894
+Orthriophis	hodgsoni Guenther 1860
+Orthriophis	moellendorffi Boettger 1886
+Orthriophis	taeniurus Cope 1861
+Oxyrhabdium	leporinum Guenther 1858
+Oxyrhabdium	modestum Dumeril & Bibron 1853
+Paleoheterodon	tiheni
+Pararhadinaea	melanogaster Boettger 1898
+Pituophis	catenifer deserticola Stejneger 1893
+Pituophis	deserticola Stejneger 1893
+Pituophis	catenifer fulginatus Klauber 1946
+Pituophis	fulginatus Klauber 1946
+Pituophis	catenifer catenifer
+Pituophis	catenifer
+Pituophis	catenifer insulanus Klauber 1946
+Pituophis	insulanus Klauber 1946
+Pituophis	catenifer annectens Baird & Girard 1853
+Pituophis	annectens Baird & Girard 1853
+Pituophis	catenifer coronalis Klauber 1946
+Pituophis	coronalis Klauber 1946
+Pituophis	catenifer sayi Schlegel 1837
+Pituophis	sayi Schlegel 1837
+Pituophis	catenifer vertebralis Blainville 1835
+Pituophis	vertebralis Blainville 1835
+Pituophis	catenifer Blainville 1835
+Pituophis	catenifer affinis Hallowell 1852
+Pituophis	affinis Hallowell 1852
+Pituophis	catenifer bimaris Klauber 1946
+Pituophis	bimaris Klauber 1946
+Pituophis	catenifer pumilis Klauber 1946
+Pituophis	pumilis Klauber 1946
+Pituophis	deppei deppei
+Pituophis	deppei
+Pituophis	deppei jani Cope 1861
+Pituophis	jani Cope 1861
+Pituophis	deppei Dumeril 1853
+Pituophis	lineaticollis lineaticollis Cope 1861
+Pituophis	lineaticollis Cope 1861
+Pituophis	lineaticollis gibsoni Stuart 1954
+Pituophis	gibsoni Stuart 1954
+Pituophis	melanoleucus lodingi Blanchard 1924
+Pituophis	lodingi Blanchard 1924
+Pituophis	melanoleucus mugitus Barbour 1921
+Pituophis	mugitus Barbour 1921
+Pituophis	melanoleucus melanoleucus
+Pituophis	melanoleucus
+Pituophis	melanoleucus Daudin 1803
+Pituophis	ruthveni Stull 1929
+Platyceps	atayevi Tuniyev & Shammakov 1993
+Platyceps	collaris Menetries 1832
+Platyceps	florulentus Geoffroy 1827
+Platyceps	karelini Brandt 1838
+Platyceps	najadum Eichwald 1831
+Platyceps	rhodorachis Jan 1865
+Platyceps	rogersi Anderson 1893
+Platyceps	saharicus Schaetti & Mccarthy 2004
+Platyceps	ventromaculatus Gray 1834
+Prosymna	ambigua bocagii Boulenger
+Prosymna	bocagii Boulenger
+Prosymna	ambigua stuhlmanni Pfeffer 1893
+Prosymna	stuhlmanni Pfeffer 1893
+Prosymna	ambigua ambigua
+Prosymna	ambigua
+Prosymna	ambigua Bocage 1873
+Prosymna	angolensis Boulenger 1915
+Prosymna	bivittata Werner 1903
+Prosymna	frontalis Peters 1867
+Prosymna	greigerti collaris Sternfeld 1908
+Prosymna	collaris Sternfeld 1908
+Prosymna	greigerti Mocquard 1906
+Prosymna	greigerti greigerti Mocquard 1906
+Prosymna	janii Bianconi 1862
+Prosymna	meleagris Reinhardt 1843
+Prosymna	ornatissima Barbour & Loveridge 1928
+Prosymna	pitmani Battersby 1951
+Prosymna	ruspolii Boulenger 1896
+Prosymna	semifasciata Broadley 1995
+Prosymna	somalica Parker 1930
+Prosymna	sundevalli Smith 1849
+Prosymna	sundevalli sundevalli Smith 1849
+Prosymna	sundevalli lineata Peters 1871
+Prosymna	lineata Peters 1871
+Prosymna	visseri Fitzsimons 1959
+Psammophis	aegyptius Marx 1958
+Psammophis	angolensis Bocage 1872
+Psammophis	ansorgii Boulenger 1905
+Psammophis	biseriatus Peters 1881
+Psammophis	condanarus Merrem 1820
+Psammophis	condanarus indochinensis Smith 1943
+Psammophis	indochinensis Smith 1943
+Psammophis	condanarus condanarus
+Psammophis	condanarus
+Psammophis	crucifer Daudin 1803
+Psammophis	elegans elegans Shaw 1802
+Psammophis	elegans Shaw 1802
+Psammophis	elegans univittatus Perret 1961
+Psammophis	univittatus Perret 1961
+Psammophis	jallae Peracca 1896
+Psammophis	leightoni namibensis Broadley 1975
+Psammophis	namibensis Broadley 1975
+Psammophis	leightoni Boulenger 1902
+Psammophis	leightoni leightoni Boulenger 1902
+Psammophis	leightoni trinasalis Werner 1902
+Psammophis	trinasalis Werner 1902
+Psammophis	leithii Guenther 1869
+Psammophis	leopardinus Bocage 1887
+Psammophis	lineolatus Brandt 1836
+Psammophis	longifrons Boulenger 1896
+Psammophis	mossambicus Peters 1882
+Psammophis	notostictus Peters 1867
+Psammophis	phillipsi phillipsi Hallowell 1844
+Psammophis	phillipsi Hallowell 1844
+Psammophis	phillipsi occidentalis Werner 1919
+Psammophis	occidentalis Werner 1919
+Psammophis	pulcher Boulenger 1895
+Psammophis	punctulatus punctulatus Dumeril & Bibron 1854
+Psammophis	punctulatus Dumeril & Bibron 1854
+Psammophis	punctulatus trivirgatus Peters 1878
+Psammophis	trivirgatus Peters 1878
+Psammophis	rukwae rukwae Broadley 1966
+Psammophis	rukwae Broadley 1966
+Psammophis	rukwae leucogaster Spawls 1983
+Psammophis	leucogaster Spawls 1983
+Psammophis	schokari Forskal 1775
+Psammophis	sibilans Linnaeus 1758
+Psammophis	sibilans brevirostris Peters 1881
+Psammophis	brevirostris Peters 1881
+Psammophis	sibilans sibilans
+Psammophis	sibilans
+Psammophis	subtaeniatus subtaeniatus Peters 1882
+Psammophis	subtaeniatus Peters 1882
+Psammophis	subtaeniatus sudanensis Werner 1919
+Psammophis	sudanensis Werner 1919
+Psammophis	subtaeniatus orientalis Broadley 1977
+Psammophis	orientalis Broadley 1977
+Psammophis	subtaeniatus Peters 1881
+Psammophis	tanganicus Loveridge 1940
+Psammophis	trigrammus Guenther 1865
+Psammophis	zambiensis Hughes 2002
+Pseudocyclophis	persicus persicus Anderson 1872
+Pseudocyclophis	persicus Anderson 1872
+Pseudocyclophis	persicus nigrofasciatus
+Pseudocyclophis	nigrofasciatus
+Pseudoeryx	plicatilis mimeticus Cope 1885
+Pseudoeryx	mimeticus Cope 1885
+Pseudoeryx	plicatilis plicatilis
+Pseudoeryx	plicatilis
+Pseudoeryx	plicatilis Linnaeus 1758
+Pseudoeryx	relictualis Schargel Rivas-Fuenmayor Barros & Pefaur 2007
+Pseudoxenodon	bambusicola Vogt 1922
+Pseudoxenodon	baramensis Smith 1921
+Pseudoxenodon	inornatus Boie 1827
+Pseudoxenodon	inornatus buettikoferi Brongersma & Helle 1951
+Pseudoxenodon	buettikoferi Brongersma & Helle 1951
+Pseudoxenodon	inornatus jacobsonii Lidth DE
+Pseudoxenodon	jacobsonii Lidth DE
+Pseudoxenodon	inornatus inornatus
+Pseudoxenodon	inornatus
+Pseudoxenodon	karlschmidti popei Gressitt 1936
+Pseudoxenodon	popei Gressitt 1936
+Pseudoxenodon	karlschmidti sinii Fan 1931
+Pseudoxenodon	sinii Fan 1931
+Pseudoxenodon	karlschmidti karlschmidti Pope 1935
+Pseudoxenodon	karlschmidti Pope 1935
+Pseudoxenodon	karlschmidti Pope 1928
+Pseudoxenodon	macrops fukiensis Pope 1928
+Pseudoxenodon	fukiensis Pope 1928
+Pseudoxenodon	macrops sinensis Boulenger 1904
+Pseudoxenodon	sinensis Boulenger 1904
+Pseudoxenodon	macrops macrops Blyth 1855
+Pseudoxenodon	macrops Blyth 1855
+Pseudoxenodon	stejnegeri striaticaudatus Pope 1928
+Pseudoxenodon	striaticaudatus Pope 1928
+Pseudoxenodon	stejnegeri stejnegeri Barbour 1908
+Pseudoxenodon	stejnegeri Barbour 1908
+Pseustes	cinnamomeus Wagler 1824
+Pseustes	poecilonotus polylepis Peters 1867
+Pseustes	polylepis Peters 1867
+Pseustes	poecilonotus chrysobronchus Cope 1876
+Pseustes	chrysobronchus Cope 1876
+Pseustes	poecilonotus Guenther 1858
+Pseustes	poecilonotus argus Bocourt 1888
+Pseustes	argus Bocourt 1888
+Pseustes	poecilonotus poecilonotus
+Pseustes	poecilonotus
+Pseustes	sexcarinatus Wagler 1824
+Pseustes	shropshirei Barbour & Amaral 1924
+Pseustes	sulphureus sulphureus Wagler 1824
+Pseustes	sulphureus Wagler 1824
+Pseustes	sulphureus dieperinkii
+Pseustes	dieperinkii
+Pythonodipsas	carinata Guenther 1868
+Rabdion	forsteni Dumeril Bibron & Dumeril 1854
+Rachidelus	brazili Boulenger 1908
+Rhamnophis	aethiopissa aethiopissa
+Rhamnophis	aethiopissa
+Rhamnophis	aethiopissa elgonensis Loveridge 1929
+Rhamnophis	elgonensis Loveridge 1929
+Rhamnophis	aethiopissa Guenther 1862
+Rhamnophis	aethiopissa ituriensis Schmidt 1923
+Rhamnophis	ituriensis Schmidt 1923
+Rhamnophis	batesii Boulenger 1908
+Scaphiophis	albopunctatus Peters 1870
+Scaphiophis	raffreyi Bocourt 1875
+Sibon	annulatus Guenther 1872
+Sibon	annulifera Boulenger 1894
+Sibon	anthracops Cope 1868
+Sibon	argus Cope 1876
+Sibon	carri Shreve 1951
+Sibon	dimidiata Guenther 1872
+Sibon	dimidiatus Guenther 1872
+Sibon	dunni Peters 1957
+Sibon	fasciatus guerreroensis Taylor 1939
+Sibon	guerreroensis Taylor 1939
+Sibon	fasciatus fasciatus Guenther 1858
+Sibon	fasciatus Guenther 1858
+Sibon	fischeri Boulenger 1894
+Sibon	lamari Solorzano 2001
+Sibon	linearis Perez-Higareda Lopez-Luna & Smith 2002
+Sibon	longifrenis Stejneger 1909
+Sibon	manzanaresi Mccranie 2007
+Sibon	miskitus Mccranie 2006
+Sibon	nebulatus nebulatus Linnaeus 1758
+Sibon	nebulatus Linnaeus 1758
+Sibon	sanniola neilli Henderson Hoevers & Wilson 1977
+Sibon	neilli Henderson Hoevers & Wilson 1977
+Sibon	sanniola Cope 1867
+Sibon	sanniola sanniola
+Sibon	sanniola
+Sibon	sanniolus Cope 1866
+Sibynophis	bistrigatus Guenther 1868
+Sibynophis	bivittatus Boulenger 1894
+Sibynophis	chinensis miyiensis Zhao & Kou 1987
+Sibynophis	miyiensis Zhao & Kou 1987
+Sibynophis	chinensis grahami Boulenger 1904
+Sibynophis	grahami Boulenger 1904
+Sibynophis	chinensis chinensis
+Sibynophis	chinensis
+Sibynophis	chinensis Guenther 1889
+Sibynophis	collaris Gray 1853
+Sibynophis	geminatus Boie 1826
+Sibynophis	melanocephalus insularis Mertens 1927
+Sibynophis	insularis Mertens 1927
+Sibynophis	melanocephalus melanocephalus
+Sibynophis	melanocephalus
+Sibynophis	melanocephalus Gray 1835
+Sibynophis	sagittarius Cantor 1839
+Sibynophis	subpunctatus Dumeril & Bibron 1854
+Sibynophis	triangularis Taylor 1965
+Simophis	rhinostoma Schlegel 1837
+Simophis	rohdei Boettger 1885
+Spilotes	pullatus pullatus
+Spilotes	pullatus
+Spilotes	pullatus mexicanus Laurenti 1768
+Spilotes	mexicanus Laurenti 1768
+Spilotes	pullatus argusiformis
+Spilotes	argusiformis
+Spilotes	pullatus Linnaeus 1758
+Spilotes	pullatus anomalepis Bocourt 1888
+Spilotes	anomalepis Bocourt 1888
+Spilotes	pullatus maculatus
+Spilotes	maculatus
+Stegonotus	batjanensis Guenther 1865
+Stegonotus	borneensis Inger 1967
+Stegonotus	cucullatus Dumeril Dumeril & Bibron 1854
+Stegonotus	diehli Lindholm 1905
+Stegonotus	dumerilii Guenther 1865
+Stegonotus	florensis DE Rooij 1917
+Stegonotus	guentheri Boulenger 1895
+Stegonotus	heterurus Boulenger 1893
+Stegonotus	modestus Schlegel 1837
+Stegonotus	parvus Meyer 1874
+Storeria	dekayi texana Trapido 1944
+Storeria	texana Trapido 1944
+Storeria	dekayi dekayi Holbrook 1836
+Storeria	dekayi Holbrook 1836
+Storeria	dekayi wrightorum Trapido 1944
+Storeria	wrightorum Trapido 1944
+Storeria	dekayi Holbrook 1842
+Storeria	dekayi anomala Duges 1888
+Storeria	anomala Duges 1888
+Storeria	dekayi limnetes Anderson 1961
+Storeria	limnetes Anderson 1961
+Storeria	dekayi temporalineata Trapido 1944
+Storeria	temporalineata Trapido 1944
+Storeria	dekayi tropica Cope 1885
+Storeria	tropica Cope 1885
+Storeria	dekayi victa Hay 1892
+Storeria	victa Hay 1892
+Storeria	hidalgoensis Taylor 1942
+Storeria	occipitomaculata obscura Trapido 1944
+Storeria	obscura Trapido 1944
+Storeria	occipitomaculata occipitomaculata Storer 1839
+Storeria	occipitomaculata Storer 1839
+Storeria	occipitomaculata pahasapae Smith 1963
+Storeria	pahasapae Smith 1963
+Storeria	storerioides Cope 1866
+Symphimus	leucostomus Cope 1869
+Symphimus	mayae Gaige 1936
+Tantillita	brevissima Taylor 1937
+Tantillita	canula Cope 1876
+Tantillita	lintoni rozellae Perez-Higareda 1985
+Tantillita	rozellae Perez-Higareda 1985
+Tantillita	lintoni lintoni
+Tantillita	lintoni
+Tantillita	lintoni Smith 1940
+Thamnodynastes	almae Franco & Ferreira 2003
+Thamnodynastes	chaquensis Bergna & Alvarez 1993
+Thamnodynastes	chimanta Roze 1958
+Thamnodynastes	corocoroensis Gorzula & Ayarzagueena 1996
+Thamnodynastes	duida Myers & Donnelly 1996
+Thamnodynastes	gambotensis Perez-Santos & Moreno 1989
+Thamnodynastes	hypoconia Cope 1860
+Thamnodynastes	lanei Bailey Thomas & DA Silva 2005
+Thamnodynastes	longicaudus Franco Ferreira Marques & Sazima 2003
+Thamnodynastes	marahuaquensis Gorzula & Ayarzagueena 1996
+Thamnodynastes	pallidus Linnaeus 1758
+Thamnodynastes	ramonriveroi Manzanilla & Sanchez 2005
+Thamnodynastes	rutilus Prado 1942
+Thamnodynastes	sertanejo Bailey Thomas & DA Silva 2005
+Thamnodynastes	strigatus Guenther 1858
+Thamnodynastes	yavi Myers & Donnelly 1996
+Thelotornis	capensis capensis Smith 1849
+Thelotornis	capensis Smith 1849
+Thelotornis	capensis oatesi Guenther 1881
+Thelotornis	oatesi Guenther 1881
+Thelotornis	capensis schilsi Derleyn 1978
+Thelotornis	schilsi Derleyn 1978
+Thelotornis	capensis mossambicanus Bocage 1895
+Thelotornis	mossambicanus Bocage 1895
+Thelotornis	kirtlandii Hallowell 1844
+Thelotornis	usambaricus Broadley 2001
+Thermophis	baileyi Wall 1907
+Tretanorhinus	mocquardi Bocourt 1891
+Tretanorhinus	nigroluteus Cope 1861
+Tretanorhinus	nigroluteus lateralis Bocourt 1891
+Tretanorhinus	lateralis Bocourt 1891
+Tretanorhinus	nigroluteus nigroluteus
+Tretanorhinus	nigroluteus
+Tretanorhinus	taeniatus Boulenger 1903
+Tretanorhinus	variabilis binghami Schwartz & Ogren 1956
+Tretanorhinus	binghami Schwartz & Ogren 1956
+Tretanorhinus	variabilis Dumeril Bibron & Dumeril 1854
+Tretanorhinus	variabilis insulaepinorum Barbour 1916
+Tretanorhinus	insulaepinorum Barbour 1916
+Tretanorhinus	variabilis variabilis
+Tretanorhinus	variabilis
+Tretanorhinus	variabilis wagleri Jan 1863
+Tretanorhinus	wagleri Jan 1863
+Tretanorhinus	variabilis lewisi Grant 1941
+Tretanorhinus	lewisi Grant 1941
+Trimetopon	barbouri Dunn 1930
+Trimetopon	gracile Guenther 1872
+Trimetopon	pliolepis Cope 1894
+Trimetopon	simile Dunn 1930
+Trimetopon	slevini Dunn 1940
+Trimetopon	viquezi Dunn 1937
+Uromacer	catesbyi cereolineatus Schwartz 1970
+Uromacer	cereolineatus Schwartz 1970
+Uromacer	catesbyi inchausteguii Schwartz 1970
+Uromacer	inchausteguii Schwartz 1970
+Uromacer	catesbyi pampineus Schwartz 1970
+Uromacer	pampineus Schwartz 1970
+Uromacer	catesbyi catesbyi
+Uromacer	catesbyi
+Uromacer	catesbyi Schlegel 1837
+Uromacer	catesbyi hariolatus Schwartz 1970
+Uromacer	hariolatus Schwartz 1970
+Uromacer	catesbyi insulaevaccarum Schwartz 1970
+Uromacer	insulaevaccarum Schwartz 1970
+Uromacer	catesbyi frondicolor Schwartz 1970
+Uromacer	frondicolor Schwartz 1970
+Uromacer	frenatus dorsalis Dunn 1920
+Uromacer	dorsalis Dunn 1920
+Uromacer	frenatus wetmorei Cochran 1921
+Uromacer	wetmorei Cochran 1921
+Uromacer	frenatus chlorauges Schwartz 1976
+Uromacer	chlorauges Schwartz 1976
+Uromacer	frenatus frenatus
+Uromacer	frenatus
+Uromacer	frenatus Guenther 1865
+Uromacer	oxrhynchus Dumeril Bibron & Dumeril 1854
+Uromacer	oxyrhynchus Dumeril & Bibron 1854
+Uromacerina	ricardinii Peracca 1897
+Urotheca	andrewsi Smith 1942
+Urotheca	bicolor Smith 1941
+Urotheca	decipiens Guenther 1893
+Urotheca	dumerilii Bibron 1840
+Urotheca	dumerilli Bibron 1840
+Urotheca	euryzonus Cope 1862
+Urotheca	fulviceps Cope 1886
+Urotheca	guentheri Dunn 1938
+Urotheca	lateristriga Berthold 1859
+Urotheca	multilineata Peters 1863
+Urotheca	myersi Savage & Lahanas 1989
+Urotheca	pachyura Cope 1875
+Xenopholis	scalaris Wucherer 1861
+Xenopholis	undulatus Jensen 1900
+Aeluroglena	cucullata Boulenger 1898
+Ahaetulla	dispar Guenther 1864
+Ahaetulla	fasciolata Fischer 1885
+Ahaetulla	fronticincta Guenther 1858
+Ahaetulla	mycterizans Linnaeus 1758
+Ahaetulla	nasuta Lacepede 1789
+Ahaetulla	perroteti Dumeril & Bibron 1854
+Ahaetulla	prasina prasina Boie 1827
+Ahaetulla	prasina Boie 1827
+Ahaetulla	prasina preocularis Taylor 1922
+Ahaetulla	preocularis Taylor 1922
+Ahaetulla	prasina medioxima Lazell 2002
+Ahaetulla	medioxima Lazell 2002
+Ahaetulla	prasina suluensis Gaulke 1994
+Ahaetulla	suluensis Gaulke 1994
+Ahaetulla	pulverulenta Dumeril & Bibron 1854
+Archerpeton	anthracos
+Aspidura	brachyorrhos Boie 1827
+Aspidura	copei Guenther 1864
+Aspidura	deraniyagalae Gans & Fetcho 1982
+Aspidura	drummondhayi Boulenger 1904
+Aspidura	guentheri Ferguson 1876
+Aspidura	trachyprocta Cope 1860
+Atretium	schistosum Daudin 1803
+Atretium	schistosus Daudin 1803
+Atretium	yunnanensis Anderson 1879
+Calamaria	abstrusa Inger & Marx 1965
+Calamaria	acutirostris Boulenger 1896
+Calamaria	albiventer Gray 1835
+Calamaria	alidae Boulenger 1920
+Calamaria	apraeocularis Smith 1927
+Calamaria	battersbyi Inger & Marx 1965
+Calamaria	bicolor Dumeril Bibron & Dumeril 1854
+Calamaria	bitorques Peters 1872
+Calamaria	boesemani Inger & Marx 1965
+Calamaria	borneensis Bleeker 1860
+Calamaria	brongersmai Inger & Marx 1965
+Calamaria	buchi Marx & Inger 1955
+Calamaria	butonensis Howard & Gillespie 2007
+Calamaria	ceramensis DE Rooij 1913
+Calamaria	crassa Lidth DE
+Calamaria	curta Boulenger 1896
+Calamaria	doederleini Gough 1902
+Calamaria	eiselti Inger & Marx 1965
+Calamaria	everetti Boulenger 1893
+Calamaria	forcarti Inger & Marx 1965
+Calamaria	gervaisii Dumeril Bibron & Dumeril 1854
+Calamaria	grabowskyi Fischer 1885
+Calamaria	gracillima Guenther 1872
+Calamaria	griswoldi Loveridge 1938
+Calamaria	hilleniusi Inger & Marx 1965
+Calamaria	ingeri Grismer Kaiser & Yaakob 2004
+Calamaria	javanica lineata Brongersma 1928
+Calamaria	lineata Brongersma 1928
+Calamaria	javanica javanica Boulenger 1891
+Calamaria	javanica Boulenger 1891
+Calamaria	joloensis Taylor 1922
+Calamaria	lateralis Mocquard 1890
+Calamaria	leucogaster Bleeker 1860
+Calamaria	linnaei Boie 1827
+Calamaria	longirostris Howard & Gillespie 2007
+Calamaria	lovii Boulenger 1887
+Calamaria	lowii gimletti Boulenger 1905
+Calamaria	gimletti Boulenger 1905
+Calamaria	lowii lowii
+Calamaria	lowii
+Calamaria	lumbricoidea Boie 1827
+Calamaria	lumholtzi Andersson 1923
+Calamaria	margaritophora Bleeker 1860
+Calamaria	mecheli Schenkel 1901
+Calamaria	melanota Jan 1862
+Calamaria	modesta Dumeril & Bibron 1854
+Calamaria	muelleri Boulenger 1896
+Calamaria	nuchalis Boulenger 1896
+Calamaria	palavanensis Inger & Marx 1965
+Calamaria	pavimentata miarai
+Calamaria	miarai
+Calamaria	pavimentata pavimentata
+Calamaria	pavimentata
+Calamaria	pavimentata Dumeril Bibron & Dumeril 1854
+Calamaria	pfefferi Stejneger 1901
+Calamaria	prakkei Lidth DE
+Calamaria	rebentischi Bleeker 1860
+Calamaria	schlegelii Dumeril Bibron & Dumeril 1854
+Calamaria	schmidti Marx & Inger 1955
+Calamaria	septentrionalis Boulenger 1890
+Calamaria	suluensis Taylor 1922
+Calamaria	sumatrana Edeling 1870
+Calamaria	thanhi Ziegler & Quyet 2005
+Calamaria	ulmeri Sackett 1940
+Calamaria	virgulata Boie 1827
+Calamaria	yunnanensis Chernov 1962
+Cerberus	australis Gray 1842
+Cerberus	microlepis Boulenger 1896
+Cerberus	rynchops novaeguineae Loveridge 1948
+Cerberus	novaeguineae Loveridge 1948
+Cerberus	rynchops Schneider 1799
+Cerberus	rynchops rynchops Schneider 1799
+Cercaspis	carinatus Kuhl 1820
+Cercophis	auratus Schlegel 1837
+Chamaelycus	christyi Boulenger 1919
+Chamaelycus	fasciatus Guenther 1858
+Chamaelycus	parkeri Angel 1934
+Chamaelycus	werneri Mocquard 1902
+Chersodromus	liebmanni Reinhardt 1861
+Chersodromus	rubriventris Taylor 1949
+Chrysopelea	ornata ornata Shaw 1802
+Chrysopelea	ornata Shaw 1802
+Chrysopelea	ornata sinhaleya Deraniyagala 1945
+Chrysopelea	sinhaleya Deraniyagala 1945
+Chrysopelea	ornata ornatissima
+Chrysopelea	ornatissima
+Chrysopelea	paradisi celebensis Mertens 1968
+Chrysopelea	celebensis Mertens 1968
+Chrysopelea	paradisi Boie 1827
+Chrysopelea	paradisi paradisi Boie 1827
+Chrysopelea	paradisi variabilis Mertens 1968
+Chrysopelea	variabilis Mertens 1968
+Chrysopelea	pelias Linnaeus 1758
+Chrysopelea	rhodopleuron rhodopleuron Boie 1827
+Chrysopelea	rhodopleuron Boie 1827
+Chrysopelea	rhodopleuron viridis Fischer 1880
+Chrysopelea	viridis Fischer 1880
+Chrysopelea	taprobanica Smith 1943
+Compsophis	albiventris Mocquard 1894
+Compsophis	boulengeri Peracca 1892
+Compsophis	fatsibe Mercurio & Andreone 2005
+Compsophis	infralineata Guenther 1882
+Compsophis	laphystia Cadle 1996
+Compsophis	vinckei Domergue 1988
+Compsophis	zeny Cadle 1996
+Conophis	lineatus Dumeril Bibron & Dumeril 1854
+Conophis	lineatus concolor Cope 1867
+Conophis	concolor Cope 1867
+Conophis	lineatus dunni Smith 1942
+Conophis	dunni Smith 1942
+Conophis	lineatus lineatus Dumeril Bibron & Dumeril 1854
+Conophis	morai Perez-Higareda Lopez-Luna & Smith 2002
+Conophis	pulcher Cope 1869
+Conophis	vittatus vittatus
+Conophis	vittatus
+Conophis	vittatus Peters 1860
+Conophis	vittatus viduus Cope 1876
+Conophis	viduus Cope 1876
+Conopsis	acuta Cope 1886
+Conopsis	amphisticha Smith & Laufe 1945
+Conopsis	biserialis Taylor & Smith 1942
+Conopsis	lineata Kennicott 1859
+Conopsis	megalodon Taylor & Smith 1942
+Conopsis	nasus labialis Tanner 1961
+Conopsis	labialis Tanner 1961
+Conopsis	nasus nasus Guenther 1858
+Conopsis	nasus Guenther 1858
+Crisantophis	nevermanni Dunn 1937
+Darlingtonia	haetiana vaticinata Schwartz 1970
+Darlingtonia	vaticinata Schwartz 1970
+Darlingtonia	haetiana Cochran 1935
+Darlingtonia	haetiana perfector Schwartz & Thomas 1965
+Darlingtonia	perfector Schwartz & Thomas 1965
+Darlingtonia	haetiana haetiana Cochran 1935
+Dendrelaphis	bifrenalis Boulenger 1890
+Dendrelaphis	calligastra Guenther 1867
+Dendrelaphis	caudolineatus modestus Boulenger 1894
+Dendrelaphis	modestus Boulenger 1894
+Dendrelaphis	caudolineatus Gray 1834
+Dendrelaphis	caudolineatus caudolineatus
+Dendrelaphis	caudolineatus
+Dendrelaphis	caudolineatus flavescens Gaulke 1994
+Dendrelaphis	flavescens Gaulke 1994
+Dendrelaphis	caudolineatus luzonensis Leviton 1961
+Dendrelaphis	luzonensis Leviton 1961
+Dendrelaphis	caudolineatus terrificus Peters 1872
+Dendrelaphis	terrificus Peters 1872
+Dendrelaphis	caudolineolatus Guenther 1869
+Dendrelaphis	cyanochloris Wall 1921
+Dendrelaphis	formosus Boie 1827
+Dendrelaphis	gastrostictus Boulenger 1894
+Dendrelaphis	gorei Wall 1910
+Dendrelaphis	grandoculis Boulenger 1890
+Dendrelaphis	hollonrakei Lazell 2002
+Dendrelaphis	humayuni Tiwari & Biswas 1973
+Dendrelaphis	inornatus timorensis Smith 1927
+Dendrelaphis	timorensis Smith 1927
+Dendrelaphis	inornatus inornatus
+Dendrelaphis	inornatus
+Dendrelaphis	inornatus Boulenger 1897
+Dendrelaphis	kopsteini Vogel & Van Rooijen 2007
+Dendrelaphis	lineolatus Hombron & Jacquinot 1842
+Dendrelaphis	lorentzi Lidth DE
+Dendrelaphis	ngansonensis Bourret 1935
+Dendrelaphis	oliveri Taylor 1950
+Dendrelaphis	papuensis Boulenger 1895
+Dendrelaphis	pictus Gmelin 1789
+Dendrelaphis	pictus andamanensis Anderson 1871
+Dendrelaphis	andamanensis Anderson 1871
+Dendrelaphis	pictus pictus Gmelin 1789
+Dendrelaphis	punctulatus punctulatus Gray 1826
+Dendrelaphis	punctulatus Gray 1826
+Dendrelaphis	punctulatus striolatus Peters 1867
+Dendrelaphis	striolatus Peters 1867
+Dendrelaphis	salomonis Guenther 1872
+Dendrelaphis	striatus Cohn 1905
+Dendrelaphis	subocularis Boulenger 1888
+Dendrelaphis	tristis Daudin 1803
+Dispholidus	typus typus Smith 1829
+Dispholidus	typus Smith 1829
+Dispholidus	typus punctatus Laurent 1955
+Dispholidus	punctatus Laurent 1955
+Dispholidus	typus kivuensis
+Dispholidus	kivuensis
+Ditaxodon	taeniatus Hensel 1868
+Dromicus	antilensis Schlegel 1837
+Dromophis	lineatus Dumeril Bibron & Dumeril 1854
+Dromophis	praeornatus gribinguiensis Angel 1921
+Dromophis	gribinguiensis Angel 1921
+Dromophis	praeornatus Schlegel 1837
+Dromophis	praeornatus praeornatus Schlegel 1837
+Drymarchon	caudomaculatus Wuester Yrausquin & Mijares-Urrutia 2001
+Drymarchon	corais Boie 1827
+Drymarchon	corais rubidus Smith 1941
+Drymarchon	rubidus Smith 1941
+Drymarchon	corais erebennus Cope 1860
+Drymarchon	erebennus Cope 1860
+Drymarchon	corais margaritae Roze 1959
+Drymarchon	margaritae Roze 1959
+Drymarchon	corais unicolor Smith 1941
+Drymarchon	unicolor Smith 1941
+Drymarchon	corais orizabensis Duges 1905
+Drymarchon	orizabensis Duges 1905
+Drymarchon	corais corais
+Drymarchon	corais
+Drymarchon	couperi Holbrook 1842
+Drymarchon	melanurus Dumeril Bibron & Dumeril 1854
+Drymarchon	melanurus erebennus Cope 1860
+Drymarchon	melanurus melanurus
+Drymarchon	melanurus
+Dryocalamus	davisonii Blanford 1878
+Dryocalamus	gracilis Guenther 1864
+Dryocalamus	nympha Daudin 1803
+Dryocalamus	philippinus Griffin 1909
+Dryocalamus	subannulatus Dumeril Bibron & Dumeril 1854
+Dryocalamus	tristrigatus Guenther 1858
+Eridiphas	marcosensis Ottley & Tanner 1978
+Eridiphas	slevini Tanner 1943
+Eridiphas	slevini marcosensis Ottley & Tanner 1978
+Eridiphas	slevini slevini
+Eridiphas	slevini
+Fordonia	leucobalia Schlegel 1837
+Gerarda	prevostiana Eydoux & Gervais 1822
+Gomesophis	brasiliensis Gomes 1918
+Gonionotophis	brussauxi Mocquard 1889
+Gonionotophis	grantii Guenther 1863
+Gonionotophis	klingi Matschie 1893
+Gonyosoma	frenatum Gray 1853
+Gonyosoma	jansenii Bleeker 1858
+Gonyosoma	oxycephalum Boie 1827
+Gonyosoma	prasina Blyth 1854
+Grayia	caesar Guenther 1863
+Grayia	ornata Bocage 1866
+Grayia	smythii Leach 1818
+Grayia	tholloni Mocquard 1897
+Hapsidophrys	lineatus Fischer 1856
+Hapsidophrys	smaragdina Schlegel 1837
+Hemirhagerrhis	hildebrandtii Peters 1878
+Hemirhagerrhis	kelleri Boettger 1893
+Hemirhagerrhis	nototaenia Guenther 1864
+Hemirhagerrhis	viperina Bocage 1873
+Heteroliodon	fohy Glaw Vences & Nussbaum 2005
+Heteroliodon	lava Nussbaum & Raxworthy 2000
+Heteroliodon	occipitalis Boulenger 1896
+Homalopsis	buccata buccata Linnaeus 1758
+Homalopsis	buccata Linnaeus 1758
+Homalopsis	buccata nigroventralis Deuve 1970
+Homalopsis	nigroventralis Deuve 1970
+Hydrablables	periops Guenther 1872
+Hydrablables	praefrontalis Mocquard 1890
+Hydraethiops	laevis Boulenger 1904
+Hydraethiops	melanogaster Guenther 1872
+Hydrodynastes	bicinctus bicinctus
+Hydrodynastes	bicinctus
+Hydrodynastes	bicinctus schultzi Hoge 1966
+Hydrodynastes	schultzi Hoge 1966
+Hydrodynastes	bicinctus Herrmann 1804
+Hydrodynastes	gigas Dumeril Bibron & Dumeril 1854
+Leioheterodon	geayi Mocquard 1905
+Leioheterodon	madagascariensis Dumeril & Bibron 1854
+Leioheterodon	modestus Guenther 1863
+Leptognathus	mikani Schlegel 1887
+Lepturophis	albofuscus Dumeril Bibron & Dumeril 1854
+Lepturophis	borneensis Boulenger 1900
+Limnophis	bicolor bangweolicus Mertens
+Limnophis	bangweolicus Mertens
+Limnophis	bicolor bicolor
+Limnophis	bicolor
+Limnophis	bicolor Guenther 1865
+Liopholidophis	dimorphus Glaw Nagy Franzen & Vences 2007
+Liopholidophis	dolicocercus Peracca 1892
+Liopholidophis	grandidieri Mocquard 1904
+Liopholidophis	rhadinaea Cadle 1996
+Liopholidophis	sexlineatus Guenther 1882
+Liopholidophis	varius Fischer 1884
+Macrocalamus	chanardi David & Pauwels 2005
+Macrocalamus	gentingensis Yaakob & Lim 2002
+Macrocalamus	jasoni Grandison 1972
+Macrocalamus	lateralis Guenther 1864
+Macrocalamus	schulzi Vogel & David 1999
+Macrocalamus	tweediei Lim 1963
+Macrocalamus	vogeli David & Pauwels 2005
+Macroprotodon	abubakeri Wade 2001
+Macroprotodon	cucullatus brevis Guenther 1862
+Macroprotodon	brevis Guenther 1862
+Macroprotodon	cucullatus ibericus Busack & Mccoy 1990
+Macroprotodon	ibericus Busack & Mccoy 1990
+Macroprotodon	cucullatus Geoffroy DE
+Macroprotodon	cucullatus mauritanicus Guichenot 1850
+Macroprotodon	mauritanicus Guichenot 1850
+Macroprotodon	cucullatus cucullatus
+Macroprotodon	cucullatus
+Madagascarophis	citrinus Boettger 1877
+Madagascarophis	colubrinus occidentalis Domergue 1987
+Madagascarophis	occidentalis Domergue 1987
+Madagascarophis	colubrinus pastoriensis Domergue 1987
+Madagascarophis	pastoriensis Domergue 1987
+Madagascarophis	colubrinus insularis Domergue 1987
+Madagascarophis	insularis Domergue 1987
+Madagascarophis	colubrinus Schlegel 1837
+Madagascarophis	colubrinus septentrionalis Domergue 1987
+Madagascarophis	septentrionalis Domergue 1987
+Madagascarophis	colubrinus colubrinus
+Madagascarophis	colubrinus
+Madagascarophis	meridionalis Domergue 1987
+Madagascarophis	ocellatus Domergue 1987
+Natrix	longivertebrata
+Natrix	maura Linnaeus 1758
+Natrix	megalocephala Orlov & Tuniyev 1987
+Natrix	natrix cetti Gene 1838
+Natrix	cetti Gene 1838
+Natrix	natrix fusca Cattaneo 1990
+Natrix	fusca Cattaneo 1990
+Natrix	natrix gotlandica Nilson & Andren 1981
+Natrix	gotlandica Nilson & Andren 1981
+Natrix	natrix schweizeri Mueller 1932
+Natrix	schweizeri Mueller 1932
+Natrix	natrix helvetica Lacepede 1789
+Natrix	helvetica Lacepede 1789
+Natrix	natrix lanzai Kramer 1970
+Natrix	lanzai Kramer 1970
+Natrix	natrix natrix
+Natrix	natrix
+Natrix	natrix corsa Hecht 1930
+Natrix	corsa Hecht 1930
+Natrix	natrix cypriaca Hecht 1930
+Natrix	cypriaca Hecht 1930
+Natrix	natrix persa Pallas 1814
+Natrix	persa Pallas 1814
+Natrix	natrix sicula Cuvier 1829
+Natrix	sicula Cuvier 1829
+Natrix	natrix astreptophora Seoane 1884
+Natrix	astreptophora Seoane 1884
+Natrix	natrix scutata Pallas 1771
+Natrix	scutata Pallas 1771
+Natrix	natrix Linnaeus 1758
+Natrix	parva
+Natrix	sipodon
+Natrix	tessellata Laurenti 1768
+Natrix	tessellata heinrothi
+Natrix	heinrothi
+Natrix	tessellata tessellata Laurenti 1768
+Neonatrix	elongata
+Neonatrix	magna
+Ninia	atrata Hallowell 1845
+Ninia	celata Mccranie & Wilson 1995
+Ninia	diademata labiosa Bocourt 1883
+Ninia	labiosa Bocourt 1883
+Ninia	diademata diademata
+Ninia	diademata
+Ninia	diademata nietoi Burger & Werler 1954
+Ninia	nietoi Burger & Werler 1954
+Ninia	diademata plorator Smith 1942
+Ninia	plorator Smith 1942
+Ninia	diademata Baird & Girard 1853
+Ninia	espinali Mccranie & Wilson 1995
+Ninia	hudsoni Parker 1940
+Ninia	maculata Peters 1861
+Ninia	pavimentata Bocourt 1883
+Ninia	psephota Cope 1875
+Ninia	sebae sebae Dumeril Bibron & Dumeril 1854
+Ninia	sebae Dumeril Bibron & Dumeril 1854
+Ninia	sebae morleyi Schmidt & Andrews 1936
+Ninia	morleyi Schmidt & Andrews 1936
+Ninia	sebae punctulata Bocourt 1883
+Ninia	punctulata Bocourt 1883
+Ninia	sebae immaculata
+Ninia	immaculata
+Oligodon	affinis Guenther 1862
+Oligodon	albocinctus Cantor 1839
+Oligodon	ancorus Girard 1858
+Oligodon	annulifer annulata Lidth DE Jeude 1922
+Oligodon	annulata Lidth DE Jeude 1922
+Oligodon	annulifer confluens Werner 1924
+Oligodon	confluens Werner 1924
+Oligodon	annulifer Boulenger 1893
+Oligodon	annulifer annulifer
+Oligodon	annulifer
+Oligodon	arnensis Shaw 1802
+Oligodon	barroni Smith 1916
+Oligodon	bitorquatus Boie 1827
+Oligodon	booliati Leong & Grismer 2004
+Oligodon	brevicauda Guenther 1862
+Oligodon	catenata Blyth 1854
+Oligodon	chinensis Guenther 1888
+Oligodon	cinereus tamdaoensis Bourret 1935
+Oligodon	tamdaoensis Bourret 1935
+Oligodon	cinereus Guenther 1864
+Oligodon	cinereus cinereus
+Oligodon	cinereus
+Oligodon	cruentatus Guenther 1868
+Oligodon	cyclurus cyclurus
+Oligodon	cyclurus
+Oligodon	cyclurus Cantor 1839
+Oligodon	cyclurus smithi Werner 1925
+Oligodon	smithi Werner 1925
+Oligodon	dorsalis Gray & Hardwicke 1835
+Oligodon	durheimi Baumann 1913
+Oligodon	eberhardti Pellegrin 1910
+Oligodon	erythrogaster Boulenger 1907
+Oligodon	erythrorhachis Wall 1910
+Oligodon	everetti Boulenger 1893
+Oligodon	forbesi Boulenger 1883
+Oligodon	formosanus Guenther 1872
+Oligodon	hamptoni Boulenger 1900
+Oligodon	inornatus Boulenger 1914
+Oligodon	jintakunei Pauwels Wallach David Chanhome 2002
+Oligodon	joynsoni Smith 1917
+Oligodon	juglandifer Wall 1909
+Oligodon	kunmingensis Kou & WU 1993
+Oligodon	lacroixi Angel & Bourret 1933
+Oligodon	lungshenensis Zheng & Huang 1978
+Oligodon	macrurus Angel 1927
+Oligodon	maculatus Taylor 1918
+Oligodon	mcdougalli Wall 1905
+Oligodon	melaneus Wall 1909
+Oligodon	melanozonatus Wall 1922
+Oligodon	meyerinkii Steindachner 1891
+Oligodon	modestum Guenther 1864
+Oligodon	mouhoti Boulenger 1914
+Oligodon	multizonatus Zhao & Jiang 1981
+Oligodon	nikhili Whitaker & Dattatri 1982
+Oligodon	ningshaanensis Yuan 1983
+Oligodon	ocellatus Morice 1875
+Oligodon	octolineatus Schneider 1801
+Oligodon	ornatus Van Denburgh 1909
+Oligodon	perkinsi Taylor 1925
+Oligodon	petronellae Roux 1914
+Oligodon	planiceps Boulenger 1888
+Oligodon	praefrontalis Werner 1913
+Oligodon	pulcherrimus Werner 1909
+Oligodon	purpurascens Schlegel 1837
+Oligodon	rhombifer Werner 1924
+Oligodon	semic
+Oligodon	semicinctus Peters 1862
+Oligodon	signatus Guenther 1864
+Oligodon	splendidus Guenther 1875
+Oligodon	subcarinatus Guenther 1872
+Oligodon	sublineatus Dumeril Bibron & Dumeril 1854
+Oligodon	taeniatus Guenther 1861
+Oligodon	taeniolatus Jerdon 1853
+Oligodon	taeniolatus fasciatus Guenther 1864
+Oligodon	fasciatus Guenther 1864
+Oligodon	taeniolatus taeniolatus Jerdon 1853
+Oligodon	templetoni Linnaeus 1758
+Oligodon	theobaldi Guenther 1868
+Oligodon	torquatus Boulenger 1888
+Oligodon	travancoricus Beddome 1877
+Oligodon	trilineatus Dumeril Bibron & Dumeril 1854
+Oligodon	unicolor Kopstein 1926
+Oligodon	venustus Jerdon 1853
+Oligodon	vertebralis Guenther 1865
+Oligodon	waandersi Bleeker 1860
+Oligodon	woodmasoni Sclater 1891
+Pareas	boulengeri Angel 1920
+Pareas	carinatus carinatus
+Pareas	carinatus
+Pareas	carinatus unicolor Bourret 1934
+Pareas	unicolor Bourret 1934
+Pareas	carinatus Boie 1828
+Pareas	chinensis Barbour 1912
+Pareas	formosensis Van Denburgh 1909
+Pareas	hamptoni Boulenger 1905
+Pareas	iwasakii Maki 1937
+Pareas	macularius tamdaoensis Bourret 1935
+Pareas	tamdaoensis Bourret 1935
+Pareas	macularius macularius
+Pareas	macularius
+Pareas	macularius Theobald 1868
+Pareas	margaritophorus Jan 1866
+Pareas	monticola Cantor 1839
+Pareas	nuchalis Boulenger 1900
+Pareas	stanleyi Boulenger 1914
+Philodryas	aestiva Dumeril Bibron & Dumeril 1854
+Philodryas	argenteus Daudin 1803
+Philodryas	arnaldoi Amaral 1932
+Philodryas	arnoldoi Amaral 1932
+Philodryas	baroni Berg 1895
+Philodryas	boliviana Boulenger 1896
+Philodryas	chamissonis Wiegmann 1835
+Philodryas	cordata Donnelly & Myers 1991
+Philodryas	hoodensis Van Denburgh 1912
+Philodryas	inca Schmidt & Walker 1943
+Philodryas	laticeps Werner 1900
+Philodryas	livida Amaral 1923
+Philodryas	mattogrossensis Koslowsky 1898
+Philodryas	nattereri Steindachner 1870
+Philodryas	olfersii olfersii
+Philodryas	olfersii
+Philodryas	olfersii Lichtenstein 1823
+Philodryas	olfersii herbeus Wied 1825
+Philodryas	herbeus Wied 1825
+Philodryas	olfersii latirostris Cope 1862
+Philodryas	latirostris Cope 1862
+Philodryas	oligolepis Gomes 1921
+Philodryas	patagoniensis Girard 1858
+Philodryas	psammophidea Guenther 1872
+Philodryas	simonsi Boulenger 1900
+Philodryas	simonsii Boulenger 1900
+Philodryas	tachymenoides Schmidt & Walker 1943
+Philodryas	trilineata Burmeister 1861
+Philodryas	varia Peracca 1897
+Philodryas	varius Jan 1863
+Philodryas	viridissima Linnaeus 1758
+Phimophis	chui Rodrigues 1993
+Phimophis	guerini Dumeril Bibron & Dumeril 1854
+Phimophis	guianensis Troschel 1848
+Phimophis	iglesiasi Gomes 1915
+Phimophis	scriptorcibatus Rodrigues 1993
+Phimophis	vittatus Boulenger 1896
+Plagiopholis	blakewayi Boulenger 1893
+Plagiopholis	delacouri Angel 1929
+Plagiopholis	nuchalis Boulenger 1893
+Plagiopholis	styani Boulenger 1899
+Plagiopholis	unipostocularis Zhao Jiang Huang 1978
+Pliocercus	elapoides Cope 1860
+Pliocercus	euryzona aequalis Salvin 1861
+Pliocercus	aequalis Salvin 1861
+Pliocercus	euryzona burghardi Smith & Chiszar 1996
+Pliocercus	burghardi Smith & Chiszar 1996
+Pliocercus	euryzona euryzona Cope 1862
+Pliocercus	euryzona Cope 1862
+Pliocercus	euryzona
+Pliocercus	euryzonus Cope 1862
+Pliocercus	wilmarai Smith Perez-Higareda & Chiszar 1996
+Poecilopholis	cameronensis Boulenger 1903
+Psammodynastes	pictus Guenther 1858
+Psammodynastes	pulverulentus papenfussi Zhao 1995
+Psammodynastes	papenfussi Zhao 1995
+Psammodynastes	pulverulentus pulverulentus
+Psammodynastes	pulverulentus
+Psammodynastes	pulverulentus Boie 1827
+Pseudoboa	coronata Schneider 1801
+Pseudoboa	haasi Boettger 1905
+Pseudoboa	neuwiedii Dumeril Bibron & Dumeril 1854
+Pseudoboa	nigra Dumeril Bibron & Dumeril 1854
+Pseudoboa	serrana Morato Moura-Leite Prudente & Bernils 1995
+Pseudoboodon	boehmei Rasmussen & Largen 1992
+Pseudoboodon	gascae Peracca 1897
+Pseudoboodon	lemniscatus Dumeril & Bibron 1854
+Pseudoboodon	sandfordorum Spawls 2004
+Pseudorabdion	albonuchalis Guenther 1896
+Pseudorabdion	ater Taylor 1922
+Pseudorabdion	collaris Mocquard 1892
+Pseudorabdion	eiselti Inger & Leviton 1961
+Pseudorabdion	longiceps Cantor 1847
+Pseudorabdion	mcnamarae Taylor 1917
+Pseudorabdion	montanum Leviton & Brown 1959
+Pseudorabdion	oxycephalum Guenther 1858
+Pseudorabdion	sarasinorum Mueller 1895
+Pseudorabdion	saravacense Shelford 1901
+Pseudorabdion	talonuran Brown Leviton & Sison 1999
+Pseudorabdion	taylori Leviton & Brown 1959
+Pseudotomodon	trigonatus Leybold 1873
+Ptyas	carinata Guenther 1858
+Ptyas	dhumnades Cantor 1842
+Ptyas	dipsas Schlegel 1837
+Ptyas	fusca Guenther 1858
+Ptyas	hippocrepis Linnaeus 1758
+Ptyas	korros Schlegel 1837
+Ptyas	luzonensis Guenther 1873
+Ptyas	mucosa Linnaeus 1758
+Ptyas	nigromarginatus Blyth 1854
+Ptychophis	flavovirgatus Gomes 1915
+Ptychophis	meyeri Lema 1967
+Rhynchocalamus	arabicus Schmidt 1933
+Rhynchocalamus	barani Olgun Avci Ilgaz uzuem & Yilmaz 2007
+Rhynchocalamus	melanocephalus Jan 1862
+Rhynchocalamus	melanocephalus melanocephalus Jan 1862
+Rhynchocalamus	melanocephalus satunini Nikolsky 1899
+Rhynchocalamus	satunini Nikolsky 1899
+Rhynchophis	boulengeri Mocquard 1897
+Salvadora	bairdi Jan 1860
+Salvadora	deserticola Schmidt 1940
+Salvadora	grahamiae lineata
+Salvadora	lineata
+Salvadora	grahamiae Baird & Girard 1853
+Salvadora	grahamiae grahamiae
+Salvadora	grahamiae
+Salvadora	hexalepis Cope 1867
+Salvadora	hexalepis hexalepis
+Salvadora	hexalepis
+Salvadora	hexalepis klauberi Bogert 1945
+Salvadora	klauberi Bogert 1945
+Salvadora	hexalepis mojavensis Bogert 1945
+Salvadora	mojavensis Bogert 1945
+Salvadora	hexalepis virgultea Bogert 1936
+Salvadora	virgultea Bogert 1936
+Salvadora	intermedia Hartweg 1940
+Salvadora	lemniscata Cope 1895
+Salvadora	mexicana Dumeril Bibron & Dumeril 1854
+Salvadora	paleolineata
+Siphlophis	cervinus Laurenti 1768
+Siphlophis	compressus Daudin 1803
+Siphlophis	leucocephalus Guenther 1863
+Siphlophis	longicaudatus Andersson 1901
+Siphlophis	pulcher Raddi 1820
+Siphlophis	worontzowi Prado 1940
+Spalerosophis	arenarius Boulenger 1890
+Spalerosophis	diadema diadema
+Spalerosophis	diadema
+Spalerosophis	diadema atriceps Fischer 1885
+Spalerosophis	atriceps Fischer 1885
+Spalerosophis	diadema cliffordii Schlegel 1837
+Spalerosophis	cliffordii Schlegel 1837
+Spalerosophis	diadema schiraziana Jan 1865
+Spalerosophis	schiraziana Jan 1865
+Spalerosophis	diadema Schlegel 1837
+Spalerosophis	dolichospilus Werner 1923
+Spalerosophis	josephscorteccii Lanza 1964
+Spalerosophis	microlepis Jan 1865
+Synophis	bicolor Peracca 1896
+Synophis	calamitus Hillis 1990
+Synophis	lasallei Maria 1950
+Synophis	plectovertebralis Sheil & Grant 2001
+Telescopus	beetzi Barbour 1922
+Telescopus	dhara Forskal 1775
+Telescopus	fallax intermedius Gruber 1974
+Telescopus	intermedius Gruber 1974
+Telescopus	fallax iberus Eichwald 1831
+Telescopus	iberus Eichwald 1831
+Telescopus	fallax pallidus Stepanek 1944
+Telescopus	pallidus Stepanek 1944
+Telescopus	fallax syriacus Boettger 1889
+Telescopus	syriacus Boettger 1889
+Telescopus	fallax multisquamatus Wettstein 1952
+Telescopus	multisquamatus Wettstein 1952
+Telescopus	fallax fallax
+Telescopus	fallax
+Telescopus	fallax Fleischmann 1831
+Telescopus	gezirae Broadley 1994
+Telescopus	hoogstraali Schmidt & Marx 1956
+Telescopus	nigriceps Ahl 1924
+Telescopus	obtusus Reuss 1834
+Telescopus	pulcher Scortecci 1935
+Telescopus	rhinopoma Blanford 1874
+Telescopus	semiannulatus polystictus
+Telescopus	polystictus
+Telescopus	semiannulatus semiannulatus Smith 1849
+Telescopus	semiannulatus Smith 1849
+Telescopus	tessellatus Wall 1908
+Telescopus	variegatus Reinhardt 1843
+Tetralepis	fruhstorferi Boettger 1892
+Thamnophis	angustirostris Kennicott 1860
+Thamnophis	atratus atratus Kennicott 1860
+Thamnophis	atratus Kennicott 1860
+Thamnophis	atratus zaxanthus Boundy 1999
+Thamnophis	zaxanthus Boundy 1999
+Thamnophis	atratus hydrophilus Fitch 1936
+Thamnophis	hydrophilus Fitch 1936
+Thamnophis	bogerti Rossman & Burbrink 2005
+Thamnophis	brachystoma Cope 1892
+Thamnophis	butleri Cope 1889
+Thamnophis	chrysocephalus Cope 1885
+Thamnophis	conanti Rossman & Burbrink 2005
+Thamnophis	couchii Kennicott 1859
+Thamnophis	cyrtopsis collaris Jan 1863
+Thamnophis	collaris Jan 1863
+Thamnophis	cyrtopsis cyrtopsis
+Thamnophis	cyrtopsis
+Thamnophis	cyrtopsis ocellatus Cope 1880
+Thamnophis	ocellatus Cope 1880
+Thamnophis	cyrtopsis Kennicott 1860
+Thamnophis	cyrtopsis postremus Smith 1942
+Thamnophis	postremus Smith 1942
+Thamnophis	cyrtopsis pulchrilatus Cope 1885
+Thamnophis	pulchrilatus Cope 1885
+Thamnophis	elegans arizonae Tanner & Lowe 1989
+Thamnophis	arizonae Tanner & Lowe 1989
+Thamnophis	elegans vascotanneri Tanner & Lowe 1989
+Thamnophis	vascotanneri Tanner & Lowe 1989
+Thamnophis	elegans elegans Baird & Girard 1853
+Thamnophis	elegans Baird & Girard 1853
+Thamnophis	elegans hueyi Van Denburgh & Slevin 1923
+Thamnophis	hueyi Van Denburgh & Slevin 1923
+Thamnophis	elegans vagrans Baird & Girard 1853
+Thamnophis	vagrans Baird & Girard 1853
+Thamnophis	elegans errans Smith 1942
+Thamnophis	errans Smith 1942
+Thamnophis	eques eques
+Thamnophis	eques
+Thamnophis	eques cuitzeoensis Conant 2003
+Thamnophis	cuitzeoensis Conant 2003
+Thamnophis	eques insperatus Conant 2003
+Thamnophis	insperatus Conant 2003
+Thamnophis	eques obscurus Conant 2003
+Thamnophis	obscurus Conant 2003
+Thamnophis	eques patzcuaroensis Conant 2003
+Thamnophis	patzcuaroensis Conant 2003
+Thamnophis	eques virgatenuis Conant 1963
+Thamnophis	virgatenuis Conant 1963
+Thamnophis	eques Reuss 1834
+Thamnophis	eques carmenensis Conant 2003
+Thamnophis	carmenensis Conant 2003
+Thamnophis	eques megalops
+Thamnophis	megalops
+Thamnophis	eques diluvialis Conant 2003
+Thamnophis	diluvialis Conant 2003
+Thamnophis	eques scotti Conant 2003
+Thamnophis	scotti Conant 2003
+Thamnophis	exsul Rossman 1969
+Thamnophis	fulvus Bocourt 1893
+Thamnophis	gigas Fitch 1940
+Thamnophis	godmani Guenther 1894
+Thamnophis	hammondii Kennicott 1860
+Thamnophis	lineri Rossman & Burbrink 2005
+Thamnophis	marcianus praeocularis Bocourt 1892
+Thamnophis	praeocularis Bocourt 1892
+Thamnophis	marcianus marcianus
+Thamnophis	marcianus
+Thamnophis	marcianus bovalli Dunn 1940
+Thamnophis	bovalli Dunn 1940
+Thamnophis	marcianus Baird & Girard 1853
+Thamnophis	melanogaster Wiegmann 1830
+Thamnophis	mendax Walker 1955
+Thamnophis	nigronuchalis Thompson 1957
+Thamnophis	ordinatus Linnaeus 1766
+Thamnophis	ordinoides Baird & Girard 1852
+Thamnophis	proximus orarius Rossman 1963
+Thamnophis	orarius Rossman 1963
+Thamnophis	proximus diabolicus Rossman 1963
+Thamnophis	diabolicus Rossman 1963
+Thamnophis	proximus rutiloris Cope 1885
+Thamnophis	rutiloris Cope 1885
+Thamnophis	proximus proximus
+Thamnophis	proximus
+Thamnophis	proximus alpinus Rossman 1963
+Thamnophis	alpinus Rossman 1963
+Thamnophis	proximus rubrilineatus Rossman 1963
+Thamnophis	rubrilineatus Rossman 1963
+Thamnophis	proximus Say 1823
+Thamnophis	radix Baird & Girard 1853
+Thamnophis	radix haydeni
+Thamnophis	haydeni
+Thamnophis	radix radix Baird & Girard 1853
+Thamnophis	rossmani Conant 2000
+Thamnophis	rufipunctatus Cope 1875
+Thamnophis	rufipunctatus nigronuchalis Thompson 1957
+Thamnophis	rufipunctatus rufipunctatus
+Thamnophis	rufipunctatus
+Thamnophis	rufipunctatus unilabialis Tanner 1985
+Thamnophis	unilabialis Tanner 1985
+Thamnophis	sauritus nitae Rossman 1963
+Thamnophis	nitae Rossman 1963
+Thamnophis	sauritus sauritus
+Thamnophis	sauritus
+Thamnophis	sauritus sackenii Kennicott 1859
+Thamnophis	sackenii Kennicott 1859
+Thamnophis	sauritus septentrionalis Rossman 1963
+Thamnophis	septentrionalis Rossman 1963
+Thamnophis	sauritus Linnaeus 1766
+Thamnophis	scalaris Cope 1861
+Thamnophis	scaliger Jan 1863
+Thamnophis	sirtalis lowei Tanner 1988
+Thamnophis	lowei Tanner 1988
+Thamnophis	sirtalis annectens Brown 1950
+Thamnophis	annectens Brown 1950
+Thamnophis	sirtalis infernalis Blainville 1835
+Thamnophis	infernalis Blainville 1835
+Thamnophis	sirtalis tetrataenia Cope in Yarrow 1875
+Thamnophis	tetrataenia Cope in Yarrow 1875
+Thamnophis	sirtalis dorsalis Baird & Girard 1853
+Thamnophis	dorsalis Baird & Girard 1853
+Thamnophis	sirtalis pallidulus Allen 1899
+Thamnophis	pallidulus Allen 1899
+Thamnophis	sirtalis pickeringii Baird & Girard 1853
+Thamnophis	pickeringii Baird & Girard 1853
+Thamnophis	sirtalis similis Rossman 1965
+Thamnophis	similis Rossman 1965
+Thamnophis	sirtalis sirtalis
+Thamnophis	sirtalis
+Thamnophis	sirtalis Linnaeus 1758
+Thamnophis	sirtalis concinnus Hallowell 1852
+Thamnophis	concinnus Hallowell 1852
+Thamnophis	sirtalis fitchi Fox 1951
+Thamnophis	fitchi Fox 1951
+Thamnophis	sirtalis parietalis Say 1823
+Thamnophis	parietalis Say 1823
+Thamnophis	sirtalis semifasciatus Cope 1892
+Thamnophis	semifasciatus Cope 1892
+Thamnophis	sumichrasti Cope 1866
+Thamnophis	valida thamnophisoides Conant 1961
+Thamnophis	thamnophisoides Conant 1961
+Thamnophis	valida celaeno Cope 1860
+Thamnophis	celaeno Cope 1860
+Thamnophis	valida isabellae Conant 1953
+Thamnophis	isabellae Conant 1953
+Thamnophis	valida valida
+Thamnophis	valida
+Thamnophis	valida Kennicott 1860
+Tropidoclonion	lineatum Hallowell 1856
+Tropidoclonion	lineatum annectens
+Tropidoclonion	annectens
+Tropidoclonion	lineatum lineatum
+Tropidoclonion	lineatum
+Tropidoclonion	lineatus lineatus
+Tropidoclonion	lineatus
+Tropidoclonion	lineatus texanum
+Tropidoclonion	texanum
+Tropidodipsas	fasciata Guenther 1858
+Tropidodipsas	philippii Jan 1863
+Tropidodipsas	repleta Smith Lemos-Espinal Hartman & Chiszar 2005
+Tropidodipsas	sartorii Cope 1863
+Tropidodipsas	zweifeli Zweifel 1954
+Umbrivaga	mertensi Roze 1964
+Umbrivaga	pyburni Markezich & Dixon 1979
+Umbrivaga	pygmaea Cope 1868
+Waglerophis	merremi Wagler 1824
+Xyelodontophis	uluguruensis Boadley & Wallach 2002
+Xylophis	perroteti Dumeril & Bibron 1854
+Xylophis	stenorhynchus Guenther 1875
+Achalinus	ater Bourret 1937
+Achalinus	formosanus Boulenger 1908
+Achalinus	formosanus formosanus Boulenger 1908
+Achalinus	formosanus chigirai Ota & Toyama 1989
+Achalinus	chigirai Ota & Toyama 1989
+Achalinus	hainanus Huang 1975
+Achalinus	jinggangensis Zong & MA 1983
+Achalinus	meiguensis HU & Zhao 1966
+Achalinus	niger Maki 1931
+Achalinus	rufescens Boulenger 1888
+Achalinus	spinalis spinalis
+Achalinus	spinalis
+Achalinus	spinalis werneri Van Denburgh 1912
+Achalinus	werneri Van Denburgh 1912
+Achalinus	spinalis Peters 1869
+Adelphicos	daryi Campbell & Ford 1982
+Adelphicos	ibarrorum Campbell & Brodie 1988
+Adelphicos	latifasciatus Lynch & Smith 1966
+Adelphicos	nigrilatum Smith 1942
+Adelphicos	quadrivirgatus newmanorum Taylor 1950
+Adelphicos	newmanorum Taylor 1950
+Adelphicos	quadrivirgatus quadrivirgatus Jan 1862
+Adelphicos	quadrivirgatus Jan 1862
+Adelphicos	quadrivirgatus sargii Fischer 1885
+Adelphicos	sargii Fischer 1885
+Adelphicos	quadrivirgatus visoninus Cope 1866
+Adelphicos	visoninus Cope 1866
+Adelphicos	veraepacis Stuart 1941
+Adelphicos	visoninum Smith 1942
+Amphiesmoides	ornaticeps Werner 1924
+Amplorhinus	multimaculatus Smith 1847
+Antillophis	andreae melopyrrha Thomas & Garrido 1967
+Antillophis	melopyrrha Thomas & Garrido 1967
+Antillophis	andreae Reinhardt & Luetken 1862
+Antillophis	andreae orientalis Barbour & Ramsden 1919
+Antillophis	orientalis Barbour & Ramsden 1919
+Antillophis	andreae peninsulae Schwartz & Thomas 1960
+Antillophis	peninsulae Schwartz & Thomas 1960
+Antillophis	andreae morenoi Garrido 1973
+Antillophis	morenoi Garrido 1973
+Antillophis	andreae nebulatus Barbour 1916
+Antillophis	nebulatus Barbour 1916
+Antillophis	andreae andreae
+Antillophis	andreae
+Antillophis	parvifrons parvifrons
+Antillophis	parvifrons
+Antillophis	parvifrons Cope 1862
+Antillophis	parvifrons lincolni Cochran 1931
+Antillophis	lincolni Cochran 1931
+Antillophis	parvifrons stygius Thomas & Schwartz 1965
+Antillophis	stygius Thomas & Schwartz 1965
+Antillophis	parvifrons niger Dunn 1920
+Antillophis	niger Dunn 1920
+Antillophis	parvifrons paraniger Thomas & Schwartz 1965
+Antillophis	paraniger Thomas & Schwartz 1965
+Antillophis	parvifrons protenus Jan 1867
+Antillophis	protenus Jan 1867
+Antillophis	parvifrons tortuganus Dunn 1920
+Antillophis	tortuganus Dunn 1920
+Antillophis	parvifrons alleni Dunn 1920
+Antillophis	alleni Dunn 1920
+Antillophis	parvifrons rosamondae Cochran 1934
+Antillophis	rosamondae Cochran 1934
+Antillophis	parvirons parvifrons Cope 1862
+Antillophis	parvirons
+Antillophis	parvirons parvirons
+Apostolepis	albicollaris DE Lema 2002
+Apostolepis	ambinigra Peters 1869
+Apostolepis	ammodites Ferrarezzi Erritto Barbo & Espana Albuquerque 2005
+Apostolepis	arenaria Rodrigues 1993
+Apostolepis	assimilis Reinhardt 1861
+Apostolepis	breviceps Harvey Gonzales & Scrocchi 2001
+Apostolepis	cearensis Gomes 1915
+Apostolepis	christinae DE Lema 2002
+Apostolepis	coronata Sauvage 1877
+Apostolepis	dimidiata Jan 1862
+Apostolepis	dorbignyi Schlegel 1837
+Apostolepis	flavotorquata Dumeril Bibron & Dumeril 1854
+Apostolepis	freitasi DE Lema 2004
+Apostolepis	gaboi Rodrigues 1993
+Apostolepis	goiasensis Prado 1942
+Apostolepis	intermedia Koslowsky 1898
+Apostolepis	longicaudata Gomes 1921
+Apostolepis	multicincta Harvey 1999
+Apostolepis	nelsonjorgei DE Lema & Renner 2004
+Apostolepis	niceforoi Amaral 1935
+Apostolepis	nigroterminata Boulenger 1896
+Apostolepis	phillipsae Harvey 1999
+Apostolepis	phillipsi Harvey 1999
+Apostolepis	polylepis Amaral 1921
+Apostolepis	pymi Boulenger 1903
+Apostolepis	quinquelineata Boulenger 1896
+Apostolepis	quirogai Giraudo & Scrocchi 1998
+Apostolepis	sanctaeritae Werner 1924
+Apostolepis	tenuis Ruthven 1927
+Apostolepis	tertulianobeui DE Lema 2004
+Apostolepis	vittata Cope 1887
+Arizona	elegans candida Klauber 1946
+Arizona	candida Klauber 1946
+Arizona	elegans eburnata Klauber 1946
+Arizona	eburnata Klauber 1946
+Arizona	elegans elegans Kennicot 1859
+Arizona	elegans Kennicot 1859
+Arizona	elegans noctivaga Klauber 1946
+Arizona	noctivaga Klauber 1946
+Arizona	elegans occidentalis Blanchard 1924
+Arizona	occidentalis Blanchard 1924
+Arizona	elegans blanchardi
+Arizona	blanchardi
+Arizona	elegans expolita Klauber 1946
+Arizona	expolita Klauber 1946
+Arizona	elegans arenicola Dixon 1960
+Arizona	arenicola Dixon 1960
+Arizona	elegans noctovaga Klauber 1946
+Arizona	noctovaga Klauber 1946
+Arizona	elegans pacata Klauber 1946
+Arizona	pacata Klauber 1946
+Arizona	elegans philipi Klauber 1946
+Arizona	philipi Klauber 1946
+Arizona	elegans Kennicott 1859
+Asthenodipsas	laevis Boie 1827
+Asthenodipsas	malaccanus Peters 1864
+Asthenodipsas	vertebralis Boulenger 1900
+Bitia	hydroides Gray 1842
+Blythia	reticulata Blyth 1854
+Brachyorrhos	albus Linnaeus 1758
+Brachyorrhos	jobiensis Meyer 1875
+Collorhabdium	williamsoni Smedley 1931
+Coniophanes	alvarezi Campbell 1989
+Coniophanes	andresensis Bailey 1937
+Coniophanes	bipunctatus bipunctatus Guenther 1858
+Coniophanes	bipunctatus Guenther 1858
+Coniophanes	bipunctatus biseriatus Smith 1940
+Coniophanes	biseriatus Smith 1940
+Coniophanes	dromiciformis Peters 1863
+Coniophanes	fissidens fissidens
+Coniophanes	fissidens
+Coniophanes	fissidens dispersus Smith 1941
+Coniophanes	dispersus Smith 1941
+Coniophanes	fissidens punctigularis Cope 1860
+Coniophanes	punctigularis Cope 1860
+Coniophanes	fissidens Guenther 1858
+Coniophanes	fissidens proterops Cope 1860
+Coniophanes	proterops Cope 1860
+Coniophanes	fissidens convergens Shannon & Smith 1950
+Coniophanes	convergens Shannon & Smith 1950
+Coniophanes	imperialis clavatus Peters 1864
+Coniophanes	clavatus Peters 1864
+Coniophanes	imperialis copei Hartweg & Oliver 1938
+Coniophanes	copei Hartweg & Oliver 1938
+Coniophanes	imperialis imperialis
+Coniophanes	imperialis
+Coniophanes	imperialis Baird 1859
+Coniophanes	joanae Myers 1966
+Coniophanes	lateritius melanocephalus Peters 1869
+Coniophanes	melanocephalus Peters 1869
+Coniophanes	lateritius lateritius
+Coniophanes	lateritius
+Coniophanes	lateritius Cope 1862
+Coniophanes	longinquus Cadle 1989
+Coniophanes	meridanus Schmidt & Andrews 1936
+Coniophanes	piceivittis frangivirgatus Peters 1950
+Coniophanes	frangivirgatus Peters 1950
+Coniophanes	piceivittis piceivittis
+Coniophanes	piceivittis
+Coniophanes	piceivittis taylori Hall 1951
+Coniophanes	taylori Hall 1951
+Coniophanes	piceivittis Cope 1869
+Coniophanes	quinquevittatus Dumeril Bibron & Dumeril 1854
+Coniophanes	sarae Ponce-Campos & Smith 2001
+Coniophanes	schmidti Bailey 1937
+Cyclocorus	lineatus Reinhardt 1843
+Cyclocorus	lineatus alcalai Leviton 1967
+Cyclocorus	alcalai Leviton 1967
+Cyclocorus	lineatus lineatus
+Cyclocorus	lineatus
+Cyclocorus	nuchalis taylori
+Cyclocorus	taylori
+Cyclocorus	nuchalis Taylor 1923
+Cyclocorus	nuchalis nuchalis Taylor 1923
+Dasypeltis	atra Sternfeld 1912
+Dasypeltis	confusa Trape & Mane 2006
+Dasypeltis	fasciata Smith 1849
+Dasypeltis	gansi latericia Trape & Mane 2006
+Dasypeltis	latericia Trape & Mane 2006
+Dasypeltis	gansi gansi
+Dasypeltis	gansi
+Dasypeltis	gansi Trape & Mane 2006
+Dasypeltis	inornata Smith 1849
+Dasypeltis	medici Bianconi 1859
+Dasypeltis	medici lamuensis Gans 1957
+Dasypeltis	lamuensis Gans 1957
+Dasypeltis	medici medici
+Dasypeltis	medici
+Dasypeltis	sahelensis Trape & Mane 2006
+Dasypeltis	scabra loveridgei Mertens 1954
+Dasypeltis	loveridgei Mertens 1954
+Dasypeltis	scabra scabra Linnaeus 1758
+Dasypeltis	scabra Linnaeus 1758
+Dinodon	flavozonatum Pope 1928
+Dinodon	gammiei Blanford 1878
+Dinodon	horridus
+Dinodon	orientale Hilgendorf 1880
+Dinodon	rosozonatum HU & Zhao 1972
+Dinodon	rufozonatum meridionale Bourret 1935
+Dinodon	meridionale Bourret 1935
+Dinodon	rufozonatum rufozonatum
+Dinodon	rufozonatum
+Dinodon	rufozonatum Cantor 1842
+Dinodon	rufozonatum walli Stejneger 1907
+Dinodon	walli Stejneger 1907
+Dinodon	semicarinatum Cope 1860
+Dinodon	septentrionalis Guenther 1875
+Dipsadoboa	aulica Guenther 1864
+Dipsadoboa	brevirostris Sternfeld 1908
+Dipsadoboa	duchesnei Boulenger 1901
+Dipsadoboa	elongata Barbour 1914
+Dipsadoboa	flavida broadleyi Rasmussen 1989
+Dipsadoboa	broadleyi Rasmussen 1989
+Dipsadoboa	flavida flavida Broadley & Stevens 1971
+Dipsadoboa	flavida Broadley & Stevens 1971
+Dipsadoboa	shrevei kageleri Uthmoeller 1939
+Dipsadoboa	kageleri Uthmoeller 1939
+Dipsadoboa	shrevei shrevei
+Dipsadoboa	shrevei
+Dipsadoboa	shrevei Loveridge 1932
+Dipsadoboa	underwoodi Rasmussen 1993
+Dipsadoboa	unicolor Guenther 1858
+Dipsadoboa	viridis viridis
+Dipsadoboa	viridis
+Dipsadoboa	viridis Peters 1869
+Dipsadoboa	viridis gracilis Laurent 1956
+Dipsadoboa	gracilis Laurent 1956
+Dipsadoboa	weileri Lindholm 1905
+Dipsadoboa	werneri Boulenger 1897
+Dipsas	albifrons Sauvage 1884
+Dipsas	albifrons albifrons
+Dipsas	albifrons
+Dipsas	albifrons cavalheiroi Hoge 1950
+Dipsas	cavalheiroi Hoge 1950
+Dipsas	alternans Fischer 1885
+Dipsas	andiana Boulenger 1896
+Dipsas	articulata Cope 1868
+Dipsas	bicolor Guenther 1895
+Dipsas	boettgeri Werner 1901
+Dipsas	brevifacies Cope 1866
+Dipsas	catesbyi Sentzen 1796
+Dipsas	chaparensis Reynolds & Foster 1992
+Dipsas	gaigae Oliver 1937
+Dipsas	gaigeae Oliver 1937
+Dipsas	gracilis Boulenger 1902
+Dipsas	incerta Jan 1863
+Dipsas	indica bucephala Shaw 1802
+Dipsas	bucephala Shaw 1802
+Dipsas	indica cisticeps Boettger 1885
+Dipsas	cisticeps Boettger 1885
+Dipsas	indica petersi Hoge 1975
+Dipsas	petersi Hoge 1975
+Dipsas	indica indica
+Dipsas	indica
+Dipsas	indica ecuadoriensis Peters 1960
+Dipsas	ecuadoriensis Peters 1960
+Dipsas	indica Laurenti 1768
+Dipsas	infrenalis Rosen 1905
+Dipsas	latifasciata Boulenger 1913
+Dipsas	latifrontalis Boulenger 1905
+Dipsas	maxillaris Werner 1909
+Dipsas	neivai Amaral 1926
+Dipsas	nicholsi Dunn 1933
+Dipsas	oreas ellipsifera Boulenger 1898
+Dipsas	ellipsifera Boulenger 1898
+Dipsas	oreas oreas Cope 1868
+Dipsas	oreas Cope 1868
+Dipsas	oreas elegans Boulenger 1896
+Dipsas	elegans Boulenger 1896
+Dipsas	pakaraima Macculloch & Lathrop 2004
+Dipsas	pakaraina MacCulloch & Lathrop 2004
+Dipsas	pavonina Schlegel 1837
+Dipsas	perijanensis Aleman 1953
+Dipsas	peruana Boettger 1898
+Dipsas	polylepis Boulenger 1912
+Dipsas	pratti Boulenger 1897
+Dipsas	sanctijoannis Boulenger 1911
+Dipsas	schunkii Boulenger 1908
+Dipsas	temporalis Werner 1909
+Dipsas	tenuissima Taylor 1954
+Dipsas	variegata trinitatus Parker 1926
+Dipsas	trinitatus Parker 1926
+Dipsas	variegata Dumeril Bibron & Dumeril 1854
+Dipsas	variegata variegata Dumeril Bibron & Dumeril 1854
+Dipsas	vermiculata Peters 1960
+Dipsas	viguieri Bocourt 1884
+Dipsina	multimaculata Smith 1847
+Dolichophis	caspius caspius Gmelin 1789
+Dolichophis	caspius Gmelin 1789
+Dolichophis	caspius eiselti Zinner 1972
+Dolichophis	eiselti Zinner 1972
+Dolichophis	cypriensis Schaetti 1985
+Dolichophis	gyarosensis Mertens 1968
+Dolichophis	jugularis Linnaeus 1758
+Dolichophis	schmidti Nikolsky 1909
+Dryophiops	philippina Boulenger 1896
+Dryophiops	rubescens Gray 1835
+Duberria	lutrix basilewskyi Skelton-Bourgeois 1961
+Duberria	basilewskyi Skelton-Bourgeois 1961
+Duberria	lutrix atriventris Sternfeld 1912
+Duberria	atriventris Sternfeld 1912
+Duberria	lutrix rhodesiana
+Duberria	rhodesiana
+Duberria	lutrix shirana Boulenger 1894
+Duberria	shirana Boulenger 1894
+Duberria	lutrix abyssinica
+Duberria	abyssinica
+Duberria	lutrix lutrix
+Duberria	lutrix
+Duberria	lutrix Linnaeus 1758
+Duberria	variegata Peters 1854
+Echinanthera	amoena Jan 1863
+Echinanthera	cephalomaculata DI Bernardo 1994
+Echinanthera	cephalostriata DI Bernardo 1996
+Echinanthera	cyanopleura Cope 1885
+Echinanthera	melanostigma Wagler 1824
+Echinanthera	poecilopogon Cope 1863
+Echinanthera	undulata Wied 1824
+Echinanthera	undulatus Wied-Neuwied 1824
+Emmochliophis	fugleri Fritts & Smith 1969
+Emmochliophis	miops Boulenger 1898
+Enulius	bifoveatus Mccranie & Koehler 1999
+Enulius	flavitorques flavitorques Cope 1868
+Enulius	flavitorques Cope 1868
+Enulius	flavitorques unicolor Fischer 1881
+Enulius	unicolor Fischer 1881
+Enulius	flavitorques sumichrasti Bocourt 1883
+Enulius	sumichrasti Bocourt 1883
+Enulius	oligostichus Smith Arndt & Sherbrook 1967
+Enulius	roatanensis Mccranie & Koehler 1999
+Erpeton	tentaculatum Lacepede 1800
+Erythrolamprus	aesculapii monozona Jan 1863
+Erythrolamprus	monozona Jan 1863
+Erythrolamprus	aesculapii monozonus Jan 1863
+Erythrolamprus	monozonus Jan 1863
+Erythrolamprus	aesculapii tetrazona Jan 1863
+Erythrolamprus	tetrazona Jan 1863
+Erythrolamprus	aesculapii Linnaeus 1766
+Erythrolamprus	aesculapii tetrazonus Jan 1863
+Erythrolamprus	tetrazonus Jan 1863
+Erythrolamprus	aesculapii aesculapii
+Erythrolamprus	aesculapii
+Erythrolamprus	aesculapii venustissimus Wied 1821
+Erythrolamprus	venustissimus Wied 1821
+Erythrolamprus	bizonus Jan 1863
+Erythrolamprus	guentheri Garman 1883
+Erythrolamprus	mimus mimus
+Erythrolamprus	mimus
+Erythrolamprus	mimus Cope 1868
+Erythrolamprus	mimus micrurus Dunn & Bailey 1939
+Erythrolamprus	micrurus Dunn & Bailey 1939
+Erythrolamprus	ocellatus Peters 1869
+Erythrolamprus	pseudocorallus Roze 1959
+Farancia	abacura abacura Holbrook 1836
+Farancia	abacura Holbrook 1836
+Farancia	abacura reinwardtii Schlegel 1837
+Farancia	reinwardtii Schlegel 1837
+Farancia	erytrogramma seminola Neill 1964
+Farancia	seminola Neill 1964
+Farancia	erytrogramma erytrogramma
+Farancia	erytrogramma
+Farancia	erytrogramma Palissot DE
+Gonyophis	margaritatus Peters 1871
+Helicops	angulatus Linnaeus 1758
+Helicops	carinicaudus Wied-Neuwied 1825
+Helicops	danieli Amaral 1938
+Helicops	gomesi Amaral 1921
+Helicops	hagmanni Roux 1910
+Helicops	infrataeniatus Jan 1865
+Helicops	leopardinus Schlegel 1837
+Helicops	modestus Guenther 1861
+Helicops	pastazae Shreve 1934
+Helicops	petersi Rossman 1976
+Helicops	polylepis Guenther 1861
+Helicops	scalaris Jan 1865
+Helicops	tapajonicus DA Frota 2005
+Helicops	trivittatus Gray 1849
+Helicops	yacu Rossman & Dixon 1975
+Helophis	schoutedeni DE Witte 1942
+Hemerophis	socotrae Guenther 1881
+Heurnia	ventromaculata Jong 1926
+Hydrablabes	periops Guenther 1872
+Hydrablabes	praefrontalis Mocquard 1890
+Iguanognathus	werneri Boulenger 1898
+Lycodonomorphus	bicolor Guenther 1893
+Lycodonomorphus	laevissimus fitzsimonsi Raw 1973
+Lycodonomorphus	fitzsimonsi Raw 1973
+Lycodonomorphus	laevissimus laevissimus Guenther 1862
+Lycodonomorphus	laevissimus Guenther 1862
+Lycodonomorphus	laevissimus natalensis Raw 1973
+Lycodonomorphus	natalensis Raw 1973
+Lycodonomorphus	leleupi Laurent 1950
+Lycodonomorphus	rufulus mlanjensis
+Lycodonomorphus	mlanjensis
+Lycodonomorphus	rufulus Lichtenstein 1823
+Lycodonomorphus	rufulus rufulus
+Lycodonomorphus	rufulus
+Lycodonomorphus	subtaeniatus Laurent 1954
+Lycodonomorphus	whytei whytei
+Lycodonomorphus	whytei
+Lycodonomorphus	whytei obscuriventris Fitzsimons 1963
+Lycodonomorphus	obscuriventris Fitzsimons 1963
+Lycodonomorphus	whytii whytii Boulenger 1897
+Lycodonomorphus	whytii Boulenger 1897
+Lycodryas	maculatus Guenther 1858
+Lycodryas	sanctijohannis Guenther 1879
+Lycophidion	acutirostre Guenther 1868
+Lycophidion	albomaculatum Steindachner 1870
+Lycophidion	capense Smith 1831
+Lycophidion	capense jacksoni Boulenger 1893
+Lycophidion	jacksoni Boulenger 1893
+Lycophidion	capense multimaculatum Boettger 1888
+Lycophidion	multimaculatum Boettger 1888
+Lycophidion	capense loveridgei Laurent 1968
+Lycophidion	loveridgei Laurent 1968
+Lycophidion	capense pembanum Laurent 1968
+Lycophidion	pembanum Laurent 1968
+Lycophidion	capense capense
+Lycophidion	capense
+Lycophidion	capense vermiculatum Laurent 1968
+Lycophidion	vermiculatum Laurent 1968
+Lycophidion	depressirostre Laurent 1968
+Lycophidion	hellmichi Laurent 1964
+Lycophidion	irroratum Leach 1819
+Lycophidion	laterale Hallowell 1857
+Lycophidion	meleagris Boulenger 1893
+Lycophidion	namibianum Broadley 1991
+Lycophidion	nanus Broadley 1958
+Lycophidion	nigromaculatum Peters 1863
+Lycophidion	ornatum Parker 1936
+Lycophidion	pygmaeum Broadley 1996
+Lycophidion	semiannule Peters 1854
+Lycophidion	semicinctum Dumeril Bibron & Dumeril 1854
+Lycophidion	taylori Broadley & Hughes 1993
+Lycophidion	uzungwense Loveridge 1932
+Lycophidion	variegatum Broadley 1969
+Macropisthodon	flaviceps Dumeril Bibron & Dumeril 1854
+Macropisthodon	plumbicolor palabriya Deraniyagala 1955
+Macropisthodon	palabriya Deraniyagala 1955
+Macropisthodon	plumbicolor plumbicolor Cantor 1839
+Macropisthodon	plumbicolor Cantor 1839
+Macropisthodon	rhodomelas Boie 1827
+Macropisthodon	rudis multiprefrontalis Zhao & Jiang 1981
+Macropisthodon	multiprefrontalis Zhao & Jiang 1981
+Macropisthodon	rudis rudis Boulenger 1906
+Macropisthodon	rudis Boulenger 1906
+Nanus	planicarinatus
+Nebraskophis	skinneri
+Oocatochus	rufodorsata Cantor 1842
+Opheodrys	aestevis Linnaeus 1766
+Opheodrys	aestivus aestivus Linnaeus 1766
+Opheodrys	aestivus Linnaeus 1766
+Opheodrys	aestivus carinatus Grobman 1984
+Opheodrys	carinatus Grobman 1984
+Opheodrys	vernalis Harlan 1827
+Opheodrys	vernalis blanchardi Grobman 1941
+Opheodrys	blanchardi Grobman 1941
+Opheodrys	vernalis borealis Grobman 1992
+Opheodrys	borealis Grobman 1992
+Opheodrys	vernalis vernalis
+Opheodrys	vernalis
+Oxybelis	aeneus Wagler 1824
+Oxybelis	brevirostris Cope 1861
+Oxybelis	fulgidus Daudin 1803
+Oxybelis	wilsoni Villa & Mccranie 1995
+Paracoluber	storeri
+Parahelicops	annamensis Bourret 1934
+Philothamnus	angolensis Bocage 1882
+Philothamnus	battersbyi Loveridge 1951
+Philothamnus	bequaerti Schmidt 1923
+Philothamnus	carinatus Andersson 1901
+Philothamnus	dorsalis Bocage 1866
+Philothamnus	girardi Bocage 1893
+Philothamnus	heterodermus Hallowell 1857
+Philothamnus	heterodermus ruandae Loveridge 1951
+Philothamnus	ruandae Loveridge 1951
+Philothamnus	heterodermus heterodermus
+Philothamnus	heterodermus
+Philothamnus	heterolepidotus Guenther 1863
+Philothamnus	hoplogaster Guenther 1863
+Philothamnus	hughesi Trape & Roux-Esteve 1990
+Philothamnus	irregularis Leach 1819
+Philothamnus	macrops Boulenger 1895
+Philothamnus	natalensis natalensis
+Philothamnus	natalensis
+Philothamnus	natalensis Smith 1840
+Philothamnus	natalensis occidentalis Broadley 1966
+Philothamnus	occidentalis Broadley 1966
+Philothamnus	nitidus loveridgei Laurent 1960
+Philothamnus	loveridgei Laurent 1960
+Philothamnus	nitidus nitidus
+Philothamnus	nitidus
+Philothamnus	nitidus Guenther 1863
+Philothamnus	ornatus Bocage 1872
+Philothamnus	punctatus Peters 1867
+Philothamnus	semivariegatus Smith 1847
+Philothamnus	thomensis Bocage 1882
+Psammophylax	rhombeatus Linnaeus 1758
+Psammophylax	tritaeniatus fitgeraldi
+Psammophylax	fitgeraldi
+Psammophylax	tritaeniatus tritaeniatus Guenther 1868
+Psammophylax	tritaeniatus Guenther 1868
+Psammophylax	variabilis multisquamis Loveridge 1932
+Psammophylax	multisquamis Loveridge 1932
+Psammophylax	variabilis variabilis
+Psammophylax	variabilis
+Psammophylax	variabilis Guenther 1893
+Pseudoxyrhopus	ambreensis Mocquard 1895
+Pseudoxyrhopus	analabe Nussbaum Andreone Raxworthy 1998
+Pseudoxyrhopus	ankafinaensis Raxworthy & Nussbaum 1994
+Pseudoxyrhopus	heterurus Jan 1863
+Pseudoxyrhopus	imerinae Guenther 1890
+Pseudoxyrhopus	kely Raxworthy & Nussbaum 1994
+Pseudoxyrhopus	microps Guenther 1881
+Pseudoxyrhopus	oblectator Cadle 1999
+Pseudoxyrhopus	quinquelineatus Guenther 1881
+Pseudoxyrhopus	sokosoko Raxworthy & Nussbaum 1994
+Pseudoxyrhopus	tritaeniatus Mocquard 1894
+Regina	alleni Garman 1874
+Regina	grahami Baird & Girard 1853
+Regina	rigida rigida
+Regina	rigida
+Regina	rigida deltae Huheey 1959
+Regina	deltae Huheey 1959
+Regina	rigida Say 1825
+Regina	rigida sinicola Huheey 1959
+Regina	sinicola Huheey 1959
+Regina	septemvittata Say 1825
+Rhabdophis	adleri Zhao 1997
+Rhabdophis	angeli Bourret 1934
+Rhabdophis	auriculata Guenther 1858
+Rhabdophis	barbouri Taylor 1922
+Rhabdophis	callichroma Bourret 1934
+Rhabdophis	callichromus Bourret 1934
+Rhabdophis	callistus Guenther 1873
+Rhabdophis	chrysargoides Guenther 1858
+Rhabdophis	chrysargos Schlegel 1837
+Rhabdophis	conspicillatus Guenther 1872
+Rhabdophis	himalayanus Guenther 1864
+Rhabdophis	leonardi Wall 1923
+Rhabdophis	lineatus Peters 1861
+Rhabdophis	murudensis Smith 1925
+Rhabdophis	nigrocinctus Blyth 1856
+Rhabdophis	nuchalis pentasupralabialis Jiang & Zhao 1983
+Rhabdophis	pentasupralabialis Jiang & Zhao 1983
+Rhabdophis	nuchalis nuchalis
+Rhabdophis	nuchalis
+Rhabdophis	nuchalis Boulenger 1891
+Rhabdophis	pentasupralabralis Jiang & Zhao 1983
+Rhabdophis	spilogaster Boie 1827
+Rhabdophis	subminiatus helleri Schmidt 1925
+Rhabdophis	helleri Schmidt 1925
+Rhabdophis	subminiatus Schlegel 1837
+Rhabdophis	subminiatus subminiatus Schlegel 1837
+Rhabdophis	swinhonis Guenther 1868
+Rhabdophis	tigrinus Boie 1826
+Rhabdophis	tigrinus formosanus Maki 1931
+Rhabdophis	formosanus Maki 1931
+Rhabdophis	tigrinus tigrinus
+Rhabdophis	tigrinus
+Rhadinaea	anachoreta Smith & Campbell 1994
+Rhadinaea	bogertorum Myers 1974
+Rhadinaea	calligaster Cope 1876
+Rhadinaea	cuneata Myers 1974
+Rhadinaea	decorata Guenther 1858
+Rhadinaea	flavilata Cope 1871
+Rhadinaea	forbesi Smith 1942
+Rhadinaea	fulvivittis Cope 1875
+Rhadinaea	gaigeae Bailey 1937
+Rhadinaea	godmani zilchi Mertens 1952
+Rhadinaea	zilchi Mertens 1952
+Rhadinaea	godmani godmani Guenther 1865
+Rhadinaea	godmani Guenther 1865
+Rhadinaea	hannsteini Stuart 1949
+Rhadinaea	hempsteadae Stuart & Bailey 1941
+Rhadinaea	hesperia Bailey 1940
+Rhadinaea	kanalchutchan Mendelson & Kizirian 1995
+Rhadinaea	kinkelini Boettger 1898
+Rhadinaea	lachrymans Cope 1870
+Rhadinaea	laureata Guenther 1868
+Rhadinaea	macdougalli Smith & Langebartel 1949
+Rhadinaea	marcellae Taylor 1949
+Rhadinaea	montana Smith 1944
+Rhadinaea	montecristi Mertens 1952
+Rhadinaea	myersi Rossman 1965
+Rhadinaea	omiltemana Guenther 1894
+Rhadinaea	pegosalyta Mccranie 2006
+Rhadinaea	pilonaorum Stuart 1954
+Rhadinaea	posadasi Slevin 1936
+Rhadinaea	pulveriventris Boulenger 1896
+Rhadinaea	quinquelineata Cope 1886
+Rhadinaea	rogerromani Koehler & Mccranie 1999
+Rhadinaea	sargenti Dunn & Bailey 1939
+Rhadinaea	schistosa Smith 1941
+Rhadinaea	serperastra Cope 1871
+Rhadinaea	stadelmani Stuart & Bailey 1941
+Rhadinaea	taeniata Peters 1863
+Rhadinaea	taeniata aemula Bailey 1940
+Rhadinaea	aemula Bailey 1940
+Rhadinaea	taeniata taeniata Peters 1863
+Rhadinaea	tolpanorum Holm & Cruz 1994
+Rhadinaea	vermiculaticeps Cope 1860
+Rhamphiophis	acutus Guenther 1888
+Rhamphiophis	acutus jappi Broadley 1971
+Rhamphiophis	jappi Broadley 1971
+Rhamphiophis	acutus acutus
+Rhamphiophis	acutus
+Rhamphiophis	acutus togoensis Matschie 1893
+Rhamphiophis	togoensis Matschie 1893
+Rhamphiophis	maradiensis Chirio & Ineich 1991
+Rhamphiophis	oxyrhynchus rostratus Peters 1854
+Rhamphiophis	rostratus Peters 1854
+Rhamphiophis	oxyrhynchus Reinhardt 1843
+Rhamphiophis	oxyrhynchus oxyrhynchus Reinhardt 1843
+Rhamphiophis	rubropunctatus Fischer 1884
+Rhinobothryum	bovallii Andersson 1916
+Rhinobothryum	lentiginosum Scopoli 1785
+Rhinocheilus	etheridgei Grismer 1990
+Rhinocheilus	lecontei antonii Duges 1886
+Rhinocheilus	antonii Duges 1886
+Rhinocheilus	lecontei lecontei Baird & Girard 1853
+Rhinocheilus	lecontei Baird & Girard 1853
+Rhinocheilus	lecontei etheridgei Grismer 1990
+Rhinocheilus	lecontei tessellatus
+Rhinocheilus	tessellatus
+Scaphiodontophis	annulatus hondurensis Schmidt 1936
+Scaphiodontophis	hondurensis Schmidt 1936
+Scaphiodontophis	annulatus Dumeril Bibron & Dumeril 1854
+Scaphiodontophis	annulatus nothus Taylor & Smith 1943
+Scaphiodontophis	nothus Taylor & Smith 1943
+Scaphiodontophis	annulatus annulatus
+Scaphiodontophis	annulatus
+Scaphiodontophis	annulatus dugandi
+Scaphiodontophis	dugandi
+Scaphiodontophis	venustissimus Guenther 1893
+Scolecophis	atrocinctus Schlegel 1837
+Seminatrix	pygaea pygaea
+Seminatrix	pygaea
+Seminatrix	pygaea cyclas Dowling 1950
+Seminatrix	cyclas Dowling 1950
+Seminatrix	pygaea Cope 1871
+Seminatrix	pygaea paludis Dowling 1950
+Seminatrix	paludis Dowling 1950
+Senticolis	triaspis intermedia Boettger 1883
+Senticolis	intermedia Boettger 1883
+Senticolis	triaspis mutabilis Cope 1885
+Senticolis	mutabilis Cope 1885
+Senticolis	triaspis triaspis
+Senticolis	triaspis
+Senticolis	triaspis Cope 1866
+Sonora	aemula Cope 1879
+Sonora	michoacanensis mutabilis Stickel 1943
+Sonora	mutabilis Stickel 1943
+Sonora	michoacanensis Duges 1884
+Sonora	michoacanensis michoacanensis
+Sonora	michoacanensis
+Sonora	semiannulata Baird & Girard 1853
+Sordellina	punctata Peters 1880
+Stenorrhina	degenhardtii ocellata Jan 1876
+Stenorrhina	ocellata Jan 1876
+Stenorrhina	degenhardtii Berthold 1846
+Stenorrhina	degenhardtii mexicana Steindachner 1867
+Stenorrhina	mexicana Steindachner 1867
+Stenorrhina	degenhardtii degenhardtii
+Stenorrhina	degenhardtii
+Stenorrhina	freminvillei Dumeril Bibron & Dumeril 1854
+Stilosoma	extenuatum Brown 1890
+Stoliczkaia	borneensis Boulenger 1899
+Stoliczkaia	khasiensis Jerdon 1870
+Taeniophallus	affinis Guenther 1858
+Taeniophallus	bilineatus Fischer 1885
+Taeniophallus	brevirostris Peters 1863
+Taeniophallus	nebularis Schargel Rivas Fuenmayor & Myers 2005
+Taeniophallus	nicagus Cope 1868
+Taeniophallus	occipitalis Jan 1863
+Taeniophallus	persimilis Cope 1869
+Taeniophallus	poecilopogon Cope 1863
+Tantilla	albiceps Barbour 1925
+Tantilla	alticola Boulenger 1903
+Tantilla	andinista Wilson & Mena 1980
+Tantilla	armillata Cope 1876
+Tantilla	atriceps Guenther 1895
+Tantilla	bairdi Stuart 1941
+Tantilla	bocourti Guenther 1895
+Tantilla	boipiranga Sawaya & Sazima 2003
+Tantilla	brevicauda Mertens 1952
+Tantilla	briggsi Savitzky & Smith 1971
+Tantilla	calamarina Cope 1866
+Tantilla	capistrata Cope 1876
+Tantilla	cascadae Wilson & Meyer 1981
+Tantilla	ceboruca Canseco-Marquez Smith Ponce-Campos Flores-Villela & Campbell 2007
+Tantilla	coronadoi Hartweg 1944
+Tantilla	coronata Baird & Girard 1853
+Tantilla	cucullata Minton 1956
+Tantilla	cuesta Wilson 1982
+Tantilla	cuniculator Smith 1939
+Tantilla	deppei Bocourt 1883
+Tantilla	deviatrix Barbour 1916
+Tantilla	flavilineata Smith & Burger 1950
+Tantilla	fraseri Guenther 1895
+Tantilla	gracilis Baird & Girard 1853
+Tantilla	hendersoni Stafford 2004
+Tantilla	hobartsmithi Taylor 1936
+Tantilla	impensa Campbell 1998
+Tantilla	insulamontana Wilson & Mena 1980
+Tantilla	jani Guenther 1895
+Tantilla	johnsoni Wilson Vaughn & Dixon 1999
+Tantilla	lempira Wilson & Mena 1980
+Tantilla	longifrontalis Boulenger 1896
+Tantilla	melanocephala Linnaeus 1758
+Tantilla	mexicana Guenther 1862
+Tantilla	miyatai Wilson & Knight 1987
+Tantilla	moesta Guenther 1863
+Tantilla	nigra Boulenger 1914
+Tantilla	nigriceps fumiceps
+Tantilla	fumiceps
+Tantilla	nigriceps Kennicott 1860
+Tantilla	nigriceps nigriceps
+Tantilla	nigriceps
+Tantilla	oaxacae Wilson & Meyer 1971
+Tantilla	oolitica Telford 1966
+Tantilla	petersi Wilson 1979
+Tantilla	planiceps Blainville 1835
+Tantilla	relicta relicta
+Tantilla	relicta
+Tantilla	relicta Telford 1966
+Tantilla	relicta neilli Telford 1966
+Tantilla	neilli Telford 1966
+Tantilla	relicta pamlica Telford 1966
+Tantilla	pamlica Telford 1966
+Tantilla	reticulata Cope 1860
+Tantilla	robusta Canseco-Marquez Mendelsohn & Gutierrez-Mayen 2002
+Tantilla	rubra Cope 1876
+Tantilla	schistosa Bocourt 1883
+Tantilla	semicincta Dumeril Bibron & Dumeril 1854
+Tantilla	sertula Wilson & Campbell 2000
+Tantilla	shawi Taylor 1949
+Tantilla	slavensi Perez-Higareda Smith & Smith 1985
+Tantilla	striata Dunn 1928
+Tantilla	supracincta Peters 1863
+Tantilla	taeniata Bocourt 1883
+Tantilla	tayrae Wilson 1983
+Tantilla	tecta Campbell & Smith 1997
+Tantilla	trilineata Peters 1880
+Tantilla	triseriata Smith & Smith 1951
+Tantilla	tritaeniata Smith & Williams 1966
+Tantilla	vermiformis Hallowell 1861
+Tantilla	vulcani Campbell 1998
+Tantilla	wilcoxi Stejneger 1902
+Tantilla	yaquia Smith 1942
+Trachischium	fuscum Blyth 1854
+Trachischium	guentheri Boulenger 1890
+Trachischium	laeve Peracca 1904
+Trachischium	monticola Cantor 1839
+Trachischium	tenuiceps Blyth 1854
+Trimorphodon	biscutatus biscutatus
+Trimorphodon	biscutatus
+Trimorphodon	biscutatus lyrophanes Cope 1860
+Trimorphodon	lyrophanes Cope 1860
+Trimorphodon	biscutatus vilkinsonii Cope 1886
+Trimorphodon	vilkinsonii Cope 1886
+Trimorphodon	biscutatus Dumeril Bibron & Dumeril 1854
+Trimorphodon	biscutatus lambda Cope 1886
+Trimorphodon	lambda Cope 1886
+Trimorphodon	biscutatus quadruplex Smith 1941
+Trimorphodon	quadruplex Smith 1941
+Trimorphodon	tau latifascia Peters 1869
+Trimorphodon	latifascia Peters 1869
+Trimorphodon	tau Cope 1870
+Trimorphodon	tau tau Cope 1870
+Tropidodryas	serra Schlegel 1837
+Tropidodryas	straticeps Amaral 1938
+Tropidodryas	striaticeps Cope 1870
+Tropidonophis	aenigmaticus Malnate & Underwood 1988
+Tropidonophis	dahlii Werner 1899
+Tropidonophis	dendrophiops Guenther 1883
+Tropidonophis	dolasii Kraus & Allison 2004
+Tropidonophis	doriae Boulenger 1897
+Tropidonophis	elongatus Jan 1865
+Tropidonophis	halmahericus Boettger 1895
+Tropidonophis	hypomelas Guenther 1877
+Tropidonophis	mairii mairii Gray 1841
+Tropidonophis	mairii Gray 1841
+Tropidonophis	mairii plumbea Macleay 1877
+Tropidonophis	plumbea Macleay 1877
+Tropidonophis	mairii brongersmai
+Tropidonophis	brongersmai
+Tropidonophis	mcdowelli Malnate & Underwood 1988
+Tropidonophis	montanus Lidth DE
+Tropidonophis	multiscutellatus Brongersma 1948
+Tropidonophis	negrosensis Taylor 1917
+Tropidonophis	novaeguineae Lidth DE
+Tropidonophis	parkeri Malnate & Underwood 1988
+Tropidonophis	picturatus Schlegel 1837
+Tropidonophis	punctiventris Boettger 1895
+Tropidonophis	statistictus Malnate & Underwood 1988
+Tropidonophis	statisticus Malnate & Underwood 1988
+Tropidonophis	truncatus Peters 1863
+Virginia	pulchra Richmond 1954
+Virginia	striatula Linnaeus 1766
+Virginia	valeriae elegans Kennicott 1859
+Virginia	elegans Kennicott 1859
+Virginia	valeriae Baird & Girard 1853
+Virginia	valeriae valeriae
+Virginia	valeriae
+Xenelaphis	ellipsifer Boulenger 1900
+Xenelaphis	hexagonotus Cantor 1847
+Xenodon	guentheri Boulenger 1894
+Xenodon	neuweidii Guenther 1824
+Xenodon	neuwiedii Guenther 1863
+Xenodon	rabdocephalus mexicanus Smith 1940
+Xenodon	mexicanus Smith 1940
+Xenodon	rabdocephalus rabdocephalus Wied 1824
+Xenodon	rabdocephalus Wied 1824
+Xenodon	serverus Linnaeus 1758
+Xenodon	severus Linnaeus 1758
+Xenodon	werneri Werner 1924

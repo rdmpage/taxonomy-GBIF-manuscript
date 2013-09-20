@@ -1,0 +1,112 @@
+Callimico	goeldii Thomas 1904
+Leontopithecus	caissara Lorini & Persson 1990
+Leontopithecus	chrysomelas Kuhl 1820
+Leontopithecus	chrysopygus Mikan 1823
+Leontopithecus	rosalia Linnaeus 1766
+Callithrix	acariensis van Roosmalen van Roosmalen Mittermeier & Rylands 2000
+Callithrix	argentata Linnaeus 1771
+Callithrix	aurita 
+Callithrix	chrysoleuca Wagner 1842
+Callithrix	emiliae Thomas 1920
+Callithrix	flaviceps Thomas 1903
+Callithrix	geoffroyi Humboldt 1812
+Callithrix	humeralifera 
+Callithrix	humilis van Roosmalen van Roosmalen Mittermeier & de Fonseca 1998
+Callithrix	intermedia Hershkovitz 1977
+Callithrix	jacchus Linnaeus 1758
+Callithrix	kuhlii Wied-Neuwied 1826
+Callithrix	leucippe Thomas 1922
+Callithrix	manicorensis van Roosmalen van Roosmalen Mittermeier & Rylands 2000
+Callithrix	marcai Alperin 1993
+Callithrix	mauesi Mittermeier Schwarz & Ayres 1992
+Callithrix	melanura e. Geoffroy 1812
+Callithrix	nigriceps Ferrari & Lopes 1992
+Callithrix	penicillata 
+Callithrix	pygmaea pygmaea
+Callithrix	pygmaea
+Callithrix	pygmaea Spix 1823
+Callithrix	pygmaea niveiventris Loennberg 1940
+Callithrix	niveiventris Loennberg 1940
+Callithrix	saterei Silva & Noronha 1998
+Saguinus	bicolor Spix 1823
+Saguinus	fuscicollis cruzlimai Hershkovitz 1966
+Saguinus	cruzlimai Hershkovitz 1966
+Saguinus	fuscicollis fuscus Lesson 1840
+Saguinus	fuscus Lesson 1840
+Saguinus	fuscicollis illigeri Pucheran 1845
+Saguinus	illigeri Pucheran 1845
+Saguinus	fuscicollis leucogenys Gray 1866
+Saguinus	leucogenys Gray 1866
+Saguinus	fuscicollis nigrifrons Geoffroy 1851
+Saguinus	nigrifrons Geoffroy 1851
+Saguinus	fuscicollis weddelli Deville 1849
+Saguinus	weddelli Deville 1849
+Saguinus	fuscicollis avilapiresi Hershkovitz 1966
+Saguinus	avilapiresi Hershkovitz 1966
+Saguinus	fuscicollis lagonotus Jimenez
+Saguinus	lagonotus Jimenez
+Saguinus	fuscicollis fuscicollis Spix 1823
+Saguinus	fuscicollis Spix 1823
+Saguinus	fuscicollis primitivus Hershkovitz 1977
+Saguinus	primitivus Hershkovitz 1977
+Saguinus	geoffroyi Pucheran 1845
+Saguinus	graellsi Jimenez
+Saguinus	imperator subgrisescens Loennberg 1940
+Saguinus	subgrisescens Loennberg 1940
+Saguinus	imperator imperator Goeldi 1907
+Saguinus	imperator Goeldi 1907
+Saguinus	inustus Schwartz 1951
+Saguinus	labiatus thomasi Goeldi 1907
+Saguinus	thomasi Goeldi 1907
+Saguinus	labiatus rufiventer Gray 1843
+Saguinus	rufiventer Gray 1843
+Saguinus	labiatus 
+Saguinus	labiatus labiatus
+Saguinus	labiatus
+Saguinus	leucopus Guenther 1877
+Saguinus	martinsi ochraceus Hershkovitz 1966
+Saguinus	ochraceus Hershkovitz 1966
+Saguinus	martinsi martinsi Thomas 1912
+Saguinus	martinsi Thomas 1912
+Saguinus	melanoleucus crandalli Hershkovitz 1966
+Saguinus	crandalli Hershkovitz 1966
+Saguinus	melanoleucus melanoleucus
+Saguinus	melanoleucus
+Saguinus	melanoleucus Miranda Ribeiro 1912
+Saguinus	midas Linnaeus 1758
+Saguinus	mystax mystax
+Saguinus	mystax
+Saguinus	mystax pluto Loennberg 1926
+Saguinus	pluto Loennberg 1926
+Saguinus	mystax Spix 1823
+Saguinus	mystax pileatus Geoffroy & Deville 1848
+Saguinus	pileatus Geoffroy & Deville 1848
+Saguinus	niger e. Geoffroy 1803
+Saguinus	nigricollis graellsi 
+Saguinus	graellsi 
+Saguinus	nigricollis nigricollis Spix 1823
+Saguinus	nigricollis Spix 1823
+Saguinus	nigricollis hernandezi Hershkovitz 1982
+Saguinus	hernandezi Hershkovitz 1982
+Saguinus	oedipus Linnaeus 1758
+Saguinus	tripartitus Milne-Edwards 1878
+Callibella	humilis van Roosmalen van Roosmalen Mittermeier & de Fonseca 1998
+Cebuella	pygmaea niveiventris Loennberg 1940
+Cebuella	niveiventris Loennberg 1940
+Cebuella	pygmaea pygmaea
+Cebuella	pygmaea
+Cebuella	pygmaea Spix 1823
+Mico	acariensis van Roosmalen van Roosmalen Mittermeier & Rylands 2000
+Mico	argentatus Linnaeus 1766
+Mico	chrysoleucus Wagner 1842
+Mico	emiliae Thomas 1920
+Mico	humeralifer e. Geoffroy in Humboldt 1812
+Mico	intermedius Hershkovitz 1977
+Mico	leucippe Thomas 1922
+Mico	manicorensis van Roosmalen van Roosmalen Mittermeier & Rylands 2000
+Mico	marcai Alperin 1993
+Mico	mauesi Mittermeier Schwarz & Ayres 1992
+Mico	melanurus e. Geoffroy in Humboldt 1812
+Mico	nigriceps Ferrari & Lopes 1992
+Mico	rondoni Ferrari Sena Schneider & Silva Jr. 2010
+Mico	saterei Silva Jr. & Noronha 1998
