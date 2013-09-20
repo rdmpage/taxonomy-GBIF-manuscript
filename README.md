@@ -63,7 +63,42 @@ To provide a quick way to scan results for possible problematic taxa I developed
 
 The greater the degree of a cluster node the more genera are in contention for the species in that cluster (for example, the *hoolock* cluster has degree 3, corresponding to the genera (*Bunopithecus*, *Hoolock*, and *Hylobates*). If there were no problematic species names then the number of species names in the clusters would correspond to the number of taxa. In the gibbon example there were 35 distinct species and subspecies names, but only 32 names are in the clusters. Because the specific epithet "*hoolock*" occurs in three genera it occurs once in a single cluster (3 - 1 = 2), and likewise the name "*leuconedys*" occurs in two genera but a single cluster (2 - 1 = 1), so there are 2 + 1 = 3 fewer names in the clusters than in the original list. 
 
+To locate family-level taxa that may have hidden synonymy for each family I plotted the number of potentially problematic species names identified by the cluster maps against the total number of accepted species GBIF recognised within that family.
+
 # Results
+
+## Amphibia
+
+Fig. Amphibia Potentially problematic species names in Amphibia.
+
+![Amphibia](https://raw.github.com/rdmpage/taxonomy-GBIF-manuscript/master/figures/amphibia-plot.png)
+
+Fig. Amphibia shows a plot of the numbers of potentially problematic names against total number of species for all families in the class Amphibia. Families with no problematic names lie along the x-axis. The most noticeable outlier with 89 of 402 (22%) of its species names potentially problematic is the frog family Rhacophoridae. The GBIF classification for this family is an amalgam from The Catalogue of Life, 3rd January 2011, the IUCN Red List of Threatened Species, Interim Register of Marine and Nonmarine Genera, and Integrated Taxonomic Information System, and contains considerable duplication of species names depending on how the genus *Philautus* is delimited. Generic placement in this family is unstable as new findings from molecular phylogenetics are incorporated [Li et al. 2009] and *Philautus* is broken up into smaller genera.
+
+![Rhacophoridae.png](https://raw.github.com/rdmpage/taxonomy-GBIF-manuscript/master/figures/Rhacophoridae.png)
+
+Fig. Rhacophoridae Cluster map for selected genera of the frog family Rhacophoridae. 
+
+The other noticeable outlier is the family Bufonidae, which is also being revised in light of recent phylogenetic analyses.
+
+## Mammals
+
+Fig. Mammalia Potentially problematic species names in Mammalia.
+
+![Mammalia](https://raw.github.com/rdmpage/taxonomy-GBIF-manuscript/master/figures/mammalia-plot.png)
+
+There are a total of 556 problematic names for mammals, the three families with the largest number of issues are the Muridae (rats and mice), and bat families Vespertilionidae and Molossidae (Fig. Mammalia). As an example Fig. Tadarida shows the cluster map for *Tadarida* and associated genera. The composition of these genera have been historically variable, and some of these names have been alternately demoted to subgeneric or promoted to generic rank at various times, although recent work suggests they are distinct and not necessarily closely related [Jones et al. 2002].
+
+![Tadarida](https://raw.github.com/rdmpage/taxonomy-GBIF-manuscript/master/figures/tadarida.png)
+
+Fig. Tadarida Cluster map showing conflicting generic limits for three genera in the family Molossidae.
+
+
+## Bats
+
+## Frogs
+
+## Insects
 
 Case studies
 
@@ -82,10 +117,9 @@ flies
 
 Examples
 
-### Typographic errors
+## Typographic errors
 
-Although the method used here cannot handle changes in the spelling of the specific epithet it can detect some spelling inconsistencies in generic names. For example, in the wasp family Evaniidae GBIF has two generic names, *Szepligetella* sourced from The Catalogue of Life, 3rd January 2011 and *Szepligetiella* (note the extra "i") sourced from the Interim Register of Marine and Nonmarine Genera (Fig. Evaniidae). The correct spelling is  *Szepligetella* (see [Bradley 1908]), so the 14 species belonging to *Szepligetiella* duplicate the 14 from *Szepligetella*. Note that one specific epithet (*similis* Szépligeti 1903) is shared with a third genus *Hyptia*. This is a false positive, in that *Szepligetella similis* was originally described as *Evania similis* and *Hyptia similis* is the original name for a different species (both *Evania similis* and *Hyptia similis* were described in the same publication on pages 385 and 376 respectively; [Szépligeti 1903]).
-
+Although the method used here cannot handle changes in the spelling of the specific epithet, it can detect some spelling inconsistencies in generic names. For example, in the wasp family Evaniidae GBIF has two generic names, *Szepligetella* sourced from The Catalogue of Life, 3rd January 2011 and *Szepligetiella* (note the extra "i") sourced from the Interim Register of Marine and Nonmarine Genera (Fig. Evaniidae). The correct spelling is  *Szepligetella* (see [Bradley 1908]), so the 14 species belonging to *Szepligetiella* duplicate the 14 from *Szepligetella*. Note that one specific epithet (*similis* Szépligeti 1903) is shared with a third genus *Hyptia*. This is a false positive, in that *Szepligetella similis* was originally described as *Evania similis* and *Hyptia similis* is the original name for a different species (both *Evania similis* and *Hyptia similis* were described in the same publication on pages 385 and 376 respectively; [Szépligeti 1903]).
 
 ![Evaniidae](https://raw.github.com/rdmpage/taxonomy-GBIF-manuscript/master/figures/Evaniidae.png)
 
@@ -94,7 +128,7 @@ Fig. Evaniidae. Cluster map for three wasp genera in the family Evaniidae.
 
 # Discussion
 
-The quality of GBIF data has come under increasing scrutiny [Yesson et al. 2007][Gaiji et al. 2013][Mesibov, 2013][Otegui et al. 2013a], which may also reflect increasing use of its data. Given the scale of GBIF's ambition (mobilising the world's biodiversity data), the multiplicity of data providers, and variation in the quality of that data, it is inevitable that there will be errors. By themselves, the presence of errors matters less than the speed with which they are identified and corrected [Birney 2012]. Furthermore, errors may exist but not have a significant impact on the kinds of uses to which the data are being put [Belbin et al. 2013].
+The quality of GBIF data has come under increasing scrutiny [Yesson et al. 2007][Gaiji et al. 2013][Mesibov, 2013][Otegui et al. 2013a]. Given the scale of GBIF's ambition (mobilising the world's biodiversity data), the multiplicity of data providers, and variation in the quality of that data, it is inevitable that there will be errors. By themselves, the presence of errors matters less than the speed with which they are identified and corrected [Birney 2012]. Furthermore, errors may exist but not have a significant impact on the kinds of uses to which the data are being put [Belbin et al. 2013].
 
 But the inconsistency in the GBIF taxonomy is worrying, particularly as its extent seems unrecognised. GBIF is dependent on the quality of its source data bases, but many taxonomic databases are little more than lists of names that have an imprimatur of authority stamped on them. The names themselves are rarely linked to the primary taxonomic literature, making it difficult for a user to investigate further and establish the status of a contested name. Given that we have multiple databases and multiple authorities, reconciling name lists becomes an exercise in comparative trust (which authority is more authoritative?). The very existence of multiple "authoritative" sources for the taxonomy of the same group of organisms suggests that different authorities may have different goals and hence different classifications. In the case of mammals, there are at least three major sources of names harvested by GBIF: the Catalogue of Life, the IUCN Red List, and Mammal Species of the World. A cluster map of the accepted species names recognised by each database (Fig. Mammals) reveals that all three sources recognise names that are not recognised by either of the other two databases.
 
@@ -102,7 +136,7 @@ But the inconsistency in the GBIF taxonomy is worrying, particularly as its exte
 
 Fig. Mammals. Cluster map for accepted species names for mammals according to three different taxonomic databases. The largest cluster represents names found in all three databases. Clusters linked to a single database are unique to that source.
 
-Unless one database is more up to date than another and includes newly described species (new mammals are still being discovered; [Ceballos and Ehrlich 2009]) one might expect that the names unique to one or more database should be either objective synonyms (the same taxa placed in different genera) or represent disputes about the delimitation of taxa. 
+Unless one database is more up to date than another and includes newly described species (and new mammals are still being discovered; [Ceballos and Ehrlich 2009]), or there limits of species-level taxa are hotly contested (unlikely in the case of most mammals) then we might expect that the names unique to one or more database are objective synonyms. Failure to recognise these as resulted in hundreds of problematic mammalian names in GBIF's classification.
 
 
 ## Future directions
@@ -135,7 +169,11 @@ But the larger task facing the zoological taxonomy community is the lack of one 
 
 - Jetz, W., McPherson, J. M., & Guralnick, R. P. (2012). Integrating biodiversity distribution knowledge: toward a global map of life. Trends in Ecology & Evolution, 27(3), 151–159. [doi:10.1016/j.tree.2011.09.007] [Jetz et al. 2012]
 
+- JONES, K. E., PURVIS, A., MacLARNON, A., BININDA-EMONDS, O. R. P., & SIMMONS, N. B. (2002). A phylogenetic supertree of the bats (Mammalia: Chiroptera). Biological Reviews of the Cambridge Philosophical Society, 77(2), 223–259. [doi:10.1017/S1464793101005899] [Jones et al. 2002]
+
 - Kennedy, J. B., Kukla, R., & Paterson, T. (2005). Scientific Names Are Ambiguous as Identifiers for Biological Taxa: Their Context and Definition Are Required for Accurate Data Integration (pp. 80–95). Springer-Verlag. [doi:10.1007/11530084_8][Kennedy et al. 2005]
+
+- Li, J., Che, J., Murphy, R. W., Zhao, H., Zhao, E., Rao, D., & Zhang, Y. (2009). New insights to the molecular phylogenetics and generic assessment in the Rhacophoridae (Amphibia: Anura) based on five nuclear and three mitochondrial genes, with comments on the evolution of reproduction. Molecular Phylogenetics and Evolution, 53(2), 509–522. [doi:10.1016/j.ympev.2009.06.023] [Li et al. 2009]
 
 - Matthew, W. D., Granger, W. (1923) New fossil Mammals from the Pliocene of Szechuan, China. Bulletin of the American Museum of Natural History 48: 563–598. http://hdl.handle.net/2246/1308 [Matthew and Granger 1923]
 
@@ -188,7 +226,9 @@ Phillimore, A. B., & Owens, I. P. . (2006). Are subspecies useful in evolutionar
 [Gaiji et al. 2013]: https://journals.ku.edu/index.php/jbi/article/view/4124 
 [Harlan 1834]: http://biostor.org/reference/127799 
 [Jetz et al. 2012]: http://dx.doi.org/10.1016/j.tree.2011.09.007
+[Jones et al. 2002]: http://dx.doi.org/10.1017/S1464793101005899
 [Kennedy et al. 2005]: http://dx.doi.org/10.1007/11530084_8
+[Li et al. 2009]: http://dx.doi.org/10.1016/j.ympev.2009.06.023
 [Matthew and Granger 1923]: http://hdl.handle.net/2246/1308
 [Mootnick and Groves 2005]: http://dx.doi.org/10.1007/s10764-005-5332-4
 [Otegui 2013a]: https://journals.ku.edu/index.php/jbi/article/view/4125 

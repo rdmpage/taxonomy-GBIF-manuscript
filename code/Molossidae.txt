@@ -1,0 +1,360 @@
+Mops	brachypterus leonis Thomas 1908
+Mops	leonis Thomas 1908
+Mops	brachypterus Peters 1852
+Mops	brachypterus brachypterus
+Mops	brachypterus
+Mops	condylurus orientis Allen & Loveridge 1942
+Mops	orientis Allen & Loveridge 1942
+Mops	condylurus Smith 1833
+Mops	condylurus osborni Allen 1917
+Mops	osborni Allen 1917
+Mops	condylurus condylurus
+Mops	condylurus
+Mops	condylurus wonderi Sanbron 1936
+Mops	wonderi Sanbron 1936
+Mops	congicus Allen 1917
+Mops	demonstrator Thomas 1903
+Mops	leucostigma Allen 1918
+Mops	midas midas
+Mops	midas
+Mops	midas miarensis Grandidier 1869
+Mops	miarensis Grandidier 1869
+Mops	midas Sundevall 1843
+Mops	mops Blainville 1840
+Mops	nanulus Allen 1917
+Mops	niangarae Allen 1917
+Mops	niveiventer Cabrera & Ruxton 1926
+Mops	petersoni El Rayah 1981
+Mops	sarasinorum sarasinorum
+Mops	sarasinorum
+Mops	sarasinorum lanei Taylor 1934
+Mops	lanei Taylor 1934
+Mops	sarasinorum Meyer 1899
+Mops	spurrelli Dollman 1911
+Mops	thersites Thomas 1903
+Mops	trevori Allen 1917
+Mormopterus	acetabulosus Hermann 1804
+Mormopterus	beccarii astrolabiensis Meyer 1899
+Mormopterus	astrolabiensis Meyer 1899
+Mormopterus	beccarii Peters 1881
+Mormopterus	beccarii beccarii Peters 1881
+Mormopterus	doriae Andersen 1907
+Mormopterus	helveticus
+Mormopterus	jugularis Peters 1865
+Mormopterus	kalinowskii Thomas 1893
+Mormopterus	loriae cobourgiana Johnson 1959
+Mormopterus	cobourgiana Johnson 1959
+Mormopterus	loriae loriae
+Mormopterus	loriae
+Mormopterus	loriae ridei Felten 1964
+Mormopterus	ridei Felten 1964
+Mormopterus	loriae Thomas 1897
+Mormopterus	minutus Miller 1899
+Mormopterus	nonghensis
+Mormopterus	norfolkensis Gray 1840
+Mormopterus	petrophilus Roberts 1917
+Mormopterus	phrudus Handley 1956
+Mormopterus	planiceps Peters 1866
+Mormopterus	setiger Peters 1878
+Mormopterus	stehlini
+Nyctinomus	helveticus
+Nyctinomus	stehlini
+Otomops	formosus Chasen 1939
+Otomops	johnstonei Kitchener How
+Otomops	madagascariensis Dorst 1953
+Otomops	martiensseni icarus Chubb 1917
+Otomops	icarus Chubb 1917
+Otomops	martiensseni martiensseni Matschie 1897
+Otomops	martiensseni Matschie 1897
+Otomops	papuensis Lawrence 1948
+Otomops	secundus Hayman 1952
+Otomops	wroughtoni Thomas 1913
+Promops	centralis Thomas 1915
+Promops	centralis centralis Thomas 1915
+Promops	centralis occultus Thomas 1915
+Promops	occultus Thomas 1915
+Promops	centralis davisoni Thomas 1921
+Promops	davisoni Thomas 1921
+Promops	nasutus ancilla Thomas 1915
+Promops	ancilla Thomas 1915
+Promops	nasutus fosteri Miller 1907
+Promops	fosteri Miller 1907
+Promops	nasutus pamana Miller 1913
+Promops	pamana Miller 1913
+Promops	nasutus downsi Goodwin 1962
+Promops	downsi Goodwin 1962
+Promops	nasutus nasutus
+Promops	nasutus
+Promops	nasutus Spix 1823
+Sauromys	petrophilus erongensis Roberts 1946
+Sauromys	erongensis Roberts 1946
+Sauromys	petrophilus fitzsimonsi Roberts 1946
+Sauromys	fitzsimonsi Roberts 1946
+Sauromys	petrophilus petrophilus
+Sauromys	petrophilus
+Sauromys	petrophilus haagneri Roberts 1917
+Sauromys	haagneri Roberts 1917
+Sauromys	petrophilus umbratus Shortridge & Carter 1938
+Sauromys	umbratus Shortridge & Carter 1938
+Sauromys	petrophilus Roberts 1917
+Chaerephon	aloysiisabaudiae Festa 1907
+Chaerephon	ansorgei Thomas 1913
+Chaerephon	bemmeleni Jentink 1879
+Chaerephon	bemmeleni bemmeleni
+Chaerephon	bemmeleni
+Chaerephon	bemmeleni cistura Thomas 1903
+Chaerephon	cistura Thomas 1903
+Chaerephon	bivittata Heuglin 1861
+Chaerephon	bivittatus Heuglin 1861
+Chaerephon	bregullae Felten 1964
+Chaerephon	chapini chapini
+Chaerephon	chapini
+Chaerephon	chapini Allen 1917
+Chaerephon	chapini lancasteri Hayman 1938
+Chaerephon	lancasteri Hayman 1938
+Chaerephon	gallagheri Harrison 1975
+Chaerephon	jobensis colonicus Thomas 1906
+Chaerephon	colonicus Thomas 1906
+Chaerephon	jobensis Miller 1902
+Chaerephon	jobensis jobensis
+Chaerephon	jobensis
+Chaerephon	johorensis Dobson 1873
+Chaerephon	leucogaster Grandidier 1870
+Chaerephon	major Trouessart 1897
+Chaerephon	nigeriae spillmani Monard 1933
+Chaerephon	spillmani Monard 1933
+Chaerephon	nigeriae Thomas 1913
+Chaerephon	nigeriae nigeriae
+Chaerephon	nigeriae
+Chaerephon	plicata Buchanan 1800
+Chaerephon	plicatus luzonus Hollister 1913
+Chaerephon	luzonus Hollister 1913
+Chaerephon	plicatus tenuis Horsfield 1822
+Chaerephon	tenuis Horsfield 1822
+Chaerephon	plicatus insularis Phillips 1932
+Chaerephon	insularis Phillips 1932
+Chaerephon	plicatus Buchannan 1800
+Chaerephon	plicatus dilatatus Horsfield 1822
+Chaerephon	dilatatus Horsfield 1822
+Chaerephon	plicatus plicatus
+Chaerephon	plicatus
+Chaerephon	pumila Cretzschmar 1830
+Chaerephon	pumilus Cretzschmar 1830
+Chaerephon	russata Allen 1917
+Chaerephon	russatus Allen 1917
+Chaerephon	shortridgei Thomas 1926
+Chaerephon	solomonis Troughton 1931
+Chaerephon	tomensis Juste & Ibanez 1993
+Cheiromeles	parvidens Miller & Hollister 1921
+Cheiromeles	torquatus jacobsoni Thomas 1923
+Cheiromeles	jacobsoni Thomas 1923
+Cheiromeles	torquatus Horsfield 1824
+Cheiromeles	torquatus torquatus
+Cheiromeles	torquatus
+Cheiromeles	torquatus caudatus Temminck 1841
+Cheiromeles	caudatus Temminck 1841
+Cynomops	abrasus Temminck 1827
+Cynomops	abrasus abrasus
+Cynomops	abrasus
+Cynomops	abrasus brachymeles Peters 1865
+Cynomops	brachymeles Peters 1865
+Cynomops	abrasus mastivus Thomas 1911
+Cynomops	mastivus Thomas 1911
+Cynomops	abrasus cerastes Thomas 1901
+Cynomops	cerastes Thomas 1901
+Cynomops	greenhalli Goodwin 1958
+Cynomops	mexicanus Jones & Genoways 1967
+Cynomops	paranus Thomas 1901
+Cynomops	planirostris Peters 1865
+Eumops	auripendulus auripendulus
+Eumops	auripendulus
+Eumops	auripendulus major Eger 1974
+Eumops	major Eger 1974
+Eumops	auripendulus Shaw 1800
+Eumops	bonariensis delticus Thomas 1923
+Eumops	delticus Thomas 1923
+Eumops	bonariensis nanus Miller 1900
+Eumops	nanus Miller 1900
+Eumops	bonariensis Peters 1874
+Eumops	bonariensis bonariensis
+Eumops	bonariensis
+Eumops	dabbenei Thomas 1914
+Eumops	floridanus Allen 1932
+Eumops	glaucinus floridanus Allen 1932
+Eumops	glaucinus glaucinus Wagner 1843
+Eumops	glaucinus Wagner 1843
+Eumops	hansae Sanborn 1932
+Eumops	maurus Thomas 1901
+Eumops	patagonicus beckeri Sanborn 1932
+Eumops	beckeri Sanborn 1932
+Eumops	patagonicus Thomas 1924
+Eumops	patagonicus patagonicus
+Eumops	patagonicus
+Eumops	perotis californicus Merriam 1890
+Eumops	californicus Merriam 1890
+Eumops	perotis Schinz 1821
+Eumops	perotis gigas Peters 1864
+Eumops	gigas Peters 1864
+Eumops	perotis perotis
+Eumops	perotis
+Eumops	trumbulli Thomas 1901
+Eumops	underwoodi Goodwin 1940
+Eumops	underwoodi sonoriensis Benson 1947
+Eumops	sonoriensis Benson 1947
+Eumops	underwoodi underwoodi Goodwin 1940
+Molossops	abrasus Temminck 1827
+Molossops	aequatorianus Cabrera 1917
+Molossops	greenhalli Goodwin 1958
+Molossops	mattogrossensis Vieira 1942
+Molossops	neglectus Williams & Genoways 1980
+Molossops	planirostris Peters 1866
+Molossops	temminckii sylvia Thomas 1924
+Molossops	sylvia Thomas 1924
+Molossops	temminckii temminckii
+Molossops	temminckii
+Molossops	temminckii griseiventer Sanborn 1941
+Molossops	griseiventer Sanborn 1941
+Molossops	temminckii Burmeister 1854
+Molossops	temminickii
+Nyctinomops	aurispinosus Peale 1848
+Nyctinomops	femorosaccus Merriam 1889
+Nyctinomops	laticaudatus yucatanicus Miller 1902
+Nyctinomops	yucatanicus Miller 1902
+Nyctinomops	laticaudatus europs Allen 1889
+Nyctinomops	europs Allen 1889
+Nyctinomops	laticaudatus ferruginea Goodwin 1954
+Nyctinomops	ferruginea Goodwin 1954
+Nyctinomops	laticaudatus macarenensis Barriga-Bonilla 1965
+Nyctinomops	macarenensis Barriga-Bonilla 1965
+Nyctinomops	laticaudatus laticaudatus
+Nyctinomops	laticaudatus
+Nyctinomops	laticaudatus Geoffroy 1805
+Nyctinomops	macrotis Gray 1840
+Tadarida	aegyptiaca aegyptiaca
+Tadarida	aegyptiaca
+Tadarida	aegyptiaca bocagei Seabra 1900
+Tadarida	bocagei Seabra 1900
+Tadarida	aegyptiaca thomasi Wroughton 1919
+Tadarida	thomasi Wroughton 1919
+Tadarida	aegyptiaca sindica Wroughton 1919
+Tadarida	sindica Wroughton 1919
+Tadarida	aegyptiaca tragatus Dobson 1874
+Tadarida	tragatus Dobson 1874
+Tadarida	aegyptiaca Geoffroy 1818
+Tadarida	aloysiisabaudiae Festa 1907
+Tadarida	ansorgei Thomas 1913
+Tadarida	australis Gray 1839
+Tadarida	bemmeleni Jentink 1879
+Tadarida	bivittata Heuglin 1861
+Tadarida	brachyptera Peters 1852
+Tadarida	brasiliensis cynocephala Le Conte 1831
+Tadarida	cynocephala Le Conte 1831
+Tadarida	brasiliensis mexicana Saussure 1860
+Tadarida	mexicana Saussure 1860
+Tadarida	brasiliensis murina Gray 1827
+Tadarida	murina Gray 1827
+Tadarida	brasiliensis antillularum Miller 1902
+Tadarida	antillularum Miller 1902
+Tadarida	brasiliensis bahamensis Rhen 1902
+Tadarida	bahamensis Rhen 1902
+Tadarida	brasiliensis brasiliensis Geoffroy 1824
+Tadarida	brasiliensis Geoffroy 1824
+Tadarida	brasiliensis constanzae Shamel 1931
+Tadarida	constanzae Shamel 1931
+Tadarida	brasiliensis intermedia Shamel 1931
+Tadarida	intermedia Shamel 1931
+Tadarida	brasiliensis muscula Gundlach 1861
+Tadarida	muscula Gundlach 1861
+Tadarida	bregullae Felten 1964
+Tadarida	chapini Allen 1917
+Tadarida	condylura Smith 1833
+Tadarida	congica Allen 1917
+Tadarida	constantinei
+Tadarida	demonstrator Thomas 1903
+Tadarida	engesseri
+Tadarida	espiritosantensis Ruschi 1951
+Tadarida	fulminans mastersoni Roberts 1946
+Tadarida	mastersoni Roberts 1946
+Tadarida	fulminans fulminans Thomas 1903
+Tadarida	fulminans Thomas 1903
+Tadarida	gallagheri Harrison 1975
+Tadarida	insignis Blyth 1862
+Tadarida	jobensis Miller 1902
+Tadarida	jobimena Goodman & Cardiff 2004
+Tadarida	johorensis Dobson 1873
+Tadarida	kuboriensis McKean & Calaby 1968
+Tadarida	latouchei Thomas 1920
+Tadarida	leptognatha
+Tadarida	leucostigma Allen 1918
+Tadarida	lobata Thomas 1891
+Tadarida	major Trouessart 1897
+Tadarida	midas Sundevall 1843
+Tadarida	mops de Blainville 1840
+Tadarida	nanula Allen 1917
+Tadarida	niangarae Allen 1917
+Tadarida	nigeriae Thomas 1913
+Tadarida	niveiventer Cabrera & Ruxton 1926
+Tadarida	petersoni El-Rayah 1981
+Tadarida	plicata Buchanan 1800
+Tadarida	pumila Cretzschmar 1826
+Tadarida	rusingae
+Tadarida	russata Allen 1917
+Tadarida	sarasinorum Meyer 1899
+Tadarida	solomonis Troughton 1931
+Tadarida	spurrelli Dollman 1911
+Tadarida	teniotis Rafinesque 1814
+Tadarida	teniotis rueppelli Temminck 1826
+Tadarida	rueppelli Temminck 1826
+Tadarida	teniotis teniotis
+Tadarida	teniotis
+Tadarida	thersites Thomas 1903
+Tadarida	tomensis Juste & Ibanez 1993
+Tadarida	trevori Allen 1917
+Tadarida	ventralis africana Dobson 1876
+Tadarida	africana Dobson 1876
+Tadarida	ventralis ventralis
+Tadarida	ventralis
+Tadarida	ventralis Heuglin 1861
+Platymops	setiger macmillani Thomas 1906
+Platymops	macmillani Thomas 1906
+Platymops	setiger Peters 1878
+Platymops	setiger setiger
+Platymops	setiger
+Molossus	ater Geoffroy 1805
+Molossus	aztecus Saussure 1860
+Molossus	barnesi Thomas 1905
+Molossus	bondae Allen 1904
+Molossus	coibensis Allen 1904
+Molossus	colibensis
+Molossus	currentium bondae Allen 1904
+Molossus	currentium currentium
+Molossus	currentium
+Molossus	currentium robustus Lopez-Gonzalez & Presley 2001
+Molossus	robustus Lopez-Gonzalez & Presley 2001
+Molossus	currentium Thomas 1901
+Molossus	molossus pygmaeus Miller 1900
+Molossus	pygmaeus Miller 1900
+Molossus	molossus debilis Miller 1913
+Molossus	debilis Miller 1913
+Molossus	molossus fortis Miller 1913
+Molossus	fortis Miller 1913
+Molossus	molossus milleri Johnson 1952
+Molossus	milleri Johnson 1952
+Molossus	molossus tropidorhynchus Gray 1839
+Molossus	tropidorhynchus Gray 1839
+Molossus	molossus molossus
+Molossus	molossus
+Molossus	molossus verrilli Allen 1908
+Molossus	verrilli Allen 1908
+Molossus	molossus Pallas 1766
+Molossus	pretiosus Miller 1902
+Molossus	rufus Geoffroy 1805
+Molossus	sinaloae sinaloae Allen 1906
+Molossus	sinaloae Allen 1906
+Molossus	sinaloae trinitatus Goodwin 1959
+Molossus	trinitatus Goodwin 1959
+Myopterus	daubentonii Desmarest 1820
+Myopterus	daubentonii albatus Thomas 1915
+Myopterus	albatus Thomas 1915
+Myopterus	daubentonii daubentonii Desmarest 1820
+Myopterus	whitleyi Scharff 1900

@@ -1,0 +1,402 @@
+Feihyla	palpebralis Smith 1924
+Raorchestes	anili Biju & Bossuyt 2006
+Raorchestes	annandalii Boulenger 1906
+Raorchestes	beddomii Guenther 1876
+Raorchestes	bobingeri Biju & Bossuyt 2005
+Raorchestes	bombayensis Annandale 1919
+Raorchestes	chalazodes Guenther 1876
+Raorchestes	charius Rao 1937
+Raorchestes	dubois Biju & Bossuyt 2006
+Raorchestes	flaviventris Boulenger 1882
+Raorchestes	glandulosus Jerdon 1854
+Raorchestes	graminirupes Biju & Bossuyt 2005
+Raorchestes	griet Bossuyt 2002
+Raorchestes	gryllus Smith 1924
+Raorchestes	longchuanensis Yang & Li 1978
+Raorchestes	luteolus Kuramoto & Joshy 2003
+Raorchestes	menglaensis Kou 1990
+Raorchestes	munnarensis Biju & Bossuyt 2009
+Raorchestes	nerostagona Biju & Bossuyt 2005
+Raorchestes	ochlandrae Gururaja Dinesh Palot Radhakrishnan & Ramachandra 2007
+Raorchestes	parvulus Boulenger 1893
+Raorchestes	ponmudi Biju & Bossuyt 2005
+Raorchestes	sahai Sarkar & Ray 2006
+Raorchestes	shillongensis Pillai & Chanda 1973
+Raorchestes	signatus Boulenger 1882
+Raorchestes	terebrans Das & Chanda 1998
+Raorchestes	tinniens Jerdon 1854
+Raorchestes	travancoricus Boulenger 1891
+Raorchestes	tuberohumerus Kuramoto & Joshy 2003
+Raorchestes	viridis Manamendra-Arachchi & Pethiyagoda 2005
+Buergeria	buergeri Temminck & Schlegel 1838
+Buergeria	japonica Hallowell 1861
+Buergeria	oxycephala Boulenger 1900
+Buergeria	pollicaris Werner 1914
+Buergeria	robusta Boulenger 1909
+Ghatixalus	asterops Biju Roelants & Bossuyt 2008
+Ghatixalus	variabilis Jerdon 1854
+Pseudophilautus	abundus Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	adspersus Guenther 1872
+Pseudophilautus	alto Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	amboli Biju & Bossuyt 2009
+Pseudophilautus	asankai Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	auratus Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	caeruleus Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	cavirostris Guenther 1869
+Pseudophilautus	cuspis Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	decoris Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	dimbullae Shreve 1940
+Pseudophilautus	eximius Shreve 1940
+Pseudophilautus	extirpo Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	femoralis Guenther 1864
+Pseudophilautus	fergusonianus Ahl 1927
+Pseudophilautus	folicola Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	frankenbergi Meegaskumbura & Manamendra-Arachchi 2005
+Pseudophilautus	fulvus Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	hallidayi Meegaskumbura & Manamendra-Arachchi 2005
+Pseudophilautus	halyi Boulenger 1904
+Pseudophilautus	hoffmanni Meegaskumbura & Manamendra-Arachchi 2005
+Pseudophilautus	hoipolloi Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	hypomelas Guenther 1876
+Pseudophilautus	leucorhinus Lichtenstein & Martens 1856
+Pseudophilautus	limbus Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	lunatus Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	macropus 
+Pseudophilautus	maia Meegaskumbura Manamendra-Arachchi Schneider & Pethiyagoda 2007
+Pseudophilautus	malcolmsmithi Ahl 1927
+Pseudophilautus	microtympanum Guenther 1858
+Pseudophilautus	mittermeieri Meegaskumbura & Manamendra-Arachchi 2005
+Pseudophilautus	mooreorum Meegaskumbura & Manamendra-Arachchi 2005
+Pseudophilautus	nanus Guenther 1869
+Pseudophilautus	nasutus 
+Pseudophilautus	nemus Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	ocularis Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	oxyrhynchus Guenther 1872
+Pseudophilautus	papillosus Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	pardus Meegaskumbura Manamendra-Arachchi Schneider & Pethiyagoda 2007
+Pseudophilautus	pleurotaenia Boulenger 1904
+Pseudophilautus	poppiae Meegaskumbura & Manamendra-Arachchi 2005
+Pseudophilautus	popularis Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	procax Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	regius Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	reticulatus Guenther 1869
+Pseudophilautus	rugatus Ahl 1927
+Pseudophilautus	rus Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	sarasinorum Muller 1887
+Pseudophilautus	schmarda Kelaart 1854
+Pseudophilautus	semiruber Annandale 1913
+Pseudophilautus	silus Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	silvaticus Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	simba Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	sordidus Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	steineri Meegaskumbura & Manamendra-Arachchi 2005
+Pseudophilautus	stellatus Kelaart 1853
+Pseudophilautus	stictomerus 
+Pseudophilautus	stuarti Meegaskumbura & Manamendra-Arachchi 2005
+Pseudophilautus	temporalis Guenther 1864
+Pseudophilautus	variabilis Guenther 1858
+Pseudophilautus	wynaadensis 
+Pseudophilautus	zal Manamendra-Arachchi & Pethiyagoda 2005
+Pseudophilautus	zimmeri Ahl 1927
+Pseudophilautus	zorro Manamendra-Arachchi & Pethiyagoda 2005
+Chiromantis	cherrapunjiae Roonwal & Kripalani 1966
+Chiromantis	doriae Boulenger 1893
+Chiromantis	dudhwaensis Ray 1992
+Chiromantis	hansenae Cochran 1927
+Chiromantis	kelleri Boettger 1893
+Chiromantis	laevis Smith 1924
+Chiromantis	nongkhorensis Cochran 1927
+Chiromantis	petersii Boulenger 1882
+Chiromantis	punctatus Wilkinson Win Thin Lwin Shein & Tun 2003
+Chiromantis	rufescens Guenther 1869
+Chiromantis	samkosensis Grismer Thy Chav & Holden 2007
+Chiromantis	shyamrupus Chanda & Ghosh 1989
+Chiromantis	simus Annandale 1915
+Chiromantis	vittatus Boulenger 1887
+Chiromantis	xerampelina Peters 1854
+Gracixalus	gracilipes Bourret 1937
+Gracixalus	jinxiuensis Hu in Hu Fei & Ye 1978
+Gracixalus	medogensis Ye & Hu 1984
+Gracixalus	supercornutus Orlov Ho & Nguyen 2004
+Hylambates	dorsalis Peters 1875
+Kurixalus	ananjevae Matsui & Orlov 2004
+Kurixalus	baliogaster Inger Orlov & Darevsky 1999
+Kurixalus	banaensis Bourret 1939
+Kurixalus	bisacculus Taylor 1962
+Kurixalus	carinensis Boulenger 1893
+Kurixalus	eiffingeri Boettger 1895
+Kurixalus	hainanus Zhao Wang & Shi in Zhao Wang Shi Wu & Zhao 2005
+Kurixalus	idiootocus Kuramoto & Wang 1987
+Kurixalus	naso Annandale 1912
+Kurixalus	odontotarsus Ye & Fei in Ye Fei & Hu 1993
+Kurixalus	verrucosus Boulenger 1893
+Nyctixalus	margaritifer Boulenger 1882
+Nyctixalus	pictus Peters 1871
+Nyctixalus	spinosus Taylor 1920
+Polypedates	chlorophthalmus Das 2005
+Polypedates	colletti Boulenger 1890
+Polypedates	cruciger Blyth 1852
+Polypedates	dennysii Blanford 1881
+Polypedates	eques Guenther 1858
+Polypedates	fastigo Manamendra-Arachchi & Pethiyagoda 2001
+Polypedates	hecticus Peters 1863
+Polypedates	impresus Yang 2008
+Polypedates	insularis Das 1995
+Polypedates	leucomastax Gravenhorst 1829
+Polypedates	leucomystax Gravenhorst 1829
+Polypedates	longinasus Ahl 1927
+Polypedates	macrotis Boulenger 1891
+Polypedates	maculatus Gray 1830
+Polypedates	megacephalus Hallowell 1861
+Polypedates	mutus Smith 1940
+Polypedates	occidentalis Das & Dutta 2006
+Polypedates	otilophus Boulenger 1893
+Polypedates	pseudocruciger Das & Ravichandran 1998
+Polypedates	spinus Yang 2008
+Polypedates	taeniatus Boulenger 1906
+Polypedates	zed Dubois 1987
+Liuixalus	hainanus Liu & Wu 2004
+Liuixalus	ocellatus Liu & Hu 1973
+Liuixalus	romeri Smith 1953
+Philautus	abditus Inger Orlov & Darevsky 1999
+Philautus	abundus Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	acutirostris Peters 1867
+Philautus	acutus Dring 1987
+Philautus	adspersus Guenther 1872
+Philautus	alto Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	amoenus Smith 1931
+Philautus	andersoni Ahl 1927
+Philautus	anili Biju & Bossuyt 2006
+Philautus	annandalii Boulenger 1906
+Philautus	asankai Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	aurantium Inger 1989
+Philautus	auratus Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	aurifasciatus Schlegel 1837
+Philautus	banaensis Bourret 1939
+Philautus	beddomii Guenther 1876
+Philautus	bobingeri Biju & Bossuyt 2005
+Philautus	bombayensis Annandale 1919
+Philautus	bunitus Inger Stuebing & Tan 1995
+Philautus	caeruleus Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	cardamonus Ohler Swan & Daltry 2002
+Philautus	cavirostris Guenther 1869
+Philautus	chalazodes Guenther 1876
+Philautus	charius Rao 1937
+Philautus	cinerascens Stoliczka 1870
+Philautus	cornutus Boulenger 1920
+Philautus	cuspis Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	decoris Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	dimbullae Shreve 1940
+Philautus	disgregus Inger 1989
+Philautus	dubius Boulenger 1882
+Philautus	dubois Biju & Bossuyt 2006
+Philautus	erythrophthalmus Stuebing & Wong 2000
+Philautus	eximius Shreve 1940
+Philautus	extirpo Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	femoralis Guenther 1864
+Philautus	fergusonianus Ahl 1927
+Philautus	flaviventris Boulenger 1882
+Philautus	folicola Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	frankenbergi Meegaskumbura & Manamendra-Arachchi 2005
+Philautus	fulvus Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	garo Boulenger 1919
+Philautus	glandulosus Jerdon 1854
+Philautus	graminirupes Biju & Bossuyt 2005
+Philautus	griet Bossuyt 2002
+Philautus	gryllus Smith 1924
+Philautus	gunungensis Malkmus & Riede 1996
+Philautus	hainanus Liu & Wu in Liu Wang Lu Zhao Che & Wu 2004
+Philautus	hallidayi Meegaskumbura & Manamendra-Arachchi 2005
+Philautus	halyi Boulenger 1904
+Philautus	hoffmanni Meegaskumbura & Manamendra-Arachchi 2005
+Philautus	hoipolloi Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	hosii Boulenger 1895
+Philautus	hypomelas Guenther 1876
+Philautus	ingeri Dring 1987
+Philautus	jacobsoni Van Kampen 1912
+Philautus	jerdonii Guenther 1876
+Philautus	jinxiuensis Hu in Hu Fei & Ye 1978
+Philautus	kempiae Boulenger 1919
+Philautus	kempii Annandale 1912
+Philautus	kerangae Dring 1987
+Philautus	leitensis Boulenger 1897
+Philautus	leucorhinus Lichtenstein & Martens 1856
+Philautus	limbus Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	longchuanensis Yang & Li in Yang Su & Li 1979
+Philautus	longicrus Boulenger 1894
+Philautus	lunatus Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	luteolus Kuramoto & Joshy 2003
+Philautus	macropus Guenther 1869
+Philautus	maia Meegaskumbura Manamendra-Arachchi Schneider & Pethiyagoda 2007
+Philautus	malcolmsmithi Ahl 1927
+Philautus	maosonensis Bourret 1937
+Philautus	medogensis Ye & Hu 1984
+Philautus	menglaensis Kou 1990
+Philautus	microdiscus Annandale 1912
+Philautus	microtympanum Guenther 1858
+Philautus	mittermeieri Meegaskumbura & Manamendra-Arachchi 2005
+Philautus	mjobergi Smith 1925
+Philautus	mooreorum Meegaskumbura & Manamendra-Arachchi 2005
+Philautus	namdaphaensis Sarkar & Sanyal 1985
+Philautus	nanus Guenther 1869
+Philautus	nasutus Guenther 1869
+Philautus	neelanethrus Gururaja Aravind Ali Ramachandra Velavan Krishnakumar & Aggarwal 2007
+Philautus	nemus Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	nerostagona Biju & Bossuyt 2005
+Philautus	ocellatus Liu & Hu in Liu Hu Fei & Huang 1973
+Philautus	ochlandrae Gururaja Dinesh Palot Radhakrishnan & Ramachandra 2007
+Philautus	ocularis Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	oxyrhynchus Guenther 1872
+Philautus	pallidipes Barbour 1908
+Philautus	papillosus Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	pardus Meegaskumbura Manamendra-Arachchi Schneider & Pethiyagoda 2007
+Philautus	parvulus Boulenger 1893
+Philautus	petersi Boulenger 1900
+Philautus	petilus Stuart & Heatwole 2004
+Philautus	pleurotaenia Boulenger 1904
+Philautus	poecilius Brown & Alcala 1994
+Philautus	ponmudi Biju & Bossuyt 2005
+Philautus	poppiae Meegaskumbura & Manamendra-Arachchi 2005
+Philautus	popularis Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	procax Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	quyeti Nguyen Hendrix Boehme Vu & Ziegler 2008
+Philautus	refugii Inger & Stuebing 1996
+Philautus	regius Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	reticulatus Guenther 1869
+Philautus	rugatus Ahl 1927
+Philautus	rus Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	sahai Sarkar & Ray 2006
+Philautus	sanctisilvaticus Das & Chanda 1997
+Philautus	sarasinorum Mueller 1887
+Philautus	saueri Malkmus & Riede 1996
+Philautus	schmackeri Boettger 1892
+Philautus	schmarda Kelaart 1854
+Philautus	semiruber Annandale 1913
+Philautus	shillongensis Pillai & Chanda 1973
+Philautus	signatus Boulenger 1882
+Philautus	silus Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	silvaticus Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	simba Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	similipalensis Dutta 2003
+Philautus	similis Van Kampen 1923
+Philautus	sordidus Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	steineri Meegaskumbura & Manamendra-Arachchi 2005
+Philautus	stellatus Kelaart 1853
+Philautus	stictomerus Guenther 1876
+Philautus	stuarti Meegaskumbura & Manamendra-Arachchi 2005
+Philautus	surdus Peters 1863
+Philautus	surrufus Brown & Alcala 1994
+Philautus	tectus Dring 1987
+Philautus	temporalis Guenther 1864
+Philautus	terebrans Das & Chanda 1998
+Philautus	tinniens Jerdon 1854
+Philautus	travancoricus Boulenger 1891
+Philautus	truongsonensis Orlov & Ho 2005
+Philautus	tuberohumerus Kuramoto & Joshy 2003
+Philautus	tytthus Smith 1940
+Philautus	umbra Dring 1987
+Philautus	variabilis Guenther 1858
+Philautus	vermiculatus Boulenger 1900
+Philautus	viridis Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	vittiger Boulenger 1897
+Philautus	worcesteri Stejneger 1905
+Philautus	wynaadensis Jerdon 1854
+Philautus	zal Manamendra-Arachchi & Pethiyagoda 2005
+Philautus	zimmeri Ahl 1927
+Philautus	zorro Manamendra-Arachchi & Pethiyagoda 2005
+Rhacophorus	achantharrhena Harvey Pemberton & Smith 2002
+Rhacophorus	angulirostris Ahl 1927
+Rhacophorus	annamensis Smith 1924
+Rhacophorus	appendiculatus Guenther 1858
+Rhacophorus	arboreus Okada & Kawano 1924
+Rhacophorus	arvalis Lue Lai & Chen 1995
+Rhacophorus	aurantiventris Lue Lai & Chen 1994
+Rhacophorus	baluensis Inger 1954
+Rhacophorus	barisani Harvey Pemberton & Smith 2002
+Rhacophorus	belalongensis Dehling & Grafe 2008
+Rhacophorus	bifasciatus Van Kampen 1923
+Rhacophorus	bimaculatus Peters 1867
+Rhacophorus	bipunctatus Ahl 1927
+Rhacophorus	calcadensis Ahl 1927
+Rhacophorus	calcaneus Smith 1924
+Rhacophorus	catamitus Harvey Pemberton & Smith 2002
+Rhacophorus	chenfui Liu 1945
+Rhacophorus	chuyangsinensis Orlov Nguyen & Ho 2008
+Rhacophorus	cyanopunctatus Manthey & Steiof 1998
+Rhacophorus	dennysi Blanford 1881
+Rhacophorus	depressus Ahl 1927
+Rhacophorus	dorsoviridis Bourret 1937
+Rhacophorus	duboisi Ohler Marquis Swan & Grosjean 2000
+Rhacophorus	dugritei David 1872
+Rhacophorus	dulitensis Boulenger 1892
+Rhacophorus	edentulus Mueller 1894
+Rhacophorus	everetti Boulenger 1894
+Rhacophorus	exechopygus Inger Orlov & Darevsky 1999
+Rhacophorus	fasciatus Boulenger 1895
+Rhacophorus	feae Boulenger 1893
+Rhacophorus	gadingensis Das & Haas 2005
+Rhacophorus	gauni Inger 1966
+Rhacophorus	georgii Roux 1904
+Rhacophorus	harrissoni Inger & Haile 1959
+Rhacophorus	hoanglienensis Orlov Lathrop Murphy & Ho 2001
+Rhacophorus	htunwini Wilkinson Thin Lwin & Shein 2005
+Rhacophorus	hui Liu 1945
+Rhacophorus	hungfuensis Liu & Hu 1961
+Rhacophorus	jarujini Matsui & Panha 2006
+Rhacophorus	kajau Dring 1984
+Rhacophorus	kio Ohler & Delorme 2006
+Rhacophorus	laoshan Mo Jiang Xie & Ohler 2008
+Rhacophorus	lateralis Boulenger 1883
+Rhacophorus	malabaricus Jerdon 1870
+Rhacophorus	margaritifer Schlegel 1837
+Rhacophorus	marmoridorsum Orlov 2008
+Rhacophorus	maximus Guenther 1858
+Rhacophorus	minimus Rao Wilkinson & Liu 2006
+Rhacophorus	modestus Boulenger 1920
+Rhacophorus	moltrechti Boulenger 1908
+Rhacophorus	monticola Boulenger 1896
+Rhacophorus	nigropalmatus Boulenger 1895
+Rhacophorus	nigropunctatus Liu Hu & Yang 1962
+Rhacophorus	omeimontis Stejneger 1924
+Rhacophorus	orlovi Ziegler & Koehler 2001
+Rhacophorus	owstoni Stejneger 1907
+Rhacophorus	pardalis Guenther 1858
+Rhacophorus	penanorum Dehling 2008
+Rhacophorus	pingbianensis Kou Hu & Gao 2001
+Rhacophorus	poecilonotus Boulenger 1920
+Rhacophorus	prasinatus Mou Risch & Lue 1983
+Rhacophorus	prominanus Smith 1924
+Rhacophorus	pseudomalabaricus Vasudevan & Dutta 2000
+Rhacophorus	puerensis He 1999
+Rhacophorus	reinwardtii Schlegel 1840
+Rhacophorus	rhodopus Liu & Hu 1960
+Rhacophorus	rhyssocephalus Wolf 1936
+Rhacophorus	robinsonii Boulenger 1903
+Rhacophorus	rufipes Inger 1966
+Rhacophorus	schlegelii Guenther 1858
+Rhacophorus	suffry Bordoloi Bortamuli & Ohler 2007
+Rhacophorus	taipeianus Liang & Wang 1978
+Rhacophorus	taronensis Smith 1940
+Rhacophorus	translineatus Wu in Sichuan Institute
+Rhacophorus	tuberculatus Anderson 1871
+Rhacophorus	turpes Smith 1940
+Rhacophorus	verrucopus Huang 1983
+Rhacophorus	viridis Hallowell 1861
+Rhacophorus	yaoshanensis Liu & Hu 1962
+Rhacophorus	yinggelingensis Chou Lau & Chan 2007
+Theloderma	albopunctata Liu & Hu 1962
+Theloderma	andersoni Ahl 1927
+Theloderma	asperum Boulenger 1886
+Theloderma	bicolor Bourret 1937
+Theloderma	corticale Boulenger 1903
+Theloderma	gordoni Taylor 1962
+Theloderma	horridum Boulenger 1903
+Theloderma	kwangsiense Liu & Hu 1962
+Theloderma	leporosum Tschudi 1838
+Theloderma	licin McLeod & Ahmad 2007
+Theloderma	moloch Annandale 1912
+Theloderma	nagalandense Orlov Dutta Ghate & Kent 2006
+Theloderma	phrynoderma Ahl 1927
+Theloderma	rhododiscus Liu & Hu 1962
+Theloderma	ryabovi Orlov Dutta Ghate & Kent 2006
+Theloderma	stellatum Taylor 1962
