@@ -69,11 +69,11 @@ To locate family-level taxa that may have hidden synonymy for each family I plot
 
 ## Amphibia
 
-Fig. Amphibia Potentially problematic species names in Amphibia.
-
 ![Amphibia](https://raw.github.com/rdmpage/taxonomy-GBIF-manuscript/master/figures/amphibia-plot.png)
 
-Fig. Amphibia shows a plot of the numbers of potentially problematic names against total number of species for all families in the class Amphibia. Families with no problematic names lie along the x-axis. The most noticeable outlier with 89 of 402 (22%) of its species names potentially problematic is the frog family Rhacophoridae. The GBIF classification for this family is an amalgam from The Catalogue of Life, 3rd January 2011, the IUCN Red List of Threatened Species, Interim Register of Marine and Nonmarine Genera, and Integrated Taxonomic Information System, and contains considerable duplication of species names depending on how the genus *Philautus* is delimited. Generic placement in this family is unstable as new findings from molecular phylogenetics are incorporated [Li et al. 2009] and *Philautus* is broken up into smaller genera.
+Fig. Amphibia Potentially problematic species names in Amphibia. Each dot is an amphibian family.
+
+Fig. Amphibia shows a plot of the numbers of potentially problematic names against total number of species for all families in the class Amphibia. Families with no problematic names lie along the x-axis. The most noticeable outlier with 89 of 402 (22%) of its species names potentially problematic is the frog family Rhacophoridae. The GBIF classification for this family is an amalgam from The Catalogue of Life, the IUCN Red List of Threatened Species, the Interim Register of Marine and Nonmarine Genera, and the Integrated Taxonomic Information System, and contains considerable duplication of species names depending on how the genus *Philautus* is delimited. Generic placement in this family is unstable as new findings from molecular phylogenetics are incorporated [Li et al. 2009] and more recent classifications break *Philautus* up into smaller genera. In this case GBIF has a aggregated competing classifications resulting in numerous frog species appearing twice.
 
 ![Rhacophoridae.png](https://raw.github.com/rdmpage/taxonomy-GBIF-manuscript/master/figures/Rhacophoridae.png)
 
@@ -83,39 +83,27 @@ The other noticeable outlier is the family Bufonidae, which is also being revise
 
 ## Mammals
 
-Fig. Mammalia Potentially problematic species names in Mammalia.
-
 ![Mammalia](https://raw.github.com/rdmpage/taxonomy-GBIF-manuscript/master/figures/mammalia-plot.png)
 
-There are a total of 556 problematic names for mammals, the three families with the largest number of issues are the Muridae (rats and mice), and bat families Vespertilionidae and Molossidae (Fig. Mammalia). As an example Fig. Tadarida shows the cluster map for *Tadarida* and associated genera. The composition of these genera have been historically variable, and some of these names have been alternately demoted to subgeneric or promoted to generic rank at various times, although recent work suggests they are distinct and not necessarily closely related [Jones et al. 2002].
+Fig. Mammalia Potentially problematic species names in Mammalia.
+
+There are a total of 556 problematic species names for mammals, the three families with the largest number of issues are the Muridae (rats and mice), and bat families Vespertilionidae and Molossidae (Fig. Mammalia). As an example Fig. Tadarida shows the cluster map for *Tadarida* (family Molossidae) and associated genera. Generic limits within the Molossidae vary among classifications, and some names have been alternately demoted to subgeneric or promoted to generic rank at various times. Recent work suggests that some of these subgenera are not necessarily closely related to the genera they have been subsumed by [Jones et al. 2002]. The classifications merged by GBIF represent different historical snapshots of bat classification, resulting in duplicate taxa.
 
 ![Tadarida](https://raw.github.com/rdmpage/taxonomy-GBIF-manuscript/master/figures/tadarida.png)
 
 Fig. Tadarida Cluster map showing conflicting generic limits for three genera in the family Molossidae.
 
-
-## Bats
-
-## Frogs
-
 ## Insects
 
-Case studies
+Across insects some 56,999 species names are potentially problematic (Fig. Insecta). This number represents approximate five percent of the total number of insect species in GBIF.
 
-Molossidae (bats)
+![Insecta](https://raw.github.com/rdmpage/taxonomy-GBIF-manuscript/master/figures/insects-plot.png)
 
+Fig. Insecta Potentially problematic species names in insects.
 
-Rhacophoridae (frogs)
+The families with the largest number of problematic names are the Noctuidae (Lepidoptera), Cerambycidae (Coleoptera), and Tachinidae (Diptera). These are large families so this is perhaps expected, however some families have disproportionate numbers of potential issues, such as the fly families Syrphidae and Tachinidae.
 
-flies
-
-
-
-
-
-
-
-Examples
+The fruit fly family Drosophilidae was explored further. Generic limits in this family vary among classifications, 
 
 ## Typographic errors
 
