@@ -67,13 +67,15 @@ To locate family-level taxa that may have hidden synonymy for each family I plot
 
 # Results
 
+to do: list of animal taxa scored, location of data
+
 ## Amphibia
 
 ![Amphibia](https://raw.github.com/rdmpage/taxonomy-GBIF-manuscript/master/figures/amphibia-plot.png)
 
 Fig. Amphibia Potentially problematic species names in Amphibia. Each dot is an amphibian family.
 
-Fig. Amphibia shows a plot of the numbers of potentially problematic names against total number of species for all families in the class Amphibia. Families with no problematic names lie along the x-axis. The most noticeable outlier with 89 of 402 (22%) of its species names potentially problematic is the frog family Rhacophoridae. The GBIF classification for this family is an amalgam from The Catalogue of Life, the IUCN Red List of Threatened Species, the Interim Register of Marine and Nonmarine Genera, and the Integrated Taxonomic Information System, and contains considerable duplication of species names depending on how the genus *Philautus* is delimited. Generic placement in this family is unstable as new findings from molecular phylogenetics are incorporated [Li et al. 2009] and more recent classifications break *Philautus* up into smaller genera. In this case GBIF has a aggregated competing classifications resulting in numerous frog species appearing twice.
+Fig. Amphibia shows a plot of the numbers of potentially problematic names against total number of species for all families in the class Amphibia. Families with no problematic names lie along the x-axis. The most noticeable outlier with 89 potentially problematic names is the frog family Rhacophoridae. The GBIF classification for this family is an amalgam from various sources (The Catalogue of Life, the IUCN Red List of Threatened Species, the Interim Register of Marine and Nonmarine Genera, and the Integrated Taxonomic Information System) and contains considerable duplication of species names depending on how the genus *Philautus* is delimited. Generic placement in this family is unstable as new findings from molecular phylogenetics are incorporated [Li et al. 2009] and more recent classifications break *Philautus* up into smaller genera. In this case GBIF has aggregated competing classifications resulting in numerous frog species appearing twice.
 
 ![Rhacophoridae.png](https://raw.github.com/rdmpage/taxonomy-GBIF-manuscript/master/figures/Rhacophoridae.png)
 
@@ -95,15 +97,15 @@ Fig. Tadarida Cluster map showing conflicting generic limits for three genera in
 
 ## Insects
 
-Across insects some 56,999 species names are potentially problematic (Fig. Insecta). This number represents approximate five percent of the total number of insect species in GBIF.
+Across insects some 56,999 species names are potentially problematic (Fig. Insecta). This number represents approximately five percent of the total number of insect species in GBIF.
 
 ![Insecta](https://raw.github.com/rdmpage/taxonomy-GBIF-manuscript/master/figures/insects-plot.png)
 
 Fig. Insecta Potentially problematic species names in insects.
 
-The families with the largest number of problematic names are the Noctuidae (Lepidoptera), Cerambycidae (Coleoptera), and Tachinidae (Diptera). These are large families so this is perhaps expected, however some families have disproportionate numbers of potential issues, such as the fly families Syrphidae and Tachinidae.
+The families with the largest number of problematic names are the Noctuidae (Lepidoptera), Cerambycidae (Coleoptera), and Tachinidae (Diptera). These are large families so this is perhaps expected, however some families have disproportionately high numbers of potential issues, such as the fly families Syrphidae and Tachinidae.
 
-The fruit fly family Drosophilidae was explored further. Generic limits in this family vary among classifications, 
+The fruit fly family Drosophilidae, a well known source of nomenclatural issues [Dalton 2010] was explored further. Generic limits in this family vary among classifications which may also differ on whether given name deserves generic or merely subgeneric rank. As a consequence the genus *Drosophila* is connected to 39 clusters of species names, the largest comprising names only associated with Drosophila in the GBIF classification. As but one example of a problematic names, GBIF has both *Drosophila serriflabella* Okada, 1966 and *Lordiphosa serriflabella* (Okada, 1966) (from IRMNG and CoL, respectively). This fly was first described as *Drosophila (Sophophora) serriflabella* by [Okada 1966], who subsequently [Okada 1984] transferred it to the *Drosophila* subgenus *Lordiphosa* resulting in the name *Drosophila (Lordiphosa) serriflabella*. [Grimaldi 1990] elevated *Lordiphosa* to genus level, so the name becomes *Lordiphosa serriflabella*. GBIF has just two of the various names assigned to this fly, and is unaware that the names are synonyms.
 
 ## Typographic errors
 
@@ -124,8 +126,9 @@ But the inconsistency in the GBIF taxonomy is worrying, particularly as its exte
 
 Fig. Mammals. Cluster map for accepted species names for mammals according to three different taxonomic databases. The largest cluster represents names found in all three databases. Clusters linked to a single database are unique to that source.
 
-Unless one database is more up to date than another and includes newly described species (and new mammals are still being discovered; [Ceballos and Ehrlich 2009]), or there limits of species-level taxa are hotly contested (unlikely in the case of most mammals) then we might expect that the names unique to one or more database are objective synonyms. Failure to recognise these as resulted in hundreds of problematic mammalian names in GBIF's classification.
+Unless one database is more up to date than another and includes newly described species (and new mammals are still being discovered; [Ceballos and Ehrlich 2009]), or there limits of species-level taxa are hotly contested (unlikely in the case of most mammals) then we might expect that in this case the names unique to one or more database are objective synonyms. Failure to recognise these has resulted in hundreds of problematic mammalian names in GBIF's classification.
 
+Anecdotally several factors contribute to a multiplicity of names. Taxa that feature in several databases often have multiple unrecognised synonyms. Typically names may occur in a larger database, such as Catalogue of Life, but GBIF also includes more taxon- or theme-focussed databases as well, and these may have different classifications. Taxa where subgenera have been employed are often problematic. While some have argued for the utility of subgenera as a way to add information to a name without changing the genus + specific epithet binomial [Harris and Carretero 2003][Wallach et al. 2009] in practice subgenera promote ambiguity. A name may be written with or without the subgenus, a species name may be assigned to a different subgenus, or a subgenus may be elevated to generic level (both these happened to *Drosophila (Sophophora) serriflabella* discussed above). Anything that increases the number of ways a name can be written adds to the burden of those aggregating data.
 
 ## Future directions
 
@@ -153,7 +156,11 @@ But the larger task facing the zoological taxonomy community is the lack of one 
 
 - Fluit, C., Sabou, M., & Harmelen, F. (2006). Visualizing the Semantic Web. (V. Geroimenko & C. Chen, Eds.) (pp. 45–58). Springer Science + Business Media. [doi:10.1007/1-84628-290-X_3][Fluit et al. 2006]
 
+- Grimaldi, D. (1990). A phylogenetic, revised classification of genera in the Drosophilidae (Diptera) Bulletin of the American Museum of Natural History 197: 1–139. http://hdl.handle.net/2246/888 [Grimaldi 1990]
+
 - Harlan R (1834) Description of a Species of Orang, from the north-eastern province of British East India, lately the kingdom of Assam. Transactions of the American Philosophical Society 4: 52–59. http://biostor.org/reference/127799 [Harlan 1834]
+
+- Harris, D. R. and M.A. Carretero. (2003).Amphibia-Reptilia, 24(1), 119–122. [doi:10.1163/156853803763806975] [Harris and Carretero 2003]
 
 - Jetz, W., McPherson, J. M., & Guralnick, R. P. (2012). Integrating biodiversity distribution knowledge: toward a global map of life. Trends in Ecology & Evolution, 27(3), 151–159. [doi:10.1016/j.tree.2011.09.007] [Jetz et al. 2012]
 
@@ -169,6 +176,10 @@ But the larger task facing the zoological taxonomy community is the lack of one 
 
 - Mootnick A, Groves C (2005) A new generic name for the hoolock gibbon (Hylobatidae). International Journal of Primatology 26(4): 971–976. [doi:10.1007/s10764-005-5332-4] [Mootnick and Groves 2005]
 
+- Okada, T. (1966) Diptera from Nepal. Cryptochaetidae, Diastatidae & Drosophilidae. Bulletin of the British Museum (Natural History) Entomology Suppl 6: 1–129.http://biostor.org/reference/113429 [Okada 1966]
+
+- OKADA, Toyohi (1984) New or little known species of Drosophila (Lordiphosa) with taximetrical analyses (Diptera, Drosophilidae). Kontyu 52(4): 565–575. http://ci.nii.ac.jp/naid/110003502235 [Okada 1984]
+
 - Otegui, Javier, Arturo H. Ariño, Vishwas Chavan, Samy Gaiji (2013a) On the dates of GBIF mobilised primary biodiversity records. Biodiversity Informatics 8(2): 173-184. https://journals.ku.edu/index.php/jbi/article/view/4125 [Otegui 2013a]
 
 - Otegui, J., Ariño, A. H., Encinas, M. A., & Pando, F. (2013b). Assessing the Primary Data Hosted by the Spanish Node of the Global Biodiversity Information Facility (GBIF). (G. P. S. Raghava, Ed.)PLoS ONE, 8(1), e55144. [doi:10.1371/journal.pone.0055144][Otegui 2013b]
@@ -183,8 +194,6 @@ But the larger task facing the zoological taxonomy community is the lack of one 
 
 - Patterson, D. J., Cooper, J., Kirk, P. M., Pyle, R. L., & Remsen, D. P. (2010). Names are key to the big new biology. Trends in Ecology & Evolution, 25(12), 686–691. [doi:10.1016/j.tree.2010.09.004][Patterson et al. 2010]
 
-Phillimore, A. B., & Owens, I. P. . (2006). Are subspecies useful in evolutionary and conservation biology? Proceedings of the Royal Society B: Biological Sciences, 273(1590), 1049–1053. doi:10.1098/rspb.2005.3425
-
 - Prouty, L. A., Buchanan, P. D., Pollitzer, W. S., & Mootnick, A. R. (1983). Taxonomic note:Bunopithecus: A genus-level taxon for the hoolock gibbon (Hylobates hoolock). American Journal of Primatology, 5(1), 83–87. [doi:10.1002/ajp.1350050110][Prouty et al. 1983]
 
 - Samy Gaiji, Vishwas Chavan, Arturo H. Ariño, Javier Otegui, Donald Hobern, Rajesh Sood, Estrella Robles (2013) Content assessment of the primary biodiversity data published through GBIF network: status, challenges and potentials. Biodiversity Informatics, 8:94-172. https://journals.ku.edu/index.php/jbi/article/view/4124 [Gaiji et al. 2013]
@@ -195,7 +204,7 @@ Phillimore, A. B., & Owens, I. P. . (2006). Are subspecies useful in evolutionar
 
 - Taylor, R. 2001. A step at a time: New Zealand’s progress toward hominid rights. Animal Law Review, 7:35-43. http://www.animallaw.info/journals/jo_pdf/lralvol_7p35.pdf [Taylor 2001]
 
-- Thau, D., & Ludäscher, B. (2007). Reasoning about taxonomies in first-order logic. Ecological Informatics, 2(3), 195–209. [doi:10.1016/j.ecoinf.2007.07.005][Thau and Ludäscher 2007]
+- Wallach, Van, Wolfgang Wüster, and Donald G. Broadley (2009). In praise of subgenera: taxonomic status of cobras of the genus *Naja* Laurenti (Serpentes: Elapidae). Zootaxa 2236: 26–36 (2009) [Wallach et al. 2009] http://www.mapress.com/zootaxa/2009/f/zt02236p036.pdf
 
 - Wieczorek, J., Bloom, D., Guralnick, R., Blum, S., Döring, M., Giovanni, R., Robertson, T., et al. (2012). Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. (I. N. Sarkar, Ed.)PLoS ONE, 7(1), e29715. [doi:10.1371/journal.pone.0029715][Wieczorek et al. 2012]
 
@@ -212,13 +221,17 @@ Phillimore, A. B., & Owens, I. P. . (2006). Are subspecies useful in evolutionar
 [Dubois 1894]: http://dx.doi.org/10.5962/bhl.title.59381
 [Fluit et al. 2006]: http://dx.doi.org/10.1007/1-84628-290-X_3
 [Gaiji et al. 2013]: https://journals.ku.edu/index.php/jbi/article/view/4124 
+[Grimaldi 1990]http://hdl.handle.net/2246/888 
 [Harlan 1834]: http://biostor.org/reference/127799 
+[Harris and Carretero 2003]: http://dx.doi.org/10.1163/156853803763806975 
 [Jetz et al. 2012]: http://dx.doi.org/10.1016/j.tree.2011.09.007
 [Jones et al. 2002]: http://dx.doi.org/10.1017/S1464793101005899
 [Kennedy et al. 2005]: http://dx.doi.org/10.1007/11530084_8
 [Li et al. 2009]: http://dx.doi.org/10.1016/j.ympev.2009.06.023
 [Matthew and Granger 1923]: http://hdl.handle.net/2246/1308
 [Mootnick and Groves 2005]: http://dx.doi.org/10.1007/s10764-005-5332-4
+[Okada 1966] http://biostor.org/reference/113429
+[Okada 1984] http://ci.nii.ac.jp/naid/110003502235 
 [Otegui 2013a]: https://journals.ku.edu/index.php/jbi/article/view/4125 
 [Otegui 2013b]: http://dx.doi.org/10.1371/journal.pone.0055144
 [Page 2013a]: http://iphylo.blogspot.co.uk/2013/06/gibbons-and-gbif-good-grief-what-mess.html 
@@ -232,11 +245,7 @@ Phillimore, A. B., & Owens, I. P. . (2006). Are subspecies useful in evolutionar
 [Thau and Ludäscher 2007]: http://dx.doi.org/10.1016/j.ecoinf.2007.07.005
 [Wildman et al. 2003]: http://dx.doi.org/10.1073/pnas.1232172100
 [Taylor 2001]: http://www.animallaw.info/journals/jo_pdf/lralvol_7p35.pdf
+[Wallach et al. 2009]: http://www.mapress.com/zootaxa/2009/f/zt02236p036.pdf
 [Wieczorek et al. 2012]: http://dx.doi.org/10.1371/journal.pone.0029715
 [Yesson et al. 2007]: http://dx.doi.org/10.1371/journal.pone.0001124
 
------
-
-extras
-
-We can greatly improve on this situation by explicitly linking names and changes in names (e.g., synonym) to the primary literature. The plant and fungal communities have made considerable progress towards this goal with resources such as IPNI [http://www.ipni.org] and Index Fungorum [http://www.indexfungorum.org]. The zoological community is not so well placed. There are some excellent taxon-specific database, but no freely available global database of animal names and their synonyms, linked to the primary literature.
