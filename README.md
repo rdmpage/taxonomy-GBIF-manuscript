@@ -109,7 +109,7 @@ The fruit fly family Drosophilidae, a well known source of nomenclatural issues 
 
 ## Typographic errors
 
-Although the method used here cannot handle changes in the spelling of the specific epithet, it can detect some spelling inconsistencies in generic names. For example, in the wasp family Evaniidae GBIF has two generic names, *Szepligetella* sourced from The Catalogue of Life, 3rd January 2011 and *Szepligetiella* (note the extra "i") sourced from the Interim Register of Marine and Nonmarine Genera (Fig. Evaniidae). The correct spelling is  *Szepligetella* (see [Bradley 1908]), so the 14 species belonging to *Szepligetiella* duplicate the 14 from *Szepligetella*. Note that one specific epithet (*similis* Szépligeti 1903) is shared with a third genus *Hyptia*. This is a false positive, in that *Szepligetella similis* was originally described as *Evania similis* and *Hyptia similis* is the original name for a different species (both *Evania similis* and *Hyptia similis* were described in the same publication on pages 385 and 376 respectively; [Szépligeti 1903]).
+Although the method used here cannot handle changes in the spelling of the specific epithet, it can detect some spelling inconsistencies in generic names. For example, in the wasp family Evaniidae GBIF has two generic names, *Szepligetella* sourced from The Catalogue of Life, 3rd January 2011 and *Szepligetiella* (note the extra "i") sourced from the Australian Faunal Directory via the Interim Register of Marine and Nonmarine Genera [Rees 2006-present] (Fig. Evaniidae). The correct spelling is  *Szepligetella* (see [Bradley 1908]), so the 14 species belonging to *Szepligetiella* duplicate the 14 from *Szepligetella*. Note that one specific epithet (*similis* Szépligeti 1903) is shared with a third genus *Hyptia*. This is a false positive, in that *Szepligetella similis* was originally described as *Evania similis* and *Hyptia similis* is the original name for a different species (both *Evania similis* and *Hyptia similis* were described in the same publication on pages 385 and 376 respectively; [Szépligeti 1903]).
 
 ![Evaniidae](https://raw.github.com/rdmpage/taxonomy-GBIF-manuscript/master/figures/Evaniidae.png)
 
@@ -156,6 +156,8 @@ But the larger task facing the zoological taxonomy community is the lack of one 
 
 - Fluit, C., Sabou, M., & Harmelen, F. (2006). Visualizing the Semantic Web. (V. Geroimenko & C. Chen, Eds.) (pp. 45–58). Springer Science + Business Media. [doi:10.1007/1-84628-290-X_3][Fluit et al. 2006]
 
+- Samy Gaiji, Vishwas Chavan, Arturo H. Ariño, Javier Otegui, Donald Hobern, Rajesh Sood, Estrella Robles (2013) Content assessment of the primary biodiversity data published through GBIF network: status, challenges and potentials. Biodiversity Informatics, 8:94-172. https://journals.ku.edu/index.php/jbi/article/view/4124 [Gaiji et al. 2013]
+
 - Grimaldi, D. (1990). A phylogenetic, revised classification of genera in the Drosophilidae (Diptera) Bulletin of the American Museum of Natural History 197: 1–139. http://hdl.handle.net/2246/888 [Grimaldi 1990]
 
 - Harlan R (1834) Description of a Species of Orang, from the north-eastern province of British East India, lately the kingdom of Assam. Transactions of the American Philosophical Society 4: 52–59. http://biostor.org/reference/127799 [Harlan 1834]
@@ -196,7 +198,7 @@ But the larger task facing the zoological taxonomy community is the lack of one 
 
 - Prouty, L. A., Buchanan, P. D., Pollitzer, W. S., & Mootnick, A. R. (1983). Taxonomic note:Bunopithecus: A genus-level taxon for the hoolock gibbon (Hylobates hoolock). American Journal of Primatology, 5(1), 83–87. [doi:10.1002/ajp.1350050110][Prouty et al. 1983]
 
-- Samy Gaiji, Vishwas Chavan, Arturo H. Ariño, Javier Otegui, Donald Hobern, Rajesh Sood, Estrella Robles (2013) Content assessment of the primary biodiversity data published through GBIF network: status, challenges and potentials. Biodiversity Informatics, 8:94-172. https://journals.ku.edu/index.php/jbi/article/view/4124 [Gaiji et al. 2013]
+- Rees, T. (compiler), 2006-present. The Interim Register of Marine and Nonmarine Genera (IRMNG). Available at http://www.obis.org.au/irmng/ . (Date accessed: 23-09-2013) [http://www.obis.org.au/irmng/][Rees 2006-present]
 
 - Sarkar, I. N. (2007). Biodiversity informatics: organizing and linking information across the spectrum of life. Briefings in Bioinformatics, 8(5), 347–357. [doi:10.1093/bib/bbm037][Sarkar 2007]
 
@@ -221,7 +223,7 @@ But the larger task facing the zoological taxonomy community is the lack of one 
 [Dubois 1894]: http://dx.doi.org/10.5962/bhl.title.59381
 [Fluit et al. 2006]: http://dx.doi.org/10.1007/1-84628-290-X_3
 [Gaiji et al. 2013]: https://journals.ku.edu/index.php/jbi/article/view/4124 
-[Grimaldi 1990]http://hdl.handle.net/2246/888 
+[Grimaldi 1990]: http://hdl.handle.net/2246/888 
 [Harlan 1834]: http://biostor.org/reference/127799 
 [Harris and Carretero 2003]: http://dx.doi.org/10.1163/156853803763806975 
 [Jetz et al. 2012]: http://dx.doi.org/10.1016/j.tree.2011.09.007
@@ -230,8 +232,8 @@ But the larger task facing the zoological taxonomy community is the lack of one 
 [Li et al. 2009]: http://dx.doi.org/10.1016/j.ympev.2009.06.023
 [Matthew and Granger 1923]: http://hdl.handle.net/2246/1308
 [Mootnick and Groves 2005]: http://dx.doi.org/10.1007/s10764-005-5332-4
-[Okada 1966] http://biostor.org/reference/113429
-[Okada 1984] http://ci.nii.ac.jp/naid/110003502235 
+[Okada 1966]: http://biostor.org/reference/113429
+[Okada 1984]: http://ci.nii.ac.jp/naid/110003502235 
 [Otegui 2013a]: https://journals.ku.edu/index.php/jbi/article/view/4125 
 [Otegui 2013b]: http://dx.doi.org/10.1371/journal.pone.0055144
 [Page 2013a]: http://iphylo.blogspot.co.uk/2013/06/gibbons-and-gbif-good-grief-what-mess.html 
@@ -240,6 +242,7 @@ But the larger task facing the zoological taxonomy community is the lack of one 
 [Page 2013d]: http://dx.doi.org/10.7287/peerj.preprints.54v1
 [Patterson et al. 2010]: http://dx.doi.org/10.1016/j.tree.2010.09.004
 [Prouty et al. 1983]: http://dx.doi.org/10.1002/ajp.1350050110
+[Rees 2006-present]: http://www.obis.org.au/irmng/
 [Sarkar 2007]: http://dx.doi.org/10.1093/bib/bbm037
 [Szépligeti 1903]: http://publication.nhmus.hu/pdf/annHNHM/Annals_HNHM_1903_Vol_1_364.pdf
 [Thau and Ludäscher 2007]: http://dx.doi.org/10.1016/j.ecoinf.2007.07.005
